@@ -1,6 +1,6 @@
 # DJ Pearl
 
-DJ Pearl is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 16 Oct 2026.
+DJ Pearl is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 16 Oct 2026.
 
 DJ Pearl is a club and breakbeat artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Philadelphia and Washington DC. Often billed alongside BENLOGIK, DJ AstroNat and DJ Fuckoff. Next up: TRANSMISSION DC, Washington DC on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ DJ Pearl is a club and breakbeat artist based in United Kingdom, tracked on soun
 
 BENLOGIK, DJ AstroNat, DJ Fuckoff
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpearl/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpearl/)*

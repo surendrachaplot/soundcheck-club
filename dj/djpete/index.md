@@ -1,6 +1,6 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+DJ Pete is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 DJ Pete is a techno and electro artist based in Germany, tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
@@ -15,6 +15,7 @@ DJ Pete is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
 - Else, Berlin — Sun, 20 Sept 2026
 - CLUB RAUM, Amsterdam — Fri, 11 Sept 2026
 - Renate, Berlin — Fri, 11 Sept 2026
@@ -22,10 +23,9 @@ DJ Pete is a techno and electro artist based in Germany, tracked on soundcheck, 
 - Signal, New York City — Fri, 24 Jul 2026
 - OXI, Berlin — Tue, 30 Jun 2026
 - La Forgiatura, Milan — Sat, 27 Jun 2026
-- Paloma, Berlin — Fri, 29 May 2026
 
 ## Shares bills with
 
 Finn Johannsen, Substance, BLACK ANTHEM RESTORE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*

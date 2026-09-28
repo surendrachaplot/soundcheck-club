@@ -1,6 +1,6 @@
 # OCTI
 
-OCTI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 1 Ingraham Street, New York City on Sat, 3 Oct 2026.
+OCTI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 1 Ingraham Street, New York City on Sat, 3 Oct 2026.
 
 OCTI is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across London and New York City. Often billed alongside ASHTREY, SKIN CONTACT and KYRUH. Next up: TBA - 1 Ingraham Street, New York City on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ OCTI is a techno and house artist based in United States of America, tracked on 
 
 ASHTREY, SKIN CONTACT, KYRUH
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octi/)*

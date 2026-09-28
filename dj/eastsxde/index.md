@@ -1,6 +1,6 @@
 # EASTSXDE
 
-EASTSXDE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
+EASTSXDE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
 
 EASTSXDE is a house and garage artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Nottingham. Often billed alongside AYSHA, Milzy and Skeptic. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ EASTSXDE is a house and garage artist based in United Kingdom, tracked on soundc
 
 AYSHA, Milzy, Skeptic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsxde/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsxde/)*

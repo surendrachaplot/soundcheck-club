@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Milestones with Lubi Jovanovic & Nathan Dodsworth" on Sun, 27 Sept 2026.
+The System is a music venue in Sheffield with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Milestones with Lubi Jovanovic & Nathan Dodsworth" on Sun, 27 Sept 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 12 upcoming gigs, with line-ups including Ashley Holmes, Berwick, Esmé and Joi L.F and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 12 upcoming gigs,
 | Sat, 31 Oct 2026 | Tzara PRESENTS: Merchant (DANCE FOR HALLOWEEN) | Merchant |
 | Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F, Ol.G |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

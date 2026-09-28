@@ -1,6 +1,6 @@
 # Bustins
 
-Bustins is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
+Bustins is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 Bustins is a house and electro artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside ARTIIC, Friascut and ILIAZ. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bustins is a house and electro artist tracked on soundcheck, with 10 sets logged
 
 ARTIIC, Friascut, ILIAZ
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustins/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bustins/)*

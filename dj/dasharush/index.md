@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Dasha Rush is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Dasha Rush is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 166 sets log
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

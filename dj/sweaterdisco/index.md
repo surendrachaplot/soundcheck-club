@@ -1,6 +1,6 @@
 # Sweater Disco
 
-Sweater Disco is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Bloom Bar Indy, Indiana on Sun, 4 Oct 2026.
+Sweater Disco is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Bloom Bar Indy, Indiana on Sun, 4 Oct 2026.
 
 Sweater Disco is a tech house and house artist tracked on soundcheck, with 4 sets logged across Chicago and Indiana. Often billed alongside DJ Colette, Samaro and Walker & Royce. Next up: TBA - Bloom Bar Indy, Indiana on Sun 4 Oct.
 
@@ -20,4 +20,4 @@ Sweater Disco is a tech house and house artist tracked on soundcheck, with 4 set
 
 DJ Colette, Samaro, Walker & Royce
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweaterdisco/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweaterdisco/)*

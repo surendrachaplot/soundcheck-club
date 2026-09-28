@@ -1,6 +1,6 @@
 # VEGA
 
-VEGA is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "FKJ - Tyber Tour" on Tue, 20 Oct 2026.
+VEGA is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FKJ - Tyber Tour" on Tue, 20 Oct 2026.
 
 VEGA is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including 100%WET, FKJ, Kenton Slash Demon and Smerz. Browse upcoming dates, start times and who's playing. Enghavevej 40, 1674 København V, Danmark.
 
@@ -18,4 +18,4 @@ VEGA is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with 
 
 Enghavevej 40, 1674 København V, Danmark, Copenhagen
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/vega/)*

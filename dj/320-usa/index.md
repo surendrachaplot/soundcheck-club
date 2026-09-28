@@ -1,6 +1,6 @@
 # 320 (1)
 
-320 (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Silence Please, New York City on Sat, 10 Oct 2026.
+320 (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Silence Please, New York City on Sat, 10 Oct 2026.
 
 320 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin and New York City. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: Silence Please, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@
 
 Baroque Hoe, Brutal Twink, Carrier
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*

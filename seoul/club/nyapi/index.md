@@ -1,6 +1,6 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Lazberry" on Thu, 1 Oct 2026.
+Nyapi is a music venue in Seoul with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Lazberry" on Thu, 1 Oct 2026.
 
 Nyapi is a music venue in Seoul listed on soundcheck. 14 upcoming gigs, with line-ups including .2ndfloor, Juncheol, ASIANPAYDAY and aso and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
@@ -23,4 +23,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 14 upcoming gigs, with lin
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

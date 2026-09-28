@@ -1,6 +1,6 @@
 # The Grey Space In The Middle
 
-The Grey Space In The Middle is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Unfinished with Berkan V8, Benny2, MAGIS" on Fri, 9 Oct 2026.
+The Grey Space In The Middle is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Unfinished with Berkan V8, Benny2, MAGIS" on Fri, 9 Oct 2026.
 
 The Grey Space In The Middle is a music venue in The Hague listed on soundcheck. 2 upcoming gigs, with line-ups including Benny2, Berkan V8, MAGIS and Sterea. Browse upcoming dates, start times and who's playing. Paviljoensgracht 20, 2512 BP Den Haag, Netherlands.
 
@@ -15,4 +15,4 @@ The Grey Space In The Middle is a music venue in The Hague listed on soundcheck.
 
 Paviljoensgracht 20, 2512 BP Den Haag, Netherlands, The Hague
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*

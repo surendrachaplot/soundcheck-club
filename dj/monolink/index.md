@@ -1,14 +1,13 @@
 # Monolink
 
-Monolink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Monolink is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
 
-Monolink is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Vintage Culture, Bedouin and Carlita. Next up: Etko, Cyprus on Fri 25 Sept.
+Monolink is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Vintage Culture, Bedouin and Carlita. Next up: Santa Monica Pier, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Monolink is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Vintage Culture, Bedouin, Carlita
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*

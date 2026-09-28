@@ -1,6 +1,6 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+Mateo Dufour is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
 Mateo Dufour is a house and tech house artist based in Argentina, tracked on soundcheck, with 80 sets logged across Amsterdam, Bali, Barcelona and Buenos Aires and 13 more. Often billed alongside ANOTR, Alci and Sven Vath. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Mateo Dufour is a house and tech house artist based in Argentina, tracked on sou
 
 ANOTR, Alci, Sven Vath
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

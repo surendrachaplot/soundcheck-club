@@ -1,6 +1,6 @@
 # G.Martinez
 
-G.Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Club Morocco, Costanera, Buenos Aires on Sun, 11 Oct 2026.
+G.Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Club Morocco, Costanera, Buenos Aires on Sun, 11 Oct 2026.
 
 G.Martinez is a house and deep house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Austin, Buenos Aires and Los Angeles. Often billed alongside CASSIMM, Daniel Allen and Danny Daze. Next up: TBA - Club Morocco, Costanera, Buenos Aires on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ G.Martinez is a house and deep house artist based in United States of America, t
 
 CASSIMM, Daniel Allen, Danny Daze
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g.martinez/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g.martinez/)*

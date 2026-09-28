@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Exil, Vienna on Fri, 2 Oct 2026.
+Truncate is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Exil, Vienna on Fri, 2 Oct 2026.
 
 Truncate is a techno and house artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: Club Exil, Vienna on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Truncate is a techno and house artist based in United States of America, tracked
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

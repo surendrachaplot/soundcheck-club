@@ -1,6 +1,6 @@
 # Avsluta
 
-Avsluta is a Ambient and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sauna Social Club, London on Sat, 3 Oct 2026.
+Avsluta is a Ambient and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sauna Social Club, London on Sat, 3 Oct 2026.
 
 Avsluta is an ambient and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Alicia (UK), Christian Duka and Luther Vine. Next up: Sauna Social Club, London on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Avsluta is an ambient and techno artist tracked on soundcheck, with 64 sets logg
 
 Alicia (UK), Christian Duka, Luther Vine
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*

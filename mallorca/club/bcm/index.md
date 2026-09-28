@@ -1,6 +1,6 @@
 # BCM
 
-BCM is a music venue in Mallorca with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Magician" on Sat, 3 Oct 2026.
+BCM is a music venue in Mallorca with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Magician" on Sat, 3 Oct 2026.
 
 BCM is a music venue in Mallorca listed on soundcheck. 4 upcoming gigs, with line-ups including AARON SEVILLA and The Magician. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
@@ -17,4 +17,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 4 upcoming gigs, with lin
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

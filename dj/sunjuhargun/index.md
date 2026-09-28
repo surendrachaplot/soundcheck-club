@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at teller, Seoul on Thu, 8 Oct 2026.
+Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at teller, Seoul on Thu, 8 Oct 2026.
 
 Sunju Hargun is a techno and house artist based in Thailand, tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: teller, Seoul on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Sunju Hargun is a techno and house artist based in Thailand, tracked on soundche
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

@@ -1,6 +1,6 @@
 # XD Erica
 
-XD Erica is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+XD Erica is a Baile Funk and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
 XD Erica is a baile funk and techno artist based in Brazil, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside _hiø, Alada and Gadutra. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ XD Erica is a baile funk and techno artist based in Brazil, tracked on soundchec
 
 _hiø, Alada, Gadutra
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xderica/)*

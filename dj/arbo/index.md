@@ -1,6 +1,6 @@
 # Arbo
 
-Arbo is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at LE Rafiot Club, Strasbourg on Fri, 2 Oct 2026.
+Arbo is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at LE Rafiot Club, Strasbourg on Fri, 2 Oct 2026.
 
 Arbo is a techno and ambient artist based in France, tracked on soundcheck, with 12 sets logged across Lyon and Strasbourg. Often billed alongside ANNUN, FTFL and STU (FR). Next up: LE Rafiot Club, Strasbourg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Arbo is a techno and ambient artist based in France, tracked on soundcheck, with
 
 ANNUN, FTFL, STU (FR)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arbo/)*

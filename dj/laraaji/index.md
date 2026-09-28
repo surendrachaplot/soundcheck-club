@@ -1,6 +1,6 @@
 # Laraaji
 
-Laraaji is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Laraaji is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Laraaji is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Cologne and Denver and 8 more. Often billed alongside K Wata, Avalon Emerson and Baby Leo. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Laraaji is an ambient and experimental artist based in United States of America,
 
 K Wata, Avalon Emerson, Baby Leo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*

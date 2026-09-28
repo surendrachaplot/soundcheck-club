@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS" on Fri, 2 Oct 2026.
+Marmorbar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS" on Fri, 2 Oct 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including ALIS., Culo Sucio, Daniel Jaramillo and DAZA and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -17,4 +17,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

@@ -1,6 +1,6 @@
 # Atréju Mensah
 
-Atréju Mensah is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
+Atréju Mensah is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
 
 Atréju Mensah is a house and club artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Hamburg. Often billed alongside Dave Embrace, rouvie and Jella. Next up: Paloma, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Atréju Mensah is a house and club artist based in Germany, tracked on soundchec
 
 Dave Embrace, rouvie, Jella
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrejumensah/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrejumensah/)*

@@ -1,6 +1,6 @@
 # TOXXISTENZE
 
-TOXXISTENZE is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Void Hall, Berlin on Sat, 24 Oct 2026.
+TOXXISTENZE is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Void Hall, Berlin on Sat, 24 Oct 2026.
 
 TOXXISTENZE is a drum & bass artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Prague. Often billed alongside Butter Funk Family, IHOPEIEXIST and Skinny P. Next up: Void Hall, Berlin on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ TOXXISTENZE is a drum & bass artist based in Germany, tracked on soundcheck, wit
 
 Butter Funk Family, IHOPEIEXIST, Skinny P
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxxistenze/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxxistenze/)*

@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Pearl, Vancouver on Sat, 3 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Pearl, Vancouver on Sat, 3 Oct 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: The Pearl, Vancouver on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, Sheefy McFly, DJ AYA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

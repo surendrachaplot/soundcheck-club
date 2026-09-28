@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
+Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
 
 Slipmatt is a house and hardcore artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 10 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Slipmatt is a house and hardcore artist based in United Kingdom, tracked on soun
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

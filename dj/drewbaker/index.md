@@ -1,6 +1,6 @@
 # Drew Baker
 
-Drew Baker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Rawhide, New York City on Sun, 27 Sept 2026.
+Drew Baker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Rawhide, New York City on Sun, 27 Sept 2026.
 
 Drew Baker is a house and disco artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Joey with the Mustache, Luis Fernando and DJ Dawson. Next up: Club Rawhide, New York City on Sun 27 Sept.
 
@@ -13,6 +13,7 @@ Drew Baker is a house and disco artist based in United States of America, tracke
 
 ## Recently played
 
+- Club Rawhide, New York City — Sun, 27 Sept 2026
 - Gabriela, New York City — Sun, 26 May 2024
 - Bossa Nova Civic Club, New York City — Mon, 29 Apr 2024
 - Le Bain, New York City — Thu, 3 Aug 2023
@@ -24,4 +25,4 @@ Drew Baker is a house and disco artist based in United States of America, tracke
 
 Joey with the Mustache, Luis Fernando, DJ Dawson
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*

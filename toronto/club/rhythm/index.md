@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Long Play: Shades of Dub" on Tue, 29 Sept 2026.
+Rhythm is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Long Play: Shades of Dub" on Tue, 29 Sept 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Ciel, Emissive, Greg Burke and Hair Gel and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

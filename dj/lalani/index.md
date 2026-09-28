@@ -1,6 +1,6 @@
 # La Lani
 
-La Lani is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Rocket Bar, Adelaide on Sat, 3 Oct 2026.
+La Lani is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rocket Bar, Adelaide on Sat, 3 Oct 2026.
 
 La Lani is a house and disco artist based in Australia, tracked on soundcheck, with 12 sets logged across Adelaide, Amsterdam and Melbourne. Often billed alongside Jack Jelly, BANO (AU) and DylanWrites. Next up: Rocket Bar, Adelaide on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ La Lani is a house and disco artist based in Australia, tracked on soundcheck, w
 
 Jack Jelly, BANO (AU), DylanWrites
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lalani/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lalani/)*

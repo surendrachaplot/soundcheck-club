@@ -1,6 +1,6 @@
 # LEGGUI
 
-LEGGUI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SAN TELMO, CABA. , Buenos Aires on Sat, 3 Oct 2026.
+LEGGUI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - SAN TELMO, CABA. , Buenos Aires on Sat, 3 Oct 2026.
 
 LEGGUI is a techno and trance artist based in Argentina, tracked on soundcheck, with 5 sets logged across Buenos Aires. Often billed alongside Rawdon, Faustø and Federico Guerrero. Next up: TBA - SAN TELMO, CABA. , Buenos Aires on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ LEGGUI is a techno and trance artist based in Argentina, tracked on soundcheck, 
 
 Rawdon, Faustø, Federico Guerrero
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leggui/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leggui/)*

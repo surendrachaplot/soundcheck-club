@@ -1,6 +1,6 @@
 # M. Dagdug
 
-M. Dagdug is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+M. Dagdug is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 M. Dagdug is a techno and electronica artist based in Mexico, tracked on soundcheck, with 19 sets logged across Mexico City. Often billed alongside Cybebe, Primal Sound and Astroboii. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ M. Dagdug is a techno and electronica artist based in Mexico, tracked on soundch
 
 Cybebe, Primal Sound, Astroboii
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.dagdug/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.dagdug/)*

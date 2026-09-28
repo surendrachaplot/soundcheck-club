@@ -1,6 +1,6 @@
 # Cartridge
 
-Cartridge is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Red Room, Vancouver on Sun, 11 Oct 2026.
+Cartridge is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Red Room, Vancouver on Sun, 11 Oct 2026.
 
 Cartridge is a dubstep and bass artist based in Hungary, tracked on soundcheck, with 8 sets logged across Denver, Leeds, London and Los Angeles and 2 more. Often billed alongside J:Kenzo, Joker and Kahn. Next up: The Red Room, Vancouver on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ Cartridge is a dubstep and bass artist based in Hungary, tracked on soundcheck, 
 
 J:Kenzo, Joker, Kahn
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartridge/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartridge/)*

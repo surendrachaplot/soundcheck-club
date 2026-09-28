@@ -1,6 +1,6 @@
 # no:ne
 
-no:ne is a Dub and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beest Boulders Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+no:ne is a Dub and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beest Boulders Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 no:ne is a dub and downtempo artist based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Carola, Pietro Campo and m.s.moore. Next up: Beest Boulders Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ no:ne is a dub and downtempo artist based in Germany, tracked on soundcheck, wit
 
 Carola (2), Pietro Campo, m.s.moore
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/none-de/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/none-de/)*

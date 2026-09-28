@@ -1,6 +1,6 @@
 # Many Studios
 
-Many Studios is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Red Road Riot" on Sat, 24 Oct 2026.
+Many Studios is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Red Road Riot" on Sat, 24 Oct 2026.
 
 Many Studios is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including fergusmcnally and JHNSSN. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Many Studios is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Red Road Riot | JHNSSN, fergusmcnally |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/many-studios/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/many-studios/)*

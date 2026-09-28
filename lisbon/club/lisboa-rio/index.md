@@ -1,6 +1,6 @@
 # Lisboa Rio
 
-Lisboa Rio is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mothership" on Wed, 30 Sept 2026.
+Lisboa Rio is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mothership" on Wed, 30 Sept 2026.
 
 Lisboa Rio is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing. Cais do Gás, Armazém A, Cais do Sodré,1200-109 Lisboa.
 
@@ -18,4 +18,4 @@ Lisboa Rio is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs. Bro
 
 Cais do Gás, Armazém A, Cais do Sodré,1200-109 Lisboa, Lisbon
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lisboa-rio/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lisboa-rio/)*

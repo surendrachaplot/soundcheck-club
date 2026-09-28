@@ -1,6 +1,6 @@
 # Sholim Eso
 
-Sholim Eso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
+Sholim Eso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Sholim Eso is a techno and house artist based in Montenegro, tracked on soundcheck, with 30 sets logged across Mexico City and San Francisco/Oakland. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Foundry, San Francisco/Oakland on Sun 27 Sept.
 
@@ -13,6 +13,7 @@ Sholim Eso is a techno and house artist based in Montenegro, tracked on soundche
 
 ## Recently played
 
+- The Foundry, San Francisco/Oakland — Sun, 27 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 7 Aug 2026
 - The Great Northern, San Francisco/Oakland — Fri, 29 May 2026
 - TBA - Eje Central Lázaro Cárdenas 123, Sexto Piso, CDMX, Mexico City — Sun, 1 Feb 2026
@@ -20,10 +21,9 @@ Sholim Eso is a techno and house artist based in Montenegro, tracked on soundche
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 14 Nov 2025
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 31 Oct 2025
 - The San Francisco Mint, San Francisco/Oakland — Fri, 26 Sept 2025
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 8 Aug 2025
 
 ## Shares bills with
 
 Fawks, Jumpr, likeholywine
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*

@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 89 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "lazy.sunday mit Skinny Duchamp & Friends" on Sun, 27 Sept 2026.
+Minimal Bar is a music venue in Berlin with 89 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "lazy.sunday mit Skinny Duchamp & Friends" on Sun, 27 Sept 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming gigs, with line-ups including Andi de Luxe, Beshy, CEEE and CL-ljud and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming gigs, w
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

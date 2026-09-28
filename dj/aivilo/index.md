@@ -1,6 +1,6 @@
 # Aivilo
 
-Aivilo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Private Location, Seattle on Sat, 24 Oct 2026.
+Aivilo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Private Location, Seattle on Sat, 24 Oct 2026.
 
 Aivilo is a house and deep house artist based in United States of America, tracked on soundcheck, with 16 sets logged across San Francisco/Oakland and Seattle. Often billed alongside Kadeejah Streets, Black Velveteen and JENN GREEN. Next up: TBA - Private Location, Seattle on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Aivilo is a house and deep house artist based in United States of America, track
 
 Kadeejah Streets, Black Velveteen, JENN GREEN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aivilo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aivilo/)*

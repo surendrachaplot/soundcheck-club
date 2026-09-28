@@ -1,6 +1,6 @@
 # Orphia
 
-Orphia is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at L'Alhambra, Geneva on Thu, 8 Oct 2026.
+Orphia is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at L'Alhambra, Geneva on Thu, 8 Oct 2026.
 
 Orphia is an electronic artist based in Switzerland, tracked on soundcheck, with 1 set logged across Geneva. Often billed alongside Dopplereffekt. Next up: L'Alhambra, Geneva on Thu 8 Oct.
 
@@ -14,4 +14,4 @@ Orphia is an electronic artist based in Switzerland, tracked on soundcheck, with
 
 Dopplereffekt
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orphia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orphia/)*

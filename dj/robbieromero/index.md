@@ -1,6 +1,6 @@
 # Robbie Romero
 
-Robbie Romero is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Das Viertel, Basel on Sat, 10 Oct 2026.
+Robbie Romero is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Das Viertel, Basel on Sat, 10 Oct 2026.
 
 Robbie Romero is a house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Basel. Often billed alongside Cristian Tamborrini, DJ Gregory and Fred Linger. Next up: Das Viertel, Basel on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ Robbie Romero is a house artist based in United Kingdom, tracked on soundcheck, 
 
 Cristian Tamborrini, DJ Gregory, Fred Linger
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieromero/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieromero/)*

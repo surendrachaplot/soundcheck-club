@@ -1,6 +1,6 @@
 # Llupe
 
-Llupe is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at YSY, Berlin on Fri, 2 Oct 2026.
+Llupe is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at YSY, Berlin on Fri, 2 Oct 2026.
 
 Llupe is a house and acid artist based in Spain, tracked on soundcheck, with 31 sets logged across Berlin, Madrid, Mexico City and Prague. Often billed alongside DJ Aficionado, Eleonora K and Frinda di Lanco. Next up: YSY, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Llupe is a house and acid artist based in Spain, tracked on soundcheck, with 31 
 
 DJ Aficionado, Eleonora K, Frinda di Lanco
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*

@@ -1,6 +1,6 @@
 # VENEBOE
 
-VENEBOE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nyapi, Seoul on Sat, 24 Oct 2026.
+VENEBOE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nyapi, Seoul on Sat, 24 Oct 2026.
 
 VENEBOE is a house and techno artist based in South Korea, tracked on soundcheck, with 41 sets logged across Seoul. Often billed alongside Hender, Jooheon and NON IDENTITY. Next up: Nyapi, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VENEBOE is a house and techno artist based in South Korea, tracked on soundcheck
 
 Hender, Jooheon, NON IDENTITY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veneboe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veneboe/)*

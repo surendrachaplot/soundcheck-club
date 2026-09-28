@@ -1,6 +1,6 @@
 # Seif Bedour
 
-Seif Bedour is a Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Seif Bedour is a Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Seif Bedour is an ambient artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside .VRIL, 42nd Avenue and AYIM. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Seif Bedour is an ambient artist based in Netherlands, tracked on soundcheck, wi
 
 .VRIL, 42nd Avenue, AYIM
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seifbedour/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seifbedour/)*

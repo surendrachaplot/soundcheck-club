@@ -1,6 +1,6 @@
 # Jordan Bernardo
 
-Jordan Bernardo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 4 Oct 2026.
+Jordan Bernardo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 4 Oct 2026.
 
 Jordan Bernardo is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles and Miami. Often billed alongside ALKMST, Arthur Onni and Haydn. Next up: TBA, Los Angeles on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Jordan Bernardo is a house and deep house artist based in United States of Ameri
 
 ALKMST, Arthur Onni, Haydn
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbernardo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbernardo/)*

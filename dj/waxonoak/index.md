@@ -1,6 +1,6 @@
 # Wax on Oak
 
-Wax on Oak is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
+Wax on Oak is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Wax on Oak is a deep house and house artist tracked on soundcheck, with 2 sets logged across San Francisco/Oakland. Often billed alongside Phil Spank and natebytheway. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Wax on Oak is a deep house and house artist tracked on soundcheck, with 2 sets l
 
 Phil Spank, natebytheway
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxonoak/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxonoak/)*

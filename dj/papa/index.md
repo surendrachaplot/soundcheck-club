@@ -1,6 +1,6 @@
 # Papa
 
-Papa is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Good Room, New York City on Thu, 19 Nov 2026.
+Papa is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Good Room, New York City on Thu, 19 Nov 2026.
 
 Papa is an acid and house artist based in United States of America, tracked on soundcheck, with 1 set logged across New York City. Often billed alongside Extra Meesh, TYLERFROMWHERE and gabby cocco. Next up: Good Room, New York City on Thu 19 Nov.
 
@@ -14,4 +14,4 @@ Papa is an acid and house artist based in United States of America, tracked on s
 
 Extra Meesh, TYLERFROMWHERE, gabby cocco
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papa/)*

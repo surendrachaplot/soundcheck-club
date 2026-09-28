@@ -1,6 +1,6 @@
 # 2THEMAX
 
-2THEMAX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Post Bar, Helsinki on Fri, 16 Oct 2026.
+2THEMAX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Post Bar, Helsinki on Fri, 16 Oct 2026.
 
 2THEMAX is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin, Helsinki, Leipzig and London. Often billed alongside CEB (FI), KEMIK and Sallidoing. Next up: Post Bar, Helsinki on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 CEB (FI), KEMIK, Sallidoing
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2themax/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2themax/)*

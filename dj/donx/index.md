@@ -1,6 +1,6 @@
 # Don X
 
-Don X is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Don X is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Don X is a trance and psytrance artist based in United States of America, tracked on soundcheck, with 4 sets logged across Berlin, Glasgow and Munich. Often billed alongside Lazykid, Shabiki and AMMARA. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Don X is a trance and psytrance artist based in United States of America, tracke
 
 Lazykid, Shabiki, AMMARA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donx/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donx/)*

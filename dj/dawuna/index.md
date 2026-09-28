@@ -1,6 +1,6 @@
 # Dawuna
 
-Dawuna is a Experimental and R&B artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Dawuna is a Experimental and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Dawuna is an experimental and r&b artist based in Kenya, tracked on soundcheck, with 18 sets logged across Berlin, Dublin, Glasgow and Krakow and 8 more. Often billed alongside ABADIR, Ana Roxanne and Nikki Nair. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dawuna is an experimental and r&b artist based in Kenya, tracked on soundcheck, 
 
 ABADIR, Ana Roxanne, Nikki Nair
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawuna/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawuna/)*

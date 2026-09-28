@@ -1,6 +1,6 @@
 # Pachanga Boys
 
-Pachanga Boys is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Pachanga Boys is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Pachanga Boys is a techno and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Barcelona and Ibiza and 10 more. Often billed alongside Bleach, BLOND:ISH and Carlita. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Pachanga Boys is a techno and house artist tracked on soundcheck, with 28 sets l
 
 Bleach, BLOND:ISH, Carlita
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*

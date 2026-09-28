@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sunday Love: Gene On Earth - Momo Trosman - Ramos" on Sun, 27 Sept 2026.
+Flash is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sunday Love: Gene On Earth - Momo Trosman - Ramos" on Sun, 27 Sept 2026.
 
 Flash is a music venue in Washington DC listed on soundcheck. 23 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Andy Grant and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washington DC listed on soundcheck. 23 upcoming gigs, 
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

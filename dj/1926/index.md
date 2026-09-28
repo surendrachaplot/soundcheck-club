@@ -1,6 +1,6 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+19:26 is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 19:26 is a techno and electronica artist based in Italy, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@
 
 Tale Of Us, Chris Avantgarde, Kevin de Vries
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*

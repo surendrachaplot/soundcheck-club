@@ -1,6 +1,6 @@
 # Tre Hunter
 
-Tre Hunter is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The House, New York City on Sat, 17 Oct 2026.
+Tre Hunter is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The House, New York City on Sat, 17 Oct 2026.
 
 Tre Hunter is an afro house and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across London and New York City. Often billed alongside A.K(lifee), Atomic Hooligan and CRUZ CTRL. Next up: The House, New York City on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Tre Hunter is an afro house and house artist based in United States of America, 
 
 A.K(lifee), Atomic Hooligan, CRUZ CTRL (3)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trehunter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trehunter/)*

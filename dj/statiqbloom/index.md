@@ -1,6 +1,6 @@
 # Statiqbloom
 
-Statiqbloom is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Statiqbloom is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Statiqbloom is a techno and ebm artist tracked on soundcheck, with 21 sets logged across Athens, Berlin, Brussels and London and 4 more. Often billed alongside Adam X, Anarchotech and Axkan. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Statiqbloom is a techno and ebm artist tracked on soundcheck, with 21 sets logge
 
 Adam X, Anarchotech, Axkan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/statiqbloom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/statiqbloom/)*

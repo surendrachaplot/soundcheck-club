@@ -1,6 +1,6 @@
 # Draz (2)
 
-Draz (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
+Draz (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
 
 Draz is a club and bass artist based in United States of America, tracked on soundcheck, with 1 set logged across Seattle. Often billed alongside ACHAMA, Nakamura Minami and noRecall. Next up: TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat 3 Oct.
 
@@ -14,4 +14,4 @@ Draz is a club and bass artist based in United States of America, tracked on sou
 
 ACHAMA, Nakamura Minami, noRecall
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draz-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draz-2/)*

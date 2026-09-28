@@ -1,6 +1,6 @@
 # DOTT
 
-DOTT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Dual, Bangkok on Sat, 3 Oct 2026.
+DOTT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dual, Bangkok on Sat, 3 Oct 2026.
 
 DOTT is a house and techno artist based in Thailand, tracked on soundcheck, with 126 sets logged across Bali, Bangkok, Berlin and Hong Kong and 8 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Dual, Bangkok on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DOTT is a house and techno artist based in Thailand, tracked on soundcheck, with
 
 Sarayu, Elaheh, Jirus (MELA)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*

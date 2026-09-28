@@ -1,6 +1,6 @@
 # Loyboy
 
-Loyboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Loyboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Loyboy is a house and techno artist tracked on soundcheck, with 59 sets logged across Bangkok, Hong Kong, Singapore and Thailand. Often billed alongside Dangdude, Emma SS and VIX. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Loyboy is a house and techno artist tracked on soundcheck, with 59 sets logged a
 
 Dangdude, Emma SS, VIX (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*

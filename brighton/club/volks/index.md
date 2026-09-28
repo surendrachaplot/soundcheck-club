@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "THE MINE 14th with Goth-Trad, Kid Drama, Soukah, Formella, SGT Pokes, Acid Reflux + Sinai Sound" on Fri, 2 Oct 2026.
+Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "THE MINE 14th with Goth-Trad, Kid Drama, Soukah, Formella, SGT Pokes, Acid Reflux + Sinai Sound" on Fri, 2 Oct 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with line-ups including A.M.C., Business As Usual, Channel One Sound and DRS and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

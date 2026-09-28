@@ -1,6 +1,6 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+feeo is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Batu, Blawan and John T. Gast. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ feeo is an experimental and electronica artist based in United Kingdom, tracked 
 
 Batu, Blawan, John T. Gast
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

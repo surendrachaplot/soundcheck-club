@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
+Nora En Pure is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
 
 Nora En Pure is a deep house and house artist based in South Africa, tracked on soundcheck, with 137 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Electric Bristol, Bristol on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Nora En Pure is a deep house and house artist based in South Africa, tracked on 
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

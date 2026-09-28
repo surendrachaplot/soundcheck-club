@@ -1,6 +1,6 @@
 # 911 Request
 
-911 Request is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Disaster, Lisbon on Sat, 3 Oct 2026.
+911 Request is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Disaster, Lisbon on Sat, 3 Oct 2026.
 
 911 Request is a drum & bass and jungle artist tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside DJ Hybrid, JSwift and LMajor. Next up: Disaster, Lisbon on Sat 3 Oct.
 
@@ -19,4 +19,4 @@
 
 DJ Hybrid, JSwift, LMajor
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/911request/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/911request/)*

@@ -1,6 +1,6 @@
 # Shosha
 
-Shosha is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
+Shosha is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
 
 Shosha is a house and disco artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Edinburgh. Often billed alongside Hobbes and Jacksonville. Next up: The Bongo Club, Edinburgh on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ Shosha is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Hobbes, Jacksonville
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shosha/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shosha/)*

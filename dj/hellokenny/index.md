@@ -1,6 +1,6 @@
 # Hello Kenny
 
-Hello Kenny is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
+Hello Kenny is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
 
 Hello Kenny is a techno artist based in South Africa, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Akua, DJ Nobu and Shhhhh. Next up: WOMB, Tokyo on Fri 30 Oct.
 
@@ -14,4 +14,4 @@ Hello Kenny is a techno artist based in South Africa, tracked on soundcheck, wit
 
 Akua, DJ Nobu, Shhhhh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokenny/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokenny/)*

@@ -1,6 +1,6 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DENNETT (360° SET)" on Fri, 2 Oct 2026.
+Concord Music Hall is a music venue in Chicago with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DENNETT (360° SET)" on Fri, 2 Oct 2026.
 
 Concord Music Hall is a music venue in Chicago listed on soundcheck. 15 upcoming gigs, with line-ups including Baby J, ØTTA, Somna and Truth. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
@@ -23,4 +23,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 15 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

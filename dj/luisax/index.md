@@ -1,6 +1,6 @@
 # Luisa X
 
-Luisa X is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Luisa X is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Luisa X is an electro and house artist based in Colombia, tracked on soundcheck, with 1 set logged across Brussels. Often billed alongside Ben Kamal, Brassac and Gamine. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ Luisa X is an electro and house artist based in Colombia, tracked on soundcheck,
 
 Ben Kamal, Brassac, Gamine
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisax/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisax/)*

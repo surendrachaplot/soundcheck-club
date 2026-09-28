@@ -1,6 +1,6 @@
 # Elijah Tevrede
 
-Elijah Tevrede is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club NYX, Amsterdam on Sat, 17 Oct 2026.
+Elijah Tevrede is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club NYX, Amsterdam on Sat, 17 Oct 2026.
 
 Elijah Tevrede is a pop and house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Aiscream, DJ Shre and Emma Champagne Queen. Next up: Club NYX, Amsterdam on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Elijah Tevrede is a pop and house artist based in Netherlands, tracked on soundc
 
 Aiscream, DJ Shre, Emma Champagne Queen
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahtevrede/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahtevrede/)*

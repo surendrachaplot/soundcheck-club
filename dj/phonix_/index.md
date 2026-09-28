@@ -1,6 +1,6 @@
 # Phonix_
 
-Phonix_ is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
+Phonix_ is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
 
 Phonix_ is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 1 set logged across San Diego. Often billed alongside Degs and Knotice. Next up: 3oz Dive Club, San Diego on Wed 14 Oct.
 
@@ -14,4 +14,4 @@ Phonix_ is a drum & bass and jungle artist based in United States of America, tr
 
 Degs, Knotice
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phonix_/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phonix_/)*

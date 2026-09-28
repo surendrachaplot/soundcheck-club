@@ -1,6 +1,6 @@
 # Anita Dee II
 
-Anita Dee II is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "HAUNTED HALLOWEEN CRUISES" on Fri, 30 Oct 2026.
+Anita Dee II is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HAUNTED HALLOWEEN CRUISES" on Fri, 30 Oct 2026.
 
 Anita Dee II is a music venue in Chicago listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 200 N Breakwater Access; Chicago; IL 60601.
 
@@ -15,4 +15,4 @@ Anita Dee II is a music venue in Chicago listed on soundcheck. 2 upcoming gigs. 
 
 200 N Breakwater Access; Chicago; IL 60601, Chicago
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/anita-dee-ii/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/anita-dee-ii/)*

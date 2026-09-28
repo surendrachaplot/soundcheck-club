@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 28 Sept 2026.
+DJ Bax is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 28 Sept 2026.
 
 DJ Bax is a techno and trance artist based in New Zealand, tracked on soundcheck, with 20 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Sneaky Pete's, Edinburgh on Mon 28 Sept.
 
@@ -27,4 +27,4 @@ DJ Bax is a techno and trance artist based in New Zealand, tracked on soundcheck
 
 2FEL, 4000 Hz, Ageusic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

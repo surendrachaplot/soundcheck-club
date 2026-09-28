@@ -1,6 +1,6 @@
 # DJ Milka
 
-DJ Milka is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+DJ Milka is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 DJ Milka is a house and deep house artist based in Mexico, tracked on soundcheck, with 58 sets logged across Mexico City. Often billed alongside GOLDEN PINEAPPLE, Rafatel and Barreto. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ DJ Milka is a house and deep house artist based in Mexico, tracked on soundcheck
 
 GOLDEN PINEAPPLE, Rafatel, Barreto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmilka/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmilka/)*

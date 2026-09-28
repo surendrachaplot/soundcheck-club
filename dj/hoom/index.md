@@ -1,6 +1,6 @@
 # HOOM
 
-HOOM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 30 Sept 2026.
+HOOM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 30 Sept 2026.
 
 HOOM is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Hamburg and London and 3 more. Often billed alongside Temazcal, DJ Breakless and MC1R. Next up: Lokschuppen Berlin, Berlin on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ HOOM is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Temazcal (2), DJ Breakless, MC1R
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*

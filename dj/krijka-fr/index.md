@@ -1,6 +1,6 @@
 # Krijka
 
-Krijka is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at teller, Seoul on Fri, 2 Oct 2026.
+Krijka is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at teller, Seoul on Fri, 2 Oct 2026.
 
 Krijka is a techno and tech house artist based in France, tracked on soundcheck, with 147 sets logged across Bangkok, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: teller, Seoul on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Krijka is a techno and tech house artist based in France, tracked on soundcheck,
 
 Mihak, Lyumin, Oho.
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*

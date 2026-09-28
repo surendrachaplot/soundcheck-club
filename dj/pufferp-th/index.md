@@ -1,6 +1,6 @@
 # Puffer P
 
-Puffer P is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Subwerk Club, Bangkok on Sat, 3 Oct 2026.
+Puffer P is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Subwerk Club, Bangkok on Sat, 3 Oct 2026.
 
 Puffer P is a psytrance and trance artist based in Thailand, tracked on soundcheck, with 53 sets logged across Bangkok, Ghent and Kuala Lumpur. Often billed alongside Jack the Jackal, Sam Laxton and Peter Soul. Next up: Subwerk Club, Bangkok on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Puffer P is a psytrance and trance artist based in Thailand, tracked on soundche
 
 Jack the Jackal, Sam Laxton, Peter Soul
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pufferp-th/)*

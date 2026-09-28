@@ -1,6 +1,6 @@
 # DJ Emma
 
-DJ Emma is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DJ Bar Bridge, Tokyo on Thu, 1 Oct 2026.
+DJ Emma is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DJ Bar Bridge, Tokyo on Thu, 1 Oct 2026.
 
 DJ Emma is a house and techno artist based in Japan, tracked on soundcheck, with 261 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside KATIMI AI, KZA and Yamariki. Next up: DJ Bar Bridge, Tokyo on Thu 1 Oct.
 
@@ -32,4 +32,4 @@ DJ Emma is a house and techno artist based in Japan, tracked on soundcheck, with
 
 KATIMI AI, KZA, Yamariki
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djemma/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djemma/)*

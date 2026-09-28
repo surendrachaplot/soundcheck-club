@@ -1,6 +1,6 @@
 # Duo Clapham
 
-Duo Clapham is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Discrete LDN 1st Birthday" on Sat, 5 Dec 2026.
+Duo Clapham is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Discrete LDN 1st Birthday" on Sat, 5 Dec 2026.
 
 Duo Clapham is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 15-16 Lendal Terrace, London SW4 7UX.
 
@@ -14,4 +14,4 @@ Duo Clapham is a music venue in London listed on soundcheck. 1 upcoming gig. Bro
 
 15-16 Lendal Terrace, London SW4 7UX, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/duo-clapham/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/duo-clapham/)*

@@ -1,6 +1,6 @@
 # Gem Wallow
 
-Gem Wallow is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Freedonia, Barcelona on Sat, 3 Oct 2026.
+Gem Wallow is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Freedonia, Barcelona on Sat, 3 Oct 2026.
 
 Gem Wallow is a house and techno artist based in Japan, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Osaka and Tokyo. Often billed alongside Mustache X, Diego Montiel and Chris MS. Next up: Freedonia, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gem Wallow is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Mustache X, Diego Montiel, Chris MS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemwallow/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemwallow/)*

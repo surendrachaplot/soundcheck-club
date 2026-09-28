@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Madame Claude's Experimontag" on Mon, 28 Sept 2026.
+Madame Claude is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Madame Claude's Experimontag" on Mon, 28 Sept 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Devin Gray, DJ Fiona, dOctOr doms and Dr. Sud and 2 more. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

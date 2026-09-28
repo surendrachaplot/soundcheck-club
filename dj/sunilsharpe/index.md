@@ -1,6 +1,6 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
+Sunil Sharpe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
 
 Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: Lost Horizon, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sunil Sharpe is a techno and electro artist based in Ireland, tracked on soundch
 
 Kerrie, Newa, IMOGEN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*

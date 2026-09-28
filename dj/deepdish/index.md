@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
+Deep Dish is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
 Deep Dish is a house and progressive house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 
 Dubfire, Sharam, Eynka
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

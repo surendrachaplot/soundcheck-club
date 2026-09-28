@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Tom Wainwright - Haçienda All Night Long" on Sat, 3 Oct 2026.
+Joshua Brooks is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Tom Wainwright - Haçienda All Night Long" on Sat, 3 Oct 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including AYDN, Badger (UK), CEEKAY and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -22,4 +22,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 9 upcoming gi
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

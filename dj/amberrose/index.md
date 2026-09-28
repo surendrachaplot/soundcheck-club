@@ -1,6 +1,6 @@
 # Amber Rose
 
-Amber Rose is a Garage and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ninety One, London on Sat, 10 Oct 2026.
+Amber Rose is a Garage and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ninety One, London on Sat, 10 Oct 2026.
 
 Amber Rose is a garage and amapiano artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Brighton, Liverpool, London and Manchester. Often billed alongside Papu Raf, Miggs and Matica. Next up: Ninety One, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Amber Rose is a garage and amapiano artist based in United Kingdom, tracked on s
 
 Papu Raf, Miggs, Matica
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amberrose/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amberrose/)*

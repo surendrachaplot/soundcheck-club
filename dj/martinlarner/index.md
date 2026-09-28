@@ -1,6 +1,6 @@
 # Martin Larner
 
-Martin Larner is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
+Martin Larner is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
 
 Martin Larner is a garage and house artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside MC Creed, DJ S (UK) and Jerome Six. Next up: M.O.T, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Martin Larner is a garage and house artist tracked on soundcheck, with 24 sets l
 
 MC Creed, DJ S (UK), Jerome Six
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinlarner/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinlarner/)*

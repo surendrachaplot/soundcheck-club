@@ -1,6 +1,6 @@
 # Efan
 
-Efan is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bricks, London on Sat, 24 Oct 2026.
+Efan is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bricks, London on Sat, 24 Oct 2026.
 
 Efan is a garage and bass artist tracked on soundcheck, with 52 sets logged across Aberdeen, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Jackum, Bushbaby and Anaïs. Next up: Bricks, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Efan is a garage and bass artist tracked on soundcheck, with 52 sets logged acro
 
 Jackum, Bushbaby, Anaïs
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*

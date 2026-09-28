@@ -1,6 +1,6 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KRNK Collective" on Fri, 2 Oct 2026.
+Eastern Bloc Records is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KRNK Collective" on Fri, 2 Oct 2026.
 
 Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Allius, Artilect, Balrog and Connor Southerland and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 17 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

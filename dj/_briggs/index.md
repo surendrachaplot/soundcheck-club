@@ -1,6 +1,6 @@
 # _briggs
 
-_briggs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
+_briggs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
 
 _briggs is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside Hidden Order, LUCIA. and Pat Bradley. Next up: Happyfun Hideaway, New York City on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ _briggs is a techno and house artist based in United States of America, tracked 
 
 Hidden Order, LUCIA., Pat Bradley
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_briggs/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_briggs/)*

@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor" on Sat, 26 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor" on Sat, 26 Sept 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, AEREA, AgainstMe and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

@@ -1,6 +1,6 @@
 # Kogeno
 
-Kogeno is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Kogeno is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Kogeno is an electronic artist based in Armenia, tracked on soundcheck, with 1 set logged across Armenia. Often billed alongside Animistic Beliefs, Cinna Peyghamy and DJ Scotch Egg. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Kogeno is an electronic artist based in Armenia, tracked on soundcheck, with 1 s
 
 Animistic Beliefs, Cinna Peyghamy, DJ Scotch Egg
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kogeno/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kogeno/)*

@@ -1,6 +1,6 @@
 # Connor Southerland
 
-Connor Southerland is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
+Connor Southerland is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
 
 Connor Southerland is a tech house and electro artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Leeds and Manchester. Often billed alongside Louis Ecob, Coel Haines and Dig This. Next up: Eastern Bloc Records, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Connor Southerland is a tech house and electro artist based in United Kingdom, t
 
 Louis Ecob, Coel Haines, Dig This
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorsoutherland/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorsoutherland/)*

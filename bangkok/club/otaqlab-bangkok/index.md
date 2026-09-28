@@ -1,6 +1,6 @@
 # Otaqlab Bangkok
 
-Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "FBI: FURRY BACKROOMS INCIDENT" on Sat, 3 Oct 2026.
+Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "FBI: FURRY BACKROOMS INCIDENT" on Sat, 3 Oct 2026.
 
 Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including dandarplaya, Emptyshura and Takenbymarshall. Browse upcoming dates, start times and who's playing. 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400.
 
@@ -14,4 +14,4 @@ Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig
 
 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400, Bangkok
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*

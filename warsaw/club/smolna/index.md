@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #25 || DAVE HACO x SLEVTH x BENDINGTIMEANDSPACE" on Wed, 30 Sept 2026.
+Smolna is a music venue in Warsaw with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #25 || DAVE HACO x SLEVTH x BENDINGTIMEANDSPACE" on Wed, 30 Sept 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 27 upcoming gigs, with line-ups including Alinka, Âme, Anetha and Arude and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 27 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

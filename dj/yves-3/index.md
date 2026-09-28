@@ -1,6 +1,6 @@
 # YVES (3)
 
-YVES (3) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
+YVES (3) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
 
 YVES is a garage and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Lulu (UK), SHIVYR and Urma. Next up: Orange Room, London on Sun 18 Oct.
 
@@ -18,4 +18,4 @@ YVES is a garage and house artist based in United Kingdom, tracked on soundcheck
 
 Lulu (UK), SHIVYR, Urma
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yves-3/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yves-3/)*

@@ -1,6 +1,6 @@
 # NATO (1)
 
-NATO (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+NATO (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 NATO is a techno and trance artist based in Australia, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Glen West, JEFFE and PEACHI. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ NATO is a techno and trance artist based in Australia, tracked on soundcheck, wi
 
 Glen West, JEFFE, PEACHI
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nato-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nato-1/)*

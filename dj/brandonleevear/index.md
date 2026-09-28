@@ -1,6 +1,6 @@
 # Brandon Lee Vear
 
-Brandon Lee Vear is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 17 Oct 2026.
+Brandon Lee Vear is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 17 Oct 2026.
 
 Brandon Lee Vear is a techno and club artist based in Australia, tracked on soundcheck, with 27 sets logged across Edinburgh, Glasgow, Krakow and Manchester. Often billed alongside TRSSX, Halal Kitty and JayJay. Next up: EXIT Glasgow, Glasgow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Brandon Lee Vear is a techno and club artist based in Australia, tracked on soun
 
 TRSSX, Halal Kitty, JayJay
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonleevear/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonleevear/)*

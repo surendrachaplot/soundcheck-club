@@ -1,6 +1,6 @@
 # Gina Demarchi
 
-Gina Demarchi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
+Gina Demarchi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
 
 Gina Demarchi is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Amanda Mussi, Anders Horse and Chris Liebing. Next up: OIL Club, Shenzhen on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Gina Demarchi is a techno and house artist based in Germany, tracked on soundche
 
 Amanda Mussi, Anders Horse, Chris Liebing
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*

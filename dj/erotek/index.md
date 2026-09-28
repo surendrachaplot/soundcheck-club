@@ -1,6 +1,6 @@
 # ERØTEK
 
-ERØTEK is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Rotunde, Bochum on Fri, 16 Oct 2026.
+ERØTEK is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Rotunde, Bochum on Fri, 16 Oct 2026.
 
 ERØTEK is a trance and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Bochum. Often billed alongside DJ Räucherlaks and Molis. Next up: Rotunde, Bochum on Fri 16 Oct.
 
@@ -14,4 +14,4 @@ ERØTEK is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 DJ Räucherlaks, Molis
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erotek/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erotek/)*

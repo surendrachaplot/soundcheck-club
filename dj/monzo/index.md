@@ -1,6 +1,6 @@
 # Monzo
 
-Monzo is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bridge 48, Barcelona on Thu, 8 Oct 2026.
+Monzo is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bridge 48, Barcelona on Thu, 8 Oct 2026.
 
 Monzo is an electronic artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Franco Brida, J Key and KRYTE. Next up: Bridge 48, Barcelona on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ Monzo is an electronic artist tracked on soundcheck, with 2 sets logged across B
 
 Franco Brida, J Key, KRYTE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monzo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monzo/)*

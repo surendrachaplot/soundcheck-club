@@ -1,6 +1,6 @@
 # NOON
 
-NOON is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
+NOON is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
 
 NOON is a bass and techno artist based in France, tracked on soundcheck, with 10 sets logged across Amsterdam, Bangkok, Barcelona and Paris. Often billed alongside Unsho, Antoine Calvino and Baila Morena. Next up: Le Pop-Up du Label, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ NOON is a bass and techno artist based in France, tracked on soundcheck, with 10
 
 Unsho, Antoine Calvino, Baila Morena
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noon/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noon/)*

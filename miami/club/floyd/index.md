@@ -1,6 +1,6 @@
 # Floyd
 
-Floyd is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Knight Club: Spray" on Sun, 27 Sept 2026.
+Floyd is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Knight Club: Spray" on Sun, 27 Sept 2026.
 
 Floyd is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including Aluna, Bag Raiders, Bort and Cole Knight and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
@@ -23,4 +23,4 @@ Floyd is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with lin
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

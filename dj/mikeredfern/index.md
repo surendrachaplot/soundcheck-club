@@ -1,6 +1,6 @@
 # Mike Redfern
 
-Mike Redfern is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Fitzgerald, Brisbane on Sat, 10 Oct 2026.
+Mike Redfern is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Fitzgerald, Brisbane on Sat, 10 Oct 2026.
 
 Mike Redfern is a progressive house and techno artist based in Australia, tracked on soundcheck, with 1 set logged across Brisbane. Often billed alongside Fergus Alexander and Jamie Stevens. Next up: The Fitzgerald, Brisbane on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ Mike Redfern is a progressive house and techno artist based in Australia, tracke
 
 Fergus Alexander, Jamie Stevens
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeredfern/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeredfern/)*

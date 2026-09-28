@@ -1,6 +1,6 @@
 # Masca_
 
-Masca_ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Masca_ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Masca_ is a house and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Dr Subwoofer, FELGENTEUFEL666 and JUICY-I. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -14,4 +14,4 @@ Masca_ is a house and trance artist based in Germany, tracked on soundcheck, wit
 
 Dr Subwoofer, FELGENTEUFEL666, JUICY-I
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masca_/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masca_/)*

@@ -1,6 +1,6 @@
 # Emmy Shigeta
 
-Emmy Shigeta is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Wigwam, Dublin on Fri, 6 Nov 2026.
+Emmy Shigeta is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
 Emmy Shigeta is a house and bass artist based in Japan, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside Jenn Hession, RIRIA and Soichi Terada. Next up: Wigwam, Dublin on Fri 6 Nov.
 
@@ -14,4 +14,4 @@ Emmy Shigeta is a house and bass artist based in Japan, tracked on soundcheck, w
 
 Jenn Hession, RIRIA, Soichi Terada
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*

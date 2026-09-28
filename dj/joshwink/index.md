@@ -1,6 +1,6 @@
 # Josh Wink
 
-Josh Wink is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 31 Oct 2026.
+Josh Wink is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 31 Oct 2026.
 
 Josh Wink is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Rob Paine, Doc Martin and Heidi Lawden. Next up: Warehouse on Watts, Philadelphia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Josh Wink is a house and techno artist based in United States of America, tracke
 
 Rob Paine, Doc Martin, Heidi Lawden
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*

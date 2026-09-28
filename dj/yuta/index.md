@@ -1,6 +1,6 @@
 # YUTA
 
-YUTA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
+YUTA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 YUTA is a techno and house artist based in Japan, tracked on soundcheck, with 90 sets logged across Bangkok, Berlin, Central and Hong Kong and 8 more. Often billed alongside Shinsuke Goto, DJ Yazi and DJ Nobu. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ YUTA is a techno and house artist based in Japan, tracked on soundcheck, with 90
 
 Shinsuke Goto, DJ Yazi, DJ Nobu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuta/)*

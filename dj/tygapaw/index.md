@@ -1,6 +1,6 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ICA, London on Sat, 5 Dec 2026.
+TYGAPAW is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ICA, London on Sat, 5 Dec 2026.
 
 TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Juliana Huxtable, LSDXOXO and Shyboi. Next up: ICA, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 
 Juliana Huxtable, LSDXOXO, Shyboi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*

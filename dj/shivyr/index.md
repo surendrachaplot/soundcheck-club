@@ -1,6 +1,6 @@
 # SHIVYR
 
-SHIVYR is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
+SHIVYR is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
 
 SHIVYR is a house and garage artist based in Finland, tracked on soundcheck, with 1 set logged across London. Often billed alongside Lulu (UK) and YVES. Next up: Orange Room, London on Sun 18 Oct.
 
@@ -14,4 +14,4 @@ SHIVYR is a house and garage artist based in Finland, tracked on soundcheck, wit
 
 Lulu (UK), YVES (3)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shivyr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shivyr/)*

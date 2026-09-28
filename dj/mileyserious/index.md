@@ -1,6 +1,6 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Smoke & Mirrors, Chicago on Sat, 10 Oct 2026.
+Miley Serious is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Smoke & Mirrors, Chicago on Sat, 10 Oct 2026.
 
 Miley Serious is a techno and house artist based in France, tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Smoke & Mirrors, Chicago on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Miley Serious is a techno and house artist based in France, tracked on soundchec
 
 Lu2k, Dr Dubplate, Shampain
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

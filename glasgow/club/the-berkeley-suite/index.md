@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 34 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "[CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson" on Sun, 27 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 34 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "[CANCELLED] Lets Go Back Bank Holiday Sunday presents: Justin Robertson" on Sun, 27 Sept 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 34 upcoming gigs, with line-ups including 3-Lix, Amaliah, Andy Barton and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 34 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

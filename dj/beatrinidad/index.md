@@ -1,6 +1,6 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at H0L0, New York City on Sat, 7 Nov 2026.
+Bea Trinidad is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at H0L0, New York City on Sat, 7 Nov 2026.
 
 Bea Trinidad is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Montreal, New York City and San Francisco/Oakland. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: H0L0, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bea Trinidad is a house and disco artist based in United States of America, trac
 
 Bustin' Loose, Roland & Brother Rich, ANICHE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*

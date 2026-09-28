@@ -1,6 +1,6 @@
 # Amine K
 
-Amine K is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Amine K is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Amine K is a house and deep house artist based in Morocco, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Mr ID, OTTMANN and Acid Eastern. Next up: TBA, Central on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Amine K is a house and deep house artist based in Morocco, tracked on soundcheck
 
 Mr ID, OTTMANN, Acid Eastern
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*

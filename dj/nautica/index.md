@@ -1,6 +1,6 @@
 # Nautica
 
-Nautica is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
+Nautica is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
 
 Nautica is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Belfast and Bristol and 7 more. Often billed alongside Josh Baker, Max Dean and Rossi. Next up: Cova Santa, Ibiza on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Nautica is a tech house and house artist based in United Kingdom, tracked on sou
 
 Josh Baker, Max Dean, Rossi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica/)*

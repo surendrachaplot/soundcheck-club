@@ -1,6 +1,6 @@
 # Eric Cloutier
 
-Eric Cloutier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
+Eric Cloutier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
 
 Eric Cloutier is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: NUMBER 90 LONDON, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Eric Cloutier is a techno and house artist based in United States of America, tr
 
 Amulador, Andy Garvey, Bloody Mary
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericcloutier/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericcloutier/)*

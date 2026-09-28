@@ -1,8 +1,8 @@
 # Matisa
 
-Matisa is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Matisa is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
-Matisa is a house and techno artist based in Italy, tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Chris Stussy, DJ Tennis and The Martinez Brothers. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
+Matisa is a house and techno artist based in Italy, tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Matisa is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Chris Stussy, DJ Tennis, The Martinez Brothers
+CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Wednesnight with TBA" on Wed, 30 Sept 2026.
+Garage 442 is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Wednesnight with TBA" on Wed, 30 Sept 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Alen. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -18,4 +18,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

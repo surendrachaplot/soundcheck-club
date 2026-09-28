@@ -1,6 +1,6 @@
 # Token
 
-Token is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SOBs, New York City on Sun, 11 Oct 2026.
+Token is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SOBs, New York City on Sun, 11 Oct 2026.
 
 Token is a hip-hop artist based in Russia, tracked on soundcheck, with 2 sets logged across Amsterdam and New York City. Often billed alongside Kike Pravda and Marco Ramos. Next up: SOBs, New York City on Sun 11 Oct.
 
@@ -18,4 +18,4 @@ Token is a hip-hop artist based in Russia, tracked on soundcheck, with 2 sets lo
 
 Kike Pravda, Marco Ramos
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/token/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/token/)*

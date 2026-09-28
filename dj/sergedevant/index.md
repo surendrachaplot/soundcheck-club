@@ -1,14 +1,13 @@
 # Serge Devant
 
-Serge Devant is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Serge Devant is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Refuge, New York City on Sun, 1 Nov 2026.
 
-Serge Devant is a house and tech house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Cyprus and Ibiza and 11 more. Often billed alongside Jamie Jones, Joseph Capriati and Lauren Lane. Next up: Etko, Cyprus on Fri 25 Sept.
+Serge Devant is a house and tech house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Cyprus and Ibiza and 11 more. Often billed alongside Jamie Jones, Joseph Capriati and Lauren Lane. Next up: Refuge, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Sun, 1 Nov 2026 | Refuge | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Serge Devant is a house and tech house artist based in United States of America,
 
 Jamie Jones, Joseph Capriati, Lauren Lane
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergedevant/)*

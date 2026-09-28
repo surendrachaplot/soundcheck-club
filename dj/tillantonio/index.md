@@ -1,6 +1,6 @@
 # Till Antonio
 
-Till Antonio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Till Antonio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 Till Antonio is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Till Antonio is a techno and house artist tracked on soundcheck, with 83 sets lo
 
 Michael Ritter, Intaktogene, Felix E
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*

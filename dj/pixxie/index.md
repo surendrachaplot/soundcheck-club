@@ -1,6 +1,6 @@
 # Pixxie
 
-Pixxie is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
+Pixxie is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
 
 Pixxie is a deep house and house artist tracked on soundcheck, with 13 sets logged across Mexico City and San Francisco/Oakland. Often billed alongside ALMAS, IZIK and MOSTASH. Next up: Departamento, Mexico City on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Pixxie is a deep house and house artist tracked on soundcheck, with 13 sets logg
 
 ALMAS, IZIK, MOSTASH
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*

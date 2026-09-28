@@ -1,6 +1,6 @@
 # 3-Lix
 
-3-Lix is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Berkeley Suite, Glasgow on Wed, 7 Oct 2026.
+3-Lix is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Berkeley Suite, Glasgow on Wed, 7 Oct 2026.
 
 3-Lix is a disco and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow and Manchester. Often billed alongside Loose E, Emiliooo and Patrice. Next up: The Berkeley Suite, Glasgow on Wed 7 Oct.
 
@@ -25,4 +25,4 @@
 
 Loose E, Emiliooo, Patrice
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3-lix/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3-lix/)*

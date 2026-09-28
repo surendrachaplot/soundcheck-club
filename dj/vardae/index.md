@@ -1,6 +1,6 @@
 # Vardae
 
-Vardae is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Vardae is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Vardae is a techno and drum & bass artist based in France, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Konduku, GiGi FM and Spekki Webu. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Vardae is a techno and drum & bass artist based in France, tracked on soundcheck
 
 Konduku, GiGi FM, Spekki Webu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vardae/)*

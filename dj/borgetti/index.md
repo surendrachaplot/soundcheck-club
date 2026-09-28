@@ -1,6 +1,6 @@
 # Borgetti
 
-Borgetti is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bar Oriente, Mexico City on Fri, 2 Oct 2026.
+Borgetti is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bar Oriente, Mexico City on Fri, 2 Oct 2026.
 
 Borgetti is a house and tech house artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexico City. Often billed alongside Adrian Bluper, W.O.L.F. and Ander Race. Next up: Bar Oriente, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Borgetti is a house and tech house artist based in Mexico, tracked on soundcheck
 
 Adrian Bluper, W.O.L.F., Ander Race
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borgetti/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borgetti/)*

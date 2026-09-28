@@ -1,6 +1,6 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TET" on Mon, 28 Sept 2026.
+Forestlimit is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "TET" on Mon, 28 Sept 2026.
 
 Forestlimit is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Acidclank, ANiIIIIiiiKii, A VIRGIN and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, wi
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

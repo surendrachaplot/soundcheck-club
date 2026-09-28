@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "PLO Man (Berlin / Acting Press)" on Fri, 2 Oct 2026.
+Modeci is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PLO Man (Berlin / Acting Press)" on Fri, 2 Oct 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including .2ndfloor, Acidwork, BASKERVILLE and BYUNGHO and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

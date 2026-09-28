@@ -1,6 +1,6 @@
 # Carpet (F.L.H.P)
 
-Carpet (F.L.H.P) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Outer Heaven, New York City on Fri, 18 Dec 2026.
+Carpet (F.L.H.P) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Outer Heaven, New York City on Fri, 18 Dec 2026.
 
 Carpet (F.L.H.P) is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Mexico City and New York City. Often billed alongside Concret, MARBLE RYE and Second Contact. Next up: Outer Heaven, New York City on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Carpet (F.L.H.P) is an ambient and experimental artist based in United States of
 
 Concret, MARBLE RYE, Second Contact
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*

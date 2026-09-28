@@ -1,6 +1,6 @@
 # Kalte Liebe
 
-Kalte Liebe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Berlin on Sat, 10 Oct 2026.
+Kalte Liebe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Berlin on Sat, 10 Oct 2026.
 
 Kalte Liebe is a techno and trance artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside I Hate Models, Charlie Sparks and KUKO. Next up: TBA, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kalte Liebe is a techno and trance artist based in Germany, tracked on soundchec
 
 I Hate Models, Charlie Sparks, KUKO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalteliebe/)*

@@ -1,6 +1,6 @@
 # D'EAUPE Amsterdam at Café Café Bar Amsterdam
 
-D'EAUPE Amsterdam at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 1 artist on the bill: Shermanology. House and Tech House. Preview the line-up and save it on soundcheck.
+D'EAUPE Amsterdam at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 2 artists on the bill: Jean Pierre and Shermanology. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ D'EAUPE Amsterdam at Café Café Bar Amsterdam on Fri 23 Oct, Amsterdam. 1 artis
 
 ## Line-up
 
+- Jean Pierre
 - Shermanology
 
 *Source: [soundcheck](https://soundcheck.club/e/2536139-d-eaupe-amsterdam-at-caf-caf-bar-amsterdam/)*

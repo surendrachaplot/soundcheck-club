@@ -1,6 +1,6 @@
 # Aaron Davis
 
-Aaron Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Process PDX, Portland on Sat, 3 Oct 2026.
+Aaron Davis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Process PDX, Portland on Sat, 3 Oct 2026.
 
 Aaron Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Los Angeles, New York City, Portland and San Francisco/Oakland. Often billed alongside Ms. Ed, Peter Sheppard and Trustfall. Next up: Process PDX, Portland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Aaron Davis is a house and techno artist based in United States of America, trac
 
 Ms. Ed, Peter Sheppard, Trustfall
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondavis/)*

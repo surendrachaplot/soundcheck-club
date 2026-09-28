@@ -1,6 +1,6 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Floorplan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -14,6 +14,7 @@ Floorplan is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
+- TBA, Los Angeles — Sun, 27 Sept 2026
 - Amnesia Ibiza, Ibiza — Fri, 18 Sept 2026
 - BERHTA, Washington DC — Fri, 4 Sept 2026
 - Knockdown Center, New York City — Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Floorplan is a house and techno artist based in United States of America, tracke
 - Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
 - Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
-- Refuge, New York City — Sat, 16 May 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Robert Hood, DJ Holographic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

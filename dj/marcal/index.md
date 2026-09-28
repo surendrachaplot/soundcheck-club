@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Wigwam, Dublin on Fri, 30 Oct 2026.
+Marcal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wigwam, Dublin on Fri, 30 Oct 2026.
 
 Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Efdemin and Zisko. Next up: Wigwam, Dublin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Marcal is a techno and house artist based in Brazil, tracked on soundcheck, with
 
 Ignez, Efdemin, Zisko
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

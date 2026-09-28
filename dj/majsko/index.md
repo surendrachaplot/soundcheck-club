@@ -1,6 +1,6 @@
 # Majsko
 
-Majsko is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
+Majsko is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
 
 Majsko is an electronic artist based in Slovakia, tracked on soundcheck, with 2 sets logged across Bratislava and Prague. Often billed alongside Hasky (SK), Klint and Leia Drex. Next up: Radost Music Club, Bratislava on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Majsko is an electronic artist based in Slovakia, tracked on soundcheck, with 2 
 
 Hasky (SK), Klint, Leia Drex
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majsko/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majsko/)*

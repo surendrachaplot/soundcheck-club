@@ -1,6 +1,6 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Substation, Seattle on Wed, 14 Oct 2026.
+Safety Trance is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Substation, Seattle on Wed, 14 Oct 2026.
 
 Safety Trance is a techno and reggaeton artist based in Venezuela, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Barcelona and Berlin and 45 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Substation, Seattle on Wed 14 Oct.
 
@@ -30,4 +30,4 @@ Safety Trance is a techno and reggaeton artist based in Venezuela, tracked on so
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

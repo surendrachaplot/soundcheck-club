@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "MONDAY ROAST x MARLA RECORDS w. Fanfarrosa & Friends" on Mon, 28 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "MONDAY ROAST x MARLA RECORDS w. Fanfarrosa & Friends" on Mon, 28 Sept 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Agem, Anna Lazer, aqwapi and Baerbel and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -23,4 +23,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

@@ -1,6 +1,6 @@
 # ARYMÉ
 
-ARYMÉ is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+ARYMÉ is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
 ARYMÉ is an afro house and deep house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Barcelona and Basel and 13 more. Often billed alongside Francis Mercier, Nadrums and Nitefreak. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ARYMÉ is an afro house and deep house artist tracked on soundcheck, with 38 set
 
 Francis Mercier, Nadrums, Nitefreak
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aryme/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aryme/)*

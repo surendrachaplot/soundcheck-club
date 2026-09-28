@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "UNFOLD CXXXII" on Sun, 27 Sept 2026.
+FOLD is a music venue in London with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "UNFOLD CXXXII" on Sun, 27 Sept 2026.
 
 FOLD is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

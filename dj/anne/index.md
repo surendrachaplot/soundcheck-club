@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
+ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
 
 ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Under Club, Buenos Aires on Sun 27 Sept.
 
@@ -23,6 +23,7 @@ ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 
 
 ## Recently played
 
+- Under Club, Buenos Aires — Sun, 27 Sept 2026
 - Fabrica Abandonada, Sao Paulo — Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
 - TILLATEC, Amsterdam — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 
 - KMSKA, Antwerp — Sat, 5 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
-- Palais, London — Sat, 22 Aug 2026
 
 ## Shares bills with
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

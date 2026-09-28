@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+MPH (1) is a Garage and Bass artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 MPH is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Auckland and Austin and 40 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ MPH is a garage and bass artist based in United Kingdom, tracked on soundcheck, 
 
 Oppidan, Flava D, Hamdi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

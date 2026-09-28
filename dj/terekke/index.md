@@ -1,6 +1,6 @@
 # Terekke
 
-Terekke is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Terekke is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Terekke is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside Crystallmess, Huerco S. and Loidis. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri 25 Sept.
 
@@ -13,10 +13,11 @@ Terekke is an ambient and experimental artist based in United States of America,
 
 ## Recently played
 
+- St. Bartholomew's Church, New York City — Sun, 27 Sept 2026
 - TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City — Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Crystallmess, Huerco S., Loidis
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terekke/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terekke/)*

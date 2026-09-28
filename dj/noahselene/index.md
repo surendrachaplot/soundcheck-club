@@ -1,6 +1,6 @@
 # Noah Selene
 
-Noah Selene is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
+Noah Selene is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
 
 Noah Selene is a techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Los Angeles. Often billed alongside MORENXXX, Neueportrait and REDLINERS. Next up: TBA - DTLA, Los Angeles on Sat 17 Oct.
 
@@ -14,4 +14,4 @@ Noah Selene is a techno artist based in United States of America, tracked on sou
 
 MORENXXX, Neueportrait, REDLINERS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noahselene/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noahselene/)*

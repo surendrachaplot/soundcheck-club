@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Release party「ペロリ！」" on Tue, 29 Sept 2026.
+Spread is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Release party「ペロリ！」" on Tue, 29 Sept 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Bby Eco, COLA REN, Kengo Yuasa and MICO and 2 more. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -20,4 +20,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with lin
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

@@ -1,6 +1,6 @@
 # 2LaCasse
 
-2LaCasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Sat, 10 Oct 2026.
+2LaCasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Sat, 10 Oct 2026.
 
 2LaCasse is a techno and house artist tracked on soundcheck, with 5 sets logged across Marseille. Often billed alongside Wolk. Next up: Le Chapiteau - Marseille, Marseille on Sat 10 Oct.
 
@@ -21,4 +21,4 @@
 
 Wolk
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2lacasse/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2lacasse/)*

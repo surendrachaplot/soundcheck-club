@@ -1,6 +1,6 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
+Ben Sims is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
 
 Ben Sims is a techno and house artist based in United Kingdom, tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Circus Osaka, Osaka on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Ben Sims is a techno and house artist based in United Kingdom, tracked on soundc
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

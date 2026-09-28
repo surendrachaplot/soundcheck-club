@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Goethebunker, Dortmund-essen on Fri, 2 Oct 2026.
+Amotik is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Goethebunker, Dortmund-essen on Fri, 2 Oct 2026.
 
 Amotik is a techno and house artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Goethebunker, Dortmund Essen on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Amotik is a techno and house artist based in United Kingdom, tracked on soundche
 
 Lea Occhi, Olivia Mendez, Answer Code Request
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

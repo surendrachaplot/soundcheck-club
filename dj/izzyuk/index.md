@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Cheek, London on Sat, 31 Oct 2026.
+IZZY (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Cheek, London on Sat, 31 Oct 2026.
 
 IZZY (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, London and The Hague. Often billed alongside Lola So, Armând and ASHOJU. Next up: Club Cheek, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ IZZY (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Lola So, Armând, ASHOJU
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

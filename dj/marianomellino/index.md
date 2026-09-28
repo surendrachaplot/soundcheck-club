@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Mariano Mellino is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Barcelona and Buenos Aires and 21 more. Often billed alongside Guy J, Henry Saiz and MASANORI MORITA. Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, tra
 
 Guy J, Henry Saiz, MASANORI MORITA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

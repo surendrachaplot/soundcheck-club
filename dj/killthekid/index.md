@@ -1,6 +1,6 @@
 # Kill The Kid
 
-Kill The Kid is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Kill The Kid is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Kill The Kid is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Los Angeles. Often billed alongside 999999999, A Little Sound and AC Slater. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -14,4 +14,4 @@ Kill The Kid is an electronic artist based in United Kingdom, tracked on soundch
 
 999999999, A Little Sound, AC Slater
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthekid/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthekid/)*

@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Groovy Castle x Wax Transmission" on Fri, 2 Oct 2026.
+Salon Daomé is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Groovy Castle x Wax Transmission" on Fri, 2 Oct 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including Don Barbarino, jadD, Jean Pascal Groove and Jojoflores and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -17,4 +17,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 4 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

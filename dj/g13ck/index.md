@@ -1,6 +1,6 @@
 # g13ck
 
-g13ck is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri, 9 Oct 2026.
+g13ck is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri, 9 Oct 2026.
 
 g13ck is an electronica and downtempo artist tracked on soundcheck, with 3 sets logged across Madrid and Mexico City. Often billed alongside Eafhm, 1000i and AddlyMuff. Next up: Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ g13ck is an electronica and downtempo artist tracked on soundcheck, with 3 sets 
 
 Eafhm, 1000i, AddlyMuff
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g13ck/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g13ck/)*

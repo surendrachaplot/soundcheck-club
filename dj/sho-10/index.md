@@ -1,6 +1,6 @@
 # SHO (10)
 
-SHO (10) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at WOMB, Tokyo on Wed, 21 Oct 2026.
+SHO (10) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Wed, 21 Oct 2026.
 
 SHO is an industrial and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside ASIN, CHIKA and YOXIKI. Next up: WOMB, Tokyo on Wed 21 Oct.
 
@@ -14,4 +14,4 @@ SHO is an industrial and techno artist based in Japan, tracked on soundcheck, wi
 
 ASIN, CHIKA, YOXIKI
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sho-10/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sho-10/)*

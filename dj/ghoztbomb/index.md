@@ -1,6 +1,6 @@
 # Ghoztbomb
 
-Ghoztbomb is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Strays, Detroit on Wed, 14 Oct 2026.
+Ghoztbomb is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Strays, Detroit on Wed, 14 Oct 2026.
 
 Ghoztbomb is an industrial and experimental artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Next up: The Strays, Detroit on Wed 14 Oct.
 
@@ -10,4 +10,4 @@ Ghoztbomb is an industrial and experimental artist based in United States of Ame
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | The Strays | Detroit |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoztbomb/)*

@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Racket Space presents: IsGwan" on Sat, 3 Oct 2026.
+The Racket Space is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Racket Space presents: IsGwan" on Sat, 3 Oct 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Cailín, camoufly, Dorian Concept and Garrett David and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 12 upcoming gi
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

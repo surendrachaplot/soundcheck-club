@@ -1,6 +1,6 @@
 # prekeris
 
-prekeris is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Time is the new space, Rotterdam on Fri, 2 Oct 2026.
+prekeris is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Time is the new space, Rotterdam on Fri, 2 Oct 2026.
 
 prekeris is a dubstep and bass artist based in Netherlands, tracked on soundcheck, with 1 set logged across Rotterdam. Often billed alongside Helmond Lang, YoungWoman and Zohar. Next up: Time is the new space, Rotterdam on Fri 2 Oct.
 
@@ -14,4 +14,4 @@ prekeris is a dubstep and bass artist based in Netherlands, tracked on soundchec
 
 Helmond Lang, YoungWoman, Zohar
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prekeris/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prekeris/)*

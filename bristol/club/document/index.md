@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Andy C: AliVe - Document Bristol" on Sat, 3 Oct 2026.
+Document is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Andy C: AliVe - Document Bristol" on Sat, 3 Oct 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Andy C, East End Dubs, Jazzy (IRL) and Kele Le Roc and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -19,4 +19,4 @@ Document is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

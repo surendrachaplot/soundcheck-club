@@ -1,6 +1,6 @@
 # Huxley
 
-Huxley is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at UNLOCKED, London on Thu, 15 Oct 2026.
+Huxley is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UNLOCKED, London on Thu, 15 Oct 2026.
 
 Huxley is a tech house and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Auckland, Berlin and Brighton and 4 more. Often billed alongside Amine Edge, Josh Butler and Alexis Raphael. Next up: UNLOCKED, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Huxley is a tech house and house artist tracked on soundcheck, with 19 sets logg
 
 Amine Edge, Josh Butler, Alexis Raphael
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huxley/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huxley/)*

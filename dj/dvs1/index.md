@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Strange Brew, Bristol on Fri, 2 Oct 2026.
+DVS1 is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Strange Brew, Bristol on Fri, 2 Oct 2026.
 
 DVS1 is a techno and house artist based in United States of America, tracked on soundcheck, with 323 sets logged across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Strange Brew, Bristol on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist based in United States of America, tracked on 
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

@@ -1,6 +1,6 @@
 # NIN3S
 
-NIN3S is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at High Club Room, Madrid on Thu, 8 Oct 2026.
+NIN3S is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at High Club Room, Madrid on Thu, 8 Oct 2026.
 
 NIN3S is an electronica and house artist based in Spain, tracked on soundcheck, with 1 set logged across Madrid. Often billed alongside Luke Garcia, Savanna and UNER. Next up: High Club Room, Madrid on Thu 8 Oct.
 
@@ -14,4 +14,4 @@ NIN3S is an electronica and house artist based in Spain, tracked on soundcheck, 
 
 Luke Garcia, Savanna, UNER
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nin3s/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nin3s/)*

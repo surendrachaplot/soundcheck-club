@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Queen! feat. Derrick Carter - Michael Serafini - Shaun J Wright" on Sun, 27 Sept 2026.
+smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Queen! feat. Derrick Carter - Michael Serafini - Shaun J Wright" on Sun, 27 Sept 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Colleen 'Cosmo' Murphy and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

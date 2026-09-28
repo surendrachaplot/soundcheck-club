@@ -1,6 +1,6 @@
 # Levelz
 
-Levelz is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Levelz is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Levelz is a club and hardcore artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow and Liverpool. Often billed alongside AMMARA, Andy Whitby and Don X. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Levelz is a club and hardcore artist based in United Kingdom, tracked on soundch
 
 AMMARA, Andy Whitby, Don X
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levelz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levelz/)*

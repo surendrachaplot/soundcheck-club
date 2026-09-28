@@ -1,6 +1,6 @@
 # Frutis
 
-Frutis is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 8 Oct 2026.
+Frutis is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 8 Oct 2026.
 
 Frutis is an electro and house artist based in Mexico, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Jow Moor, ATMEN and Diesco. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Frutis is an electro and house artist based in Mexico, tracked on soundcheck, wi
 
 Jow Moor, ATMEN, Diesco
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frutis/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frutis/)*

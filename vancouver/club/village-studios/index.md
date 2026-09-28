@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Stacked pres. camoufly" on Sat, 3 Oct 2026.
+Village Studios is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Stacked pres. camoufly" on Sat, 3 Oct 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including BINKY, Brendocha, camoufly and EQ (Estratosfera + Qiri) and 1 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -18,4 +18,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 5 upcoming g
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

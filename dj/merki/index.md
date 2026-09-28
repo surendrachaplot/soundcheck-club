@@ -1,6 +1,6 @@
 # Merki
 
-Merki is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tempo, Glasgow on Sun, 27 Sept 2026.
+Merki is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tempo, Glasgow on Sun, 27 Sept 2026.
 
 Merki is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow and Newcastle. Often billed alongside Alan Benn, Andy Whitby and Lozza. Next up: Tempo, Glasgow on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Merki is a hardcore and trance artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- Tempo, Glasgow — Sun, 27 Sept 2026
 - The Classic Grand, Glasgow — Fri, 28 Aug 2026
 - Vibes Glasgow, Glasgow — Fri, 15 May 2026
 - Slay, Glasgow — Fri, 8 May 2026
@@ -19,10 +20,9 @@ Merki is a hardcore and trance artist based in United Kingdom, tracked on soundc
 - Club 69, Glasgow — Fri, 7 Nov 2025
 - The Classic Grand, Glasgow — Fri, 6 Dec 2024
 - The Classic Grand, Glasgow — Fri, 30 Aug 2024
-- Digital, Newcastle — Fri, 12 Apr 2024
 
 ## Shares bills with
 
 Alan Benn, Andy Whitby, Lozza
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merki/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merki/)*

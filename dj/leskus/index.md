@@ -1,6 +1,6 @@
 # Leskus
 
-Leskus is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at WDM, Hannover on Sat, 17 Oct 2026.
+Leskus is a Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WDM, Hannover on Sat, 17 Oct 2026.
 
 Leskus is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Budapest, Frankfurt and Hannover. Often billed alongside Tarkan, Parallx and co:co. Next up: WDM, Hannover on Sat 17 Oct.
 
@@ -16,4 +16,4 @@ Leskus is a techno artist based in Germany, tracked on soundcheck, with 3 sets l
 
 Tarkan, Parallx, co:co
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*

@@ -1,6 +1,6 @@
 # Nii Tei
 
-Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Floyd, Miami on Fri, 9 Oct 2026.
+Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Floyd, Miami on Fri, 9 Oct 2026.
 
 Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Los Angeles, Miami, New York City and Washington DC. Often billed alongside Dude Skywalker, Bakke and DIFFER. Next up: Floyd, Miami on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nii Tei is a house and deep house artist based in United States of America, trac
 
 Dude Skywalker, Bakke, DIFFER
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*

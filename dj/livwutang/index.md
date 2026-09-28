@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+livwutang is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
 livwutang is a techno and house artist based in United States of America, tracked on soundcheck, with 196 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 41 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
@@ -19,6 +19,7 @@ livwutang is a techno and house artist based in United States of America, tracke
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 27 Sept 2026
 - Nowadays, New York City — Wed, 16 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC — Fri, 4 Sept 2026
@@ -26,10 +27,9 @@ livwutang is a techno and house artist based in United States of America, tracke
 - TBA - Saint-Denis, Paris — Sat, 29 Aug 2026
 - TILLATEC, Amsterdam — Fri, 28 Aug 2026
 - OXI, Berlin — Sun, 23 Aug 2026
-- Buda BXL, Brussels — Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

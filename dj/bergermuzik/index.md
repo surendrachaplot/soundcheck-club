@@ -1,6 +1,6 @@
 # Berger Muzik
 
-Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at La Cigale, Buenos Aires on Tue, 29 Sept 2026.
+Berger Muzik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Cigale, Buenos Aires on Tue, 29 Sept 2026.
 
 Berger Muzik is a techno and house artist tracked on soundcheck, with 204 sets logged across Buenos Aires. Often billed alongside Ella Anzoise, May Mc Laren and Fuocco. Next up: La Cigale, Buenos Aires on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Berger Muzik is a techno and house artist tracked on soundcheck, with 204 sets l
 
 Ella Anzoise, May Mc Laren, Fuocco
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergermuzik/)*

@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Voigtmann is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 193 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: TBA, Central on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Voigtmann is a house and tech house artist based in United Kingdom, tracked on s
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

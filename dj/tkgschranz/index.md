@@ -1,6 +1,6 @@
 # TKG (Schranz)
 
-TKG (Schranz) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
+TKG (Schranz) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
 
 TKG (Schranz) is an industrial and techno artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Miyuki Omura and TYPE-O RISK SYSTEM. Next up: Asakusa Stella, Tokyo on Sat 14 Nov.
 
@@ -14,4 +14,4 @@ TKG (Schranz) is an industrial and techno artist based in Japan, tracked on soun
 
 Miyuki Omura, TYPE-O RISK SYSTEM
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tkgschranz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tkgschranz/)*

@@ -1,6 +1,6 @@
 # MÖSEE
 
-MÖSEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 27 Sept 2026.
+MÖSEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 27 Sept 2026.
 
 MÖSEE is a house and techno artist based in Iran, tracked on soundcheck, with 22 sets logged across Detroit, New York City, San Diego and Washington DC. Often billed alongside Eric Yaz, enz.O and Jus Nowhere. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ MÖSEE is a house and techno artist based in Iran, tracked on soundcheck, with 2
 
 ## Recently played
 
+- Eighteenth Street Lounge (ESL), Washington DC — Sun, 27 Sept 2026
 - Flash, Washington DC — Sat, 26 Sept 2026
 - Flash, Washington DC — Fri, 17 Jul 2026
 - El Secreto De Rosita, Washington DC — Fri, 19 Jun 2026
@@ -19,10 +20,9 @@ MÖSEE is a house and techno artist based in Iran, tracked on soundcheck, with 2
 - Apollo Studio, New York City — Sat, 2 May 2026
 - 618 DC, Washington DC — Fri, 1 May 2026
 - 618 Cocktail and Whiskey Lounge, Washington DC — Sat, 21 Mar 2026
-- Flash, Washington DC — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Eric Yaz, enz.O, Jus Nowhere
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*

@@ -1,6 +1,6 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Megatronic is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Megatronic is a house and disco artist based in United Kingdom, tracked on sound
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

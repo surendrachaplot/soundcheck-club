@@ -1,6 +1,6 @@
 # Egopusher
 
-Egopusher is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Egopusher is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Egopusher is an electronic artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside Anika, Efterklang and Erlend Øye. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Egopusher is an electronic artist based in Switzerland, tracked on soundcheck, w
 
 Anika, Efterklang, Erlend Øye
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egopusher/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egopusher/)*

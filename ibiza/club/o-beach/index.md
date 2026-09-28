@@ -1,6 +1,6 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "LA FIESTA!" on Mon, 28 Sept 2026.
+O Beach is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "LA FIESTA!" on Mon, 28 Sept 2026.
 
 O Beach is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
@@ -23,4 +23,4 @@ O Beach is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs. Browse
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

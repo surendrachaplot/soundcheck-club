@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
+Luciano is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
 Luciano is a house and tech house artist based in Switzerland, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: DC-10, Ibiza on Mon 28 Sept.
 
@@ -29,4 +29,4 @@ Luciano is a house and tech house artist based in Switzerland, tracked on soundc
 
 Sossa, Marco Carola, Prospa
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

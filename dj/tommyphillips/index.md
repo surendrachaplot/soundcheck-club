@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Tommy Phillips is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Tommy Phillips is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Tommy Phillips is a tech house and house artist based in United Kingdom, tracked
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

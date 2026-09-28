@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sonica Club - Loma Doom / DEBONAIR" on Fri, 2 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sonica Club - Loma Doom / DEBONAIR" on Fri, 2 Oct 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including Aba Shanti-I, ACHIRĀ, Angel Negrin and Autumns and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs,
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

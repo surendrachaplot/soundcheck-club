@@ -1,6 +1,6 @@
 # DEFAM
 
-DEFAM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
+DEFAM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
 
 DEFAM is a house and deep house artist based in Italy, tracked on soundcheck, with 2 sets logged across Barcelona and London. Often billed alongside Anya (UK), FAE and FAIDE. Next up: The Cross, London on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ DEFAM is a house and deep house artist based in Italy, tracked on soundcheck, wi
 
 Anya (UK), FAE (3), FAIDE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/defam/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/defam/)*

@@ -1,6 +1,6 @@
 # Joopiter
 
-Joopiter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Joopiter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
 Joopiter is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across New York City and Vancouver. Often billed alongside Amber Valentine, The Illustrious Blacks and Bodegaparty. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Joopiter is a house and techno artist based in United States of America, tracked
 
 Amber Valentine, The Illustrious Blacks, Bodegaparty
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joopiter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joopiter/)*

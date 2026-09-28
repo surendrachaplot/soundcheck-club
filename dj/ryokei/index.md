@@ -1,6 +1,6 @@
 # RYOKEI
 
-RYOKEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at WOMB, Tokyo on Sat, 24 Oct 2026.
+RYOKEI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
 RYOKEI is a techno and house artist based in Japan, tracked on soundcheck, with 57 sets logged across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside P-YAN, Satoshi Otsuki and YAMARCHY. Next up: WOMB, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ RYOKEI is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 P-YAN, Satoshi Otsuki, YAMARCHY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*

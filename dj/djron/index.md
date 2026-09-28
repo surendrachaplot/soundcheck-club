@@ -1,8 +1,8 @@
-# DJ Ron
+# DJRon
 
-DJ Ron is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+DJRon is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
-DJ Ron is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
+DJRon is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Ray Keith. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Ron is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 DJ Brockie, Jumping Jack Frost, Ray Keith
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*

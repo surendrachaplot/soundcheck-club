@@ -1,6 +1,6 @@
 # Althea's Rooftop
 
-Althea's Rooftop is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Industry Mondays" on Mon, 28 Sept 2026.
+Althea's Rooftop is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Industry Mondays" on Mon, 28 Sept 2026.
 
 Althea's Rooftop is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including GIO (AR). Browse upcoming dates, start times and who's playing. 634 west 52 str New york.
 
@@ -15,4 +15,4 @@ Althea's Rooftop is a music venue in New York City listed on soundcheck. 2 upcom
 
 634 west 52 str New york, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*

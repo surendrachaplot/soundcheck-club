@@ -1,6 +1,6 @@
 # Baronhawk Poitier
 
-Baronhawk Poitier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, New York City on Fri, 2 Oct 2026.
+Baronhawk Poitier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, New York City on Fri, 2 Oct 2026.
 
 Baronhawk Poitier is a house and techno artist based in United States of America, tracked on soundcheck, with 113 sets logged across Berlin, Denver, Detroit and Los Angeles and 4 more. Often billed alongside Joyce Lim, Tommy Cornelis and Jacq Jill. Next up: TBA, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Baronhawk Poitier is a house and techno artist based in United States of America
 
 Joyce Lim, Tommy Cornelis, Jacq Jill
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baronhawkpoitier/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baronhawkpoitier/)*

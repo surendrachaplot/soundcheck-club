@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
+Louise Plus One is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
 
 Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: FORGE, Sheffield on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

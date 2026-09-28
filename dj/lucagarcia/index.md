@@ -1,6 +1,6 @@
 # Luca Garcia
 
-Luca Garcia is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at OXI, Berlin on Sat, 17 Oct 2026.
+Luca Garcia is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Sat, 17 Oct 2026.
 
 Luca Garcia is a disco and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside ANNASNEL, ATTA (GER) and Andrea Zadro. Next up: OXI, Berlin on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Luca Garcia is a disco and house artist based in Germany, tracked on soundcheck,
 
 ANNASNEL, ATTA (GER), Andrea Zadro
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucagarcia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucagarcia/)*

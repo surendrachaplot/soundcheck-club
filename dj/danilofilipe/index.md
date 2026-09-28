@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
 Danilo Filipe is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Freiburg and Lisbon and 1 more. Often billed alongside DJ SPORTSCHUH, Lisek and BNZN. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Danilo Filipe is a techno and trance artist based in Germany, tracked on soundch
 
 DJ SPORTSCHUH, Lisek, BNZN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

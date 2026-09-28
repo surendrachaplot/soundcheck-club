@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Lechuga Zafiro is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Lechuga Zafiro is a techno and experimental artist based in Uruguay, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Verraco, upsammy and Animistic Beliefs. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Lechuga Zafiro is a techno and experimental artist based in Uruguay, tracked on 
 
 Verraco, upsammy, Animistic Beliefs
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

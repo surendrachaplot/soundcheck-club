@@ -1,6 +1,6 @@
 # Millbank Millennium Pier
 
-Millbank Millennium Pier is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Flex FM - Firework Boat Party (Millbank Millennium Pier)" on Sat, 7 Nov 2026.
+Millbank Millennium Pier is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Flex FM - Firework Boat Party (Millbank Millennium Pier)" on Sat, 7 Nov 2026.
 
 Millbank Millennium Pier is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Millbank Millennium Pier is a music venue in London listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Flex FM - Firework Boat Party (Millbank Millennium Pier) |  |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/millbank-millennium-pier/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/millbank-millennium-pier/)*

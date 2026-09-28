@@ -1,6 +1,6 @@
 # JMF
 
-JMF is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
+JMF is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
 JMF is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside Rob Da Rhythm, Act of Rage and Bracken. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ JMF is a hardcore and gabber artist based in United Kingdom, tracked on soundche
 
 Rob Da Rhythm, Act of Rage, Bracken
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmf/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmf/)*

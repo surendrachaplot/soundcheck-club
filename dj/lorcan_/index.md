@@ -1,6 +1,6 @@
 # lorcan_
 
-lorcan_ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Greyhound, London on Fri, 9 Oct 2026.
+lorcan_ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Greyhound, London on Fri, 9 Oct 2026.
 
 lorcan_ is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Bobby Mac, Butch Attai and Luudo. Next up: The Greyhound, London on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ lorcan_ is a house and techno artist based in United Kingdom, tracked on soundch
 
 Bobby Mac, Butch Attai, Luudo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcan_/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcan_/)*

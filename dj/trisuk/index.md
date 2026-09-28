@@ -1,6 +1,6 @@
 # Tris (UK)
 
-Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at XOYO, London on Sat, 21 Nov 2026.
+Tris (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at XOYO, London on Sat, 21 Nov 2026.
 
 Tris (UK) is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Berlin, Birmingham, London and Malta and 2 more. Often billed alongside GYS (TT), Nour (UK) and Naws. Next up: XOYO, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tris (UK) is a progressive house and deep house artist based in United Kingdom, 
 
 GYS (TT), Nour (UK), Naws
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trisuk/)*

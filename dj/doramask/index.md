@@ -1,6 +1,6 @@
 # Dora Mask
 
-Dora Mask is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SMUT Athens, Athens on Sat, 24 Oct 2026.
+Dora Mask is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SMUT Athens, Athens on Sat, 24 Oct 2026.
 
 Dora Mask is a techno and electro artist tracked on soundcheck, with 62 sets logged across Athens. Often billed alongside IMPVLSIV, ClubKid and Icarus in love. Next up: SMUT Athens, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dora Mask is a techno and electro artist tracked on soundcheck, with 62 sets log
 
 IMPVLSIV, ClubKid, Icarus in love
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*

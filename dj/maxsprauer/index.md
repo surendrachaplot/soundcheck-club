@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
+Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 106 sets logged across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Shvili, Rama NYC and CAMILLA. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 106 sets lo
 
 Shvili, Rama NYC, CAMILLA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

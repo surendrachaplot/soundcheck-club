@@ -1,6 +1,6 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
+GEISTFREI is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
 
 GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: TBA, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck
 
 Verhall, Melchiorr, Colum Urton
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*

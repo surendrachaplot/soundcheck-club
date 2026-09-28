@@ -1,6 +1,6 @@
 # Priorat
 
-Priorat is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 23 Oct 2026.
+Priorat is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 23 Oct 2026.
 
 Priorat is an electronica and club artist tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside ABSIS, Adria (ES) and Ale Hope. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Priorat is an electronica and club artist tracked on soundcheck, with 15 sets lo
 
 ABSIS, Adria (ES), Ale Hope
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/priorat/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/priorat/)*

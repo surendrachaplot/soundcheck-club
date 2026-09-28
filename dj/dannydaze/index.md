@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Los Globos, Los Angeles on Sat, 3 Oct 2026.
+Danny Daze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Los Globos, Los Angeles on Sat, 3 Oct 2026.
 
 Danny Daze is a house and techno artist based in United States of America, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Nick León. Next up: Los Globos, Los Angeles on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Danny Daze is a house and techno artist based in United States of America, track
 
 Will Renuart, Jonny From Space, Nick León
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

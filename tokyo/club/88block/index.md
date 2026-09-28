@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Re:cital" on Fri, 2 Oct 2026.
+88block is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Re:cital" on Fri, 2 Oct 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Acrocanthosaurus, LOQU, Mykey and Submerse. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -14,4 +14,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

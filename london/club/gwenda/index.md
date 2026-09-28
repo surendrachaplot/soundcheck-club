@@ -1,6 +1,6 @@
 # Gwenda
 
-Gwenda is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Andy Caruso -- Vinyl Only" on Fri, 2 Oct 2026.
+Gwenda is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Andy Caruso -- Vinyl Only" on Fri, 2 Oct 2026.
 
 Gwenda is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Caruso, Aur0m, Benebe and Bosq and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Gwenda is a music venue in London listed on soundcheck. 4 upcoming gigs, with li
 | Sat, 10 Oct 2026 | VBRAVE & Friends: All Vinyl, All Night | Aur0m, Benebe, MAÏS |
 | Sun, 18 Oct 2026 | AMO MÁS Love More. Dance Longer | Johnny Fiore |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gwenda/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gwenda/)*

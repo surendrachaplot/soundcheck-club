@@ -1,6 +1,6 @@
 # Naco (2)
 
-Naco (2) is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 3 Oct 2026.
+Naco (2) is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 3 Oct 2026.
 
 Naco is a techno and bass artist based in Japan, tracked on soundcheck, with 69 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, sintaro fujita and Vís. Next up: Chika-Ikkai, Osaka on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Naco is a techno and bass artist based in Japan, tracked on soundcheck, with 69 
 
 Ryogo, sintaro fujita (2), Vís (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naco-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naco-2/)*

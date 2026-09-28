@@ -1,6 +1,6 @@
 # Bimbo
 
-Bimbo is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Bimbo is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Bimbo is a downtempo and electronica artist tracked on soundcheck, with 1 set logged across Mexico City. Often billed alongside Aera, Alytta and Camila Valero. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -18,4 +18,4 @@ Bimbo is a downtempo and electronica artist tracked on soundcheck, with 1 set lo
 
 Aera, Alytta, Camila Valero
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bimbo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bimbo/)*

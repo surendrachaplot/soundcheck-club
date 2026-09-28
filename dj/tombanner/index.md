@@ -1,6 +1,6 @@
 # Tom Banner
 
-Tom Banner is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
+Tom Banner is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
 Tom Banner is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Amsterdam and Barcelona. Often billed alongside David J Newton, Jaap Ligthart and Oscar Rosmano. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Tom Banner is a progressive house and deep house artist based in United Kingdom,
 
 David J Newton, Jaap Ligthart, Oscar Rosmano
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombanner/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombanner/)*

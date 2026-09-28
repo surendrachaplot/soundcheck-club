@@ -1,6 +1,6 @@
 # ALVES (PT)
 
-ALVES (PT) is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+ALVES (PT) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 ALVES (PT) is a house artist tracked on soundcheck, with 3 sets logged across Chicago, Lisbon and Orlando. Often billed alongside ANouch, Adventure Club and Alesso. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ ALVES (PT) is a house artist tracked on soundcheck, with 3 sets logged across Ch
 
 ANouch, Adventure Club, Alesso
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvespt/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvespt/)*

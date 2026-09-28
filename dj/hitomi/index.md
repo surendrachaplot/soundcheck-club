@@ -1,6 +1,6 @@
 # HiTOMi
 
-HiTOMi is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
+HiTOMi is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
 
 HiTOMi is a house and bass artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Seoul and Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ HiTOMi is a house and bass artist based in Japan, tracked on soundcheck, with 33
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*

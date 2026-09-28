@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "MODULE X INNUENDO" on Fri, 2 Oct 2026.
+MODULE is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "MODULE X INNUENDO" on Fri, 2 Oct 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Baime, Balrog, Blackloud and Cakebutcher and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -18,4 +18,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

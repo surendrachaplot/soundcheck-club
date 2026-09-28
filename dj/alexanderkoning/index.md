@@ -1,6 +1,6 @@
 # Alexander Koning
 
-Alexander Koning is a Acid and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Alexander Koning is a Acid and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
 Alexander Koning is an acid and house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Alexander Koning is an acid and house artist based in Netherlands, tracked on so
 
 Erick E, Lucien Foort, Remy Unger
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderkoning/)*

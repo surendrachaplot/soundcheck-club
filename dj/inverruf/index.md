@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
 In Verruf is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ In Verruf is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

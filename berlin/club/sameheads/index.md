@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "syn syn with Mor Elian, Jan Loup & Gramrcy" on Fri, 2 Oct 2026.
+Sameheads is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "syn syn with Mor Elian, Jan Loup & Gramrcy" on Fri, 2 Oct 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Anna Wall, Caillou, Chikiss and Denzel and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

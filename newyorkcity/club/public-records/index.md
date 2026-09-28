@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Atrium: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless" on Sun, 27 Sept 2026.
+public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Atrium: Jump Source, Pilgrims of the Mind [Live], Jennifer Loveless" on Sun, 27 Sept 2026.
 
 public records is a music venue in New York City listed on soundcheck. 32 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 32 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

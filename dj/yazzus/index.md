@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
+Yazzus is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
 
 Yazzus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: TBA - 4211 Todd Ln Suite A, Austin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Yazzus is a techno and house artist based in United Kingdom, tracked on soundche
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

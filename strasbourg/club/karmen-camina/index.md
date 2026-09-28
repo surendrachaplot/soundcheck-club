@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "CONCERT: ZIDANE (live), LA GRÈLE (live)" on Fri, 2 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CONCERT: ZIDANE (live), LA GRÈLE (live)" on Fri, 2 Oct 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with line-ups including Arbo, Danilo Plessow, Disguised and Juri Heidemann and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 12 upcoming g
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

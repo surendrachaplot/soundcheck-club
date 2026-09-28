@@ -1,6 +1,6 @@
 # Hydro Lin
 
-Hydro Lin is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
+Hydro Lin is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
 
 Hydro Lin is a techno and experimental artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside ECHOES and U+0000. Next up: Amma Cafe, New York City on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Hydro Lin is a techno and experimental artist based in United States of America,
 
 ECHOES, U+0000
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hydrolin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hydrolin/)*

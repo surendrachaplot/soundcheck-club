@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Brickworks, Nottingham on Fri, 2 Oct 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Brickworks, Nottingham on Fri, 2 Oct 2026.
 
 Captain Wallop is a garage and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: The Brickworks, Nottingham on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Captain Wallop is a garage and house artist based in United Kingdom, tracked on 
 
 RTK Tarantino, DAISY, MADVILLA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

@@ -1,6 +1,6 @@
 # Stacie Fields
 
-Stacie Fields is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot, Cardiff on Sat, 17 Oct 2026.
+Stacie Fields is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot, Cardiff on Sat, 17 Oct 2026.
 
 Stacie Fields is a house and tech house artist based in Australia, tracked on soundcheck, with 27 sets logged across Cardiff, Ibiza, London and Melbourne and 2 more. Often billed alongside Ben Horton, Jamback and Bella Backe. Next up: Depot, Cardiff on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Stacie Fields is a house and tech house artist based in Australia, tracked on so
 
 Ben Horton, Jamback, Bella Backe
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*

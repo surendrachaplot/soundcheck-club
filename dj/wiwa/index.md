@@ -1,6 +1,6 @@
 # wiwa
 
-wiwa is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Montreal on Sat, 24 Oct 2026.
+wiwa is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Montreal on Sat, 24 Oct 2026.
 
 wiwa is a breakbeat and bass artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal, The Hague, Toronto and Vancouver. Often billed alongside DANTE (CA), K-65 and Runa. Next up: TBA, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ wiwa is a breakbeat and bass artist based in Canada, tracked on soundcheck, with
 
 DANTE (CA), K-65, Runa
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwa/)*

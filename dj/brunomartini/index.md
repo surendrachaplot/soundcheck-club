@@ -1,6 +1,6 @@
 # Bruno Martini
 
-Bruno Martini is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Bruno Martini is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Bruno Martini is an electro and tech house artist tracked on soundcheck, with 4 sets logged across Mexico City, New York City, Santiago and Sao Paulo. Often billed alongside Aaron Hibell, Analu and Anfisa Letyago. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Bruno Martini is an electro and tech house artist tracked on soundcheck, with 4 
 
 Aaron Hibell, Analu, Anfisa Letyago
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunomartini/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunomartini/)*

@@ -1,6 +1,6 @@
 # Ludu
 
-Ludu is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Ludu is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Ludu is an idm and experimental artist based in Taiwan, tracked on soundcheck, with 1 set logged across Bangkok. Often billed alongside Club Mascot, DJ Dragon and DJ Praw. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -14,4 +14,4 @@ Ludu is an idm and experimental artist based in Taiwan, tracked on soundcheck, w
 
 Club Mascot, DJ Dragon, DJ Praw
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludu/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludu/)*

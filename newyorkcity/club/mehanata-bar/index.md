@@ -1,6 +1,6 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 38 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "THE Y2K Parrty at the Legendary Mehanata NYC - 18" on Sat, 3 Oct 2026.
+Mehanata Bar is a music venue in New York City with 38 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "THE Y2K Parrty at the Legendary Mehanata NYC - 18" on Sat, 3 Oct 2026.
 
 Mehanata Bar is a music venue in New York City listed on soundcheck. 38 upcoming gigs. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
@@ -23,4 +23,4 @@ Mehanata Bar is a music venue in New York City listed on soundcheck. 38 upcoming
 
 113, Ludlow street, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

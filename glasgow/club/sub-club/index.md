@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mungo's Hi Fi" on Fri, 2 Oct 2026.
+Sub Club is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mungo's Hi Fi" on Fri, 2 Oct 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including Alarico, Archie Hamilton, Avalon Emerson and AXION and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, wit
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

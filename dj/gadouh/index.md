@@ -1,6 +1,6 @@
 # Gadouh
 
-Gadouh is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Gadouh is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Gadouh is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside ENEO, Lulu (UK) and ORARO. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Gadouh is a techno and progressive house artist based in United Kingdom, tracked
 
 ENEO, Lulu (UK), ORARO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gadouh/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gadouh/)*

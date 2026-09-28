@@ -1,6 +1,6 @@
 # Animwal
 
-Animwal is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Bernard Shaw, Dublin on Sun, 25 Oct 2026.
+Animwal is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bernard Shaw, Dublin on Sun, 25 Oct 2026.
 
 Animwal is a disco and house artist based in Ireland, tracked on soundcheck, with 1 set logged across Dublin. Often billed alongside Catz 'N Dogz. Next up: The Bernard Shaw, Dublin on Sun 25 Oct.
 
@@ -14,4 +14,4 @@ Animwal is a disco and house artist based in Ireland, tracked on soundcheck, wit
 
 Catz 'N Dogz
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animwal/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/animwal/)*

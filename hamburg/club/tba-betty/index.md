@@ -1,6 +1,6 @@
 # TBA - Betty
 
-TBA - Betty is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "AIGEL — Live" on Mon, 28 Sept 2026.
+TBA - Betty is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "AIGEL — Live" on Mon, 28 Sept 2026.
 
 TBA - Betty is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Betty is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. Br
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | AIGEL — Live |  |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/tba-betty/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/tba-betty/)*

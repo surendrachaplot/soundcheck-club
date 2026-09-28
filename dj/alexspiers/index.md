@@ -1,6 +1,6 @@
 # Alex Spiers
 
-Alex Spiers is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at 81 Renshaw Street, Liverpool on Thu, 22 Oct 2026.
+Alex Spiers is a Industrial and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 81 Renshaw Street, Liverpool on Thu, 22 Oct 2026.
 
 Alex Spiers is an industrial and experimental artist tracked on soundcheck, with 2 sets logged across Liverpool. Often billed alongside Groß Aktiv, Jez Thelwell and B.A.G.S. Next up: 81 Renshaw Street, Liverpool on Thu 22 Oct.
 
@@ -18,4 +18,4 @@ Alex Spiers is an industrial and experimental artist tracked on soundcheck, with
 
 Groß Aktiv, Jez Thelwell, B.A.G.S
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexspiers/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexspiers/)*

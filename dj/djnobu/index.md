@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+DJ Nobu is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
 DJ Nobu is a techno and house artist based in Japan, tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Bali and 59 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ DJ Nobu is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

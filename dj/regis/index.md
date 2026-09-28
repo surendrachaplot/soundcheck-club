@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Minimal Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Regis is a Techno and Minimal Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Regis is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Regis is a techno and minimal techno artist based in United Kingdom, tracked on 
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

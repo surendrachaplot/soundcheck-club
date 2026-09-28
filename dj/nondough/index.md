@@ -1,6 +1,6 @@
 # Nondough
 
-Nondough is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sisters, New York City on Fri, 2 Oct 2026.
+Nondough is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sisters, New York City on Fri, 2 Oct 2026.
 
 Nondough is a funk / soul and disco artist tracked on soundcheck, with 25 sets logged across New York City. Often billed alongside Gossamer, Jahveri and Neil Macc. Next up: Sisters, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nondough is a funk / soul and disco artist tracked on soundcheck, with 25 sets l
 
 Gossamer, Jahveri, Neil Macc
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nondough/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nondough/)*

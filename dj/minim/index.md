@@ -1,6 +1,6 @@
 # Minim
 
-Minim is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Minim is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Minim is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Jacksonville. Often billed alongside AK SPORTS, Baalti and Ben Böhmer. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -14,4 +14,4 @@ Minim is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 AK SPORTS, Baalti, Ben Böhmer
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minim/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minim/)*

@@ -1,6 +1,6 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
 
 Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, tracked on soundcheck, with 44 sets logged across Amsterdam, Ibiza, Istanbul and Malta and 1 more. Often billed alongside Abdy, Marixia and OBLX. Next up: The Vault at Gianpula Village, Malta on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, Marixia, OBLX
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

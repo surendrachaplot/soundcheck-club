@@ -1,14 +1,13 @@
 # KOLE AUDRO
 
-KOLE AUDRO is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+KOLE AUDRO is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
-KOLE AUDRO is a progressive house and techno artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Amsterdam and Cyprus. Often billed alongside Spartaque, 8KAYS and AWEN. Next up: Etko, Cyprus on Fri 25 Sept.
+KOLE AUDRO is a progressive house and techno artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Amsterdam and Cyprus. Often billed alongside Spartaque, 8KAYS and AWEN. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Wed, 21 Oct 2026 | Supperclub | Amsterdam |
 
 ## Recently played
@@ -19,4 +18,4 @@ KOLE AUDRO is a progressive house and techno artist based in Lithuania, tracked 
 
 Spartaque, 8KAYS, AWEN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*

@@ -1,6 +1,6 @@
 # DMN DJ
 
-DMN DJ is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 21 Nov 2026.
+DMN DJ is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 21 Nov 2026.
 
 DMN DJ is a techno and electro artist based in France, tracked on soundcheck, with 27 sets logged across Berlin and Paris. Often billed alongside Ben Manson, Nymed and High Low. Next up: La Rotonde Stalingrad, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DMN DJ is a techno and electro artist based in France, tracked on soundcheck, wi
 
 Ben Manson, Nymed, High Low
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmndj/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmndj/)*

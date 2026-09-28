@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Nicolas Lutz is a techno and house artist based in Uruguay, tracked on soundcheck, with 172 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: FOLD, London on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Nicolas Lutz is a techno and house artist based in Uruguay, tracked on soundchec
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

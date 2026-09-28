@@ -1,6 +1,6 @@
 # Ambien Baby
 
-Ambien Baby is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 24 Oct 2026.
+Ambien Baby is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 24 Oct 2026.
 
 Ambien Baby is a techno and minimal techno artist tracked on soundcheck, with 14 sets logged across Berlin, Lisbon, London and Los Angeles and 5 more. Often billed alongside D. Tiffany, Carly Zeng and DJ KILLING. Next up: Japan Monterrey, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ambien Baby is a techno and minimal techno artist tracked on soundcheck, with 14
 
 D. Tiffany, Carly Zeng, DJ KILLING
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambienbaby/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambienbaby/)*

@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Atweed" on Wed, 30 Sept 2026.
+Atdge Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Atweed" on Wed, 30 Sept 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including A-Tweed, Haemi Park, m.bience and NOVA ANIMUS and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, wit
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

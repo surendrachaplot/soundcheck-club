@@ -1,6 +1,6 @@
 # Ëmbyrblume
 
-Ëmbyrblume is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at R Lounge, Tokyo on Wed, 30 Sept 2026.
+Ëmbyrblume is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at R Lounge, Tokyo on Wed, 30 Sept 2026.
 
 Ëmbyrblume is a house and techno artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and ARCK. Next up: R Lounge, Tokyo on Wed 30 Sept.
 
@@ -25,4 +25,4 @@
 
 Yamariki, PUNK N MATRIX, ARCK
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/embyrblume/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/embyrblume/)*

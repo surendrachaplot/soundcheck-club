@@ -1,6 +1,6 @@
 # Atjazz
 
-Atjazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hootananny Brixton, London on Sat, 24 Oct 2026.
+Atjazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hootananny Brixton, London on Sat, 24 Oct 2026.
 
 Atjazz is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Jimpster, Kyri R2 and Neil Pierce. Next up: Hootananny Brixton, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Atjazz is a house and deep house artist based in United Kingdom, tracked on soun
 
 Jimpster, Kyri R2, Neil Pierce
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*

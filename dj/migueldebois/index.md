@@ -1,6 +1,6 @@
 # Miguel De Bois
 
-Miguel De Bois is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
+Miguel De Bois is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
 
 Miguel De Bois is a house and trance artist based in Netherlands, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 15 more. Often billed alongside Kendal, OLIVIA LENSEN and LAMMER. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Miguel De Bois is a house and trance artist based in Netherlands, tracked on sou
 
 Kendal, OLIVIA LENSEN, LAMMER
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migueldebois/)*

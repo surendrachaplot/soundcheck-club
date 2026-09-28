@@ -1,6 +1,6 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Groovetank Live, London on Sat, 12 Dec 2026.
+SONI LOBO is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Groovetank Live, London on Sat, 12 Dec 2026.
 
 SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside D LAI, Dimanté and Any Koh. Next up: Groovetank Live, London on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ SONI LOBO is a techno and minimal techno artist based in United Kingdom, tracked
 
 D LAI, Dimanté, Any Koh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

@@ -1,6 +1,6 @@
 # An Chen
 
-An Chen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OST, Berlin on Fri, 2 Oct 2026.
+An Chen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Fri, 2 Oct 2026.
 
 An Chen is a techno and trance artist based in Taiwan, tracked on soundcheck, with 23 sets logged across Berlin, Hamburg, Miami and Munich and 2 more. Often billed alongside Amo (IT), Meka and Purdy. Next up: OST, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ An Chen is a techno and trance artist based in Taiwan, tracked on soundcheck, wi
 
 Amo (IT), Meka, Purdy
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*

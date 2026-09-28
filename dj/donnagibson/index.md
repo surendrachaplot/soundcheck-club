@@ -1,6 +1,6 @@
 # Donna Gibson
 
-Donna Gibson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Donna Gibson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
 Donna Gibson is a disco and house artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Young Pulse, Aï Smash and Chris Wheatley. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Donna Gibson is a disco and house artist based in France, tracked on soundcheck,
 
 Young Pulse, Aï Smash, Chris Wheatley
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*

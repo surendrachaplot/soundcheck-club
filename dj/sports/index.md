@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+AK SPORTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 AK SPORTS is a techno and house artist based in Australia, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 35 more. Often billed alongside Bianca Oblivion, Sara Landry and Star Eyes. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ AK SPORTS is a techno and house artist based in Australia, tracked on soundcheck
 
 Bianca Oblivion, Sara Landry, Star Eyes
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sports/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sports/)*

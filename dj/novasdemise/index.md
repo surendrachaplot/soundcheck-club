@@ -1,6 +1,6 @@
 # novasdemise
 
-novasdemise is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
+novasdemise is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
 
 novasdemise is an experimental and club artist tracked on soundcheck, with 16 sets logged across London and Manchester. Often billed alongside Naramnesia, Ship Sket and glas___skin. Next up: The Greyhound, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ novasdemise is an experimental and club artist tracked on soundcheck, with 16 se
 
 Naramnesia, Ship Sket, glas___skin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novasdemise/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novasdemise/)*

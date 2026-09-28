@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
+bradeazy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
 
 bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

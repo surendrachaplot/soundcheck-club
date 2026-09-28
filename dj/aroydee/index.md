@@ -1,6 +1,6 @@
 # Aroy Dee
 
-Aroy Dee is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
+Aroy Dee is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
 
 Aroy Dee is a techno and disco artist tracked on soundcheck, with 20 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Bohm, Aroy and Afra. Next up: Onder Hans, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Aroy Dee is a techno and disco artist tracked on soundcheck, with 20 sets logged
 
 Bohm, Aroy, Afra
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroydee/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroydee/)*

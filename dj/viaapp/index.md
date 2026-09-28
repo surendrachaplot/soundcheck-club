@@ -1,6 +1,6 @@
 # Via App
 
-Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Green Room NYC, New York City on Sat, 24 Oct 2026.
+Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Green Room NYC, New York City on Sat, 24 Oct 2026.
 
 Via App is a techno and experimental artist based in United States of America, tracked on soundcheck, with 48 sets logged across Austin, Berlin, Milan and Montreal and 3 more. Often billed alongside Juliana Huxtable, Sausha and LOKA (US). Next up: Green Room NYC, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Via App is a techno and experimental artist based in United States of America, t
 
 Juliana Huxtable, Sausha, LOKA (US)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*

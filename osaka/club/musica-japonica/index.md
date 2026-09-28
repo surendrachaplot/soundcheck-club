@@ -1,6 +1,6 @@
 # Musica Japonica
 
-Musica Japonica is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "TECHNOBOU" on Fri, 16 Oct 2026.
+Musica Japonica is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "TECHNOBOU" on Fri, 16 Oct 2026.
 
 Musica Japonica is a music venue in Osaka listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Musica Japonica is a music venue in Osaka listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TECHNOBOU |  |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/musica-japonica/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/musica-japonica/)*

@@ -1,6 +1,6 @@
 # IPAR
 
-IPAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
+IPAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
 
 IPAR is a techno and trance artist based in Hungary, tracked on soundcheck, with 3 sets logged across Berlin and Budapest. Often billed alongside Alexa Fluor, Alina Viktoria and BLZS. Next up: Atno, Budapest on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ IPAR is a techno and trance artist based in Hungary, tracked on soundcheck, with
 
 Alexa Fluor, Alina Viktoria, BLZS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ipar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ipar/)*

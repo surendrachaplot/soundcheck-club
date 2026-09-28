@@ -1,6 +1,6 @@
 # Byter
 
-Byter is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 6 Oct 2026.
+Byter is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 6 Oct 2026.
 
 Byter is an ebm and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside Hex Embrace, Hopelesss and ERINYES. Next up: F8 1192 Folsom, San Francisco/Oakland on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Byter is an ebm and club artist based in United States of America, tracked on so
 
 Hex Embrace, Hopelesss, ERINYES
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byter/)*

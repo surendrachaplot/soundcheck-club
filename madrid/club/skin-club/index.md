@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SKIN MISA: Djen + Reitze + SANDERSWEET" on Sun, 27 Sept 2026.
+Skin Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SKIN MISA: Djen + Reitze + SANDERSWEET" on Sun, 27 Sept 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Buday, Cristian Marras, Djen and DJ TURBO and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -18,4 +18,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

@@ -1,6 +1,6 @@
 # Cowboy Blvck
 
-Cowboy Blvck is a Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
+Cowboy Blvck is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Cowboy Blvck is a club artist based in United States of America, tracked on soundcheck, with 1 set logged across San Francisco/Oakland. Often billed alongside My My, Olivia Lauren and arktoi. Next up: Monarch, San Francisco/Oakland on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ Cowboy Blvck is a club artist based in United States of America, tracked on soun
 
 My My, Olivia Lauren, arktoi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowboyblvck/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowboyblvck/)*

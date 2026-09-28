@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "★★: Sepehr live, MöB, Ella Pavel, Takenaga" on Fri, 2 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "★★: Sepehr live, MöB, Ella Pavel, Takenaga" on Fri, 2 Oct 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Alfred Czital, A/PM, AVHD and aykanakdag and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -21,4 +21,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

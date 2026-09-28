@@ -1,6 +1,6 @@
 # slatergroves
 
-slatergroves is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Toronto on Fri, 23 Oct 2026.
+slatergroves is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Toronto on Fri, 23 Oct 2026.
 
 slatergroves is a techno and bass artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside 999ADJ, Chabalala and DANTE (CA). Next up: TBA, Toronto on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ slatergroves is a techno and bass artist based in Canada, tracked on soundcheck,
 
 999ADJ, Chabalala, DANTE (CA)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slatergroves/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slatergroves/)*

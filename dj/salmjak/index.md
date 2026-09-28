@@ -1,6 +1,6 @@
 # salmjak
 
-salmjak is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
+salmjak is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
 
 salmjak is a house artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Often billed alongside Philo_, Sandilé and Savsannah. Next up: Gewölbe, Cologne on Sat 3 Oct.
 
@@ -14,4 +14,4 @@ salmjak is a house artist based in Germany, tracked on soundcheck, with 1 set lo
 
 Philo_, Sandilé, Savsannah
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salmjak/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salmjak/)*

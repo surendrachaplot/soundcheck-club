@@ -1,6 +1,6 @@
 # pearl
 
-pearl is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at radial, London on Fri, 13 Nov 2026.
+pearl is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at radial, London on Fri, 13 Nov 2026.
 
 pearl is a house and progressive house artist based in Canada, tracked on soundcheck, with 12 sets logged across London, Toronto and Vancouver. Often billed alongside AKU, Milo and Amor Ante. Next up: radial, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ pearl is a house and progressive house artist based in Canada, tracked on soundc
 
 AKU (3), Milo (5), Amor Ante
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pearl/)*

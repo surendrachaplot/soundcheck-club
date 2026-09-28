@@ -1,6 +1,6 @@
 # Devesa
 
-Devesa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Devesa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
 Devesa is a techno and house artist based in Spain, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Berlin and London. Often billed alongside Jimmy Siao (ES), Demofather and Sergi (ES). Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Devesa is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Jimmy Siao (ES), Demofather, Sergi (ES)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*

@@ -1,6 +1,6 @@
 # Chris Lake
 
-Chris Lake is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Chris Lake is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Chris Lake is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Austin, Barcelona, Boston and Chicago and 24 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Chris Lake is a house and tech house artist based in United Kingdom, tracked on 
 
 FISHER, Loco Dice, Boys Noize
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*

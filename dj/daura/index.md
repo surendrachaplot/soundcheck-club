@@ -1,6 +1,6 @@
 # Daura
 
-Daura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+Daura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
 Daura is a techno and house artist based in Canada, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Düsseldorf and 20 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Daura is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 Moaad BKR, Mr. Murray, Cosmic JD
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

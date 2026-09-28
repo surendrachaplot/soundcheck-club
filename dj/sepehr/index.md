@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
+Sepehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
 
 Sepehr is a techno and house artist based in United States of America, tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Elena Colombi, Kia (AU) and Objekt. Next up: Ankali & Planeta Za, Prague on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Sepehr is a techno and house artist based in United States of America, tracked o
 
 Elena Colombi, Kia (AU), Objekt
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

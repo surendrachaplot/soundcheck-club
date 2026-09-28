@@ -1,6 +1,6 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Foggy Sunday" on Sun, 27 Sept 2026.
+Spkrbox is a music venue in Detroit with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Foggy Sunday" on Sun, 27 Sept 2026.
 
 Spkrbox is a music venue in Detroit listed on soundcheck. 14 upcoming gigs, with line-ups including A. Garcia, AIDEL, Auntie Chanel and autogyro and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
@@ -23,4 +23,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 14 upcoming gigs, with
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

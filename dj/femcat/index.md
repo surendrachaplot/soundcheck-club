@@ -1,6 +1,6 @@
 # Femcat
 
-Femcat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Romantica, Stuttgart on Sat, 31 Oct 2026.
+Femcat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Romantica, Stuttgart on Sat, 31 Oct 2026.
 
 Femcat is a house and techno artist based in Germany, tracked on soundcheck, with 96 sets logged across Berlin, Stuttgart and Vienna. Often billed alongside Marco Bastone, Jorkes and Alexander Maier. Next up: Romantica, Stuttgart on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Femcat is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Marco Bastone, Jorkes, Alexander Maier
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/femcat/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/femcat/)*

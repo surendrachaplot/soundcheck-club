@@ -1,6 +1,6 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Garage Noord, Amsterdam on Fri, 2 Oct 2026.
+DJ Dustin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Garage Noord, Amsterdam on Fri, 2 Oct 2026.
 
 DJ Dustin is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Bali and Bangkok and 26 more. Often billed alongside Konstantin, Yamour and Map.ache. Next up: Garage Noord, Amsterdam on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ DJ Dustin is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Konstantin, Yamour, Map.ache
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

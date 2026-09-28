@@ -1,6 +1,6 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Dana Ruh is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Dana Ruh is a house and techno artist based in Germany, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Boston and 37 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -30,4 +30,4 @@ Dana Ruh is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

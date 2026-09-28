@@ -1,6 +1,6 @@
 # Fonts
 
-Fonts is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Saloon, Tokyo on Sat, 14 Nov 2026.
+Fonts is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saloon, Tokyo on Sat, 14 Nov 2026.
 
 Fonts is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Tokyo. Often billed alongside A to C, Azumai and SAKO. Next up: Saloon, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fonts is a drum & bass and bass artist based in United Kingdom, tracked on sound
 
 A to C, Azumai, SAKO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fonts/)*

@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
+Carl Cox is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at [UNVRS], Ibiza on Sun, 27 Sept 2026.
 
 Carl Cox is a techno and house artist based in United Kingdom, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Auckland and Austin and 46 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: [UNVRS], Ibiza on Sun 27 Sept.
 
@@ -23,6 +23,7 @@ Carl Cox is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sun, 27 Sept 2026
 - [UNVRS], Ibiza — Sun, 20 Sept 2026
 - Carroponte, Milan — Sat, 19 Sept 2026
 - [UNVRS], Ibiza — Sun, 13 Sept 2026
@@ -30,10 +31,9 @@ Carl Cox is a techno and house artist based in United Kingdom, tracked on soundc
 - Parque Papa Francisco - Bobadela , Loures, Lisbon — Sat, 5 Sept 2026
 - [UNVRS], Ibiza — Sun, 30 Aug 2026
 - Live From Wythenshawe Park, Manchester — Sun, 30 Aug 2026
-- Royal Highland Centre, Edinburgh — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
+Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
 Nizar Sarakbi is a house and techno artist based in Ukraine, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Katia Curie, KATIA and vince. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Nizar Sarakbi is a house and techno artist based in Ukraine, tracked on soundche
 
 Katia Curie, KATIA, vince
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

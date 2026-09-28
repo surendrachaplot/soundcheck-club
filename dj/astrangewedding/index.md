@@ -1,6 +1,6 @@
 # A Strange Wedding
 
-A Strange Wedding is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+A Strange Wedding is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
 
 A Strange Wedding is a techno and bass artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Berlin and Brussels and 23 more. Often billed alongside VEL (MA), Anetha and Spekki Webu. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ A Strange Wedding is a techno and bass artist tracked on soundcheck, with 72 set
 
 VEL (MA), Anetha, Spekki Webu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*

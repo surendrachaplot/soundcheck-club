@@ -1,6 +1,6 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
+Bleach is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
 
 Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: The Flinders, Sydney on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, 
 
 ADAM MUNNINGS, Dj handbag, JUNN GULDUR
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*

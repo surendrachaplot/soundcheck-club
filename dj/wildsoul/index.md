@@ -1,6 +1,6 @@
 # WildSoul
 
-WildSoul is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Unit 58, London on Sat, 3 Oct 2026.
+WildSoul is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unit 58, London on Sat, 3 Oct 2026.
 
 WildSoul is a psytrance and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Apsara, Cressup and L.J. Violet. Next up: Unit 58, London on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ WildSoul is a psytrance and techno artist based in United Kingdom, tracked on so
 
 Apsara, Cressup, L.J. Violet
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildsoul/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wildsoul/)*

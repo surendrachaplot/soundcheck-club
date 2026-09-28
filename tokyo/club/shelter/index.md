@@ -1,6 +1,6 @@
 # SHeLTeR
 
-SHeLTeR is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Gratitude" on Thu, 1 Oct 2026.
+SHeLTeR is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Gratitude" on Thu, 1 Oct 2026.
 
 SHeLTeR is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including TAISEI. Browse upcoming dates, start times and who's playing. 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan.
 
@@ -16,4 +16,4 @@ SHeLTeR is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with li
 
 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan, Tokyo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*

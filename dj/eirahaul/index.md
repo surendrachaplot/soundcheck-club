@@ -1,6 +1,6 @@
 # eira haul
 
-eira haul is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Haus73, Hamburg on Sat, 31 Oct 2026.
+eira haul is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Haus73, Hamburg on Sat, 31 Oct 2026.
 
 eira haul is a house and deep house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg, Kuala Lumpur and Leipzig and 3 more. Often billed alongside Robert Kalb, Christopher Breuer and Reece Walker. Next up: Haus73, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ eira haul is a house and deep house artist based in Germany, tracked on soundche
 
 Robert Kalb, Christopher Breuer, Reece Walker
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*

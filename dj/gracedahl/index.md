@@ -1,6 +1,6 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Virage, Paris on Fri, 9 Oct 2026.
+Grace Dahl is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Virage, Paris on Fri, 9 Oct 2026.
 
 Grace Dahl is a techno and house artist based in Netherlands, tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Virage, Paris on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Grace Dahl is a techno and house artist based in Netherlands, tracked on soundch
 
 Lobster (NL), Blasha & Allatt, Yanamaste
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*

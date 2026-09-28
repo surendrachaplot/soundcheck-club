@@ -1,6 +1,6 @@
 # DON ROHO
 
-DON ROHO is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+DON ROHO is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 DON ROHO is a progressive house and tech house artist based in India, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside AATMA, ANSWER (IN) and Ae:ther. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -14,4 +14,4 @@ DON ROHO is a progressive house and tech house artist based in India, tracked on
 
 AATMA, ANSWER (IN), Ae:ther
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donroho/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donroho/)*

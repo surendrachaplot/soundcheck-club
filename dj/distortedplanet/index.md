@@ -1,6 +1,6 @@
 # Distorted Planet
 
-Distorted Planet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bunker, Turin on Sat, 17 Oct 2026.
+Distorted Planet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bunker, Turin on Sat, 17 Oct 2026.
 
 Distorted Planet is a techno and house artist tracked on soundcheck, with 18 sets logged across Barcelona, Istanbul, Milan and Turin. Often billed alongside Bassik, Kessa and Ectoplasm. Next up: Bunker, Turin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Distorted Planet is a techno and house artist tracked on soundcheck, with 18 set
 
 Bassik, Kessa, Ectoplasm
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/distortedplanet/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/distortedplanet/)*

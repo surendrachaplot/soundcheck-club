@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Elation x URUBORO at The Lucky Cat" on Sun, 4 Oct 2026.
+The Lucky Cat is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Elation x URUBORO at The Lucky Cat" on Sun, 4 Oct 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Aidan Sweeney, BRAD WATTS and SOHAIL. Browse upcoming dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -15,4 +15,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, 
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*

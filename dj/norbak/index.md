@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Nørbak is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
@@ -20,6 +20,7 @@ Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
 - Razzmatazz, Barcelona — Sat, 26 Sept 2026
 - Lux Fragil, Lisbon — Fri, 25 Sept 2026
 - Lofi, Amsterdam — Sat, 19 Sept 2026
@@ -27,10 +28,9 @@ Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, w
 - KHIDI, Tbilisi — Fri, 11 Sept 2026
 - Fuse, Brussels — Sat, 5 Sept 2026
 - Stereo, Montreal — Fri, 14 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Temudo, Quelza, CRAVO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

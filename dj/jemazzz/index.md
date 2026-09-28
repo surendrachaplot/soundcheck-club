@@ -1,6 +1,6 @@
 # Jemazzz
 
-Jemazzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
+Jemazzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
 
 Jemazzz is a techno and house artist based in Czech Republic, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside Misha Jaru, Dj Ojojo and S.Tian. Next up: Bukanyr Boat, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jemazzz is a techno and house artist based in Czech Republic, tracked on soundch
 
 Misha Jaru, Dj Ojojo, S.Tian
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*

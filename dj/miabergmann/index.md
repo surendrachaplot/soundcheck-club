@@ -1,6 +1,6 @@
 # Mia Bergmann
 
-Mia Bergmann is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 23 Oct 2026.
+Mia Bergmann is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 23 Oct 2026.
 
 Mia Bergmann is a house and club artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Felix Herrmann, Yves Taubert and Ana Cover. Next up: Bulbul Berlin, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mia Bergmann is a house and club artist tracked on soundcheck, with 11 sets logg
 
 Felix Herrmann, Yves Taubert, Ana Cover
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miabergmann/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miabergmann/)*

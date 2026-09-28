@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Julya Karma is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
 Julya Karma is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Julya Karma is a house and techno artist tracked on soundcheck, with 98 sets log
 
 Âme, Jimi Jules, Dixon
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

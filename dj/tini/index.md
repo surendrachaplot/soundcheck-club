@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
+tINI is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 tINI is a house and techno artist based in Germany, tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ tINI is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

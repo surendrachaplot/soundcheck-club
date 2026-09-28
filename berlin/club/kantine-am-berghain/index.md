@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Aircraft in Kantine am Berghain" on Mon, 28 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Aircraft in Kantine am Berghain" on Mon, 28 Sept 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Aircraft, Alex Oxley, Alex P. and Do you know Juno and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

@@ -1,6 +1,6 @@
 # FREAKENSTEIN
 
-FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sawmills, Bristol on Sat, 17 Oct 2026.
+FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sawmills, Bristol on Sat, 17 Oct 2026.
 
 FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Anna Wall, Anthea and Bobby.. Next up: Sawmills, Bristol on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked 
 
 Anna Wall, Anthea, Bobby.
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*

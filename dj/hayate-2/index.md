@@ -1,6 +1,6 @@
 # Hayate (2)
 
-Hayate (2) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Hayate (2) is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
 Hayate is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Coretex, Dustvoxx and Dynamax. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
@@ -14,4 +14,4 @@ Hayate is a hardcore and gabber artist based in Japan, tracked on soundcheck, wi
 
 Coretex, Dustvoxx, Dynamax
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayate-2/)*

@@ -1,6 +1,6 @@
 # Yamil
 
-Yamil is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 27 Sept 2026.
+Yamil is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Yamil is an afro house and deep house artist based in Spain, tracked on soundcheck, with 40 sets logged across Barcelona, Frankfurt, Ibiza and Istanbul and 8 more. Often billed alongside PIECES OF LIFE, Thimble and Alfonso Ares. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Yamil is an afro house and deep house artist based in Spain, tracked on soundche
 
 ## Recently played
 
+- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 27 Sept 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 23 Aug 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 30 Jul 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 19 Jul 2026
@@ -19,10 +20,9 @@ Yamil is an afro house and deep house artist based in Spain, tracked on soundche
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 31 May 2026
 - EL SÓTANO, Madrid — Fri, 22 May 2026
 - Nobu Hotel, Barcelona — Fri, 1 May 2026
-- Do Not Sit On The Furniture, Miami — Fri, 9 Jan 2026
 
 ## Shares bills with
 
 PIECES OF LIFE, Thimble, Alfonso Ares
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamil/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamil/)*

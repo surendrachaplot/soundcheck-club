@@ -1,6 +1,6 @@
 # Baby Mango
 
-Baby Mango is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
+Baby Mango is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
 
 Baby Mango is a house and techno artist based in Mexico, tracked on soundcheck, with 34 sets logged across Berlin, Leipzig and Mexico City. Often billed alongside Peter Invasion, Adrien Calvet and Cabizbajo. Next up: CHICO, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Baby Mango is a house and techno artist based in Mexico, tracked on soundcheck, 
 
 Peter Invasion, Adrien Calvet, Cabizbajo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babymango/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babymango/)*

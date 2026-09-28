@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Jeff Mills is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
@@ -23,6 +23,7 @@ Jeff Mills is a techno and house artist based in United States of America, track
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
 - Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
 - Vrachon Theater, Athens — Sun, 20 Sept 2026
 - Bunker, Turin — Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Jeff Mills is a techno and house artist based in United States of America, track
 - MTELUS, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Flava Beach, Naples — Sat, 15 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

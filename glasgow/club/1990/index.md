@@ -1,6 +1,6 @@
 # 1990
 
-1990 is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Samizdat's 5th Birthday" on Thu, 8 Oct 2026.
+1990 is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Samizdat's 5th Birthday" on Thu, 8 Oct 2026.
 
 1990 is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Belle DeHell and HIGHSHIFTING. Browse upcoming dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
@@ -16,4 +16,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

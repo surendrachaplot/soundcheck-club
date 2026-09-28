@@ -1,6 +1,6 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Charlotte (FR) is a house and techno artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Charlotte (FR) is a house and techno artist based in France, tracked on soundche
 
 tINI, ABI (FR), AMEX (UK)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*

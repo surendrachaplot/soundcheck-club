@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Hidden, Manchester on Fri, 6 Nov 2026.
+Origin is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hidden, Manchester on Fri, 6 Nov 2026.
 
 Origin is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside BRAVA, Tailtiu and XS BULLY. Next up: Hidden, Manchester on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Origin is a breakbeat and bass artist based in United Kingdom, tracked on soundc
 
 BRAVA, Tailtiu, XS BULLY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/origin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/origin/)*

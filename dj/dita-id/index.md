@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at National Art School, Sydney on Sun, 18 Oct 2026.
+DITA (ID) is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at National Art School, Sydney on Sun, 18 Oct 2026.
 
 DITA (ID) is a house and balearic artist based in Indonesia, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside PNNY, Archie Dennis and Avalon Emerson. Next up: National Art School, Sydney on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ DITA (ID) is a house and balearic artist based in Indonesia, tracked on soundche
 
 PNNY, Archie Dennis, Avalon Emerson
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

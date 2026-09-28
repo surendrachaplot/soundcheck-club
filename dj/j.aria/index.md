@@ -1,6 +1,6 @@
 # J. Aria
 
-J. Aria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
+J. Aria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
 
 J. Aria is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and New York City. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: radial, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ J. Aria is a house and techno artist based in United Kingdom, tracked on soundch
 
 Joshua James, Nadine Noor, ASHTREY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*

@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Rooléh + NIIKA" on Thu, 1 Oct 2026.
+Volt Club Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Rooléh + NIIKA" on Thu, 1 Oct 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Giulio Domi, NIIKA, Rooléh and Toman. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

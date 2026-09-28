@@ -1,6 +1,6 @@
 # Vicenta
 
-Vicenta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
+Vicenta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 Vicenta is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across London, New York City and Philadelphia. Often billed alongside Chancleta, DeJota and ADAB. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vicenta is a techno and house artist based in United States of America, tracked 
 
 Chancleta, DeJota, ADAB
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*

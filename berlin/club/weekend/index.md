@@ -1,6 +1,6 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "after hours [Marathon Party by Ante]" on Sun, 27 Sept 2026.
+Weekend is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "after hours [Marathon Party by Ante]" on Sun, 27 Sept 2026.
 
 Weekend is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including A.M.R, Anna Belove, BOHO and Dennis Beutler and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with 
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

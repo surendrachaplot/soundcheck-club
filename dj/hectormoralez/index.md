@@ -1,6 +1,6 @@
 # Hector Moralez
 
-Hector Moralez is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Hector Moralez is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Hector Moralez is a house and tech house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Denver, Los Angeles and Manchester and 4 more. Often billed alongside J-Dub, DJ Dazy and Jason Hodges. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Hector Moralez is a house and tech house artist based in United States of Americ
 
 J-Dub, DJ Dazy, Jason Hodges
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormoralez/)*

@@ -1,6 +1,6 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Paloma, Berlin on Sat, 10 Oct 2026.
+MASCHA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sat, 10 Oct 2026.
 
 MASCHA is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Crille & Tamalt. Next up: Paloma, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ MASCHA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Black Mirror Park, Ursula Prawn, Crille & Tamalt
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*

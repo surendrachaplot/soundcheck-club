@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 169 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

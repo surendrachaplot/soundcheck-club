@@ -1,6 +1,6 @@
 # FROGR
 
-FROGR is a Trance and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+FROGR is a Trance and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 FROGR is a trance and minimal techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside C-systems, DJMrB and Sago. Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ FROGR is a trance and minimal techno artist based in Netherlands, tracked on sou
 
 C-systems, DJMrB, Sago
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*

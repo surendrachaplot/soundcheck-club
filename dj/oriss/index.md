@@ -1,6 +1,6 @@
 # ORISS
 
-ORISS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+ORISS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 ORISS is a house and techno artist based in Israel, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside AMARE, AVA Irandoost and African Stevenson. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ ORISS is a house and techno artist based in Israel, tracked on soundcheck, with 
 
 AMARE, AVA Irandoost, African Stevenson
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oriss/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oriss/)*

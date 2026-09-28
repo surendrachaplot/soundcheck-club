@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Kings of Bass presents: General Levy (UK)" on Sat, 3 Oct 2026.
+Mdlr is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Kings of Bass presents: General Levy (UK)" on Sat, 3 Oct 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with line-ups including AEREA, ARESHA, General Levy and Joshua Dillon and 2 more. Browse upcoming dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -16,4 +16,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

@@ -1,6 +1,6 @@
 # Erti Lutaj
 
-Erti Lutaj is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nordstern, Basel on Sat, 17 Oct 2026.
+Erti Lutaj is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nordstern, Basel on Sat, 17 Oct 2026.
 
 Erti Lutaj is an electronic artist based in Albania, tracked on soundcheck, with 7 sets logged across Basel, Milan and Zurich. Often billed alongside Acid Pauli, Adriatique and Agonis. Next up: Nordstern, Basel on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Erti Lutaj is an electronic artist based in Albania, tracked on soundcheck, with
 
 Acid Pauli, Adriatique, Agonis
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ertilutaj/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ertilutaj/)*

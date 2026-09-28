@@ -1,6 +1,6 @@
 # EXIT (2)
 
-EXIT (2) is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Odonien, Cologne on Sat, 24 Oct 2026.
+EXIT (2) is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Odonien, Cologne on Sat, 24 Oct 2026.
 
 EXIT is a minimal techno and deep house artist tracked on soundcheck, with 3 sets logged across Cologne, London and Paris. Often billed alongside Grady Steele, ex.sses and Avocado. Next up: Odonien, Cologne on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ EXIT is a minimal techno and deep house artist tracked on soundcheck, with 3 set
 
 Grady Steele, ex.sses, Avocado
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exit-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exit-2/)*

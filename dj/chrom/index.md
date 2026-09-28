@@ -1,6 +1,6 @@
 # Chrom
 
-Chrom is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Chrom is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Chrom is a house and deep house artist tracked on soundcheck, with 8 sets logged across Berlin, Budapest and Montreal. Often billed alongside isu, DJ Crimson and Absolute Body Control. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Chrom is a house and deep house artist tracked on soundcheck, with 8 sets logged
 
 isu, DJ Crimson, Absolute Body Control
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrom/)*

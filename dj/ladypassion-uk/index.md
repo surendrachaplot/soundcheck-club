@@ -1,6 +1,6 @@
 # Lady Passion
 
-Lady Passion is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Phonox, London on Sat, 10 Oct 2026.
+Lady Passion is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Phonox, London on Sat, 10 Oct 2026.
 
 Lady Passion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Bristol and Dublin and 7 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Phonox, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Lady Passion is a garage and house artist based in United Kingdom, tracked on so
 
 DJ Perception, Jeremy Sylvester, Neffa-T
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*

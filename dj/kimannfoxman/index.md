@@ -1,6 +1,6 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Fri, 9 Oct 2026.
+Kim Ann Foxman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Fri, 9 Oct 2026.
 
 Kim Ann Foxman is a house and techno artist based in United States of America, tracked on soundcheck, with 138 sets logged across Amsterdam, Auckland, Bali and Bangkok and 34 more. Often billed alongside Cora (CN), DJ TOOL and Jen Cardini. Next up: FOLD, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Kim Ann Foxman is a house and techno artist based in United States of America, t
 
 Cora (CN), DJ TOOL, Jen Cardini
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

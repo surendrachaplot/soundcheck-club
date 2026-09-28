@@ -1,6 +1,6 @@
 # Gulec
 
-Gulec is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Gulec is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Gulec is a progressive house and house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Istanbul. Often billed alongside Almost Human (DJ), Althoff and Cris-H. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Gulec is a progressive house and house artist tracked on soundcheck, with 2 sets
 
 Almost Human (DJ), Althoff, Cris-H
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gulec/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gulec/)*

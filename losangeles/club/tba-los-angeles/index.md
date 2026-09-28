@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
 
 TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcom
 | Fri, 20 Nov 2026 | WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More | Adrian Reyes, BB Shaine, David Castellani, FJAAK, Fizch, Lindsey Herbert, Luigi Tozzi, The Lady Machine |
 | Fri, 20 Nov 2026 | WORK Weekender Day 1: Fadi Mohem, Fizch, & Lindsey Herbert | Fadi Mohem, Fizch, Lindsey Herbert |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

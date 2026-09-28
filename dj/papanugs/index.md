@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Papa Nugs is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Papa Nugs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -33,4 +33,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, tracked on sound
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

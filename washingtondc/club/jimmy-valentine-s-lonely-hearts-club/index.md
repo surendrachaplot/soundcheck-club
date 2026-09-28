@@ -1,6 +1,6 @@
 # Jimmy Valentine's Lonely Hearts Club
 
-Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Bass of the Mondays" on Mon, 28 Sept 2026.
+Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Bass of the Mondays" on Mon, 28 Sept 2026.
 
 Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Blasian and DR MILLER. Browse upcoming dates, start times and who's playing. 1103 Bladensburg Road; NE Washington, DC 20002; United States.
 
@@ -15,4 +15,4 @@ Jimmy Valentine's Lonely Hearts Club is a music venue in Washington DC listed on
 
 1103 Bladensburg Road; NE Washington, DC 20002; United States, Washington DC
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/jimmy-valentine-s-lonely-hearts-club/)*

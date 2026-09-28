@@ -1,6 +1,6 @@
 # RACH (3)
 
-RACH (3) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at FORGE, Sheffield on Fri, 4 Dec 2026.
+RACH (3) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 RACH is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Sheffield. Often billed alongside Charla Green, Double O and Equinox (UK). Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -14,4 +14,4 @@ RACH is a jungle and drum & bass artist based in United Kingdom, tracked on soun
 
 Charla Green, Double O, Equinox (UK)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rach-3/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rach-3/)*

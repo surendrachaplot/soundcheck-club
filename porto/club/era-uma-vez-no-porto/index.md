@@ -1,6 +1,6 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "R4W - Rui Azevedo convida Rui Trintaeum" on Wed, 30 Sept 2026.
+Era uma vez no Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "R4W - Rui Azevedo convida Rui Trintaeum" on Wed, 30 Sept 2026.
 
 Era uma vez no Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with line-ups including Rui Azevedo and Rui Trintaeum. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
@@ -18,4 +18,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 5 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

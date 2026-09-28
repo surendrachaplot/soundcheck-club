@@ -1,8 +1,8 @@
-# Chris Stussy
+# CHRIS STASSY
 
-Chris Stussy is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Chris Stussy is a house and techno artist based in Netherlands, tracked on soundcheck, with 284 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
+CHRIS STASSY is a house and techno artist based in Netherlands, tracked on soundcheck, with 284 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Chris Stussy is a house and techno artist based in Netherlands, tracked on sound
 
 ## Recently played
 
+- Ex Base Nato, Naples — Sun, 27 Sept 2026
 - Fabrique, Milan — Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 12 Sept 2026
 - Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ Chris Stussy is a house and techno artist based in Netherlands, tracked on sound
 - District X, Prague — Fri, 11 Sept 2026
 - Echostage, Washington DC — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
-- Radius, Chicago — Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

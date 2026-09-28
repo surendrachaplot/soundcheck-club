@@ -1,6 +1,6 @@
 # s.west
 
-s.west is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 30 Oct 2026.
+s.west is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 30 Oct 2026.
 
 s.west is an electronic artist based in Germany, tracked on soundcheck, with 4 sets logged across Munich. Often billed alongside Bertolt Frech, Calibird and Hannes Turm. Next up: Bahnwärter Thiel, Munich on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ s.west is an electronic artist based in Germany, tracked on soundcheck, with 4 s
 
 Bertolt Frech, Calibird, Hannes Turm
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.west/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.west/)*

@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Rex Club, Paris on Fri, 2 Oct 2026.
+Dam Swindle is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rex Club, Paris on Fri, 2 Oct 2026.
 
 Dam Swindle is a house and disco artist based in Netherlands, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Rex Club, Paris on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Dam Swindle is a house and disco artist based in Netherlands, tracked on soundch
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

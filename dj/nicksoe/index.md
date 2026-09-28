@@ -1,6 +1,6 @@
 # Nick Søe
 
-Nick Søe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at MODULE, Copenhagen on Fri, 2 Oct 2026.
+Nick Søe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at MODULE, Copenhagen on Fri, 2 Oct 2026.
 
 Nick Søe is a techno and house artist based in Denmark, tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside NILU, Anders HP and Eski. Next up: MODULE, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nick Søe is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 NILU, Anders HP, Eski
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksoe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksoe/)*

@@ -1,6 +1,6 @@
 # Louisianaha
 
-Louisianaha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+Louisianaha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 Louisianaha is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin and Munich. Often billed alongside Sabrina Hawk, Kerry Gold and Rafner. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Louisianaha is a house and techno artist tracked on soundcheck, with 14 sets log
 
 Sabrina Hawk, Kerry Gold, Rafner
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisianaha/)*

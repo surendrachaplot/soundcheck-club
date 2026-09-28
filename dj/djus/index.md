@@ -1,6 +1,6 @@
 # DJUS
 
-DJUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 9 Oct 2026.
+DJUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 9 Oct 2026.
 
 DJUS is a techno and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside TWIENA, Alec Dienaar and Cynthia Spiering. Next up: Het Sieraad, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJUS is a techno and trance artist based in Netherlands, tracked on soundcheck, 
 
 TWIENA, Alec Dienaar, Cynthia Spiering
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djus/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djus/)*

@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Giri x Ritmo Lunatico" on Thu, 1 Oct 2026.
+Giri is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Giri x Ritmo Lunatico" on Thu, 1 Oct 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including ANTRO, Bakläxa, Bass and DJ Jones and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with lin
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

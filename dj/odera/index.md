@@ -1,6 +1,6 @@
 # ODERA
 
-ODERA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+ODERA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 ODERA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Kenya and London. Often billed alongside GUREY, dr. Mazza and fAt-lÏP. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ ODERA is a techno and house artist based in United Kingdom, tracked on soundchec
 
 GUREY, dr. Mazza, fAt-lÏP
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odera/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odera/)*

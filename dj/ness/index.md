@@ -1,6 +1,6 @@
 # Ness
 
-Ness is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Ness is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Ness is a techno and trance artist based in Italy, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Andrea Cossu, YUTA and Frank Heise. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ness is a techno and trance artist based in Italy, tracked on soundcheck, with 4
 
 Andrea Cossu, YUTA, Frank Heise
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ness/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ness/)*

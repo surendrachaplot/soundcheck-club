@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados" on Sat, 3 Oct 2026.
+Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados" on Sat, 3 Oct 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Angelinanyulí, alvar., A.N.I. and Ariezzz and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

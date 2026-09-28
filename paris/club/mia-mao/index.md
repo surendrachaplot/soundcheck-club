@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy" on Thu, 1 Oct 2026.
+Mia Mao is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy" on Thu, 1 Oct 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Adame DJ, AISHA, Alba Franch and Anime and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with l
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

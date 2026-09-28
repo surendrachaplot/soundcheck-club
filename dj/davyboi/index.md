@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
+davyboi is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
 
 davyboi is a techno and trance artist based in Germany, tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: MÄX, Zurich on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ davyboi is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

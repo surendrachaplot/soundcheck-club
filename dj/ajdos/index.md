@@ -1,6 +1,6 @@
 # Ajdos
 
-Ajdos is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Buenos Aires on Fri, 16 Oct 2026.
+Ajdos is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Buenos Aires on Fri, 16 Oct 2026.
 
 Ajdos is a techno and idm artist tracked on soundcheck, with 6 sets logged across Buenos Aires. Often billed alongside Istvan Roux, Ehndo and Forest On Stasys. Next up: TBA, Buenos Aires on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Ajdos is a techno and idm artist tracked on soundcheck, with 6 sets logged acros
 
 Istvan Roux, Ehndo, Forest On Stasys
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajdos/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajdos/)*

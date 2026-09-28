@@ -1,6 +1,6 @@
 # DIKKA
 
-DIKKA is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+DIKKA is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 DIKKA is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Zurich. Often billed alongside ATZENPUNK, Ady Toledano and Alex Knapp. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ DIKKA is an electronic artist based in Germany, tracked on soundcheck, with 2 se
 
 ATZENPUNK, Ady Toledano, Alex Knapp
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dikka/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dikka/)*

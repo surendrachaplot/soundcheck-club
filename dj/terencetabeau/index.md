@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Terence Tabeau is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Terence Tabeau is a house and disco artist based in United States of America, tracked on soundcheck, with 58 sets logged across Austin, Miami, Osaka and Tokyo. Often billed alongside Artime, Will Renuart and Danny Daze. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Terence Tabeau is a house and disco artist based in United States of America, tr
 
 Artime, Will Renuart, Danny Daze
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

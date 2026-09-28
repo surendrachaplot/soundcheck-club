@@ -1,6 +1,6 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Ouissam is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
 Ouissam is a house and techno artist based in France, tracked on soundcheck, with 62 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ouissam is a house and techno artist based in France, tracked on soundcheck, wit
 
 Emel, Di Linh, Saint Guel
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

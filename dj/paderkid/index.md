@@ -1,6 +1,6 @@
 # PADERKID
 
-PADERKID is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+PADERKID is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 PADERKID is a house and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ PADERKID is a house and techno artist based in Germany, tracked on soundcheck, w
 
 KEN (DE), DJ PayPaul, Chris Bekker
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*

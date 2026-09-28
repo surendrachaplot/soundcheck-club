@@ -1,6 +1,6 @@
 # Calvin Dunn
 
-Calvin Dunn is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
+Calvin Dunn is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
 
 Calvin Dunn is a house and afro house artist based in United States of America, tracked on soundcheck, with 7 sets logged across London, Los Angeles and New York City. Often billed alongside Shaun Ross, Ashley Younniä and Boy Cordero. Next up: Pico Union Project, Los Angeles on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Calvin Dunn is a house and afro house artist based in United States of America, 
 
 ## Recently played
 
+- Pico Union Project, Los Angeles — Sun, 27 Sept 2026
 - M.O.T, London — Sun, 30 Aug 2026
 - Sunset at EDITION, Los Angeles — Thu, 30 Oct 2025
 - Los Globos, Los Angeles — Thu, 31 Oct 2024
@@ -23,4 +24,4 @@ Calvin Dunn is a house and afro house artist based in United States of America, 
 
 Shaun Ross, Ashley Younniä, Boy Cordero
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvindunn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvindunn/)*

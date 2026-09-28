@@ -1,6 +1,6 @@
 # LOKIDÍ
 
-LOKIDÍ is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+LOKIDÍ is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 LOKIDÍ is an ebm and electro artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Alienata, Clouzer and Dela Nesto. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -14,4 +14,4 @@ LOKIDÍ is an ebm and electro artist based in Germany, tracked on soundcheck, wi
 
 Alienata, Clouzer, Dela Nesto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lokidí/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lokidí/)*

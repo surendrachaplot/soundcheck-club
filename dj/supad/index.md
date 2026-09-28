@@ -1,6 +1,6 @@
 # Supa D
 
-Supa D is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
+Supa D is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
 
 Supa D is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Algarve, Berlin, Birmingham and Bristol and 3 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: TBA - Variety of venues across Albufeira, Algarve on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ Supa D is an afro house and house artist based in United Kingdom, tracked on sou
 
 Shenin Amara, Pioneer, Beezo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*

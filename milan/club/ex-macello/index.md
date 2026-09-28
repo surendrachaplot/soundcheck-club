@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Milan Open Air all'Ex Macello - L'ultimo ballo insieme [free party]" on Sat, 3 Oct 2026.
+Ex Macello is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Milan Open Air all'Ex Macello - L'ultimo ballo insieme [free party]" on Sat, 3 Oct 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Futuro Tropicale, HYLO (IT), Joe Lewandowski and STYLOPHONIC. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -14,4 +14,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 1 upcoming gig, with 
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

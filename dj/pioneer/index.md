@@ -1,6 +1,6 @@
 # Pioneer
 
-Pioneer is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
+Pioneer is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
 
 Pioneer is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Algarve, Amsterdam, Birmingham and Bristol and 2 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: TBA - Variety of venues across Albufeira, Algarve on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Pioneer is a tech house and house artist based in United Kingdom, tracked on sou
 
 Supa D, JAYDAA, Jerome Six
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*

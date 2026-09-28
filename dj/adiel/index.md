@@ -1,14 +1,13 @@
 # Adiel
 
-Adiel is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Adiel is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Adiel is a techno and house artist based in Italy, tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: Etko, Cyprus on Fri 25 Sept.
+Adiel is a techno and house artist based in Italy, tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Etko | Cyprus |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
@@ -34,4 +33,4 @@ Adiel is a techno and house artist based in Italy, tracked on soundcheck, with 2
 
 Héctor Oaks, Nina Kraviz, Marcel Dettmann
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

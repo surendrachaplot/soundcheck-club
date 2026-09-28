@@ -1,6 +1,6 @@
 # Miss Alicia
 
-Miss Alicia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Miss Alicia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
 
 Miss Alicia is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across New York City. Often billed alongside Rose Kourts, JKriv and That Matt. Next up: public records, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Miss Alicia is a house and disco artist based in United States of America, track
 
 Rose Kourts, JKriv, That Matt
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missalicia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missalicia/)*

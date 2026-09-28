@@ -1,6 +1,6 @@
 # Percwerk
 
-Percwerk is a Minimal and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Système, Montreal on Sat, 10 Oct 2026.
+Percwerk is a Minimal and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Système, Montreal on Sat, 10 Oct 2026.
 
 Percwerk is a minimal and dub techno artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal and Toronto. Often billed alongside Fog FM, Evita and Ficilio. Next up: Système, Montreal on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Percwerk is a minimal and dub techno artist based in Canada, tracked on soundche
 
 Fog FM, Evita, Ficilio
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/percwerk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/percwerk/)*

@@ -1,6 +1,6 @@
 # Finger Trips
 
-Finger Trips is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Smolna, Warsaw on Sat, 17 Oct 2026.
+Finger Trips is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Smolna, Warsaw on Sat, 17 Oct 2026.
 
 Finger Trips is a house and techno artist tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Brtinzz, Cyryl and Lacchesi. Next up: Smolna, Warsaw on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Finger Trips is a house and techno artist tracked on soundcheck, with 2 sets log
 
 Brtinzz, Cyryl, Lacchesi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fingertrips/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fingertrips/)*

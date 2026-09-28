@@ -1,6 +1,6 @@
 # LUCIA.
 
-LUCIA. is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
+LUCIA. is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
 
 LUCIA. is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside Brother Bunter, Hidden Order and Pat Bradley. Next up: Happyfun Hideaway, New York City on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ LUCIA. is a techno and breakbeat artist based in United States of America, track
 
 Brother Bunter, Hidden Order, Pat Bradley
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucia./)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucia./)*

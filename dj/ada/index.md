@@ -1,6 +1,6 @@
 # Ada
 
-Ada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Ada is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Ada is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Michael Mayer, Robag Wruhme and DJ Koze. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ada is a house and techno artist based in Germany, tracked on soundcheck, with 3
 
 Michael Mayer, Robag Wruhme, DJ Koze
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*

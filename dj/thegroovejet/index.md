@@ -1,6 +1,6 @@
 # The Groovejet
 
-The Groovejet is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+The Groovejet is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 The Groovejet is a house and pop artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Emma Champagne Queen, Aiscream and Edward Meunier. Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ The Groovejet is a house and pop artist based in Netherlands, tracked on soundch
 
 Emma Champagne Queen, Aiscream, Edward Meunier
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thegroovejet/)*

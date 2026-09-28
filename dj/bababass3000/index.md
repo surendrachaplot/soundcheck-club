@@ -1,6 +1,6 @@
 # BabaBass3000
 
-BabaBass3000 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
+BabaBass3000 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
 
 BabaBass3000 is a trance and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Hamburg and Paris and 3 more. Often billed alongside OSKAMAXX, Baumeister98 and SUITSIDE. Next up: Fridas Pier, Stuttgart on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ BabaBass3000 is a trance and techno artist based in Germany, tracked on soundche
 
 OSKAMAXX, Baumeister98, SUITSIDE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*

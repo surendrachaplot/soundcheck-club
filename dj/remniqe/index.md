@@ -1,6 +1,6 @@
 # Remniqe
 
-Remniqe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+Remniqe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
 
 Remniqe is a house and techno artist based in United States of America, tracked on soundcheck, with 74 sets logged across New York City, San Francisco/Oakland and Tokyo. Often billed alongside DJ Nope, DJ eh and BLCKLST. Next up: Jupiter Disco, New York City on Sun 27 Sept.
 
@@ -13,6 +13,7 @@ Remniqe is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
+- Jupiter Disco, New York City — Sun, 27 Sept 2026
 - Studio 6 Gallery, New York City — Fri, 17 Jul 2026
 - Xanadu, New York City — Sun, 28 Jun 2026
 - Mood Ring, New York City — Fri, 26 Jun 2026
@@ -20,10 +21,9 @@ Remniqe is a house and techno artist based in United States of America, tracked 
 - Melrose Ballroom, New York City — Sat, 30 May 2026
 - Elsewhere, New York City — Sat, 16 May 2026
 - TBA - 30 Meadow St., Brooklyn, New York City — Sat, 9 May 2026
-- Jupiter Disco, New York City — Thu, 7 May 2026
 
 ## Shares bills with
 
 DJ Nope, DJ eh, BLCKLST
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remniqe/)*

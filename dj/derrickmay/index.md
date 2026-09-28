@@ -1,6 +1,6 @@
 # Derrick May
 
-Derrick May is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Moog Club, Barcelona on Fri, 9 Oct 2026.
+Derrick May is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Moog Club, Barcelona on Fri, 9 Oct 2026.
 
 Derrick May is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Belgrade, Detroit and Lyon and 6 more. Often billed alongside Brunson, D-Wynn and Juan Atkins. Next up: Moog Club, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Derrick May is a techno and house artist based in United States of America, trac
 
 Brunson, D-Wynn, Juan Atkins
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*

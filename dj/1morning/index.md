@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cafeteria, Toronto on Sat, 10 Oct 2026.
+1morning is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
 1morning is a techno and club artist based in United States of America, tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
@@ -26,4 +26,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

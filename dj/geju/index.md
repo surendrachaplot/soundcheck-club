@@ -1,6 +1,6 @@
 # Geju
 
-Geju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at BAR Inc, Osaka on Sat, 3 Oct 2026.
+Geju is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BAR Inc, Osaka on Sat, 3 Oct 2026.
 
 Geju is a house and techno artist tracked on soundcheck, with 24 sets logged across Bali, Berlin, Hamburg and Istanbul and 6 more. Often billed alongside Mira, Sven Dohse and Chris Schwarzwälder. Next up: BAR Inc, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Geju is a house and techno artist tracked on soundcheck, with 24 sets logged acr
 
 Mira, Sven Dohse, Chris Schwarzwälder
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geju/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geju/)*

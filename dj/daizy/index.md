@@ -1,6 +1,6 @@
 # Daizy
 
-Daizy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Daizy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Athens, Los Angeles, Miami and New York City and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Daizy is a techno and house artist based in United States of America, tracked on
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

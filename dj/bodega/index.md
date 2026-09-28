@@ -1,6 +1,6 @@
 # Bodega
 
-Bodega is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Future Yard, Liverpool on Fri, 27 Nov 2026.
+Bodega is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Future Yard, Liverpool on Fri, 27 Nov 2026.
 
 Bodega is a post-punk and electronica artist based in Germany, tracked on soundcheck, with 2 sets logged across Liverpool and New York City. Often billed alongside Skel. Next up: Future Yard, Liverpool on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Bodega is a post-punk and electronica artist based in Germany, tracked on soundc
 
 Skel
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodega/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodega/)*

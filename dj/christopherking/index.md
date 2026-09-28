@@ -1,6 +1,6 @@
 # Christopher King
 
-Christopher King is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Metropol, Berlin on Sat, 24 Oct 2026.
+Christopher King is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Metropol, Berlin on Sat, 24 Oct 2026.
 
 Christopher King is a house and pop artist based in United States of America, tracked on soundcheck, with 2 sets logged across Berlin and New York City. Often billed alongside Nicole GS and SKYWALKER (US). Next up: Metropol, Berlin on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Christopher King is a house and pop artist based in United States of America, tr
 
 Nicole GS, SKYWALKER (US)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherking/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherking/)*

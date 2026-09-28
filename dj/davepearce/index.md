@@ -1,6 +1,6 @@
 # Dave Pearce
 
-Dave Pearce is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
+Dave Pearce is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
 
 Dave Pearce is a trance and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Aberdeen, Brighton, Ibiza and Leeds and 5 more. Often billed alongside Lange, Seb Fontaine and Billy Gillies. Next up: NX Newcastle, Newcastle on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dave Pearce is a trance and house artist based in United Kingdom, tracked on sou
 
 Lange, Seb Fontaine, Billy Gillies
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davepearce/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davepearce/)*

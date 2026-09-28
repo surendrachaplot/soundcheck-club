@@ -1,6 +1,6 @@
 # Bruno Bleckmann
 
-Bruno Bleckmann is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
+Bruno Bleckmann is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
 
 Bruno Bleckmann is a house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside maniac&me. Next up: Rosie's Bar, Berlin on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Bruno Bleckmann is a house artist based in Germany, tracked on soundcheck, with 
 
 maniac&me
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobleckmann/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobleckmann/)*

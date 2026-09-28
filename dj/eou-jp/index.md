@@ -1,6 +1,6 @@
 # E.O.U
 
-E.O.U is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
+E.O.U is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
 
 E.O.U is a techno and house artist based in Japan, tracked on soundcheck, with 113 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís, Whatman and Hue Ray. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ E.O.U is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 Vís (1), Whatman, Hue Ray
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*

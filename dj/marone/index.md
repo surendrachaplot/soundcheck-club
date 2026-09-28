@@ -1,6 +1,6 @@
 # Mar'One
 
-Mar'One is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
+Mar'One is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
 Mar'One is a garage and bass artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Tokyo. Often billed alongside MOOTOE, Bakey and Becking. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ Mar'One is a garage and bass artist based in Netherlands, tracked on soundcheck,
 
 MOOTOE, Bakey, Becking
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marone/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marone/)*

@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Club — LA CH!CK: PROJET X" on Thu, 1 Oct 2026.
+Badaboum is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Club — LA CH!CK: PROJET X" on Thu, 1 Oct 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Bennet (DE), Curses, Dana Kuehr and Elise Massoni and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

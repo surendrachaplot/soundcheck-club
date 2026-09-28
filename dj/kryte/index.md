@@ -1,6 +1,6 @@
 # KRYTE
 
-KRYTE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at La Gata del Born, Barcelona on Fri, 2 Oct 2026.
+KRYTE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Gata del Born, Barcelona on Fri, 2 Oct 2026.
 
 KRYTE is a techno and electronica artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside Kolja (TR), Pullär and Gato. Next up: La Gata del Born, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KRYTE is a techno and electronica artist tracked on soundcheck, with 37 sets log
 
 Kolja (TR), Pullär, Gato
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*

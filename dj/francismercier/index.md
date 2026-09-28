@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
+Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
 
 Francis Mercier is an afro house and house artist based in United States of America, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 28 Sept.
 
@@ -35,4 +35,4 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

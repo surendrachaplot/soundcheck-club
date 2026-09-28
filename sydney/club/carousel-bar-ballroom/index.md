@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Carousel Fridays x Bootz N Catz pres. Ilan Bluestone (Anjunabeats)" on Fri, 2 Oct 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Carousel Fridays x Bootz N Catz pres. Ilan Bluestone (Anjunabeats)" on Fri, 2 Oct 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Covsky, DAYZZI, Deaf Toucan and DJ SWISHERMAN and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -23,4 +23,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upco
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

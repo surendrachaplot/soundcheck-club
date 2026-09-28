@@ -1,6 +1,6 @@
 # NOYB
 
-NOYB is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Hoxton Cabin, London on Fri, 27 Nov 2026.
+NOYB is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hoxton Cabin, London on Fri, 27 Nov 2026.
 
 NOYB is a disco and balearic artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam and London. Often billed alongside MAÏS, Benebe and anxiousaaron. Next up: Hoxton Cabin, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ NOYB is a disco and balearic artist based in Italy, tracked on soundcheck, with 
 
 MAÏS, Benebe, anxiousaaron
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noyb/)*

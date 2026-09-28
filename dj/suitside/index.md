@@ -1,6 +1,6 @@
 # SUITSIDE
 
-SUITSIDE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
+SUITSIDE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 16 Oct 2026.
 
 SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, with 67 sets logged across Berlin, Cologne, Munich and Stuttgart and 1 more. Often billed alongside Joey, BabaBass3000 and ASCHENBRENNER. Next up: Fridas Pier, Stuttgart on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, 
 
 Joey (2), BabaBass3000, ASCHENBRENNER
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*

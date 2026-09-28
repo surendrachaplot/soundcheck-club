@@ -1,6 +1,6 @@
 # Dyrtyy
 
-Dyrtyy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
+Dyrtyy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
 Dyrtyy is a techno and trance artist based in Spain, tracked on soundcheck, with 2 sets logged across Berlin and Madrid. Often billed alongside Bruno Brero, CARGO (DE) and GIØ. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Dyrtyy is a techno and trance artist based in Spain, tracked on soundcheck, with
 
 Bruno Brero, CARGO (DE), GIØ (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyrtyy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyrtyy/)*

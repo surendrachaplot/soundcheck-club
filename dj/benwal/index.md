@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Benwal is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 Benwal is a techno and house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

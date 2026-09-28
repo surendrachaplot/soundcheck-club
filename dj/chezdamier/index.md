@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Chez Damier is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Chez Damier is a house and deep house artist based in United States of America, tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Chez Damier is a house and deep house artist based in United States of America, 
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

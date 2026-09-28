@@ -1,6 +1,6 @@
 # Frontliner
 
-Frontliner is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Frontliner is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Frontliner is a bass and hardcore artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Los Angeles, Madrid and San Francisco/Oakland. Often billed alongside Coone, Darren Styles and Yeyo. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Frontliner is a bass and hardcore artist based in Netherlands, tracked on soundc
 
 Coone, Darren Styles, Yeyo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frontliner/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frontliner/)*

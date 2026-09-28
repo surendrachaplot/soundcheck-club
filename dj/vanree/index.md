@@ -1,6 +1,6 @@
 # Vanree
 
-Vanree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
+Vanree is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
 
 Vanree is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside CC:NIELOS, Florian Pas and M A R. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Vanree is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 CC:NIELOS, Florian Pas, M A R
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanree/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanree/)*

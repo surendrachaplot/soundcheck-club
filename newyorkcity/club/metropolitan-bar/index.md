@@ -1,6 +1,6 @@
 # Metropolitan Bar
 
-Metropolitan Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GAY.FM (PLURGBTQ 8===) <3" on Fri, 2 Oct 2026.
+Metropolitan Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "GAY.FM (PLURGBTQ 8===) <3" on Fri, 2 Oct 2026.
 
 Metropolitan Bar is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including BABES The DJ, CMD+JAZMINE, ConCon and Elly DJ and 2 more. Browse upcoming dates, start times and who's playing. 559 Lorimer St, Williamsburg, Brooklyn, NY 11211.
 
@@ -15,4 +15,4 @@ Metropolitan Bar is a music venue in New York City listed on soundcheck. 2 upcom
 
 559 Lorimer St, Williamsburg, Brooklyn, NY 11211, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/metropolitan-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/metropolitan-bar/)*

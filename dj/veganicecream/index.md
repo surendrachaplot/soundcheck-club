@@ -1,6 +1,6 @@
 # VEGANICECREAM
 
-VEGANICECREAM is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
+VEGANICECREAM is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
 
 VEGANICECREAM is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside EVYA, Blck-Swan and FridaY (DE). Next up: Sensorium, Berlin on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ VEGANICECREAM is a techno and tech house artist tracked on soundcheck, with 3 se
 
 EVYA, Blck-Swan, FridaY (DE)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veganicecream/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veganicecream/)*

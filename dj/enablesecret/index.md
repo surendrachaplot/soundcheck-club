@@ -1,6 +1,6 @@
 # Enable Secret
 
-Enable Secret is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
+Enable Secret is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Enable Secret is a trance and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Chicago, Denver, Los Angeles and San Francisco/Oakland. Often billed alongside Purity Filter, Technopagan and Ava Blank. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Enable Secret is a trance and techno artist based in United States of America, t
 
 Purity Filter, Technopagan, Ava Blank
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enablesecret/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enablesecret/)*

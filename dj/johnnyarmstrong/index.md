@@ -1,6 +1,6 @@
 # Johnny Armstrong
 
-Johnny Armstrong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
+Johnny Armstrong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
 
 Johnny Armstrong is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago and London. Often billed alongside Christian Thomas, D A S and DJ Lady D. Next up: TBA, Chicago on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Johnny Armstrong is a techno and house artist based in United States of America,
 
 ## Recently played
 
+- TBA, Chicago — Sun, 27 Sept 2026
 - TBA - Secret Location, Chicago — Fri, 14 Feb 2025
 - CLF Art Lounge, London — Sat, 27 Apr 2024
 - CLF Art Lounge, London — Sat, 20 Apr 2024
@@ -20,4 +21,4 @@ Johnny Armstrong is a techno and house artist based in United States of America,
 
 Christian Thomas, D A S, DJ Lady D
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyarmstrong/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyarmstrong/)*

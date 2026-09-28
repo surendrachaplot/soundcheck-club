@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Juicy Jukebox" on Tue, 29 Sept 2026.
+Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Juicy Jukebox" on Tue, 29 Sept 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -15,4 +15,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

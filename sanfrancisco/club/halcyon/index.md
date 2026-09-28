@@ -1,6 +1,6 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JAY CRUSOE" on Fri, 2 Oct 2026.
+Halcyon is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "JAY CRUSOE" on Fri, 2 Oct 2026.
 
 Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Anyasa, Chus & Ceballos, Konstantin Sibold and Melé and 2 more. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
@@ -23,4 +23,4 @@ Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcom
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

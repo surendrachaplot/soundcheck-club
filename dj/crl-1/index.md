@@ -1,6 +1,6 @@
 # CRL (1)
 
-CRL (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at All My Friends, London on Sat, 3 Oct 2026.
+CRL (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at All My Friends, London on Sat, 3 Oct 2026.
 
 CRL is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, London and Manchester and 3 more. Often billed alongside Damiano, Jos and Alien Communications. Next up: All My Friends, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ CRL is a house and techno artist based in United Kingdom, tracked on soundcheck,
 
 Damiano (2), Jos, Alien Communications
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crl-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crl-1/)*

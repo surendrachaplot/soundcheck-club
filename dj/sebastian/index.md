@@ -1,6 +1,6 @@
 # SebastiAn
 
-SebastiAn is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+SebastiAn is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 SebastiAn is an electro and techno artist based in France, tracked on soundcheck, with 6 sets logged across London, Mexico City and Paris. Often billed alongside Busy P, Tatyana Jane and Erol Alkan. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ SebastiAn is an electro and techno artist based in France, tracked on soundcheck
 
 Busy P, Tatyana Jane, Erol Alkan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastian/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastian/)*

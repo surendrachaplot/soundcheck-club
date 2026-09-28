@@ -1,6 +1,6 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 3 Oct 2026.
+Dyed Soundorom is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Guesthouse, Bucharest on Sat, 3 Oct 2026.
 
 Dyed Soundorom is a house and tech house artist based in France, tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Club Guesthouse, Bucharest on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Dyed Soundorom is a house and tech house artist based in France, tracked on soun
 
 ## Recently played
 
+- Masada, Milan — Sun, 27 Sept 2026
 - REC Napoli, Naples — Sat, 26 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - Fvtvr, Paris — Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ Dyed Soundorom is a house and tech house artist based in France, tracked on soun
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Crobar - Buenos Aires, Buenos Aires — Fri, 21 Aug 2026
 - Starlane São Paulo, Sao Paulo — Thu, 20 Aug 2026
-- Fünk, Mexico City — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

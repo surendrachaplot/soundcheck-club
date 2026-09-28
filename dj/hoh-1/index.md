@@ -1,6 +1,6 @@
 # H0H
 
-H0H is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
+H0H is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
 
 H0H is a techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Fgdj, PW DISTORTION and A4. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ H0H is a techno artist based in Spain, tracked on soundcheck, with 3 sets logged
 
 Fgdj, PW DISTORTION, A4 (2)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoh-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hoh-1/)*

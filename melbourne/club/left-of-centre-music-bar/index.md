@@ -1,6 +1,6 @@
 # Left of Centre Music Bar
 
-Left of Centre Music Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Femme Frequencies #02" on Fri, 2 Oct 2026.
+Left of Centre Music Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Femme Frequencies #02" on Fri, 2 Oct 2026.
 
 Left of Centre Music Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Left of Centre Music Bar is a music venue in Melbourne listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Femme Frequencies #02 |  |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/left-of-centre-music-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/left-of-centre-music-bar/)*

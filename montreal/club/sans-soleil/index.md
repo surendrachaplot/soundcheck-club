@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sans Soleil w/ Fred Everything" on Sun, 27 Sept 2026.
+Sans Soleil is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sans Soleil w/ Fred Everything" on Sun, 27 Sept 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Cidoine, DJ Asma, Fred Everything and Grid and 1 more. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -18,4 +18,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

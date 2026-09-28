@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "O Yuki Conjugate (Live)" on Thu, 1 Oct 2026.
+Outlaws Yacht Club is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "O Yuki Conjugate (Live)" on Thu, 1 Oct 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including FROND, Laura Not, Miles J Paralysis and REES and 1 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -18,4 +18,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

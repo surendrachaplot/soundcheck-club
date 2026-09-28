@@ -1,6 +1,6 @@
 # La Roux
 
-La Roux is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Silencio, Paris on Wed, 30 Sept 2026.
+La Roux is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Silencio, Paris on Wed, 30 Sept 2026.
 
 La Roux is a bass and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Ibiza, London, Paris and San Diego. Often billed alongside Alignment, Amelie Lens and Ben Sterling. Next up: Silencio, Paris on Wed 30 Sept.
 
@@ -20,4 +20,4 @@ La Roux is a bass and techno artist based in Germany, tracked on soundcheck, wit
 
 Alignment, Amelie Lens, Ben Sterling
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laroux/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laroux/)*

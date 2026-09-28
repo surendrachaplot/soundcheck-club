@@ -1,6 +1,6 @@
 # Onelia
 
-Onelia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sala Villanos, Madrid on Fri, 18 Dec 2026.
+Onelia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sala Villanos, Madrid on Fri, 18 Dec 2026.
 
 Onelia is a techno and house artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid and Tokyo. Often billed alongside Cherry Pie, Marcos Boricua and Nebu Mitte. Next up: Sala Villanos, Madrid on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Onelia is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Cherry Pie, Marcos Boricua, Nebu Mitte
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onelia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onelia/)*

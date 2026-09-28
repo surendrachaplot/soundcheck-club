@@ -1,6 +1,6 @@
 # Mario D'Fer
 
-Mario D'Fer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at High Club Room, Madrid on Sat, 3 Oct 2026.
+Mario D'Fer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at High Club Room, Madrid on Sat, 3 Oct 2026.
 
 Mario D'Fer is a house and techno artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Augusto Taito, Brody and ESSTI. Next up: High Club Room, Madrid on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Mario D'Fer is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Augusto Taito, Brody (2), ESSTI
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodfer/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariodfer/)*

@@ -1,6 +1,6 @@
 # Any Koh
 
-Any Koh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Any Koh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
 Any Koh is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Dimanté, D LAI and Folek. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Any Koh is a techno and electro artist based in United Kingdom, tracked on sound
 
 Dimanté, D LAI, Folek
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*

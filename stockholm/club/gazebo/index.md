@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "DAHLIA NIGHTS: WELCOME BACK TO THE CIRCUS" on Sat, 10 Oct 2026.
+Gazebo is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "DAHLIA NIGHTS: WELCOME BACK TO THE CIRCUS" on Sat, 10 Oct 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Ahiram, Anna Almani and Lex Ludlow. Browse upcoming dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -14,4 +14,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with 
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

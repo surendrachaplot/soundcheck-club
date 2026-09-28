@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Bedouin presents SAGA" on Sun, 27 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Bedouin presents SAGA" on Sun, 27 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, 
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

@@ -1,6 +1,6 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Jen Cardini x MUTEK x Nightclubing" on Sun, 18 Oct 2026.
+La Gaîté Lyrique is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Jen Cardini x MUTEK x Nightclubing" on Sun, 18 Oct 2026.
 
 La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Actress, Honeydrip, Jen Cardini and Maara and 1 more. Browse upcoming dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
@@ -16,4 +16,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 3 upcoming gi
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

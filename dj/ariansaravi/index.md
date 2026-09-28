@@ -1,6 +1,6 @@
 # Arian Saravi
 
-Arian Saravi is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Dear Darling, London on Sat, 3 Oct 2026.
+Arian Saravi is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dear Darling, London on Sat, 3 Oct 2026.
 
 Arian Saravi is a minimal and tech house artist based in Sweden, tracked on soundcheck, with 2 sets logged across Copenhagen and London. Often billed alongside Abrahamsson. Next up: Dear Darling, London on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Arian Saravi is a minimal and tech house artist based in Sweden, tracked on soun
 
 Abrahamsson
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariansaravi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariansaravi/)*

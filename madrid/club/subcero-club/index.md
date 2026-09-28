@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SUBCERO x HIDDEN GROOVES & MANDOSTAN" on Thu, 1 Oct 2026.
+Subcero Club is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SUBCERO x HIDDEN GROOVES & MANDOSTAN" on Thu, 1 Oct 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including AL MANDO, DIGUES, Elwei and Emi Koto and 2 more. Browse upcoming dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -23,4 +23,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, 
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

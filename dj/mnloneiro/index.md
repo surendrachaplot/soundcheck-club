@@ -1,6 +1,6 @@
 # Mnl Oneiro
 
-Mnl Oneiro is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
+Mnl Oneiro is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
 
 Mnl Oneiro is an experimental and ambient artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Basel, Milan and Zurich. Often billed alongside Outburst Knobs, Arutani and Atrice. Next up: Masada, Milan on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Mnl Oneiro is an experimental and ambient artist based in Switzerland, tracked o
 
 Outburst Knobs, Arutani, Atrice
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnloneiro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnloneiro/)*

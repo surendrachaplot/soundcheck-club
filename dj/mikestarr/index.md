@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 Mike Starr is a house and techno artist based in United Kingdom, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: FOLD, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Mike Starr is a house and techno artist based in United Kingdom, tracked on soun
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

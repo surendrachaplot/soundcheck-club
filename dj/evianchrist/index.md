@@ -1,6 +1,6 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Sucre, Lyon on Sat, 10 Oct 2026.
+Evian Christ is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Sucre, Lyon on Sat, 10 Oct 2026.
 
 Evian Christ is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside seretide, Torus and Malibu. Next up: Le Sucre, Lyon on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Evian Christ is a trance and techno artist based in United Kingdom, tracked on s
 
 seretide, Torus, Malibu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

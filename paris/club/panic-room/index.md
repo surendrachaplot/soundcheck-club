@@ -1,6 +1,6 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DAUPHINE ON AIR" on Wed, 30 Sept 2026.
+Panic Room is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DAUPHINE ON AIR" on Wed, 30 Sept 2026.
 
 Panic Room is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 15 upcoming gigs, wit
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

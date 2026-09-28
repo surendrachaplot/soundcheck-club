@@ -1,6 +1,6 @@
 # EVYA
 
-EVYA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
+EVYA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
 
 EVYA is a techno and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside April the pink, DERICE and Nadia Bel Air. Next up: Sensorium, Berlin on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ EVYA is a techno and tech house artist based in Germany, tracked on soundcheck, 
 
 April the pink, DERICE, Nadia Bel Air
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*

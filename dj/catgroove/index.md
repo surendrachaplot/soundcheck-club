@@ -1,6 +1,6 @@
 # CAT GROOVE
 
-CAT GROOVE is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nether Club, Bucharest on Fri, 16 Oct 2026.
+CAT GROOVE is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nether Club, Bucharest on Fri, 16 Oct 2026.
 
 CAT GROOVE is a techno artist based in Romania, tracked on soundcheck, with 2 sets logged across Bucharest. Often billed alongside ALISTARM, AMEDEUS and Amnesico. Next up: Nether Club, Bucharest on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ CAT GROOVE is a techno artist based in Romania, tracked on soundcheck, with 2 se
 
 ALISTARM, AMEDEUS, Amnesico
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catgroove/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catgroove/)*

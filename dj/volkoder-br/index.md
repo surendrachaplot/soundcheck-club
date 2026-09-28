@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
+Volkoder is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
 
 Volkoder is a house and tech house artist based in Brazil, tracked on soundcheck, with 21 sets logged across Amsterdam, Austin, Belgrade and Budapest and 9 more. Often billed alongside Mahmut Orhan, CamelPhat and Carl Craig. Next up: Hangar Luke Beograd, Belgrade on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Volkoder is a house and tech house artist based in Brazil, tracked on soundcheck
 
 Mahmut Orhan, CamelPhat, Carl Craig
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

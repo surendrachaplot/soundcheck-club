@@ -1,6 +1,6 @@
 # jardabpm
 
-jardabpm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
+jardabpm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
 jardabpm is a techno and house artist based in Czech Republic, tracked on soundcheck, with 49 sets logged across Berlin and Prague. Often billed alongside zazitech, DDK and ishka machina. Next up: Fuchs2, Prague on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ jardabpm is a techno and house artist based in Czech Republic, tracked on soundc
 
 zazitech, DDK (1), ishka machina
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jardabpm/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jardabpm/)*

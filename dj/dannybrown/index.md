@@ -1,6 +1,6 @@
 # Danny Brown
 
-Danny Brown is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Danny Brown is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Danny Brown is a hip-hop and experimental artist based in United States of America, tracked on soundcheck, with 12 sets logged across Bristol, Brussels, Detroit and Glasgow and 7 more. Often billed alongside 999999999, DJ Godfather and DJ Harvey. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Danny Brown is a hip-hop and experimental artist based in United States of Ameri
 
 999999999, DJ Godfather, DJ Harvey
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybrown/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybrown/)*

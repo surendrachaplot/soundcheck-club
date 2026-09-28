@@ -1,6 +1,6 @@
 # OLIV
 
-OLIV is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+OLIV is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside SAM, jewelry and Felix Lücke. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 SAM (9), jewelry, Felix Lücke
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv-5/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv-5/)*

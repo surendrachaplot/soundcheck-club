@@ -1,6 +1,6 @@
 # Ly Tran
 
-Ly Tran is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Paragon, New York City on Sat, 17 Oct 2026.
+Ly Tran is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paragon, New York City on Sat, 17 Oct 2026.
 
 Ly Tran is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles and New York City. Often billed alongside Pauliewog, Jae-an and Azure. Next up: Paragon, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ly Tran is a club and techno artist based in United States of America, tracked o
 
 Pauliewog, Jae-an, Azure
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*

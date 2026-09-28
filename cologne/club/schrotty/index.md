@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Adrenaline Family Tour" on Fri, 2 Oct 2026.
+Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Adrenaline Family Tour" on Fri, 2 Oct 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Adrian Mills, Andreas Kraemer, anyka and A*S*Y*S and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

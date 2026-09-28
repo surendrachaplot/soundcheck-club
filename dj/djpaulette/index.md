@@ -1,6 +1,6 @@
 # DJ Paulette
 
-DJ Paulette is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+DJ Paulette is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 DJ Paulette is a house and disco artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 20 more. Often billed alongside Graeme Park, Erol Alkan and David Morales. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ Paulette is a house and disco artist based in United Kingdom, tracked on soun
 
 Graeme Park, Erol Alkan, David Morales
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulette/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulette/)*

@@ -1,6 +1,6 @@
 # Merc (IT)
 
-Merc (IT) is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Merc (IT) is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Merc (IT) is a club and trance artist based in Italy, tracked on soundcheck, with 2 sets logged across Brighton and New York City. Often billed alongside ANDROMEDA, Chris Bayne and David Tee. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Merc (IT) is a club and trance artist based in Italy, tracked on soundcheck, wit
 
 ANDROMEDA, Chris Bayne, David Tee
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merc-it/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merc-it/)*

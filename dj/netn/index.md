@@ -1,6 +1,6 @@
 # NETN
 
-NETN is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Skin Club, Madrid on Fri, 16 Oct 2026.
+NETN is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Skin Club, Madrid on Fri, 16 Oct 2026.
 
 NETN is a techno and electronica artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Theia Daja, DJ TURBO and Alejandro Gata. Next up: Skin Club, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ NETN is a techno and electronica artist based in Spain, tracked on soundcheck, w
 
 Theia Daja, DJ TURBO, Alejandro Gata
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*

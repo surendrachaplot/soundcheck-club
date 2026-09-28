@@ -1,6 +1,6 @@
 # Roshan
 
-Roshan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Roshan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
 Roshan is a house and techno artist based in Malaysia, tracked on soundcheck, with 74 sets logged across Kuala Lumpur, Leeds, Melbourne and Munich and 2 more. Often billed alongside JonnyVicious, LZZY and Axel Groove. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Roshan is a house and techno artist based in Malaysia, tracked on soundcheck, wi
 
 JonnyVicious, LZZY, Axel Groove
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*

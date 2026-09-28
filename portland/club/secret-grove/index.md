@@ -1,6 +1,6 @@
 # Secret Grove
 
-Secret Grove is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Objective presents: Current Selections Vol.2" on Fri, 16 Oct 2026.
+Secret Grove is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Objective presents: Current Selections Vol.2" on Fri, 16 Oct 2026.
 
 Secret Grove is a music venue in Portland listed on soundcheck. 2 upcoming gigs, with line-ups including Simon Doty. Browse upcoming dates, start times and who's playing. 1425A NW Flanders St, Portland, OR 97209, USA.
 
@@ -15,4 +15,4 @@ Secret Grove is a music venue in Portland listed on soundcheck. 2 upcoming gigs,
 
 1425A NW Flanders St, Portland, OR 97209, USA, Portland
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*

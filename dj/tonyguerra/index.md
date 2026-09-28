@@ -1,6 +1,6 @@
 # Tony Guerra
 
-Tony Guerra is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Tony Guerra is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
 Tony Guerra is a tech house and house artist based in Venezuela, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Boston and 8 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Tony Guerra is a tech house and house artist based in Venezuela, tracked on soun
 
 ## Recently played
 
+- Cova Santa, Ibiza — Sun, 27 Sept 2026
 - Seaseaclub Barcelona, Barcelona — Fri, 11 Sept 2026
 - Fabrik, Madrid — Sat, 5 Sept 2026
 - Ku Barcelona, Barcelona — Sun, 28 Jun 2026
@@ -19,10 +20,9 @@ Tony Guerra is a tech house and house artist based in Venezuela, tracked on soun
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Fri, 1 May 2026
 - Ku Barcelona, Barcelona — Sun, 8 Mar 2026
 - Autocine Madrid, Madrid — Sat, 7 Mar 2026
-- LAB theCLUB, Madrid — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Mason Collective, Raul Ortiz, CESAR ALMENA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*

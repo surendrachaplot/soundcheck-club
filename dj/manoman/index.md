@@ -1,6 +1,6 @@
 # Manoman
 
-Manoman is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+Manoman is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
 Manoman is a techno and deep house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside GENE, Giammarco Orsini and Julien Simmons. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
@@ -18,4 +18,4 @@ Manoman is a techno and deep house artist based in Netherlands, tracked on sound
 
 GENE, Giammarco Orsini, Julien Simmons
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manoman/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manoman/)*

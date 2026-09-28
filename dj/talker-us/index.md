@@ -1,6 +1,6 @@
 # Talker
 
-Talker is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
+Talker is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
 
 Talker is a club and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City. Often billed alongside Cades, Ali Berger and Alien D. Next up: Bossa Nova Civic Club, New York City on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ Talker is a club and house artist based in United States of America, tracked on 
 
 Cades, Ali Berger, Alien D
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talker-us/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talker-us/)*

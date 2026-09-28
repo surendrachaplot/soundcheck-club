@@ -1,6 +1,6 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
 
 Nick Curly is a house and tech house artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Auckland and Bali and 39 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
 
@@ -31,4 +31,4 @@ Nick Curly is a house and tech house artist based in Germany, tracked on soundch
 
 Easttown, Reboot, Andrew Azara
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

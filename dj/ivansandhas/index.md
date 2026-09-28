@@ -1,6 +1,6 @@
 # Ivan Sandhas
 
-Ivan Sandhas is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
+Ivan Sandhas is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
 
 Ivan Sandhas is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 3 sets logged across Amsterdam, Berlin and Buenos Aires. Often billed alongside AKIVA, Chapa & Castelo and Darien J. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ Ivan Sandhas is a progressive house and techno artist based in Argentina, tracke
 
 AKIVA, Chapa & Castelo, Darien J
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansandhas/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansandhas/)*

@@ -1,6 +1,6 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 27 Sept 2026.
+ButhoTheWarrior is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Cheetah Club, Glasgow on Sun, 27 Sept 2026.
 
 ButhoTheWarrior is a house and disco artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: La Cheetah Club, Glasgow on Sun 27 Sept.
 
@@ -15,6 +15,7 @@ ButhoTheWarrior is a house and disco artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- La Cheetah Club, Glasgow — Sun, 27 Sept 2026
 - Charlies Loft, Glasgow — Fri, 25 Sept 2026
 - Jupiter Artland, Edinburgh — Sat, 5 Sept 2026
 - The Clydeside Halls Briggait, Glasgow — Sat, 25 Jul 2026
@@ -22,10 +23,9 @@ ButhoTheWarrior is a house and disco artist based in United Kingdom, tracked on 
 - Namak Mandi, Glasgow — Sat, 25 Apr 2026
 - Sub Club, Glasgow — Sun, 5 Apr 2026
 - People's Leisure Club, Edinburgh — Fri, 30 Jan 2026
-- Sub Club, Glasgow — Thu, 1 Jan 2026
 
 ## Shares bills with
 
 Optimistic Soul, ELANDA, Harri & Domenic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*

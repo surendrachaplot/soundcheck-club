@@ -1,6 +1,6 @@
 # selo
 
-selo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at PKH Warehouse, Berlin on Wed, 14 Oct 2026.
+selo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Wed, 14 Oct 2026.
 
 selo is a techno and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Calcium Channel, Mister Willis and OLGA BIBER. Next up: PKH Warehouse, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ selo is a techno and tech house artist based in Germany, tracked on soundcheck, 
 
 Calcium Channel, Mister Willis, OLGA BIBER
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selo/)*

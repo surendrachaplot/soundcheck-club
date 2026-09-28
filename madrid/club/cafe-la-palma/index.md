@@ -1,6 +1,6 @@
 # Cafe La Palma
 
-Cafe La Palma is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Teleclub" on Sat, 3 Oct 2026.
+Cafe La Palma is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Teleclub" on Sat, 3 Oct 2026.
 
 Cafe La Palma is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Adrien Calvet, Combret, De Santis and Idriss Reina and 2 more. Browse upcoming dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
@@ -16,4 +16,4 @@ Cafe La Palma is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, 
 
 Calle de la Palma, 62; 28015 Madrid; Spain, Madrid
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*

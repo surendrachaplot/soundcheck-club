@@ -1,6 +1,6 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Of The Trees is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Of The Trees is a bass and house artist tracked on soundcheck, with 14 sets logged across Austin, Chicago, Jacksonville and Los Angeles and 6 more. Often billed alongside Dimension, Excision and Zedd. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Of The Trees is a bass and house artist tracked on soundcheck, with 14 sets logg
 
 Dimension, Excision, Zedd
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

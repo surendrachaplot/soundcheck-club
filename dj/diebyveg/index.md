@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Telegraph Building, Belfast on Sat, 5 Dec 2026.
+DIEBYVEG is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Telegraph Building, Belfast on Sat, 5 Dec 2026.
 
 DIEBYVEG is a house and garage artist based in Ireland, tracked on soundcheck, with 47 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and Faster Horses. Next up: The Telegraph Building, Belfast on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DIEBYVEG is a house and garage artist based in Ireland, tracked on soundcheck, w
 
 Puzzy Wrangler, Surferboy, Faster Horses
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

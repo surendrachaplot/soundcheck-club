@@ -1,6 +1,6 @@
 # Kidsonic
 
-Kidsonic is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Croft, Bristol on Sat, 24 Oct 2026.
+Kidsonic is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Croft, Bristol on Sat, 24 Oct 2026.
 
 Kidsonic is a jungle and drum & bass artist tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Apollo Navigation, Kernel and Promo ZO. Next up: The Croft, Bristol on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Kidsonic is a jungle and drum & bass artist tracked on soundcheck, with 4 sets l
 
 Apollo Navigation, Kernel, Promo ZO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsonic/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsonic/)*

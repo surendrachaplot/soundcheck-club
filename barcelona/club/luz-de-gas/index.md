@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "D.O.D x IYKYK" on Wed, 30 Sept 2026.
+Luz De Gas is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "D.O.D x IYKYK" on Wed, 30 Sept 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including D.O.D. and Massano. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -15,4 +15,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, 
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

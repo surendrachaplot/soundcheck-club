@@ -1,6 +1,6 @@
 # Webster Hall
 
-Webster Hall is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mixmag LAB ft. DJ Habibeats - LIM TIX STILL AVAIL IN COPY" on Sat, 17 Oct 2026.
+Webster Hall is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mixmag LAB ft. DJ Habibeats - LIM TIX STILL AVAIL IN COPY" on Sat, 17 Oct 2026.
 
 Webster Hall is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including 444, Amtrac, DJ Habibeats and Ushka. Browse upcoming dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
 
@@ -17,4 +17,4 @@ Webster Hall is a music venue in New York City listed on soundcheck. 4 upcoming 
 
 125 East 11th Street; New York, NY 10003; United States, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*

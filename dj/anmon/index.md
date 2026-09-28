@@ -1,6 +1,6 @@
 # Anmon
 
-Anmon is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
+Anmon is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
 
 Anmon is an electronic artist based in France, tracked on soundcheck, with 3 sets logged across Paris and Vienna. Often billed alongside AA/XX, A_Phan and Cannonbar. Next up: Kollektiv Kaorle, Vienna on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Anmon is an electronic artist based in France, tracked on soundcheck, with 3 set
 
 AA/XX, A_Phan, Cannonbar
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anmon/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anmon/)*

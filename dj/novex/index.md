@@ -1,6 +1,6 @@
 # NØVEX
 
-NØVEX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
+NØVEX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
 
 NØVEX is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside ACIDG, BOOTHBUNNY and BVNNII. Next up: Mikropol, Berlin on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ NØVEX is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ACIDG, BOOTHBUNNY, BVNNII
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novex/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novex/)*

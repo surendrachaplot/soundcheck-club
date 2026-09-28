@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee" on Fri, 2 Oct 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee" on Fri, 2 Oct 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexandra, Alex Picone, Berto (DE) and Bonza and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

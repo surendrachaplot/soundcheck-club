@@ -1,6 +1,6 @@
 # Marc Kinchen
 
-Marc Kinchen is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 2 Oct 2026.
+Marc Kinchen is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Marc Kinchen is a house and tech house artist based in United States of America, tracked on soundcheck, with 105 sets logged across Antwerp, Austin, Bali and Barcelona and 25 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: Ushuaïa Ibiza, Ibiza on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 
 Calvin Harris, Sonny Fodera, Green Velvet
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*

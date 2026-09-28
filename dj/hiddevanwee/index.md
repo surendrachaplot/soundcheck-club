@@ -1,6 +1,6 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Hidde van Wee is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Hidde van Wee is a house and tech house artist based in Netherlands, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Hidde van Wee is a house and tech house artist based in Netherlands, tracked on 
 
 Sidney Charles, Boss Priester, Benny Rodrigues
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

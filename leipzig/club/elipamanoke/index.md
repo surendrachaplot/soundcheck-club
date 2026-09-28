@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "between x Komorebi" on Wed, 30 Sept 2026.
+elipamanoke is a music venue in Leipzig with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "between x Komorebi" on Wed, 30 Sept 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

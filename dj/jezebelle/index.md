@@ -1,6 +1,6 @@
 # Jezebelle
 
-Jezebelle is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sauna Social Club, London on Sun, 4 Oct 2026.
+Jezebelle is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sauna Social Club, London on Sun, 4 Oct 2026.
 
 Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, London and Sao Paulo. Often billed alongside Aquamarine, ANNX and Izzi. Next up: Sauna Social Club, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundc
 
 Aquamarine, ANNX, Izzi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*

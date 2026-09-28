@@ -1,6 +1,6 @@
 # Maruwa
 
-Maruwa is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Mondo Open Air, Madrid on Sun, 11 Oct 2026.
+Maruwa is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mondo Open Air, Madrid on Sun, 11 Oct 2026.
 
 Maruwa is a house and trance artist based in Germany, tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Mondo Open Air, Madrid on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Maruwa is a house and trance artist based in Germany, tracked on soundcheck, wit
 
 Younger Than Me, Surf 2 Glory, DJ Heartstring
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

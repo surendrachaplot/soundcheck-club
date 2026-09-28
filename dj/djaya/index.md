@@ -1,6 +1,6 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Le Sucre, Lyon on Sun, 4 Oct 2026.
+DJ AYA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Sucre, Lyon on Sun, 4 Oct 2026.
 
 DJ AYA is a techno and house artist based in Switzerland, tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Le Sucre, Lyon on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ DJ AYA is a techno and house artist based in Switzerland, tracked on soundcheck,
 
 DJ Fuckoff, Aaron Blau, DJ Gigola
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

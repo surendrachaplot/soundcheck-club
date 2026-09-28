@@ -1,6 +1,6 @@
 # Amelia Leigh
 
-Amelia Leigh is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
+Amelia Leigh is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
 
 Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 5 more. Often billed alongside Sweetly, Simmo. and NEENZY (UK). Next up: Gorilla, Manchester on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on s
 
 Sweetly, Simmo., NEENZY (UK)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*

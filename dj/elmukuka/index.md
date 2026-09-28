@@ -1,6 +1,6 @@
 # El Mukuka
 
-El Mukuka is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+El Mukuka is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
 El Mukuka is a techno and afro tech artist tracked on soundcheck, with 2 sets logged across Amsterdam and Ibiza. Often billed alongside BADBOX, Jigar and Pascal Morais. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ El Mukuka is a techno and afro tech artist tracked on soundcheck, with 2 sets lo
 
 BADBOX, Jigar, Pascal Morais
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmukuka/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmukuka/)*

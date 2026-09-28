@@ -1,6 +1,6 @@
 # Noxumi
 
-Noxumi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
+Noxumi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
 
 Noxumi is a techno and tech house artist based in Turkey, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside EVYA, Nadia Bel Air and Vantavision. Next up: Sensorium, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Noxumi is a techno and tech house artist based in Turkey, tracked on soundcheck,
 
 EVYA, Nadia Bel Air, Vantavision
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*

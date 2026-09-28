@@ -1,6 +1,6 @@
 # JØSHUA
 
-JØSHUA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
+JØSHUA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 JØSHUA is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside Alex Benz, Linh and co:co. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ JØSHUA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Alex Benz, Linh (2), co:co
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-de/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-de/)*

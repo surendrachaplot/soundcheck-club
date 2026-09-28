@@ -1,6 +1,6 @@
 # Acidic Juice
 
-Acidic Juice is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at BABY01, Berlin on Sat, 5 Dec 2026.
+Acidic Juice is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BABY01, Berlin on Sat, 5 Dec 2026.
 
 Acidic Juice is an electro and bass artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Linnea Mae, OatMilk and anna andersrum. Next up: BABY01, Berlin on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Acidic Juice is an electro and bass artist based in Germany, tracked on soundche
 
 Linnea Mae, OatMilk, anna andersrum
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidicjuice/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidicjuice/)*

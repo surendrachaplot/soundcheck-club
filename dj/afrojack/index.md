@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
+Afrojack is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Boston and Buenos Aires and 19 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: New City Gas, Montreal on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

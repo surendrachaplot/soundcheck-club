@@ -1,6 +1,6 @@
 # Juana
 
-Juana is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Parkside Lounge, New York City on Sun, 11 Oct 2026.
+Juana is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Parkside Lounge, New York City on Sun, 11 Oct 2026.
 
 Juana is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Austin, Berlin, Chicago and Denver and 11 more. Often billed alongside Ne/Re/A, Auspex and Concrete Husband. Next up: The Parkside Lounge, New York City on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Juana is a techno and house artist based in United States of America, tracked on
 
 Ne/Re/A, Auspex, Concrete Husband
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

@@ -1,6 +1,6 @@
 # Ashton Swinton
 
-Ashton Swinton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Ashton Swinton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Ashton Swinton is a techno and house artist based in United States of America, tracked on soundcheck, with 142 sets logged across Berlin, Chicago, Detroit and New York City and 1 more. Often billed alongside Loren, Garrison XR and Kindle. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Ashton Swinton is a techno and house artist based in United States of America, t
 
 Loren, Garrison XR, Kindle
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtonswinton/)*

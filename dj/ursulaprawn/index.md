@@ -1,6 +1,6 @@
 # Ursula Prawn
 
-Ursula Prawn is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
+Ursula Prawn is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
 
 Ursula Prawn is a techno and house artist based in Mexico, tracked on soundcheck, with 96 sets logged across Berlin, Lisbon, London and Madrid and 3 more. Often billed alongside Portugal, sadgal and Celice Monnette. Next up: TBA - Downtown Bellas Artes, Mexico City on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Ursula Prawn is a techno and house artist based in Mexico, tracked on soundcheck
 
 Portugal, sadgal, Celice Monnette
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*

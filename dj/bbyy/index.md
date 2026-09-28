@@ -1,6 +1,6 @@
 # BBYY
 
-BBYY is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+BBYY is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 BBYY is an electronic artist based in Kenya, tracked on soundcheck, with 1 set logged across Kenya. Often billed alongside !Sooks, DJ IV and Ghedi. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -14,4 +14,4 @@ BBYY is an electronic artist based in Kenya, tracked on soundcheck, with 1 set l
 
 !Sooks, DJ IV, Ghedi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyy/)*

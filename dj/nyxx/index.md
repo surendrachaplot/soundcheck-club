@@ -1,6 +1,6 @@
 # Nyxx
 
-Nyxx is a Industrial and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
+Nyxx is a Industrial and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
 
 Nyxx is an industrial and trance artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona and Tokyo. Often billed alongside DREYA, Ana Sclifos and BLONDEX. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
 
@@ -21,4 +21,4 @@ Nyxx is an industrial and trance artist based in Spain, tracked on soundcheck, w
 
 DREYA, Ana Sclifos, BLONDEX
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxx/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxx/)*

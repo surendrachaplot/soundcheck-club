@@ -1,6 +1,6 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
+Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
 Lindsey Herbert is a techno and house artist based in United States of America, tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Fuchs2, Prague on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Lindsey Herbert is a techno and house artist based in United States of America, 
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

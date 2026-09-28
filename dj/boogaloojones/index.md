@@ -1,6 +1,6 @@
 # Boogaloo Jones
 
-Boogaloo Jones is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Système, Montreal on Sun, 11 Oct 2026.
+Boogaloo Jones is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Système, Montreal on Sun, 11 Oct 2026.
 
 Boogaloo Jones is a house and hip-hop artist based in Canada, tracked on soundcheck, with 21 sets logged across Mexico City and Montreal. Often billed alongside Jon Raja, The Curls Crew and Asha. Next up: Système, Montreal on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Boogaloo Jones is a house and hip-hop artist based in Canada, tracked on soundch
 
 Jon Raja, The Curls Crew, Asha (4)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boogaloojones/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boogaloojones/)*

@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "JIM (Live) + Thought Leadership" on Sun, 4 Oct 2026.
+Yes is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "JIM (Live) + Thought Leadership" on Sun, 4 Oct 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Digitalism, Girls of the Internet, Harry Hayes and KD22LR and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

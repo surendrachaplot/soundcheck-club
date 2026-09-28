@@ -1,6 +1,6 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Postal: Sweeney + Lara Sinclair" on Sun, 27 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Postal: Sweeney + Lara Sinclair" on Sun, 27 Sept 2026.
 
 Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming gigs, with line-ups including BORLEY, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming gi
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

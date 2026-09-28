@@ -1,6 +1,6 @@
 # Ander Race
 
-Ander Race is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Ander Race is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 Ander Race is a house and deep house artist based in Spain, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Rick Offen, AN5 (SP) and Awk. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ander Race is a house and deep house artist based in Spain, tracked on soundchec
 
 Rick Offen, AN5 (SP), Awk (2)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*

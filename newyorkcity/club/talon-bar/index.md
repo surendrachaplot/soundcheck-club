@@ -1,6 +1,6 @@
 # Talon Bar
 
-Talon Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SVMMON: Dark Dance Night" on Fri, 9 Oct 2026.
+Talon Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SVMMON: Dark Dance Night" on Fri, 9 Oct 2026.
 
 Talon Bar is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Brad Scott, Jamie K, Joe Hart (US) and Mark Cage. Browse upcoming dates, start times and who's playing. 220 Wyckoff Ave, Brooklyn, New York 11237.
 
@@ -15,4 +15,4 @@ Talon Bar is a music venue in New York City listed on soundcheck. 2 upcoming gig
 
 220 Wyckoff Ave, Brooklyn, New York 11237, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/talon-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/talon-bar/)*

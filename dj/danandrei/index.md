@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at teller, Seoul on Sat, 3 Oct 2026.
+Dan Andrei is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at teller, Seoul on Sat, 3 Oct 2026.
 
 Dan Andrei is a minimal and house artist based in Romania, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: teller, Seoul on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Dan Andrei is a minimal and house artist based in Romania, tracked on soundcheck
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

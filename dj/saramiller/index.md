@@ -1,6 +1,6 @@
 # Sara Miller
 
-Sara Miller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kater, Berlin on Sat, 14 Nov 2026.
+Sara Miller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kater, Berlin on Sat, 14 Nov 2026.
 
 Sara Miller is a house and techno artist based in Ireland, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Benjamin Fröhlich, Rosa Red and Alinka. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sara Miller is a house and techno artist based in Ireland, tracked on soundcheck
 
 Benjamin Fröhlich, Rosa Red, Alinka
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*

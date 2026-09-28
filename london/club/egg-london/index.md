@@ -1,6 +1,6 @@
 # Egg London
 
-Egg London is a music venue in London with 38 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "BREAK THE ICE" on Sun, 27 Sept 2026.
+Egg London is a music venue in London with 38 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "BREAK THE ICE" on Sun, 27 Sept 2026.
 
 Egg London is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including ACA (YU), B3, Beezo and D8V! and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
@@ -23,4 +23,4 @@ Egg London is a music venue in London listed on soundcheck. 38 upcoming gigs, wi
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

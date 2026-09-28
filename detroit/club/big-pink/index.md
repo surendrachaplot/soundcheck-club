@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "NO SKIPS: HIPHOP & R&B (SUNDAY NIGHT) - BLAKITO & MUNCH" on Sun, 27 Sept 2026.
+Big Pink is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "NO SKIPS: HIPHOP & R&B (SUNDAY NIGHT) - BLAKITO & MUNCH" on Sun, 27 Sept 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT and 2 more. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -17,4 +17,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

@@ -1,6 +1,6 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ticcle, Hobart on Sat, 19 Dec 2026.
+Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ticcle, Hobart on Sat, 19 Dec 2026.
 
 Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Buenos Aires and Chicago and 10 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Ticcle, Hobart on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Rick Wade is a house and deep house artist based in United States of America, tr
 
 Chuck Daniels, Norm Talley, Delano Smith
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

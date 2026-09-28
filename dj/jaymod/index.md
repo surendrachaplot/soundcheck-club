@@ -1,6 +1,6 @@
 # Jaymod
 
-Jaymod is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Jaymod is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Jaymod is an electronic artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens, Berlin and Greece. Often billed alongside Nausicaä, 22 and AM Dj. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ Jaymod is an electronic artist based in Greece, tracked on soundcheck, with 3 se
 
 Nausicaä, 22 (1), AM Dj (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymod/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymod/)*

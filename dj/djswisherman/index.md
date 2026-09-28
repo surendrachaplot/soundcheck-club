@@ -1,6 +1,6 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
+DJ SWISHERMAN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
 
 DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck
 
 Gerardo Niva, RUIZ OSC1, Benwal
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

@@ -1,6 +1,6 @@
 # Auntie Chanel
 
-Auntie Chanel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spkrbox, Detroit on Tue, 29 Sept 2026.
+Auntie Chanel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Tue, 29 Sept 2026.
 
 Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 127 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: Spkrbox, Detroit on Tue 29 Sept.
 
@@ -28,4 +28,4 @@ Auntie Chanel is a techno and electro artist based in United States of America, 
 
 Sapphyre, Cherriel, Gallons
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*

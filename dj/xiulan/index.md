@@ -1,6 +1,6 @@
 # Xiulan
 
-Xiulan is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
+Xiulan is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
 
 Xiulan is an electro and idm artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Munich, Vienna and Warsaw. Often billed alongside Valverde, Galvin and Gio. Next up: Otto Wagner Areal, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Xiulan is an electro and idm artist based in Germany, tracked on soundcheck, wit
 
 Valverde, Galvin, Gio (2)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiulan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiulan/)*

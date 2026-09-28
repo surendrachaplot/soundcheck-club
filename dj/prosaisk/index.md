@@ -1,6 +1,6 @@
 # Prosaisk
 
-Prosaisk is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Prosaisk is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
 Prosaisk is an electronic artist tracked on soundcheck, with 4 sets logged across Auckland and Munich. Often billed alongside Armand Van Helden, Club Angel and DART. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
@@ -20,4 +20,4 @@ Prosaisk is an electronic artist tracked on soundcheck, with 4 sets logged acros
 
 Armand Van Helden, Club Angel, DART
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosaisk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosaisk/)*

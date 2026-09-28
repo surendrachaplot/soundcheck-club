@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Funkhaus, Vienna on Fri, 2 Oct 2026.
+ARMANA KHAN is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Funkhaus, Vienna on Fri, 2 Oct 2026.
 
 ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Funkhaus, Vienna on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 
 ARCHANGEL (US), Meg10, Manuka Honey
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

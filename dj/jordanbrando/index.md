@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Jordan Brando is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Jordan Brando is a house and tech house artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Auckland, Australian Capital Territory and Brisbane and 13 more. Often billed alongside Luke Alessi, William Kiss and Luuk van Dijk. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Jordan Brando is a house and tech house artist based in Australia, tracked on so
 
 Luke Alessi, William Kiss, Luuk van Dijk
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

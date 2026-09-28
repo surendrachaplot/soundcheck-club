@@ -1,6 +1,6 @@
 # Rindeau
 
-Rindeau is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at LAUT, Barcelona on Tue, 29 Sept 2026.
+Rindeau is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at LAUT, Barcelona on Tue, 29 Sept 2026.
 
 Rindeau is a house and electro artist based in Argentina, tracked on soundcheck, with 45 sets logged across Barcelona, Buenos Aires, Madrid and New York City and 3 more. Often billed alongside Stefano Andriezzi, Angelo Cortines and Alice Caroline. Next up: LAUT, Barcelona on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Rindeau is a house and electro artist based in Argentina, tracked on soundcheck,
 
 Stefano Andriezzi, Angelo Cortines, Alice Caroline
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*

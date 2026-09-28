@@ -1,6 +1,6 @@
 # Medea
 
-Medea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at fi, Cologne on Sat, 10 Oct 2026.
+Medea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at fi, Cologne on Sat, 10 Oct 2026.
 
 Medea is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Athens, Berlin, Cologne and Dortmund Essen and 4 more. Often billed alongside DJ SOURCE, Gutkind and DJ Hyaluron. Next up: fi, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Medea is a techno and house artist based in Germany, tracked on soundcheck, with
 
 DJ SOURCE, Gutkind, DJ Hyaluron
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*

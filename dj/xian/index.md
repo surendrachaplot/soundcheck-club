@@ -1,6 +1,6 @@
 # Xian
 
-Xian is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
+Xian is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
 
 Xian is a breakcore and hardcore artist based in Germany, tracked on soundcheck, with 3 sets logged across Milan, Sydney and Tokyo. Often billed alongside CVN, Cocoa and DJ Storm. Next up: Burdekin Hotel, Sydney on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Xian is a breakcore and hardcore artist based in Germany, tracked on soundcheck,
 
 CVN (1), Cocoa, DJ Storm
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xian/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xian/)*

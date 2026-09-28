@@ -1,6 +1,6 @@
 # Josefo
 
-Josefo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+Josefo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 Josefo is a house and techno artist based in Mexico, tracked on soundcheck, with 18 sets logged across Mexico City and Tokyo. Often billed alongside Josefono L Telefono and 19:26. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Josefo is a house and techno artist based in Mexico, tracked on soundcheck, with
 
 Josefono L Telefono, , 19:26
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josefo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josefo/)*

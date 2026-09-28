@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Thieves in the Night present: Wax Thief" on Thu, 1 Oct 2026.
+Factory Floor is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Thieves in the Night present: Wax Thief" on Thu, 1 Oct 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Wax Thief. Browse upcoming dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -15,4 +15,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 2 upcoming gig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

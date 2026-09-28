@@ -1,6 +1,6 @@
 # PERT
 
-PERT is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+PERT is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
 PERT is a techno and electronica artist based in Argentina, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Buenos Aires and Vienna. Often billed alongside JXXXO, Beau Didier and Forello. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ PERT is a techno and electronica artist based in Argentina, tracked on soundchec
 
 JXXXO, Beau Didier, Forello
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pert/)*

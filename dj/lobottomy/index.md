@@ -1,6 +1,6 @@
 # Lobottomy
 
-Lobottomy is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Lobottomy is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Lobottomy is a baile funk and latin bass artist based in Mexico, tracked on soundcheck, with 1 set logged across San Francisco/Oakland. Often billed alongside 2AT, BOYPRINCESS and Femme Jatale. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Lobottomy is a baile funk and latin bass artist based in Mexico, tracked on soun
 
 2AT, BOYPRINCESS, Femme Jatale
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobottomy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobottomy/)*

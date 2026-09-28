@@ -1,6 +1,6 @@
 # Joost de Lyser
 
-Joost de Lyser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Recyclart, Brussels on Sat, 31 Oct 2026.
+Joost de Lyser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Recyclart, Brussels on Sat, 31 Oct 2026.
 
 Joost de Lyser is a techno and house artist based in Belgium, tracked on soundcheck, with 1 set logged across Brussels. Often billed alongside Chlorys, Khidja and Strik. Next up: Recyclart, Brussels on Sat 31 Oct.
 
@@ -14,4 +14,4 @@ Joost de Lyser is a techno and house artist based in Belgium, tracked on soundch
 
 Chlorys, Khidja, Strik
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joostdelyser/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joostdelyser/)*

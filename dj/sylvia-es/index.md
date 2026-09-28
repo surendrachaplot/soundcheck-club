@@ -1,6 +1,6 @@
 # Sylvia (ES)
 
-Sylvia (ES) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 29 Oct 2026.
+Sylvia (ES) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 29 Oct 2026.
 
 Sylvia (ES) is a techno and electro artist based in Sweden, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside no.masc, Joey Stella and Acidnena. Next up: Les Enfants Brillants, Barcelona on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Sylvia (ES) is a techno and electro artist based in Sweden, tracked on soundchec
 
 no.masc, Joey Stella, Acidnena
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*

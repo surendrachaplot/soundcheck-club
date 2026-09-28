@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "ReSolute with Aurora Halal, Shvili + more" on Fri, 9 Oct 2026.
+H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ReSolute with Aurora Halal, Shvili + more" on Fri, 9 Oct 2026.
 
 H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Amelia Holt and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,6 +1,6 @@
 # Violeta
 
-Violeta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 27 Sept 2026.
+Violeta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - DTLA, Los Angeles on Sun, 27 Sept 2026.
 
 Violeta is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Los Angeles and Miami. Often billed alongside Spice Crime, KUJO (US) and Sel.6. Next up: TBA - DTLA, Los Angeles on Sun 27 Sept.
 
@@ -14,6 +14,7 @@ Violeta is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
+- TBA - DTLA, Los Angeles — Sun, 27 Sept 2026
 - Floyd, Miami — Sun, 9 Aug 2026
 - Paraiso Estereo, Miami — Fri, 31 Jul 2026
 - Jolene Downtown Miami, Miami — Sun, 28 Jun 2026
@@ -21,10 +22,9 @@ Violeta is a house and techno artist based in United States of America, tracked 
 - Do Not Sit On The Furniture, Miami — Thu, 11 Jun 2026
 - Club M2 Miami, Miami — Fri, 22 May 2026
 - Factory Town, Miami — Sat, 18 Apr 2026
-- TBA - 16909 NW 4th Ave, Miami Gardens, FL 33169, Miami — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Spice Crime, KUJO (US), Sel.6
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violeta/)*

@@ -1,6 +1,6 @@
 # DIM3NSION
 
-DIM3NSION is a Trance and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+DIM3NSION is a Trance and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 DIM3NSION is a trance and minimal techno artist based in Spain, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Allen Watts, BLR (NL) and FROGR. Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ DIM3NSION is a trance and minimal techno artist based in Spain, tracked on sound
 
 Allen Watts, BLR (NL), FROGR
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dim3nsion/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dim3nsion/)*

@@ -1,6 +1,6 @@
 # LFO.exp
 
-LFO.exp is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Mediums" on Fri, 2 Oct 2026.
+LFO.exp is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mediums" on Fri, 2 Oct 2026.
 
 LFO.exp is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Abdulla A., Alinka, Avo (ES) and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Secret Location.
 
@@ -17,4 +17,4 @@ LFO.exp is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with l
 
 Secret Location, Madrid
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lfo-exp/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lfo-exp/)*

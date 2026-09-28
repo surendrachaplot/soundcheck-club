@@ -1,6 +1,6 @@
 # Jesse Brooks
 
-Jesse Brooks is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Jesse Brooks is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Jesse Brooks is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 15 sets logged across Los Angeles. Often billed alongside Fester, Animal Kontrol and Danny Zee. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Jesse Brooks is a house and breakbeat artist based in United States of America, 
 
 ## Recently played
 
+- TBA, Los Angeles — Sun, 27 Sept 2026
 - Woodley Park, Los Angeles — Sun, 7 Jun 2026
 - TBA - Los Angeles (Warehouse), Los Angeles — Sat, 2 May 2026
 - TBA, Los Angeles — Sat, 29 Nov 2025
@@ -19,10 +20,9 @@ Jesse Brooks is a house and breakbeat artist based in United States of America, 
 - Woodley Park, Los Angeles — Sun, 21 Sept 2025
 - TBA - Bolo Studios, Burbank, Los Angeles — Sat, 6 Sept 2025
 - Woodley Park, Los Angeles — Sun, 15 Jun 2025
-- Woodley Park, Los Angeles — Sun, 27 Apr 2025
 
 ## Shares bills with
 
 Fester, Animal Kontrol, Danny Zee
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessebrooks/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessebrooks/)*

@@ -1,6 +1,6 @@
 # h4rdy
 
-h4rdy is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Blank Site, Seoul on Fri, 16 Oct 2026.
+h4rdy is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Blank Site, Seoul on Fri, 16 Oct 2026.
 
 h4rdy is a bass and garage artist based in South Korea, tracked on soundcheck, with 24 sets logged across Bristol, London and Seoul. Often billed alongside DJ Co.kr, Coziest and Juuno. Next up: Blank Site, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ h4rdy is a bass and garage artist based in South Korea, tracked on soundcheck, w
 
 DJ Co.kr, Coziest, Juuno
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h4rdy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h4rdy/)*

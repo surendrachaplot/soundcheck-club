@@ -1,6 +1,6 @@
 # Nikos (NL)
 
-Nikos (NL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
+Nikos (NL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
 
 Nikos (NL) is a techno and trance artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside HyperLili, Jeans (NL) and Mama Snake. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Nikos (NL) is a techno and trance artist based in Netherlands, tracked on soundc
 
 HyperLili, Jeans (NL), Mama Snake
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosnl/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosnl/)*

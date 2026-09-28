@@ -1,6 +1,6 @@
 # Rich G
 
-Rich G is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Bakery, Liverpool on Sat, 24 Oct 2026.
+Rich G is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bakery, Liverpool on Sat, 24 Oct 2026.
 
 Rich G is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Liverpool. Often billed alongside ØC. Next up: The Bakery, Liverpool on Sat 24 Oct.
 
@@ -14,4 +14,4 @@ Rich G is a hardcore and techno artist based in United Kingdom, tracked on sound
 
 ØC
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richg/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richg/)*

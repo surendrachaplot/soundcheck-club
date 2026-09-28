@@ -1,6 +1,6 @@
 # Francesca
 
-Francesca is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
+Francesca is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
 
 Francesca is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Edinburgh and Krakow and 3 more. Often billed alongside Maria Theresia von Eberg, Tobi Jos and Zimmer. Next up: Prozak 2.0, Krakow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Francesca is a techno and downtempo artist based in United States of America, tr
 
 Maria Theresia von Eberg, Tobi Jos, Zimmer
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*

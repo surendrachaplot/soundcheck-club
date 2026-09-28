@@ -1,6 +1,6 @@
 # Fergie
 
-Fergie is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
+Fergie is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
 
 Fergie is a trance and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Birmingham, Denver and Glasgow and 6 more. Often billed alongside Judge Jules, Mauro Picotto and Eddie Halliwell. Next up: O2 Academy, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fergie is a trance and house artist based in United Kingdom, tracked on soundche
 
 Judge Jules, Mauro Picotto, Eddie Halliwell
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergie/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fergie/)*

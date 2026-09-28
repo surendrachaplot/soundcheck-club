@@ -1,6 +1,6 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sala Bikini presents HotLap & Budakid" on Sat, 3 Oct 2026.
+Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sala Bikini presents HotLap & Budakid" on Sat, 3 Oct 2026.
 
 Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Althoff, Anja Schneider, Budakid and Chicks Luv Us and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
@@ -21,4 +21,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs,
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

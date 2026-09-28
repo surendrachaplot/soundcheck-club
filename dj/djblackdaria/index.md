@@ -1,6 +1,6 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
+Black Daria is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
 
 Black Daria is a hip-hop and club artist tracked on soundcheck, with 95 sets logged across Austin, Chicago, London and Mexico City and 5 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: Tonal, Mexico City on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Black Daria is a hip-hop and club artist tracked on soundcheck, with 95 sets log
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

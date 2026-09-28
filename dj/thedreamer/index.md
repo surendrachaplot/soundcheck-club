@@ -1,6 +1,6 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SMUT Athens, Athens on Fri, 9 Oct 2026.
+The Dreamer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at SMUT Athens, Athens on Fri, 9 Oct 2026.
 
 The Dreamer is a house and techno artist tracked on soundcheck, with 90 sets logged across Athens, Berlin, London and Paris and 1 more. Often billed alongside WrappeD In PlastiC, ClubKid and Bill Sanders. Next up: SMUT Athens, Athens on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ The Dreamer is a house and techno artist tracked on soundcheck, with 90 sets log
 
 WrappeD In PlastiC, ClubKid, Bill Sanders
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

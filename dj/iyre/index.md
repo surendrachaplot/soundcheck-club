@@ -1,6 +1,6 @@
 # IYRE
 
-IYRE is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Art School, Glasgow on Fri, 20 Nov 2026.
+IYRE is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Art School, Glasgow on Fri, 20 Nov 2026.
 
 IYRE is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Nu:Tone, Ruthless and Winslow. Next up: The Art School, Glasgow on Fri 20 Nov.
 
@@ -14,4 +14,4 @@ IYRE is a jungle and drum & bass artist based in United Kingdom, tracked on soun
 
 Nu:Tone, Ruthless, Winslow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyre/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyre/)*

@@ -1,6 +1,6 @@
 # Quolcat
 
-Quolcat is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at ÆDEN, Berlin on Wed, 30 Sept 2026.
+Quolcat is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Wed, 30 Sept 2026.
 
 Quolcat is a techno and bass artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Fiona, Tinco and Derrik. Next up: ÆDEN, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Quolcat is a techno and bass artist tracked on soundcheck, with 25 sets logged a
 
 Fiona (2), Tinco, Derrik
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quolcat/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quolcat/)*

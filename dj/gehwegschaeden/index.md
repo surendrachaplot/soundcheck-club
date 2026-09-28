@@ -1,6 +1,6 @@
 # Gehwegschaeden
 
-Gehwegschaeden is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+Gehwegschaeden is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 Gehwegschaeden is a techno and psytrance artist tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside .ntrvm, CEEE and DERICE. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Gehwegschaeden is a techno and psytrance artist tracked on soundcheck, with 3 se
 
 .ntrvm, CEEE, DERICE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gehwegschaeden/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gehwegschaeden/)*

@@ -1,6 +1,6 @@
 # Varju
 
-Varju is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Varju is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Varju is a techno artist based in Colombia, tracked on soundcheck, with 3 sets logged across Berlin, Madrid and Medellin. Often billed alongside 131bpm, AISHA and ANNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Varju is a techno artist based in Colombia, tracked on soundcheck, with 3 sets l
 
 131bpm, AISHA, ANNA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varju/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varju/)*

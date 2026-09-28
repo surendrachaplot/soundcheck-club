@@ -1,6 +1,6 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Marcel Dettmann is a techno and house artist based in Germany, tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist based in Germany, tracked on soundc
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

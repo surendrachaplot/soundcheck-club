@@ -1,6 +1,6 @@
 # SLYM
 
-SLYM is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+SLYM is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
 
 SLYM is a trance and techno artist based in Hungary, tracked on soundcheck, with 93 sets logged across Berlin, Budapest, Oslo and Prague. Often billed alongside szoliver, Akác and Switch Nollie. Next up: Turbina, Budapest on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SLYM is a trance and techno artist based in Hungary, tracked on soundcheck, with
 
 szoliver, Akác, Switch Nollie
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slym/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slym/)*

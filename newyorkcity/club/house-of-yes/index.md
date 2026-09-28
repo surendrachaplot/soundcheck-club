@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "House of Grooves: Eli Escobar All Night + Sissies of Mercy" on Fri, 2 Oct 2026.
+House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "House of Grooves: Eli Escobar All Night + Sissies of Mercy" on Fri, 2 Oct 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Aluna, Bella Mutino, Bridge (NY) and Darling Cool and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

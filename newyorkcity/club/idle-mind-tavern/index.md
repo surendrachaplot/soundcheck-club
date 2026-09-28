@@ -1,6 +1,6 @@
 # Idle Mind Tavern
 
-Idle Mind Tavern is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Rendezvous Grooves Open Decks" on Thu, 1 Oct 2026.
+Idle Mind Tavern is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Rendezvous Grooves Open Decks" on Thu, 1 Oct 2026.
 
 Idle Mind Tavern is a music venue in New York City listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing. 623 Manhattan Ave, Brooklyn, NY 11222.
 
@@ -18,4 +18,4 @@ Idle Mind Tavern is a music venue in New York City listed on soundcheck. 5 upcom
 
 623 Manhattan Ave, Brooklyn, NY 11222, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*

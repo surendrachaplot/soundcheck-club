@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 17 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Volta: Brynk, Idylist + residents [LIMITED FREE TICKETS]" on Tue, 29 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Volta: Brynk, Idylist + residents [LIMITED FREE TICKETS]" on Tue, 29 Sept 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming gigs, with line-ups including YVI, Bryan Gee, Brynk and Capo Lee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

@@ -1,6 +1,6 @@
 # MAJESTYOFDIVINITY
 
-MAJESTYOFDIVINITY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
+MAJESTYOFDIVINITY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
 
 MAJESTYOFDIVINITY is a house and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Austin. Often billed alongside DJ BAD APPLE, Al V Dam and Hip Stir. Next up: Xuxa, Austin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MAJESTYOFDIVINITY is a house and club artist based in United States of America, 
 
 DJ BAD APPLE, Al V Dam, Hip Stir
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majestyofdivinity/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majestyofdivinity/)*

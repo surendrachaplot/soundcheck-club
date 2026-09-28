@@ -1,6 +1,6 @@
 # Loods 12
 
-Loods 12 is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "Subtone presents 30 Years Of Atjazz" on Wed, 21 Oct 2026.
+Loods 12 is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Subtone presents 30 Years Of Atjazz" on Wed, 21 Oct 2026.
 
 Loods 12 is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 98, amsterdam, 1021KR.
 
@@ -14,4 +14,4 @@ Loods 12 is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Bro
 
 Gedempt Hamerkanaal 98, amsterdam, 1021KR, Amsterdam
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods-12/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods-12/)*

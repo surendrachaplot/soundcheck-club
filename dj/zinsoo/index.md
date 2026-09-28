@@ -1,6 +1,6 @@
 # Zinsoo
 
-Zinsoo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
+Zinsoo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
 
 Zinsoo is a house and disco artist tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside DJ Jinwook, Cozyhoon and Oldshoes. Next up: The Edge Seoul, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Zinsoo is a house and disco artist tracked on soundcheck, with 9 sets logged acr
 
 DJ Jinwook, Cozyhoon, Oldshoes
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zinsoo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zinsoo/)*

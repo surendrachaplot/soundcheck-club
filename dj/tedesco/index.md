@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+TEDESCO is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 TEDESCO is a techno and club artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TEDESCO is a techno and club artist based in United Kingdom, tracked on soundche
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

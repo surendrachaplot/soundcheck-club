@@ -1,6 +1,6 @@
 # U+0000
 
-U+0000 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
+U+0000 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amma Cafe, New York City on Sat, 10 Oct 2026.
 
 U+0000 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside ECHOES and Hydro Lin. Next up: Amma Cafe, New York City on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ U+0000 is a techno and experimental artist based in United States of America, tr
 
 ECHOES, Hydro Lin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u0000/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u0000/)*

@@ -1,6 +1,6 @@
 # SURJAL
 
-SURJAL is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+SURJAL is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 SURJAL is a techno and afro house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside daaz, djz00p and la piscine. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ SURJAL is a techno and afro house artist based in United Kingdom, tracked on sou
 
 daaz, djz00p, la piscine
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surjal/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surjal/)*

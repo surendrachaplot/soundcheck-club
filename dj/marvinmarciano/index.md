@@ -1,6 +1,6 @@
 # Marvin Marciano
 
-Marvin Marciano is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at CHICO, Mexico City on Sat, 31 Oct 2026.
+Marvin Marciano is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at CHICO, Mexico City on Sat, 31 Oct 2026.
 
 Marvin Marciano is a reggaeton and neo perreo artist based in Mexico, tracked on soundcheck, with 5 sets logged across Mexico City. Often billed alongside Milothicc, Baila Morena and Akoree. Next up: CHICO, Mexico City on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Marvin Marciano is a reggaeton and neo perreo artist based in Mexico, tracked on
 
 Milothicc, Baila Morena, Akoree
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinmarciano/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinmarciano/)*

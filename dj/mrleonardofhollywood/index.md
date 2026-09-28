@@ -1,6 +1,6 @@
 # Mr Leonard of Hollywood
 
-Mr Leonard of Hollywood is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at UBQ, Melbourne on Mon, 2 Nov 2026.
+Mr Leonard of Hollywood is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UBQ, Melbourne on Mon, 2 Nov 2026.
 
 Mr Leonard of Hollywood is a techno and ebm artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside DJ RMR, Pseudo-ku and CAMBOY. Next up: UBQ, Melbourne on Mon 2 Nov.
 
@@ -22,4 +22,4 @@ Mr Leonard of Hollywood is a techno and ebm artist tracked on soundcheck, with 6
 
 DJ RMR, Pseudo-ku, CAMBOY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrleonardofhollywood/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrleonardofhollywood/)*

@@ -1,6 +1,6 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+Piezo is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside upsammy, CCL and mad miran. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 11
 
 upsammy, CCL, mad miran
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

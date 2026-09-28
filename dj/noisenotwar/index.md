@@ -1,6 +1,6 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Rotunde, Bochum on Sat, 10 Oct 2026.
+Noise Not War is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rotunde, Bochum on Sat, 10 Oct 2026.
 
 Noise Not War is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Berlin and Bochum and 13 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Rotunde, Bochum on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Noise Not War is a techno and trance artist based in Germany, tracked on soundch
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

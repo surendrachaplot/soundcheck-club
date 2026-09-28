@@ -1,6 +1,6 @@
 # Liam J
 
-Liam J is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Unit 58, London on Fri, 16 Oct 2026.
+Liam J is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unit 58, London on Fri, 16 Oct 2026.
 
 Liam J is an electronica and acid artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside IAMBP and Oh Henry. Next up: Unit 58, London on Fri 16 Oct.
 
@@ -14,4 +14,4 @@ Liam J is an electronica and acid artist based in United Kingdom, tracked on sou
 
 IAMBP, Oh Henry
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamjuk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamjuk/)*

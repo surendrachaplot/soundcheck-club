@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Barraca, Valencia on Sat, 24 Oct 2026.
+Lilly Palmer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Barraca, Valencia on Sat, 24 Oct 2026.
 
 Lilly Palmer is a techno and house artist based in Switzerland, tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bangkok and 56 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Barraca, Valencia on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lilly Palmer is a techno and house artist based in Switzerland, tracked on sound
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

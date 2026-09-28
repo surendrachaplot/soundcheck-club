@@ -1,6 +1,6 @@
 # STAFFY
 
-STAFFY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+STAFFY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 STAFFY is a techno and trance artist based in Australia, tracked on soundcheck, with 28 sets logged across Amsterdam, Manchester, Melbourne and Sao Paulo and 1 more. Often billed alongside HIJCKD, Gabriella Spritz and Allen Cedano. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ STAFFY is a techno and trance artist based in Australia, tracked on soundcheck, 
 
 HIJCKD, Gabriella Spritz, Allen Cedano
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staffy/)*

@@ -1,6 +1,6 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Cork, Denver, Dublin and Edinburgh and 21 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and Mauro Picotto. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Billy Gillies is a trance and techno artist based in United Kingdom, tracked on 
 
 Giuseppe Ottaviani, Ferry Corsten, Mauro Picotto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*

@@ -1,8 +1,8 @@
 # Silvie Loto
 
-Silvie Loto is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Silvie Loto is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Silvie Loto is a tech house and house artist based in Italy, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Basel and 30 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stussy. Next up: TBA, Central on Fri 2 Oct.
+Silvie Loto is a tech house and house artist based in Italy, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Basel and 30 more. Often billed alongside PAWSA, Dennis Cruz and CHRIS STASSY. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Silvie Loto is a tech house and house artist based in Italy, tracked on soundche
 
 ## Shares bills with
 
-PAWSA, Dennis Cruz, Chris Stussy
+PAWSA, Dennis Cruz, CHRIS STASSY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

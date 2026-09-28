@@ -1,6 +1,6 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Index, Dublin on Fri, 6 Nov 2026.
+Mauro Picotto is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Index, Dublin on Fri, 6 Nov 2026.
 
 Mauro Picotto is a trance and techno artist based in Italy, tracked on soundcheck, with 36 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 16 more. Often billed alongside Billy Gillies, Eddie Halliwell and Judge Jules. Next up: Index, Dublin on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Mauro Picotto is a trance and techno artist based in Italy, tracked on soundchec
 
 Billy Gillies, Eddie Halliwell, Judge Jules
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*

@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
+Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
 
 Jennifer Loveless is a house and techno artist based in Australia, tracked on soundcheck, with 250 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: public records, New York City on Sun 27 Sept.
 
@@ -23,6 +23,7 @@ Jennifer Loveless is a house and techno artist based in Australia, tracked on so
 
 ## Recently played
 
+- public records, New York City — Sun, 27 Sept 2026
 - Floyd, Miami — Fri, 25 Sept 2026
 - Sunday Sunday, Mexico City — Sun, 20 Sept 2026
 - 3oz Dive Club, San Diego — Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Jennifer Loveless is a house and techno artist based in Australia, tracked on so
 - fabric, London — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

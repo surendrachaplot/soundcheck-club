@@ -1,6 +1,6 @@
 # Pekelnej Bar
 
-Pekelnej Bar is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "House WE Love (madness edition)" on Sat, 24 Oct 2026.
+Pekelnej Bar is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "House WE Love (madness edition)" on Sat, 24 Oct 2026.
 
 Pekelnej Bar is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Chris Rosewarne, Nicco Lupen, Rajky and Sam Gittis and 1 more. Browse upcoming dates, start times and who's playing. Na Belidle 38, Praha 5.
 
@@ -14,4 +14,4 @@ Pekelnej Bar is a music venue in Prague listed on soundcheck. 1 upcoming gig, wi
 
 Na Belidle 38, Praha 5, Prague
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*

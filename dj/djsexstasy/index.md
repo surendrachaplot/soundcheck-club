@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 12 more. Often billed alongside Rishka, Cara Elizabeth and OZA. Next up: Die Rakete, Nürnberg on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, tracked on soundcheck
 
 Rishka, Cara Elizabeth, OZA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

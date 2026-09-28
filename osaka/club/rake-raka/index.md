@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP" on Mon, 28 Sept 2026.
+rake?raka? is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DEAR MONDAY, vol.305 6th anniversary & BBCB 10th anniversary tour SP" on Mon, 28 Sept 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including Aleyum, ALTF4, HSC and Kensuke IWANO and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -16,4 +16,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 24 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Dusky is a House and Techno artist with 24 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Dusky is a house and techno artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 35 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Dan Shake, Denham Audio, Junior Simba
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

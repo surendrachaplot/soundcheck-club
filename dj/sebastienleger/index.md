@@ -1,6 +1,6 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Sebastien Leger is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 Sebastien Leger is a house and progressive house artist based in France, tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Sebastien Leger is a house and progressive house artist based in France, tracked
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

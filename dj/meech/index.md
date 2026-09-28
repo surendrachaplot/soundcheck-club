@@ -1,6 +1,6 @@
 # Meech
 
-Meech is a Dancehall and Krautrock artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
+Meech is a Dancehall and Krautrock artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tonal, Mexico City on Wed, 23 Sept 2026.
 
 Meech is a dancehall and krautrock artist tracked on soundcheck, with 4 sets logged across Detroit and Mexico City. Often billed alongside AB, Alacrán del Amor and Black Daria. Next up: Tonal, Mexico City on Wed 23 Sept.
 
@@ -21,4 +21,4 @@ Meech is a dancehall and krautrock artist tracked on soundcheck, with 4 sets log
 
 AB, Alacrán del Amor, Black Daria
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meech/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meech/)*

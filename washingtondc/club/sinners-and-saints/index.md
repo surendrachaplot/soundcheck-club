@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "The Melt: Equinox" on Sat, 3 Oct 2026.
+Sinners and Saints is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Melt: Equinox" on Sat, 3 Oct 2026.
 
 Sinners and Saints is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including belizenotbrazil, Franxx, Juno Hill and kuntress. Browse upcoming dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -16,4 +16,4 @@ Sinners and Saints is a music venue in Washington DC listed on soundcheck. 3 upc
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

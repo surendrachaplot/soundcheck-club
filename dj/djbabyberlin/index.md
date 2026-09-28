@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and EBM artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Neon Clown Dream Lounge, Philadelphia on Thu, 1 Oct 2026.
+DJ Baby Berlin is a New Wave and EBM artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Neon Clown Dream Lounge, Philadelphia on Thu, 1 Oct 2026.
 
 DJ Baby Berlin is a new wave and ebm artist based in United States of America, tracked on soundcheck, with 83 sets logged across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: Neon Clown Dream Lounge, Philadelphia on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ DJ Baby Berlin is a new wave and ebm artist based in United States of America, t
 
 Brad Scott, DJ Nightwitch, Mark Cage
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

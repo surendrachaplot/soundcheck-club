@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "SALSOL" on Sun, 27 Sept 2026.
+Arcana is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SALSOL" on Sun, 27 Sept 2026.
 
 Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Mesmé, Sánlo and Solar. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -16,4 +16,4 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcomin
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

@@ -1,6 +1,6 @@
 # Agustin Ficarra
 
-Agustin Ficarra is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
+Agustin Ficarra is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
 
 Agustin Ficarra is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona and Buenos Aires. Often billed alongside Kabi, Kebin van Reeken and Kevin Di Serna. Next up: Opposite, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Agustin Ficarra is a progressive house and techno artist based in Argentina, tra
 
 Kabi, Kebin van Reeken, Kevin Di Serna
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinficarra/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinficarra/)*

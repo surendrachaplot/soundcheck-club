@@ -1,6 +1,6 @@
 # SEN (PL)
 
-SEN (PL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+SEN (PL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 SEN (PL) is a techno and house artist based in Poland, tracked on soundcheck, with 4 sets logged across London, Melbourne, Oslo and Utrecht. Often billed alongside Aarti Jadu, Andy Garvey and B-Pushr. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ SEN (PL) is a techno and house artist based in Poland, tracked on soundcheck, wi
 
 Aarti Jadu, Andy Garvey, B-Pushr
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sen-pl/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sen-pl/)*

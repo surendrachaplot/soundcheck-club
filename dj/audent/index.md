@@ -1,6 +1,6 @@
 # Audent
 
-Audent is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kurnell Recreation Club, Sydney on Fri, 6 Nov 2026.
+Audent is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kurnell Recreation Club, Sydney on Fri, 6 Nov 2026.
 
 Audent is a techno and trance artist tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside Bryan Ro, D3n1m and EFESIAN. Next up: Kurnell Recreation Club, Sydney on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Audent is a techno and trance artist tracked on soundcheck, with 5 sets logged a
 
 Bryan Ro, D3n1m, EFESIAN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audent/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audent/)*

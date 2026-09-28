@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Silva Bumpa is a Garage and House artist with 18 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, tracked on soundcheck, with 215 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 51 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, tracked on sou
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

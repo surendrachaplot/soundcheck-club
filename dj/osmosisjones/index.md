@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+Osmosis Jones is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Australian Capital Territory and Bali and 27 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Osmosis Jones is a garage and house artist based in Australia, tracked on soundc
 
 IsGwan, Prizefight, WOLTERS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

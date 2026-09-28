@@ -1,6 +1,6 @@
 # Alif Hilal
 
-Alif Hilal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Alif Hilal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Alif Hilal is an experimental and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Fergus Jones, Amelia Holt and BLIP. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Alif Hilal is an experimental and techno artist based in United States of Americ
 
 Fergus Jones, Amelia Holt, BLIP
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*

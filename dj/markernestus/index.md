@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mark Ernestus is a Dub and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mark Ernestus is a dub and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Mark Ernestus is a dub and techno artist based in Germany, tracked on soundcheck
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

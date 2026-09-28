@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Hardt Antoine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Hardt Antoine is a techno and house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, tracked on s
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

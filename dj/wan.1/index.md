@@ -1,6 +1,6 @@
 # WAN.1
 
-WAN.1 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at OST, Berlin on Thu, 1 Oct 2026.
+WAN.1 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Thu, 1 Oct 2026.
 
 WAN.1 is a techno and trance artist based in Egypt, tracked on soundcheck, with 85 sets logged across Berlin and Marseille. Often billed alongside FREEGO, Zutri and Backyard Mix. Next up: OST, Berlin on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ WAN.1 is a techno and trance artist based in Egypt, tracked on soundcheck, with 
 
 FREEGO, Zutri, Backyard Mix
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wan.1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wan.1/)*

@@ -1,6 +1,6 @@
 # Lefblom
 
-Lefblom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sacré, Paris on Fri, 13 Nov 2026.
+Lefblom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sacré, Paris on Fri, 13 Nov 2026.
 
 Lefblom is a house and techno artist based in France, tracked on soundcheck, with 57 sets logged across Berlin, Brussels, Paris and Turin. Often billed alongside Camille Doe, GOGO GREEN and Ams (FR). Next up: Sacré, Paris on Fri 13 Nov.
 
@@ -12,6 +12,7 @@ Lefblom is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- Plantation, Paris — Sun, 27 Sept 2026
 - La Gare / Le Gore, Paris — Wed, 2 Sept 2026
 - La Gare / Le Gore, Paris — Thu, 7 May 2026
 - La Gare / Le Gore, Paris — Thu, 7 May 2026
@@ -19,10 +20,9 @@ Lefblom is a house and techno artist based in France, tracked on soundcheck, wit
 - Les Halles de Schaerbeek, Brussels — Sat, 28 Mar 2026
 - Sacré, Paris — Thu, 19 Feb 2026
 - La Gare / Le Gore, Paris — Sun, 2 Nov 2025
-- La Gare / Le Gore, Paris — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Camille Doe, GOGO GREEN, Ams (FR)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*

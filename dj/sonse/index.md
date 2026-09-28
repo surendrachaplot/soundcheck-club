@@ -1,6 +1,6 @@
 # Sonse
 
-Sonse is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Sonse is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Sonse is a techno and tech house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside DaSoMaZo, Milchgeld and Abimixx. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Sonse is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 DaSoMaZo, Milchgeld, Abimixx
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonse/)*

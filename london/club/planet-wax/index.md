@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 32 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "OPEN DECKS" on Wed, 30 Sept 2026.
+Planet Wax is a music venue in London with 32 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "OPEN DECKS" on Wed, 30 Sept 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 32 upcoming gigs, wi
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

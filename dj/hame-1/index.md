@@ -1,6 +1,6 @@
 # Hame (1)
 
-Hame (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Hame (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Hame is a house and techno artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Hafa, Lola Haro and Martinou. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hame is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Hafa, Lola Haro, Martinou
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hame-1/)*

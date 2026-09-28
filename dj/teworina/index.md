@@ -1,6 +1,6 @@
 # Tewo Rina
 
-Tewo Rina is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 2 Oct 2026.
+Tewo Rina is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Gare / Le Gore, Paris on Fri, 2 Oct 2026.
 
 Tewo Rina is a techno artist tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside DJ Overclock, Drawbridge and Forest. Next up: La Gare / Le Gore, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Tewo Rina is a techno artist tracked on soundcheck, with 10 sets logged across P
 
 DJ Overclock, Drawbridge, Forest
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teworina/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teworina/)*

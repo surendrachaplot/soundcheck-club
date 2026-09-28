@@ -1,6 +1,6 @@
 # DJ Duck Daddy
 
-DJ Duck Daddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Dance Cave, Toronto on Fri, 23 Oct 2026.
+DJ Duck Daddy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dance Cave, Toronto on Fri, 23 Oct 2026.
 
 DJ Duck Daddy is an electronic artist tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside GRRLCRRSH, Jaw Jones and Kai (TO). Next up: Dance Cave, Toronto on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ DJ Duck Daddy is an electronic artist tracked on soundcheck, with 3 sets logged 
 
 GRRLCRRSH, Jaw Jones, Kai (TO)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djduckdaddy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djduckdaddy/)*

@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
+Hitam is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
 
 Hitam is a techno and house artist based in Netherlands, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Bali and Berlin and 30 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Hitam is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 WINDFUHR, AMORAL, I-RO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

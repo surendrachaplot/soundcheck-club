@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
+Brutalismus 3000 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
 
 Brutalismus 3000 is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 34 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
 
@@ -30,4 +30,4 @@ Brutalismus 3000 is a techno and house artist based in Germany, tracked on sound
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

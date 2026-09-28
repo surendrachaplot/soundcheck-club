@@ -1,6 +1,6 @@
 # Addy
 
-Addy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+Addy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
 Addy is a tech house and house artist based in Canada, tracked on soundcheck, with 94 sets logged across Montreal and Toronto. Often billed alongside Manzone & Strong, Tyler Hill and TAKiN. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Addy is a tech house and house artist based in Canada, tracked on soundcheck, wi
 
 Manzone & Strong, Tyler Hill, TAKiN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/addy/)*

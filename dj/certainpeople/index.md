@@ -1,6 +1,6 @@
 # Certain People
 
-Certain People is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Certain People is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
 Certain People is a house and electronica artist based in Spain, tracked on soundcheck, with 60 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Certain People is a house and electronica artist based in Spain, tracked on soun
 
 Fuentes-Guerra, Javi Redondo, Emi Koto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*

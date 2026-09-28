@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Klubkneipe x Resonance" on Sun, 27 Sept 2026.
+Prisma is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Vulva Candle Making" on Tue, 29 Sept 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Agustin Mendez, Andi Beat, D.Sociation and NAIR (IN) and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Agustin Mendez, Andi Beat, D.Sociation and NAIR (IN) and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 | Tue, 29 Sept 2026 | Klubkneipe x Tuesday Ritual - Vulva Candle Making | Domovnika, Manillo |
 | Thu, 1 Oct 2026 | Sssmile Afterhour | Andi Beat, MOFS |
 | Sun, 4 Oct 2026 | Klubkneipe x Sunset Grooves | NAIR (IN) |
@@ -18,9 +17,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with l
 | Sun, 18 Oct 2026 | Klubkneipe x Dance Salon |  |
 | Thu, 22 Oct 2026 | Sssmile Afterhour | Kalimanda |
 | Sun, 25 Oct 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
+| Thu, 29 Oct 2026 | Sssmile Instagram | Kazuki Takahashi, LeoSkiDj, The Shredder |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

@@ -1,6 +1,6 @@
 # LSG
 
-LSG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+LSG is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
 LSG is a techno and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Aberdeen, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside MAURO, nordcorreia.mp3 and Gourski. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ LSG is a techno and house artist based in United Kingdom, tracked on soundcheck,
 
 MAURO, nordcorreia.mp3, Gourski
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*

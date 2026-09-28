@@ -1,6 +1,6 @@
 # Julia Dickens
 
-Julia Dickens is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bambi's, Toronto on Fri, 16 Oct 2026.
+Julia Dickens is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bambi's, Toronto on Fri, 16 Oct 2026.
 
 Julia Dickens is a techno and house artist based in Canada, tracked on soundcheck, with 34 sets logged across Montreal and Toronto. Often billed alongside Liv K, Kiki LeFreak and Pretty Privilege. Next up: Bambi's, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Julia Dickens is a techno and house artist based in Canada, tracked on soundchec
 
 Liv K, Kiki LeFreak, Pretty Privilege
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadickens/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadickens/)*

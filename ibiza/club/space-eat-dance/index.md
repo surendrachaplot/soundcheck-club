@@ -1,6 +1,6 @@
 # Space Eat & Dance
 
-Space Eat & Dance is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Space Sunset Rituals feat. Karlos Sense" on Mon, 28 Sept 2026.
+Space Eat & Dance is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Space Sunset Rituals feat. Karlos Sense" on Mon, 28 Sept 2026.
 
 Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Ramon Castells and Roberto Lodola. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 4 upcoming gig
 | Wed, 30 Sept 2026 | Space Sunset Rituals feat. Roberto Lodola | Roberto Lodola |
 | Fri, 2 Oct 2026 | Space Sunset Rituals feat. Darren Martin |  |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/space-eat-dance/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/space-eat-dance/)*

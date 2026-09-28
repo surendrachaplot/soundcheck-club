@@ -1,6 +1,6 @@
 # Prints
 
-Prints is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Liquidate, Manchester on Fri, 30 Oct 2026.
+Prints is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Liquidate, Manchester on Fri, 30 Oct 2026.
 
 Prints is a house and electro artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leipzig and Manchester. Often billed alongside Chafik Bali, Judas Du and Allius. Next up: Liquidate, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Prints is a house and electro artist based in United Kingdom, tracked on soundch
 
 Chafik Bali, Judas Du, Allius
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prints/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prints/)*

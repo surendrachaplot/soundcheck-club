@@ -1,6 +1,6 @@
 # Théque Support
 
-Théque Support is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
+Théque Support is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
 
 Théque Support is a disco and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit and Seattle. Often billed alongside Eddie Logix, Hot N' Spicy Disco and Eddie C. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Théque Support is a disco and house artist based in United States of America, t
 
 Eddie Logix, Hot N' Spicy Disco, Eddie C
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thequesupport/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thequesupport/)*

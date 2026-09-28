@@ -1,6 +1,6 @@
 # OSED
 
-OSED is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+OSED is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 OSED is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Jasper Janssen, DAUDA and Ertug Karakas. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ OSED is a house and progressive house artist based in Netherlands, tracked on so
 
 Jasper Janssen, DAUDA, Ertug Karakas
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osed/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osed/)*

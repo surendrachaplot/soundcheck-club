@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Ash Lauryn is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Ash Lauryn is a house and techno artist based in United States of America, track
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

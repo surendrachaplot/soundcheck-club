@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
+Dizzy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
 
 Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Lisbon and London and 8 more. Often billed alongside Pabie, Brasi and DJ Tree. Next up: CGM - Club Giovanile Milano, Milan on Thu 1 Oct.
 
@@ -31,4 +31,4 @@ Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 4
 
 Pabie, Brasi, DJ Tree
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

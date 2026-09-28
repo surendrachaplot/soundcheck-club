@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Palais: Kode9, Introspekt & DJ Spinn" on Fri, 2 Oct 2026.
+Palais is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Palais: Kode9, Introspekt & DJ Spinn" on Fri, 2 Oct 2026.
 
 Palais is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Adi (CO), Alex Kassian, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

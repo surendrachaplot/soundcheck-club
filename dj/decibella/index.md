@@ -1,6 +1,6 @@
 # Decibella
 
-Decibella is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
+Decibella is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
 Decibella is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Brighton, Bristol, Brussels and Budapest and 15 more. Often billed alongside Tim Reaper, Double O and Mantra. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Decibella is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 Tim Reaper, Double O, Mantra
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*

@@ -1,6 +1,6 @@
 # ceviché
 
-ceviché is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at SILO, New York City on Tue, 29 Sept 2026.
+ceviché is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at SILO, New York City on Tue, 29 Sept 2026.
 
 ceviché is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across New York City and Tokyo. Often billed alongside SHRAY, Sam Valle and STEEN. Next up: SILO, New York City on Tue 29 Sept.
 
@@ -27,4 +27,4 @@ ceviché is a techno and house artist based in United States of America, tracked
 
 SHRAY, Sam Valle, STEEN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceviche/)*

@@ -1,6 +1,6 @@
 # Hunter Demase
 
-Hunter Demase is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Panama, Amsterdam on Sun, 25 Oct 2026.
+Hunter Demase is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Panama, Amsterdam on Sun, 25 Oct 2026.
 
 Hunter Demase is a techno and house artist based in Australia, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Becking, Drabes and JØASE. Next up: Panama, Amsterdam on Sun 25 Oct.
 
@@ -14,4 +14,4 @@ Hunter Demase is a techno and house artist based in Australia, tracked on soundc
 
 Becking, Drabes, JØASE
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunterdemase/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunterdemase/)*

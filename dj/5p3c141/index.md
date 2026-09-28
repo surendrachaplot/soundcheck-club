@@ -1,6 +1,6 @@
 # 5p3c141
 
-5p3c141 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Fri, 2 Oct 2026.
+5p3c141 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Fri, 2 Oct 2026.
 
 5p3c141 is a techno and house artist based in United States of America, tracked on soundcheck, with 1 set logged across Los Angeles. Often billed alongside BAE BAE, Gay Felony and Spiñorita. Next up: TBA, Los Angeles on Fri 2 Oct.
 
@@ -14,4 +14,4 @@
 
 BAE BAE, Gay Felony, Spiñorita
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5p3c141/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5p3c141/)*

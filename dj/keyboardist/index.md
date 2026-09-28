@@ -1,6 +1,6 @@
 # Keyboardist
 
-Keyboardist is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Keyboardist is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
 Keyboardist is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Bass, Charlene and Harmony (UK). Next up: Lccm, London on Mon 28 Sept.
 
@@ -14,4 +14,4 @@ Keyboardist is an electronic artist based in United States of America, tracked o
 
 Bass, Charlene, Harmony (UK)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyboardist/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyboardist/)*

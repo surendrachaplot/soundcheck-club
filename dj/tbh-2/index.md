@@ -1,6 +1,6 @@
 # tbh (2)
 
-tbh (2) is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Strange Brew, Bristol on Fri, 30 Oct 2026.
+tbh (2) is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Strange Brew, Bristol on Fri, 30 Oct 2026.
 
 tbh is a tech house and acid artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Bristol. Often billed alongside DJ Stolen, Papa Nugs and Peach. Next up: Strange Brew, Bristol on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ tbh is a tech house and acid artist based in United Kingdom, tracked on soundche
 
 DJ Stolen, Papa Nugs, Peach
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tbh-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tbh-2/)*

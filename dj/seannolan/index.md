@@ -1,6 +1,6 @@
 # Sean Nolan
 
-Sean Nolan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Thu, 15 Oct 2026.
+Sean Nolan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Thu, 15 Oct 2026.
 
 Sean Nolan is a techno and house artist based in Ireland, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Jack Costello, Coinín Beag and DIEBYVEG. Next up: M.O.T, London on Thu 15 Oct.
 
@@ -19,4 +19,4 @@ Sean Nolan is a techno and house artist based in Ireland, tracked on soundcheck,
 
 Jack Costello, Coinín Beag, DIEBYVEG
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seannolan/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seannolan/)*

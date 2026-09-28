@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
+Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
 
 Reznik is a house and afro house artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 20 more. Often billed alongside Argia, Samm (BE) and Avangart Tabldot. Next up: Westerkerk, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Reznik is a house and afro house artist based in Germany, tracked on soundcheck,
 
 Argia, Samm (BE), Avangart Tabldot
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

@@ -1,6 +1,6 @@
 # Karolina Magnusson Murray
 
-Karolina Magnusson Murray is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Thu, 12 Nov 2026.
+Karolina Magnusson Murray is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Thu, 12 Nov 2026.
 
 Karolina Magnusson Murray is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside SWARMM, Coàgul and Øbsidiaän. Next up: FOLD, London on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Karolina Magnusson Murray is an experimental and electronica artist based in Uni
 
 SWARMM, Coàgul, Øbsidiaän
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinamagnussonmurray/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinamagnussonmurray/)*

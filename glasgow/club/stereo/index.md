@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Expressions w/ GK Machine, Miles J Paralysis & LOVELL" on Fri, 2 Oct 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Expressions w/ GK Machine, Miles J Paralysis & LOVELL" on Fri, 2 Oct 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including CLO, Creep-P, Dengue Dengue Dengue and DJ Slugo and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

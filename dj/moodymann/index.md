@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Moodymann is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Moodymann is a house and techno artist based in United States of America, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Carl Craig, Flo Real and DJ Holographic. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Moodymann is a house and techno artist based in United States of America, tracke
 
 Carl Craig, Flo Real, DJ Holographic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

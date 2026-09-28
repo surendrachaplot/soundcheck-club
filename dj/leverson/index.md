@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
+leverson is a Hip-Hop and R&B artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
 
 leverson is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 177 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Kiosk N1C, London on Wed 30 Sept.
 
@@ -30,4 +30,4 @@ leverson is a hip-hop and r&b artist based in United Kingdom, tracked on soundch
 
 Signorina, Omari King, Omari
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

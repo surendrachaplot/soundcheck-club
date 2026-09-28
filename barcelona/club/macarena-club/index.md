@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 35 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Move Your Body" on Sun, 27 Sept 2026.
+Macarena Club is a music venue in Barcelona with 35 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Move Your Body" on Sun, 27 Sept 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 35 upcoming gigs, with line-ups including Jo-Sie, Amadori, Baffa and Big AL and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 35 upcoming gi
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

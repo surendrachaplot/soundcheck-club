@@ -1,6 +1,6 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Rebecca Delle Piane is a techno and electronica artist based in Italy, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Freddy K, Ben Sims and SDN. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Rebecca Delle Piane is a techno and electronica artist based in Italy, tracked o
 
 Freddy K, Ben Sims, SDN (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

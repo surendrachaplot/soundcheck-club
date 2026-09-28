@@ -1,6 +1,6 @@
 # Tienson
 
-Tienson is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Tienson is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Tienson is a funk / soul and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam and Utrecht. Often billed alongside Edgar Ramiro, AIS De La Montagne and Afra. Next up: SISSI'S Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tienson is a funk / soul and house artist based in Netherlands, tracked on sound
 
 Edgar Ramiro, AIS De La Montagne, Afra
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tienson/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tienson/)*

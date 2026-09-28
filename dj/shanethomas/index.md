@@ -1,6 +1,6 @@
 # Shane Thomas
 
-Shane Thomas is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
+Shane Thomas is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Shane Thomas is a techno and club artist based in United States of America, tracked on soundcheck, with 86 sets logged across Los Angeles, New York City, San Francisco/Oakland and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: DNA Lounge, San Francisco/Oakland on Sun 27 Sept.
 
@@ -14,6 +14,7 @@ Shane Thomas is a techno and club artist based in United States of America, trac
 
 ## Recently played
 
+- DNA Lounge, San Francisco/Oakland — Sun, 27 Sept 2026
 - TBA - Silverlake, Los Angeles — Fri, 18 Sept 2026
 - TBA, Los Angeles — Fri, 4 Sept 2026
 - TBA, Los Angeles — Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Shane Thomas is a techno and club artist based in United States of America, trac
 - TBA, Los Angeles — Sat, 22 Aug 2026
 - TBA, Los Angeles — Fri, 21 Aug 2026
 - TBA, Los Angeles — Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Rob Aquino, Banoffee, Miracles
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*

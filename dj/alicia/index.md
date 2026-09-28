@@ -1,6 +1,6 @@
 # Alicia (UK)
 
-Alicia (UK) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Alicia (UK) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Alicia (UK) is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Avsluta, Softi and Allecto. Next up: FOLD, London on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Alicia (UK) is a techno and bass artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Club Cheek, London — Sun, 27 Sept 2026
 - Gaffe, London — Sat, 1 Aug 2026
 - TBA - Secret Location, London — Fri, 17 Jul 2026
 - Backsteinboot, Berlin — Sat, 11 Jul 2026
@@ -20,10 +21,9 @@ Alicia (UK) is a techno and bass artist based in United Kingdom, tracked on soun
 - Club Cheek, London — Sat, 23 May 2026
 - FOLD, London — Sat, 16 May 2026
 - Ballroom at Palais, London — Sat, 9 May 2026
-- Shai Space, London — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Avsluta, Softi, Allecto
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicia/)*

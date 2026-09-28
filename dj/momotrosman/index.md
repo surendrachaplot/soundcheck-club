@@ -1,6 +1,6 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Flash, Washington DC on Sun, 27 Sept 2026.
+Momo Trosman is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Flash, Washington DC on Sun, 27 Sept 2026.
 
 Momo Trosman is a house and tech house artist based in Argentina, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: Flash, Washington DC on Sun 27 Sept.
 
@@ -13,6 +13,7 @@ Momo Trosman is a house and tech house artist based in Argentina, tracked on sou
 
 ## Recently played
 
+- Flash, Washington DC — Sun, 27 Sept 2026
 - Outer Heaven, New York City — Sat, 26 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 25 Sept 2026
 - Green Room NYC, New York City — Sun, 20 Sept 2026
@@ -20,10 +21,9 @@ Momo Trosman is a house and tech house artist based in Argentina, tracked on sou
 - Crobar - Buenos Aires, Buenos Aires — Fri, 21 Aug 2026
 - Deseo BS AS, Buenos Aires — Fri, 7 Aug 2026
 - Avant Garten, Buenos Aires — Fri, 26 Jun 2026
-- La Terrrazza, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Franco Cinelli, Felipe Valenzuela, tINI
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

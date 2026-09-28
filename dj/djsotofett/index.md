@@ -1,6 +1,6 @@
 # DJ Sotofett
 
-DJ Sotofett is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+DJ Sotofett is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 DJ Sotofett is a dub and house artist based in Norway, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 23 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Sotofett is a dub and house artist based in Norway, tracked on soundcheck, wi
 
 LNS, DJ Fett Burger, Ireen Amnes
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*

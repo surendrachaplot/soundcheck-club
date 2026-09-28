@@ -1,6 +1,6 @@
 # Gramatik
 
-Gramatik is a Dubstep and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Gramatik is a Dubstep and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Gramatik is a dubstep and electro artist based in Slovenia, tracked on soundcheck, with 3 sets logged across New York City, San Diego and Seattle. Often billed alongside A Little Sound, Azyr and Break Science. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Gramatik is a dubstep and electro artist based in Slovenia, tracked on soundchec
 
 A Little Sound, Azyr, Break Science
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gramatik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gramatik/)*

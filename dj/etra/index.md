@@ -1,6 +1,6 @@
 # ETRA
 
-ETRA is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Foro Puebla, Mexico City on Thu, 1 Oct 2026.
+ETRA is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foro Puebla, Mexico City on Thu, 1 Oct 2026.
 
 ETRA is a house and latin bass artist tracked on soundcheck, with 25 sets logged across Liverpool, Melbourne and Mexico City. Often billed alongside Lyo XS, fka phaedra and Orbe Nacimiento. Next up: Foro Puebla, Mexico City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ ETRA is a house and latin bass artist tracked on soundcheck, with 25 sets logged
 
 Lyo XS, fka phaedra, Orbe Nacimiento
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etra/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etra/)*

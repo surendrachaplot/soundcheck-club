@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "RAVE 404 X RAVEOUT500" on Sat, 3 Oct 2026.
+Fabrik is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "RAVE 404 X RAVEOUT500" on Sat, 3 Oct 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Paolo Ferrara, Alex Clap, Alex T (UK) and Alienata and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -23,4 +23,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with l
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

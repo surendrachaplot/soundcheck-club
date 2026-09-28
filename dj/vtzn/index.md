@@ -1,6 +1,6 @@
 # VTZN
 
-VTZN is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+VTZN is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 VTZN is a downtempo and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Munich. Often billed alongside CUNT REMEMBER, FLAVE and Floor Force One. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ VTZN is a downtempo and techno artist based in Germany, tracked on soundcheck, w
 
 CUNT REMEMBER, FLAVE, Floor Force One
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtzn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtzn/)*

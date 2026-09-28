@@ -1,6 +1,6 @@
 # Kutkyle
 
-Kutkyle is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
+Kutkyle is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
 
 Kutkyle is a dancehall and r&b artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Diklipdaan, Dangerous Rose and Edward Meunier. Next up: Club NYX, Amsterdam on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Kutkyle is a dancehall and r&b artist based in Netherlands, tracked on soundchec
 
 Diklipdaan, Dangerous Rose, Edward Meunier
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkyle/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkyle/)*

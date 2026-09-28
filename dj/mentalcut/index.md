@@ -1,6 +1,6 @@
 # Mentalcut
 
-Mentalcut is a Kuduro and Gqom artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
+Mentalcut is a Kuduro and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
 
 Mentalcut is a kuduro and gqom artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Often billed alongside eylau, kertua and madikoptah. Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Mentalcut is a kuduro and gqom artist based in Poland, tracked on soundcheck, wi
 
 eylau, kertua, madikoptah
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalcut/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalcut/)*

@@ -1,6 +1,6 @@
 # Deventi
 
-Deventi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
+Deventi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
 
 Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Egui and Danny Roach. Next up: The White Hotel, Manchester on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Deventi is a techno and house artist based in United Kingdom, tracked on soundch
 
 Connor (UK), Egui, Danny Roach
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*

@@ -1,6 +1,6 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
+CRISTI:ANA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
 
 CRISTI:ANA is a techno and tech house artist based in Canada, tracked on soundcheck, with 40 sets logged across Montreal and Toronto. Often billed alongside SAMM DU, VARON and Cozmic Cat. Next up: TBA, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ CRISTI:ANA is a techno and tech house artist based in Canada, tracked on soundch
 
 SAMM DU, VARON, Cozmic Cat
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*

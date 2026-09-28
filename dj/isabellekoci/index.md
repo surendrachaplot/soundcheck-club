@@ -1,6 +1,6 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
+Isabelle Koci is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
 
 Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: radial, London on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, tracked 
 
 Reeshy, Julian Anthony, Bobby O'Donnell
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*

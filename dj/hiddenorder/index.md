@@ -1,6 +1,6 @@
 # Hidden Order
 
-Hidden Order is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
+Hidden Order is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
 
 Hidden Order is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across New York City. Often billed alongside LUCIA., Pat Bradley and _briggs. Next up: Happyfun Hideaway, New York City on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Hidden Order is a techno and house artist based in Germany, tracked on soundchec
 
 LUCIA., Pat Bradley, _briggs
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenorder/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenorder/)*

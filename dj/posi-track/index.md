@@ -1,6 +1,6 @@
 # POSI-TRACK
 
-POSI-TRACK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nightmoves, New York City on Sun, 27 Sept 2026.
+POSI-TRACK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nightmoves, New York City on Sun, 27 Sept 2026.
 
 POSI-TRACK is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across New York City. Often billed alongside KEILAH, DJ SWISHA and Very J. Next up: Nightmoves, New York City on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ POSI-TRACK is a house and techno artist based in United States of America, track
 
 ## Recently played
 
+- Nightmoves, New York City — Sun, 27 Sept 2026
 - Mood Ring, New York City — Wed, 11 Dec 2024
 - Mansions, New York City — Thu, 3 Oct 2024
 - Camp Kennybrook, New York City — Thu, 12 Sept 2024
@@ -19,10 +20,9 @@ POSI-TRACK is a house and techno artist based in United States of America, track
 - Hart Bar, New York City — Sat, 15 Jun 2024
 - Mansions, New York City — Fri, 19 Apr 2024
 - Mansions, New York City — Thu, 14 Dec 2023
-- Mansions, New York City — Fri, 13 Oct 2023
 
 ## Shares bills with
 
 KEILAH, DJ SWISHA, Very J
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posi-track/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posi-track/)*

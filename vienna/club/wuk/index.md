@@ -1,6 +1,6 @@
 # WUK
 
-WUK is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sun, 27 Sept 2026; the next is "45 Jahre WUK" on Sat, 3 Oct 2026.
+WUK is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "45 Jahre WUK" on Sat, 3 Oct 2026.
 
 WUK is a music venue in Vienna listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Währingerstrasse 59; 1090 Vienna; Austria.
 
@@ -14,4 +14,4 @@ WUK is a music venue in Vienna listed on soundcheck. 1 upcoming gig. Browse upco
 
 Währingerstrasse 59; 1090 Vienna; Austria, Vienna
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wuk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wuk/)*

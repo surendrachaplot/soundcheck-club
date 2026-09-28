@@ -1,6 +1,6 @@
 # NUAH (2)
 
-NUAH (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at fi, Cologne on Sat, 14 Nov 2026.
+NUAH (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at fi, Cologne on Sat, 14 Nov 2026.
 
 NUAH is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Often billed alongside Frida Darko and Sahra Bass. Next up: fi, Cologne on Sat 14 Nov.
 
@@ -14,4 +14,4 @@ NUAH is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Frida Darko, Sahra Bass
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah-2/)*

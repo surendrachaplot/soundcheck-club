@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Nordstern, Basel on Sat, 3 Oct 2026.
+SHOKI287 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nordstern, Basel on Sat, 3 Oct 2026.
 
 SHOKI287 is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Nordstern, Basel on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SHOKI287 is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DJ Cringey, DJ https, Justin Tinderdate
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

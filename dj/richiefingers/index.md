@@ -1,6 +1,6 @@
 # Richie Fingers
 
-Richie Fingers is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Richie Fingers is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Richie Fingers is a house and acid artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh and London. Often billed alongside Slipmatt, Alex P and Billy Daniel Bunter. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Richie Fingers is a house and acid artist based in United Kingdom, tracked on so
 
 Slipmatt, Alex P, Billy Daniel Bunter
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiefingers/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiefingers/)*

@@ -1,6 +1,6 @@
 # aso (1)
 
-aso (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Edge Seoul, Seoul on Fri, 2 Oct 2026.
+aso (1) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Edge Seoul, Seoul on Fri, 2 Oct 2026.
 
 aso is a techno and ambient artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside Isoz, J.U.N.E and Minseok Kim. Next up: The Edge Seoul, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ aso is a techno and ambient artist based in South Korea, tracked on soundcheck, 
 
 Isoz, J.U.N.E, Minseok Kim
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*

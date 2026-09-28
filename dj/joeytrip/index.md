@@ -1,6 +1,6 @@
 # Joey Trip
 
-Joey Trip is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
+Joey Trip is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
 
 Joey Trip is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across San Francisco/Oakland. Often billed alongside DJ Parrot, Charles Hawthorne and starfari. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Joey Trip is a house and tech house artist based in United States of America, tr
 
 DJ Parrot, Charles Hawthorne, starfari
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeytrip/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeytrip/)*

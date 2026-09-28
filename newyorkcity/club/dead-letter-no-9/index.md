@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Woodshop with Bae Jing, ellen.j - Dead Letter No.9" on Thu, 1 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Woodshop with Bae Jing, ellen.j - Dead Letter No.9" on Thu, 1 Oct 2026.
 
 Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Borbón and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 10 upc
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

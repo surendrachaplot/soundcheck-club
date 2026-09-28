@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "KEEP ON with ButhoTheWarrior" on Sun, 27 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KEEP ON with ButhoTheWarrior" on Sun, 27 Sept 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including Amizl, Babyccino, Baron Von Trax and Brody James and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 25 upcoming gi
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

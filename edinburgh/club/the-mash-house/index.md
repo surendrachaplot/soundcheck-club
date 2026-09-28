@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Samedia Shebeen w. Duende ft Wends" on Sat, 3 Oct 2026.
+The Mash House is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Samedia Shebeen w. Duende ft Wends" on Sat, 3 Oct 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Kok, Chris Astrojazz, CLEAR UK and DJ PLANE-SPOTTER and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

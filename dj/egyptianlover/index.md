@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Egyptian Lover is a Electro and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
 Egyptian Lover is an electro and house artist based in United States of America, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside DJ Godfather, Binh and DJ Business. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
@@ -20,6 +20,7 @@ Egyptian Lover is an electro and house artist based in United States of America,
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 27 Sept 2026
 - Hidden, Manchester — Fri, 25 Sept 2026
 - Bunker, Turin — Sat, 12 Sept 2026
 - Blå, Oslo — Fri, 28 Aug 2026
@@ -27,10 +28,9 @@ Egyptian Lover is an electro and house artist based in United States of America,
 - House of Yes, New York City — Sat, 15 Aug 2026
 - Floyd, Miami — Sat, 8 Aug 2026
 - Fünk, Mexico City — Sat, 1 Aug 2026
-- Else, Berlin — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 DJ Godfather, Binh, DJ Business (2)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

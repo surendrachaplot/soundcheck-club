@@ -1,6 +1,6 @@
 # Schmoop
 
-Schmoop is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Chocolate Factory, New York City on Fri, 30 Oct 2026.
+Schmoop is a Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Chocolate Factory, New York City on Fri, 30 Oct 2026.
 
 Schmoop is a bass and downtempo artist tracked on soundcheck, with 3 sets logged across New York City, Portland and San Francisco/Oakland. Often billed alongside Izzy Wise. Next up: The Chocolate Factory, New York City on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Schmoop is a bass and downtempo artist tracked on soundcheck, with 3 sets logged
 
 Izzy Wise
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schmoop/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schmoop/)*

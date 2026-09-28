@@ -1,6 +1,6 @@
 # Kike Mayor
 
-Kike Mayor is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 8 Nov 2026.
+Kike Mayor is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 8 Nov 2026.
 
 Kike Mayor is a house and minimal artist based in Peru, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, Los Angeles and Miami and 4 more. Often billed alongside Jessie Calistri, Enzo Muro and Glo Phase. Next up: TBA, Los Angeles on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Kike Mayor is a house and minimal artist based in Peru, tracked on soundcheck, w
 
 Jessie Calistri, Enzo Muro, Glo Phase
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikemayor/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikemayor/)*

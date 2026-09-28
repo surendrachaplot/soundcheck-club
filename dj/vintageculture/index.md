@@ -1,6 +1,6 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Vintage Culture is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
 
 Vintage Culture is a house and tech house artist based in Brazil, tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Austin and Bali and 41 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: [UNVRS], Ibiza on Tue 6 Oct.
 
@@ -32,4 +32,4 @@ Vintage Culture is a house and tech house artist based in Brazil, tracked on sou
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

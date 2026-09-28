@@ -1,6 +1,6 @@
 # SSEDA
 
-SSEDA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+SSEDA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 SSEDA is a house and techno artist tracked on soundcheck, with 13 sets logged across San Francisco/Oakland and Tokyo. Often billed alongside HAPKI, Chamcham and Dany Donowitz. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SSEDA is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 HAPKI, Chamcham, Dany Donowitz
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sseda/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sseda/)*

@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
+Jump Source is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
 
 Jump Source is a techno and deep house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Chicago and 9 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: public records, New York City on Sun 27 Sept.
 
@@ -14,6 +14,7 @@ Jump Source is a techno and deep house artist based in Canada, tracked on soundc
 
 ## Recently played
 
+- public records, New York City — Sun, 27 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
 - Virage, Paris — Fri, 11 Sept 2026
@@ -21,10 +22,9 @@ Jump Source is a techno and deep house artist based in Canada, tracked on soundc
 - Ormside Projects, London — Sat, 29 Aug 2026
 - TBA - Southwark Park, London — Sat, 29 Aug 2026
 - Société des arts technologiques, Montreal — Thu, 27 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 
 ## Shares bills with
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

@@ -1,6 +1,6 @@
 # A VIRGIN
 
-A VIRGIN is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Forestlimit, Tokyo on Mon, 28 Sept 2026.
+A VIRGIN is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Forestlimit, Tokyo on Mon, 28 Sept 2026.
 
 A VIRGIN is a house and hip-hop artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside Hana Watanabe, Coby Sey and DJ HOKUTO. Next up: Forestlimit, Tokyo on Mon 28 Sept.
 
@@ -21,4 +21,4 @@ A VIRGIN is a house and hip-hop artist tracked on soundcheck, with 5 sets logged
 
 Hana Watanabe, Coby Sey, DJ HOKUTO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avirgin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avirgin/)*

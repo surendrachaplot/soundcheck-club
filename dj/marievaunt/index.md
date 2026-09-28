@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+Marie Vaunt is a Techno and Acid artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Arizona, Athens and Auckland and 40 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Marie Vaunt is a techno and acid artist based in United States of America, track
 
 Space 92, Maddix, Eli Brown
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

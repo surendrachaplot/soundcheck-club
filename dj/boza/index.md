@@ -1,6 +1,6 @@
 # BOZA
 
-BOZA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+BOZA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
 BOZA is a house and tech house artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside Joee Cons, MC Flipside and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
@@ -13,10 +13,11 @@ BOZA is a house and tech house artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
+- Wiggle Room, Toronto — Sun, 27 Sept 2026
 - Wiggle Room, Toronto — Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Joee Cons, MC Flipside, Manzone & Strong
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boza/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boza/)*

@@ -1,6 +1,6 @@
 # seuge
 
-seuge is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TORTE BAR, Berlin on Thu, 1 Oct 2026.
+seuge is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TORTE BAR, Berlin on Thu, 1 Oct 2026.
 
 seuge is a house and baile funk artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Felix Cornelsen, Kosmovision and Natalia Martinovna. Next up: TORTE BAR, Berlin on Thu 1 Oct.
 
@@ -19,4 +19,4 @@ seuge is a house and baile funk artist tracked on soundcheck, with 3 sets logged
 
 Felix Cornelsen, Kosmovision, Natalia Martinovna
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seuge/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seuge/)*

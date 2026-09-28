@@ -1,6 +1,6 @@
 # SBSTRD
 
-SBSTRD is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Tendance, Prague on Wed, 30 Sept 2026.
+SBSTRD is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tendance, Prague on Wed, 30 Sept 2026.
 
 SBSTRD is an electronic artist based in Czech Republic, tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Theya, Voice of User and dMIT.RY. Next up: Tendance, Prague on Wed 30 Sept.
 
@@ -22,4 +22,4 @@ SBSTRD is an electronic artist based in Czech Republic, tracked on soundcheck, w
 
 Theya, Voice of User, dMIT.RY
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbstrd/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbstrd/)*

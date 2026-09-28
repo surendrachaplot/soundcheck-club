@@ -1,6 +1,6 @@
 # Arp
 
-Arp is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Die Rakete, Nürnberg on Sat, 3 Oct 2026.
+Arp is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Die Rakete, Nürnberg on Sat, 3 Oct 2026.
 
 Arp is a techno and ambient artist based in United States of America, tracked on soundcheck, with 2 sets logged across Nürnberg and Tokyo. Often billed alongside Albino Sound, Bernhard Groeger and DNG. Next up: Die Rakete, Nürnberg on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Arp is a techno and ambient artist based in United States of America, tracked on
 
 Albino Sound, Bernhard Groeger, DNG (1)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arp/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arp/)*

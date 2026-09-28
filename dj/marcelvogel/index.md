@@ -1,6 +1,6 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
+Marcel Vogel is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
 
 Marcel Vogel is a disco and house artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 12 more. Often billed alongside Apparel Wax, Crazy P and Delfonic. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Marcel Vogel is a disco and house artist based in Netherlands, tracked on soundc
 
 Apparel Wax, Crazy P, Delfonic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

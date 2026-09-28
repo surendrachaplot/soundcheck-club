@@ -1,6 +1,6 @@
 # Le Wanski
 
-Le Wanski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mia Mao, Paris on Sat, 7 Nov 2026.
+Le Wanski is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mia Mao, Paris on Sat, 7 Nov 2026.
 
 Le Wanski is a techno and acid artist based in France, tracked on soundcheck, with 3 sets logged across Brussels and Paris. Often billed alongside Sköne, Airod and Angerfist. Next up: Mia Mao, Paris on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Le Wanski is a techno and acid artist based in France, tracked on soundcheck, wi
 
 Sköne, Airod, Angerfist
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewanski/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewanski/)*

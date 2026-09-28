@@ -1,6 +1,6 @@
 # Henry Wilson
 
-Henry Wilson is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+Henry Wilson is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
 Henry Wilson is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Copenhagen and Newcastle. Often billed alongside FroD, LA!NE and Neo. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Henry Wilson is an electro and house artist based in United Kingdom, tracked on 
 
 FroD, LA!NE, Neo (8)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrywilson/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrywilson/)*

@@ -1,6 +1,6 @@
 # Three6sashia
 
-Three6sashia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
+Three6sashia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Three6sashia is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across San Francisco/Oakland. Often billed alongside Byron Yeates, DHC and Digital KitKat. Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Three6sashia is a house and techno artist based in United States of America, tra
 
 Byron Yeates, DHC, Digital KitKat
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*

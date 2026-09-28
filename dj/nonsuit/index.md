@@ -1,6 +1,6 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+nonsuit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 nonsuit is a techno and club artist based in United States of America, tracked on soundcheck, with 97 sets logged across Los Angeles, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ nonsuit is a techno and club artist based in United States of America, tracked o
 
 likeholywine, Adam Kraft, Beverly Chills
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*

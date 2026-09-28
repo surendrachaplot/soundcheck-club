@@ -1,6 +1,6 @@
 # sawanese
 
-sawanese is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at DeTour, Tokyo on Fri, 2 Oct 2026.
+sawanese is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DeTour, Tokyo on Fri, 2 Oct 2026.
 
 sawanese is a techno and hardcore artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside AME (JP), nataria and Natasha (VE). Next up: DeTour, Tokyo on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ sawanese is a techno and hardcore artist based in Japan, tracked on soundcheck, 
 
 AME (JP), nataria, Natasha (VE)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sawanese/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sawanese/)*

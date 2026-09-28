@@ -1,6 +1,6 @@
 # Morgan Elder
 
-Morgan Elder is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
+Morgan Elder is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
 
 Morgan Elder is an electronic artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Klose One, 2ManyDJs and Benjamin Freeney. Next up: M.O.T, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Morgan Elder is an electronic artist tracked on soundcheck, with 5 sets logged a
 
 Klose One, 2ManyDJs, Benjamin Freeney
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganelder/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganelder/)*

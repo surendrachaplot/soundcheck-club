@@ -1,6 +1,6 @@
 # IAMHARDVANCORE
 
-IAMHARDVANCORE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bollwerk Cologne, Cologne on Thu, 1 Oct 2026.
+IAMHARDVANCORE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bollwerk Cologne, Cologne on Thu, 1 Oct 2026.
 
 IAMHARDVANCORE is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin and Cologne. Often billed alongside Patrick Scuro, RHYTMOX and Staubtornado. Next up: Bollwerk Cologne, Cologne on Thu 1 Oct.
 
@@ -24,4 +24,4 @@ IAMHARDVANCORE is a techno and house artist tracked on soundcheck, with 8 sets l
 
 Patrick Scuro, RHYTMOX, Staubtornado
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iamhardvancore/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iamhardvancore/)*

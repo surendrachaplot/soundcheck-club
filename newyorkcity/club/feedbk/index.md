@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "feedbk - soft opening season with NAP & Dardenne" on Sun, 27 Sept 2026.
+feedbk is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "feedbk - soft opening season with NAP & Dardenne" on Sun, 27 Sept 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Neri, Amelia Holt, B.Love and Burchan Acar and 2 more. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -23,4 +23,4 @@ feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs,
 
 153 Morgan Avenue, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

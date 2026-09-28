@@ -1,6 +1,6 @@
 # Warmchainss
 
-Warmchainss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
+Warmchainss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
 
 Warmchainss is a techno and club artist based in China, tracked on soundcheck, with 64 sets logged across Edinburgh, Hong Kong and Shenzhen. Often billed alongside Fatalis, Sirens and zzm. Next up: OIL Club, Shenzhen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Warmchainss is a techno and club artist based in China, tracked on soundcheck, w
 
 Fatalis, Sirens, zzm (2)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warmchainss/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warmchainss/)*

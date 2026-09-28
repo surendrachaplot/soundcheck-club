@@ -1,6 +1,6 @@
 # Wiley
 
-Wiley is a Afro House and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+Wiley is a Afro House and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
 Wiley is an afro house and grime artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London, Manchester, Melbourne and New York City and 1 more. Often billed alongside Artful Dodger, DJ Brockie and DJ Luck & MC Neat. Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wiley is an afro house and grime artist based in United Kingdom, tracked on soun
 
 Artful Dodger, DJ Brockie, DJ Luck & MC Neat
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiley/)*

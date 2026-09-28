@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Refuge Sunday: Brothers Macklovitch (A-Trak & Dave 1)" on Sun, 27 Sept 2026.
+Refuge is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Refuge Sunday: Brothers Macklovitch (A-Trak & Dave 1)" on Sun, 27 Sept 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Adam X, Anthony Middleton, A-Trak and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 19 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

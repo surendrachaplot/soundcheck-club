@@ -1,6 +1,6 @@
 # philip mceachen
 
-philip mceachen is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
+philip mceachen is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
 
 philip mceachen is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside LOVECAT, ASHTREY and Becky Stroke. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ philip mceachen is a techno and experimental artist based in United Kingdom, tra
 
 LOVECAT, ASHTREY, Becky Stroke
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmceachen/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmceachen/)*

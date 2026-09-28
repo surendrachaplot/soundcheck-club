@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Cellar, London on Sat, 3 Oct 2026.
+Free Zing is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cellar, London on Sat, 3 Oct 2026.
 
 Free Zing is a techno and electro artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: Cellar, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Free Zing is a techno and electro artist based in Spain, tracked on soundcheck, 
 
 Alien Communications, BAYS, Jos
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

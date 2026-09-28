@@ -1,6 +1,6 @@
 # SAHARA
 
-SAHARA is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+SAHARA is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 SAHARA is a downtempo and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Munich. Often billed alongside Alice DiMar, Amber (NL) and Artur Bredo. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ SAHARA is a downtempo and house artist based in Germany, tracked on soundcheck, 
 
 Alice DiMar, Amber (NL), Artur Bredo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahara/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahara/)*

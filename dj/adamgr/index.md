@@ -1,6 +1,6 @@
 # adamgr
 
-adamgr is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at World Headquarters, Newcastle on Sat, 28 Nov 2026.
+adamgr is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at World Headquarters, Newcastle on Sat, 28 Nov 2026.
 
 adamgr is a house and garage artist tracked on soundcheck, with 2 sets logged across Newcastle. Often billed alongside JJ Croft and Tonno Disko. Next up: World Headquarters, Newcastle on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ adamgr is a house and garage artist tracked on soundcheck, with 2 sets logged ac
 
 JJ Croft, Tonno Disko
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamgr/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamgr/)*

@@ -1,6 +1,6 @@
 # Blazin' Bomzai
 
-Blazin' Bomzai is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Illegaal, Brussels on Sat, 7 Nov 2026.
+Blazin' Bomzai is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Illegaal, Brussels on Sat, 7 Nov 2026.
 
 Blazin' Bomzai is an acid and techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Brussels. Often billed alongside Daan Schoonvliet and Radze. Next up: Illegaal, Brussels on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Blazin' Bomzai is an acid and techno artist based in Spain, tracked on soundchec
 
 Daan Schoonvliet, Radze
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blazinbomzai/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blazinbomzai/)*

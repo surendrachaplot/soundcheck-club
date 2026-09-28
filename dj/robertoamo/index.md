@@ -1,6 +1,6 @@
 # Roberto Amo
 
-Roberto Amo is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Lasociaciøn, Madrid on Fri, 6 Nov 2026.
+Roberto Amo is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lasociaciøn, Madrid on Fri, 6 Nov 2026.
 
 Roberto Amo is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Madrid. Often billed alongside Alex (ES), Avo (ES) and Gabbs. Next up: Lasociaciøn, Madrid on Fri 6 Nov.
 
@@ -14,4 +14,4 @@ Roberto Amo is an electronic artist based in United Kingdom, tracked on soundche
 
 Alex (ES), Avo (ES), Gabbs
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertoamo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertoamo/)*

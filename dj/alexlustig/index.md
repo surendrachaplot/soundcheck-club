@@ -1,6 +1,6 @@
 # Alex Lustig
 
-Alex Lustig is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Shai Space, London on Thu, 22 Oct 2026.
+Alex Lustig is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Shai Space, London on Thu, 22 Oct 2026.
 
 Alex Lustig is an ambient and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Berlin and Birmingham and 22 more. Often billed alongside JENNO and Rampa. Next up: Shai Space, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Alex Lustig is an ambient and house artist tracked on soundcheck, with 37 sets l
 
 JENNO (2), Rampa
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*

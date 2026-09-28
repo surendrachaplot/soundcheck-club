@@ -1,6 +1,6 @@
 # rahuvia
 
-rahuvia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Mood Ring, New York City on Fri, 9 Oct 2026.
+rahuvia is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Fri, 9 Oct 2026.
 
 rahuvia is a techno and bass artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City. Often billed alongside CMD+JAZMINE, Janelovesu! and MF BUTCH. Next up: Mood Ring, New York City on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ rahuvia is a techno and bass artist based in United States of America, tracked o
 
 CMD+JAZMINE, Janelovesu!, MF BUTCH
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rahuvia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rahuvia/)*

@@ -1,6 +1,6 @@
 # Marie Ann Hedonia
 
-Marie Ann Hedonia is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Marie Ann Hedonia is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Marie Ann Hedonia is a techno and experimental artist based in United States of America, tracked on soundcheck, with 4 sets logged across Philadelphia and Washington DC. Often billed alongside Adrian Hex, Brian Wenner and Chris Lock. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Marie Ann Hedonia is a techno and experimental artist based in United States of 
 
 Adrian Hex, Brian Wenner, Chris Lock
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieannhedonia/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieannhedonia/)*

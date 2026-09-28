@@ -1,6 +1,6 @@
 # THD+N
 
-THD+N is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
+THD+N is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Native Beach Club, Buenos Aires on Fri, 20 Nov 2026.
 
 THD+N is a techno and hard drum artist based in Argentina, tracked on soundcheck, with 1 set logged across Buenos Aires. Often billed alongside Cloudy, I Hate Models and KUKO. Next up: Native Beach Club, Buenos Aires on Fri 20 Nov.
 
@@ -14,4 +14,4 @@ THD+N is a techno and hard drum artist based in Argentina, tracked on soundcheck
 
 Cloudy, I Hate Models, KUKO
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thdn/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thdn/)*

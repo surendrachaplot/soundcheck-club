@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Sissi's Friday with SWAY, Mowgli & Ays" on Fri, 2 Oct 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sissi's Friday with SWAY, Mowgli & Ays" on Fri, 2 Oct 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

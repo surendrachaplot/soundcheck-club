@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Cam Stockman is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Nest, Nottingham on Sat, 3 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Gaskin, Locky and Boss Priester. Next up: The Nest, Nottingham on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Gaskin, Locky, Boss Priester
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

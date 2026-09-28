@@ -1,6 +1,6 @@
 # Yasmin
 
-Yasmin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Yasmin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
 Yasmin is a house and disco artist tracked on soundcheck, with 68 sets logged across Barcelona, Brisbane, Denver and Glasgow and 14 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Carl Craig. Next up: Verbier, Switzerland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Yasmin is a house and disco artist tracked on soundcheck, with 68 sets logged ac
 
 Horse Meat Disco, Melvo Baptiste, Carl Craig
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*

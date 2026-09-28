@@ -1,6 +1,6 @@
 # Arch535
 
-Arch535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "GATE : 002 - Inigo Kennedy, J.Garcia" on Sat, 7 Nov 2026.
+Arch535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "GATE : 002 - Inigo Kennedy, J.Garcia" on Sat, 7 Nov 2026.
 
 Arch535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Inigo Kennedy and J.Garcia. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -15,4 +15,4 @@ Arch535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with l
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch535/)*

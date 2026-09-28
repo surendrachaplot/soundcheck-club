@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 3 Oct 2026.
+Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 3 Oct 2026.
 
 Radio Slave is a house and techno artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Austria and 43 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Studio Club Malaga, Malaga on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Radio Slave is a house and techno artist based in United Kingdom, tracked on sou
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

@@ -1,6 +1,6 @@
 # Josh Bobzin
 
-Josh Bobzin is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Josh Bobzin is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Josh Bobzin is a techno and electronica artist based in Germany, tracked on soundcheck, with 13 sets logged across Bangkok, Berlin, Hamburg and Oslo. Often billed alongside Gamma.cws, Gladee and Laetizia. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Josh Bobzin is a techno and electronica artist based in Germany, tracked on soun
 
 Gamma.cws, Gladee, Laetizia
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbobzin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbobzin/)*

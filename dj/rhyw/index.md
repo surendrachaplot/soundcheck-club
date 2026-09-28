@@ -1,6 +1,6 @@
 # Rhyw
 
-Rhyw is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Sameheads, Berlin on Fri, 30 Oct 2026.
+Rhyw is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sameheads, Berlin on Fri, 30 Oct 2026.
 
 Rhyw is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Mor Elian, Pariah and Aurora Halal. Next up: Sameheads, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rhyw is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 Mor Elian, Pariah, Aurora Halal
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*

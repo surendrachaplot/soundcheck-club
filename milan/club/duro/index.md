@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Hangover // Sasha - MISERIA b2b Diamantha - SOLE DOSI" on Sun, 27 Sept 2026.
+DURO is a music venue in Milan with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Hangover // Sasha - MISERIA b2b Diamantha - SOLE DOSI" on Sun, 27 Sept 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 21 upcoming gigs, with line-ups including Caim, Chloé, Daniel Avery and Diamantha and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 21 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

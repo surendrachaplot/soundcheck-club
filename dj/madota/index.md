@@ -1,6 +1,6 @@
 # Madota
 
-Madota is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audio SF, San Francisco/Oakland on Fri, 2 Oct 2026.
+Madota is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Audio SF, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Madota is a house and deep house artist based in Iran, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Ibiza and Lisbon and 12 more. Often billed alongside Kora (CA), Britta Arnold and Mira. Next up: Audio SF, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Madota is a house and deep house artist based in Iran, tracked on soundcheck, wi
 
 Kora (CA), Britta Arnold, Mira
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*

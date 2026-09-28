@@ -1,6 +1,6 @@
 # NOIZA
 
-NOIZA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Kilomètre25, Paris on Fri, 2 Oct 2026.
+NOIZA is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kilomètre25, Paris on Fri, 2 Oct 2026.
 
 NOIZA is a techno artist based in Spain, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside Esilise and Urumi. Next up: Kilomètre25, Paris on Fri 2 Oct.
 
@@ -14,4 +14,4 @@ NOIZA is a techno artist based in Spain, tracked on soundcheck, with 1 set logge
 
 Esilise, Urumi
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noiza/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noiza/)*

@@ -1,6 +1,6 @@
 # Muski
 
-Muski is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Liquid Club, Malta on Fri, 23 Oct 2026.
+Muski is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Liquid Club, Malta on Fri, 23 Oct 2026.
 
 Muski is a techno artist based in Malta, tracked on soundcheck, with 2 sets logged across Malta. Often billed alongside Cheech, Georg MT and Gordon Flash. Next up: Liquid Club, Malta on Fri 23 Oct.
 
@@ -10,8 +10,12 @@ Muski is a techno artist based in Malta, tracked on soundcheck, with 2 sets logg
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Liquid Club | Malta |
 
+## Recently played
+
+- The Rooftop at Gianpula Village, Malta — Sun, 27 Sept 2026
+
 ## Shares bills with
 
 Cheech, Georg MT, Gordon Flash
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muski/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muski/)*

@@ -1,6 +1,6 @@
 # NOIDMATE
 
-NOIDMATE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Model, Nottingham on Fri, 30 Oct 2026.
+NOIDMATE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Model, Nottingham on Fri, 30 Oct 2026.
 
 NOIDMATE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Nottingham. Often billed alongside SCCO, Jude Lenihan and 3 Minds. Next up: The Model, Nottingham on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ NOIDMATE is a house and tech house artist based in United Kingdom, tracked on so
 
 SCCO, Jude Lenihan, 3 Minds
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*

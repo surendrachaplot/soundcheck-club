@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
+Konduku is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
 
 Konduku is a techno and house artist based in Netherlands, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 40 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Masada, Milan on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Konduku is a techno and house artist based in Netherlands, tracked on soundcheck
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

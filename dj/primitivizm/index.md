@@ -1,6 +1,6 @@
 # Primitivizm
 
-Primitivizm is a Drum & Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Club Cheek, London on Sat, 7 Nov 2026.
+Primitivizm is a Drum & Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Cheek, London on Sat, 7 Nov 2026.
 
 Primitivizm is a drum & bass and ambient artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Facs, Xanadu and oozat. Next up: Club Cheek, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Primitivizm is a drum & bass and ambient artist based in United Kingdom, tracked
 
 Facs, Xanadu, oozat
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/primitivizm/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/primitivizm/)*

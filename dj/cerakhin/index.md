@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
 
 Cera Khin is a techno and house artist based in Tunisia, tracked on soundcheck, with 181 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Clara Cuvé, Shlømo and Charlie Sparks. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Cera Khin is a techno and house artist based in Tunisia, tracked on soundcheck, 
 
 Clara Cuvé, Shlømo, Charlie Sparks
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

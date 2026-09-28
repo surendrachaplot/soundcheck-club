@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "R&B and Ribs" on Sun, 27 Sept 2026.
+Elsewhere is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "R&B and Ribs" on Sun, 27 Sept 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including 6 SENSE, AEREA, Ali RQ and Arjun Shah and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 22 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

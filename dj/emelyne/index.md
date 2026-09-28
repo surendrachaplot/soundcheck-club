@@ -1,6 +1,6 @@
 # Emelyne
 
-Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Inner North, Melbourne on Sat, 17 Oct 2026.
+Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Inner North, Melbourne on Sat, 17 Oct 2026.
 
 Emelyne is a bass and techno artist based in Australia, tracked on soundcheck, with 79 sets logged across Istanbul, Melbourne, Prague and Sydney. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: TBA - Inner North, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Emelyne is a bass and techno artist based in Australia, tracked on soundcheck, w
 
 Kate Miller, Moopie, Darcy Justice
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*

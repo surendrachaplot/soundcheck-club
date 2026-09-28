@@ -1,6 +1,6 @@
 # Jodo Kast
 
-Jodo Kast is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Toldi Klub, Budapest on Fri, 30 Oct 2026.
+Jodo Kast is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Toldi Klub, Budapest on Fri, 30 Oct 2026.
 
 Jodo Kast is a minimal and techno artist based in Hungary, tracked on soundcheck, with 4 sets logged across Budapest. Often billed alongside Blassiou, Ciaga and Greg Orca. Next up: Toldi Klub, Budapest on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Jodo Kast is a minimal and techno artist based in Hungary, tracked on soundcheck
 
 Blassiou, Ciaga, Greg Orca
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodokast/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodokast/)*

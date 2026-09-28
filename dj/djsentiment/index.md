@@ -1,6 +1,6 @@
 # DJ Sentiment
 
-DJ Sentiment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+DJ Sentiment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
 
 DJ Sentiment is a techno and trance artist tracked on soundcheck, with 4 sets logged across Mexico City. Often billed alongside Enya Botello, 1OO1O and AAAA. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
 
@@ -21,4 +21,4 @@ DJ Sentiment is a techno and trance artist tracked on soundcheck, with 4 sets lo
 
 Enya Botello, 1OO1O, AAAA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsentiment/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsentiment/)*

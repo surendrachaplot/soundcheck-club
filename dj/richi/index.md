@@ -1,6 +1,6 @@
 # Richi.
 
-Richi. is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
+Richi. is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
 
 Richi. is a techno and progressive house artist based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside AMARE, LOUT and Nick Mason. Next up: Nicholas Groente & Fruit, Amsterdam on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Richi. is a techno and progressive house artist based in Germany, tracked on sou
 
 AMARE, LOUT, Nick Mason
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richi/)*

@@ -1,6 +1,6 @@
 # autogyro
 
-autogyro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spkrbox, Detroit on Wed, 30 Sept 2026.
+autogyro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Wed, 30 Sept 2026.
 
 autogyro is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Detroit, New York City and Washington DC. Often billed alongside Wax Assassin, we1sman and Tylr. Next up: Spkrbox, Detroit on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ autogyro is a techno and house artist based in United States of America, tracked
 
 Wax Assassin, we1sman, Tylr
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*

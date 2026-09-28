@@ -1,6 +1,6 @@
 # TRUSTEE
 
-TRUSTEE is a Garage and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+TRUSTEE is a Garage and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 TRUSTEE is a garage and techno artist based in Australia, tracked on soundcheck, with 40 sets logged across Australian Capital Territory, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside KJONES, Prizefight and IsGwan. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ TRUSTEE is a garage and techno artist based in Australia, tracked on soundcheck,
 
 KJONES, Prizefight, IsGwan
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*

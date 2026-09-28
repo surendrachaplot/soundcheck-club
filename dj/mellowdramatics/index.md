@@ -1,6 +1,6 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 6 Nov 2026.
+Mellowdramatics is a Club and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 6 Nov 2026.
 
 Mellowdramatics is a club and dub artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Glasgow and London. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: EXIT Glasgow, Glasgow on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mellowdramatics is a club and dub artist based in United Kingdom, tracked on sou
 
 John T. Gast, Authentically Plastic, Conrad Pack
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*

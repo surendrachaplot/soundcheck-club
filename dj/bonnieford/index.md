@@ -1,6 +1,6 @@
 # Bonnie Ford
 
-Bonnie Ford is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Bonnie Ford is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 Bonnie Ford is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Basel, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Leon Licht, Sin:port and Maurice Mino. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bonnie Ford is a techno and house artist based in Germany, tracked on soundcheck
 
 Leon Licht, Sin:port, Maurice Mino
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*

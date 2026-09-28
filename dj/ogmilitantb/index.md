@@ -1,6 +1,6 @@
 # OG Militant B
 
-OG Militant B is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Forestlimit, Tokyo on Wed, 30 Sept 2026.
+OG Militant B is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Forestlimit, Tokyo on Wed, 30 Sept 2026.
 
 OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, with 113 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Lil Mofo, YELLOWUHURU and okadada. Next up: Forestlimit, Tokyo on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, w
 
 Lil Mofo, YELLOWUHURU, okadada
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*

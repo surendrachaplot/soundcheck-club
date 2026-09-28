@@ -1,6 +1,6 @@
 # Mediina
 
-Mediina is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Beauty Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mediina is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beauty Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mediina is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 2 sets logged across San Francisco/Oakland. Often billed alongside Louie El Ser, Profesito and mare.e.fresh. Next up: Beauty Bar, San Francisco/Oakland on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Mediina is a reggaeton and neo perreo artist based in United States of America, 
 
 Louie El Ser, Profesito, mare.e.fresh
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mediina/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mediina/)*

@@ -1,6 +1,6 @@
 # Player Dave
 
-Player Dave is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Player Dave is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Player Dave is a bass and garage artist tracked on soundcheck, with 23 sets logged across Chicago, Denver, Detroit and Los Angeles and 8 more. Often billed alongside Jacques Greene, Sara Landry and Potions. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Player Dave is a bass and garage artist tracked on soundcheck, with 23 sets logg
 
 Jacques Greene, Sara Landry, Potions
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*

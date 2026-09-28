@@ -1,6 +1,6 @@
 # Kyanu
 
-Kyanu is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Kyanu is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Kyanu is a techno artist tracked on soundcheck, with 5 sets logged across Cologne, Hamburg, Hannover and Stuttgart. Often billed alongside A.N.I., AKKI (DE) and Alfred Heinrichs. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Kyanu is a techno artist tracked on soundcheck, with 5 sets logged across Cologn
 
 A.N.I., AKKI (DE), Alfred Heinrichs
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyanu/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyanu/)*

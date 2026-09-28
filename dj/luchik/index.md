@@ -1,6 +1,6 @@
 # Luchik
 
-Luchik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
+Luchik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
 
 Luchik is a techno and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Bristol. Often billed alongside Cat Caesura and Tribal. Next up: Take Five Cafe, Bristol on Fri 23 Oct.
 
@@ -14,4 +14,4 @@ Luchik is a techno and house artist based in United Kingdom, tracked on soundche
 
 Cat Caesura, Tribal
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luchik/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luchik/)*

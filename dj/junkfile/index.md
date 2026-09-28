@@ -1,6 +1,6 @@
 # Junkfile
 
-Junkfile is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at nachbar, Amsterdam on Thu, 22 Oct 2026.
+Junkfile is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at nachbar, Amsterdam on Thu, 22 Oct 2026.
 
 Junkfile is a techno and trance artist based in Colombia, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Boston and Buenos Aires and 8 more. Often billed alongside Ramsey Neville, STE-VÍ and Saint Velez. Next up: nachbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Junkfile is a techno and trance artist based in Colombia, tracked on soundcheck,
 
 Ramsey Neville, STE-VÍ, Saint Velez
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkfile/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkfile/)*

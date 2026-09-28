@@ -1,14 +1,13 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Burswood Dome, Perth on Sun, 27 Sept 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
-Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Burswood Dome, Perth on Sun 27 Sept.
+Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Burswood Dome | Perth |
 | Fri, 2 Oct 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 3 Oct 2026 | The Trusts Stadium | Auckland |
 | Mon, 5 Oct 2026 | The Ivy | Sydney |
@@ -18,6 +17,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on sou
 
 ## Recently played
 
+- Burswood Dome, Perth — Sun, 27 Sept 2026
 - Eatons Hill Hotel and Function Centre, Brisbane — Sat, 26 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - H2o6, Riga — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, tracked on sou
 - Tägi, Zurich — Fri, 10 Jul 2026
 - Now&Wow, Rotterdam — Fri, 26 Jun 2026
 - High Lights - Barking Park, London — Sun, 31 May 2026
-- IDRA, Manchester — Sat, 23 May 2026
 
 ## Shares bills with
 
 Mefjus, Disrupta, Kanine
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

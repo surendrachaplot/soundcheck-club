@@ -1,6 +1,6 @@
 # Genius Loci
 
-Genius Loci is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Soundhouse, The Hague on Sun, 11 Oct 2026.
+Genius Loci is a Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Soundhouse, The Hague on Sun, 11 Oct 2026.
 
 Genius Loci is an experimental artist based in United States of America, tracked on soundcheck, with 1 set logged across The Hague. Next up: Soundhouse, The Hague on Sun 11 Oct.
 
@@ -10,4 +10,4 @@ Genius Loci is an experimental artist based in United States of America, tracked
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Soundhouse | The Hague |
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geniusloci/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geniusloci/)*

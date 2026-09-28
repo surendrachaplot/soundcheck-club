@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at T7 Paris, Paris on Fri, 2 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at T7 Paris, Paris on Fri, 2 Oct 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: T7 Paris, Paris on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Dennis Cruz is a tech house and house artist based in Spain, tracked on soundche
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

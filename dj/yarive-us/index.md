@@ -1,6 +1,6 @@
 # Yari (VE)
 
-Yari (VE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Yari (VE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Yari (VE) is a techno and trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Miami and San Francisco/Oakland. Often billed alongside 2AT, BOYPRINCESS and CUTDWN. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Yari (VE) is a techno and trance artist based in United States of America, track
 
 2AT, BOYPRINCESS, CUTDWN
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*

@@ -1,6 +1,6 @@
 # LIEKS
 
-LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - SEKTOR6D, Warsaw on Fri, 9 Oct 2026.
+LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - SEKTOR6D, Warsaw on Fri, 9 Oct 2026.
 
 LIEKS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 9 more. Often billed alongside BLNK, TiTi and Fantasm. Next up: TBA - SEKTOR6D, Warsaw on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ LIEKS is a techno and industrial artist based in Netherlands, tracked on soundch
 
 BLNK, TiTi, Fantasm
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

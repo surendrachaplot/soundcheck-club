@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 21 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Paloma Morphy" on Wed, 30 Sept 2026.
+ZeyZey is a music venue in Miami with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Paloma Morphy" on Wed, 30 Sept 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming gigs, with line-ups including Alex Oxley, Amtrac, Christian Löffler and Com Truise and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 21 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

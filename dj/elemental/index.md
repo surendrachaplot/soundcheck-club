@@ -1,6 +1,6 @@
 # Elemental
 
-Elemental is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
+Elemental is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
 
 Elemental is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Brighton and London. Often billed alongside Alfie Fraser, An Avrin and Calm Stiege. Next up: Four Quarters, London on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Elemental is a drum & bass and garage artist based in United Kingdom, tracked on
 
 Alfie Fraser, An Avrin, Calm Stiege
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elemental/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elemental/)*

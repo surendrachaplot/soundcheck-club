@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Foundation Room - House Of Blues, Chicago on Sat, 3 Oct 2026.
+Saqib is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foundation Room - House Of Blues, Chicago on Sat, 3 Oct 2026.
 
 Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Boston, Chicago and Los Angeles and 7 more. Often billed alongside Nhii, FRANZIV and Francesca Lombardo. Next up: Foundation Room - House Of Blues, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saqib is a house and deep house artist based in United States of America, tracke
 
 Nhii, FRANZIV, Francesca Lombardo
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

@@ -1,6 +1,6 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at control, Bucharest on Thu, 8 Oct 2026.
+Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at control, Bucharest on Thu, 8 Oct 2026.
 
 Bianca Oblivion is a bass and club artist based in United States of America, tracked on soundcheck, with 165 sets logged across Amsterdam, Auckland, Austin and Bangkok and 47 more. Often billed alongside Star Eyes, Sam Binga and AK SPORTS. Next up: control, Bucharest on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Bianca Oblivion is a bass and club artist based in United States of America, tra
 
 Star Eyes, Sam Binga, AK SPORTS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

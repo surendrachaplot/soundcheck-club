@@ -1,6 +1,6 @@
 # The Chi Factory
 
-The Chi Factory is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
+The Chi Factory is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
 
 The Chi Factory is an ambient and experimental artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Buttechno, Carmen Villain and Floid.live. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
 
@@ -14,4 +14,4 @@ The Chi Factory is an ambient and experimental artist based in Netherlands, trac
 
 Buttechno, Carmen Villain, Floid.live
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thechifactory/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thechifactory/)*

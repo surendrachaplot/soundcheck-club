@@ -1,6 +1,6 @@
 # Caro van Ee
 
-Caro van Ee is a Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+Caro van Ee is a Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
 Caro van Ee is an electro artist tracked on soundcheck, with 3 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Ave (DE), Bouras and Cherries040. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Caro van Ee is an electro artist tracked on soundcheck, with 3 sets logged acros
 
 Ave (DE), Bouras, Cherries040
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carovanee/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carovanee/)*

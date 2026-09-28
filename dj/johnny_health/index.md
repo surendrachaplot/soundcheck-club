@@ -1,6 +1,6 @@
 # JOHNNY_HEALTH
 
-JOHNNY_HEALTH is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+JOHNNY_HEALTH is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 JOHNNY_HEALTH is a techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Los Angeles. Often billed alongside Avalon Emerson, Corey Sizemore and Effy. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -14,4 +14,4 @@ JOHNNY_HEALTH is a techno artist based in United States of America, tracked on s
 
 Avalon Emerson, Corey Sizemore, Effy
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnny_health/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnny_health/)*

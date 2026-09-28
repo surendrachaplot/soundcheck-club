@@ -1,6 +1,6 @@
 # Nikos Thanos
 
-Nikos Thanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Cantina Social, Athens on Sun, 27 Sept 2026.
+Nikos Thanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cantina Social, Athens on Sun, 27 Sept 2026.
 
 Nikos Thanos is a techno and house artist tracked on soundcheck, with 54 sets logged across Athens and Berlin. Often billed alongside Mr.M, George Apergis and Patso. Next up: Cantina Social, Athens on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Nikos Thanos is a techno and house artist tracked on soundcheck, with 54 sets lo
 
 ## Recently played
 
+- Cantina Social, Athens — Sun, 27 Sept 2026
 - B side Athens, Athens — Thu, 3 Sept 2026
 - B side Athens, Athens — Thu, 6 Aug 2026
 - B side Athens, Athens — Sun, 19 Jul 2026
@@ -19,10 +20,9 @@ Nikos Thanos is a techno and house artist tracked on soundcheck, with 54 sets lo
 - B side Athens, Athens — Fri, 1 May 2026
 - B side Athens, Athens — Sat, 4 Apr 2026
 - Cantina Social, Athens — Thu, 12 Mar 2026
-- B side Athens, Athens — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Mr.M, George Apergis, Patso
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*

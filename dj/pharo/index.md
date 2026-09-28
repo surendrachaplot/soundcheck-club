@@ -1,6 +1,6 @@
 # Pharo
 
-Pharo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+Pharo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 Pharo is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Moonz, Tarawar and Lulu (UK). Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Pharo is a techno and tech house artist based in United Kingdom, tracked on soun
 
 Moonz, Tarawar, Lulu (UK)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo/)*

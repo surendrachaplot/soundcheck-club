@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R" on Thu, 15 Oct 2026.
+Jade is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R" on Thu, 15 Oct 2026.
 
 Jade is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including NIGHTVVITCH and XSB-R. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -15,4 +15,4 @@ Jade is a music venue in New York City listed on soundcheck. 2 upcoming gigs, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

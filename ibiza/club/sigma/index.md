@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "HYDRA" on Mon, 28 Sept 2026.
+Sigma is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HYDRA" on Mon, 28 Sept 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including AntZ, Charlotte Newman, Cris Kai and Joton and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -22,4 +22,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

@@ -1,6 +1,6 @@
 # KICKREY
 
-KICKREY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
+KICKREY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
 
 KICKREY is a techno and hardcore artist based in Spain, tracked on soundcheck, with 2 sets logged across Lisbon and Valencia. Often billed alongside Cruzz, Karashnikov and Madson Carpenter. Next up: LA Rítmica Club, Valencia on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ KICKREY is a techno and hardcore artist based in Spain, tracked on soundcheck, w
 
 Cruzz, Karashnikov, Madson Carpenter
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kickrey/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kickrey/)*

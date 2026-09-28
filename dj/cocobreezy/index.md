@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Coco & Breezy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Coco & Breezy are a house and techno duo based in United States of America, tracked on soundcheck, with 87 sets logged across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -16,6 +16,7 @@ Coco & Breezy are a house and techno duo based in United States of America, trac
 
 ## Recently played
 
+- TBA, Los Angeles — Sun, 27 Sept 2026
 - Chinois Ibiza, Ibiza — Fri, 4 Sept 2026
 - Søpavillonen, Copenhagen — Sat, 22 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 12 Aug 2026
@@ -23,10 +24,9 @@ Coco & Breezy are a house and techno duo based in United States of America, trac
 - Celebrities Night Club, Vancouver — Fri, 31 Jul 2026
 - Q Nightclub, Seattle — Sat, 4 Jul 2026
 - Barbara Hall Park, Toronto — Sat, 27 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 8 Jun 2026
 
 ## Shares bills with
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

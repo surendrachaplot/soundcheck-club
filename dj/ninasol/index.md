@@ -1,6 +1,6 @@
 # nina sol
 
-nina sol is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
+nina sol is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 nina sol is a deep house and afro house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Los Angeles, Mexico City, New York City and San Francisco/Oakland and 2 more. Often billed alongside Patrick Wilson, David Harness and Charles Hawthorne. Next up: 7th West, San Francisco/Oakland on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ nina sol is a deep house and afro house artist based in United States of America
 
 ## Recently played
 
+- 7th West, San Francisco/Oakland — Sun, 27 Sept 2026
 - TBA - ZANZI, 19 Grand Ave Oakland, San Francisco/Oakland — Sat, 19 Sept 2026
 - The Midway, San Francisco/Oakland — Sat, 5 Sept 2026
 - Zanzi, San Francisco/Oakland — Sat, 15 Aug 2026
@@ -19,10 +20,9 @@ nina sol is a deep house and afro house artist based in United States of America
 - Moonglow Oakland, San Francisco/Oakland — Sat, 25 Jul 2026
 - White Horse Inn, San Francisco/Oakland — Sat, 18 Jul 2026
 - Mad Oak, San Francisco/Oakland — Sat, 20 Jun 2026
-- Underground SF, San Francisco/Oakland — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Patrick Wilson, David Harness, Charles Hawthorne
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasol/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasol/)*

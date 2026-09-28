@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+hhunter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 hhunter is a techno and house artist tracked on soundcheck, with 77 sets logged across Austin, Chicago, Dallas Fort Worth and Detroit and 9 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ hhunter is a techno and house artist tracked on soundcheck, with 77 sets logged 
 
 Elarm, Kula, Flores Negras
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

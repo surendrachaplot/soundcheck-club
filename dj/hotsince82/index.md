@@ -1,6 +1,6 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Hot Since 82 is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
 
 Hot Since 82 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
 
@@ -36,4 +36,4 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, tracked o
 
 Jamie Jones, Prunk, Fleur Shore
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

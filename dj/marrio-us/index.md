@@ -1,6 +1,6 @@
 # MARRIO
 
-MARRIO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Le Nocturne, Chicago on Sun, 27 Sept 2026.
+MARRIO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Nocturne, Chicago on Sun, 27 Sept 2026.
 
 MARRIO is a house and disco artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside DJ Heather and Demuir. Next up: Le Nocturne, Chicago on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ MARRIO is a house and disco artist based in United States of America, tracked on
 
 ## Recently played
 
+- Le Nocturne, Chicago — Sun, 27 Sept 2026
 - Le Nocturne, Chicago — Sun, 26 Jul 2026
 - Chicago Eagle, Chicago — Fri, 19 Jun 2026
 
@@ -19,4 +20,4 @@ MARRIO is a house and disco artist based in United States of America, tracked on
 
 DJ Heather, Demuir
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marrio-us/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marrio-us/)*

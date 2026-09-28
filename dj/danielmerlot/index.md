@@ -1,6 +1,6 @@
 # Daniel Merlot
 
-Daniel Merlot is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Daniel Merlot is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Daniel Merlot is a techno and tech house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside Anapol, Drinkss and Rhadewa. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Daniel Merlot is a techno and tech house artist based in United States of Americ
 
 Anapol, Drinkss, Rhadewa
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmerlot/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmerlot/)*

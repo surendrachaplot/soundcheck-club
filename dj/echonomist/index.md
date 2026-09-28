@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audio Club, Geneva on Sat, 3 Oct 2026.
+Echonomist is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Audio Club, Geneva on Sat, 3 Oct 2026.
 
 Echonomist is a house and techno artist based in Greece, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Audio Club, Geneva on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Echonomist is a house and techno artist based in Greece, tracked on soundcheck, 
 
 Jenia Tarsol, ARODES, Avangart Tabldot
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

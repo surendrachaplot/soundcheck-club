@@ -1,6 +1,6 @@
 # Katze Storno
 
-Katze Storno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Spartacus Potsdam, Berlin on Sat, 3 Oct 2026.
+Katze Storno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spartacus Potsdam, Berlin on Sat, 3 Oct 2026.
 
 Katze Storno is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside SñRFlores, Anne-Lu and Carluschka. Next up: Spartacus Potsdam, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Katze Storno is a house and techno artist based in Germany, tracked on soundchec
 
 SñRFlores, Anne-Lu, Carluschka
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katzestorno/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katzestorno/)*

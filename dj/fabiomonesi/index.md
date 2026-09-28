@@ -1,6 +1,6 @@
 # Fabio Monesi
 
-Fabio Monesi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Fabio Monesi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Fabio Monesi is a house and electro artist based in Italy, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Fabio Monesi is a house and electro artist based in Italy, tracked on soundcheck
 
 Hiroko Hacci, Bradley Zero, Creamy
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*

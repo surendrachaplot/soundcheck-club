@@ -1,6 +1,6 @@
 # DJ Decimal
 
-DJ Decimal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
+DJ Decimal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Variety of venues across Albufeira, Algarve on Fri, 25 Sept 2026.
 
 DJ Decimal is an afro house and house artist tracked on soundcheck, with 17 sets logged across Algarve and London. Often billed alongside Supa D, Beezo and Pioneer. Next up: TBA - Variety of venues across Albufeira, Algarve on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Decimal is an afro house and house artist tracked on soundcheck, with 17 sets
 
 Supa D, Beezo, Pioneer
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*

@@ -1,6 +1,6 @@
 # Mark Tarmonea
 
-Mark Tarmonea is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Beate Uwe, Berlin on Sat, 10 Oct 2026.
+Mark Tarmonea is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Beate Uwe, Berlin on Sat, 10 Oct 2026.
 
 Mark Tarmonea is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside The Ancient Kid, Bonq and JSavant. Next up: Beate Uwe, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Mark Tarmonea is a techno and house artist based in Germany, tracked on soundche
 
 The Ancient Kid, Bonq, JSavant
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marktarmonea/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marktarmonea/)*

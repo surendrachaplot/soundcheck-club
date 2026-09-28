@@ -1,6 +1,6 @@
 # Pat Bradley
 
-Pat Bradley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
+Pat Bradley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 26 Sept 2026.
 
 Pat Bradley is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Hidden Order, LUCIA. and Rainbow Tutu. Next up: Happyfun Hideaway, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pat Bradley is a house and techno artist based in United States of America, trac
 
 Hidden Order, LUCIA., Rainbow Tutu
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patbradley/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patbradley/)*

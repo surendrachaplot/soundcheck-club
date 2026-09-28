@@ -1,6 +1,6 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
+Jacidorex is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
 Jacidorex is a techno and trance artist based in Belgium, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Jacidorex is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 Airod, LESSSS, Nico Moreno
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*

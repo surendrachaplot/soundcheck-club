@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 MiNNA is a house and disco artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 23 more. Often billed alongside Kirollus, Melvo Baptiste and Dan Shake. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -31,4 +31,4 @@ MiNNA is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Kirollus, Melvo Baptiste, Dan Shake
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

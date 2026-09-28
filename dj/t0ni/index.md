@@ -1,6 +1,6 @@
 # t0ni
 
-t0ni is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+t0ni is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
 t0ni is an experimental and club artist based in Italy, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside DJ GHEPARD, gmaail and 7777 の天使. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ t0ni is an experimental and club artist based in Italy, tracked on soundcheck, w
 
 DJ GHEPARD, gmaail, 7777 の天使
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*

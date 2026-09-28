@@ -1,6 +1,6 @@
 # Deo'jorge
 
-Deo'jorge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
+Deo'jorge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
 Deo'jorge is a house and electro artist based in United States of America, tracked on soundcheck, with 59 sets logged across New York City. Often billed alongside Anna Collecta, Will Buck and Atilla Ural. Next up: McCarren Park, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Deo'jorge is a house and electro artist based in United States of America, track
 
 Anna Collecta, Will Buck, Atilla Ural
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*

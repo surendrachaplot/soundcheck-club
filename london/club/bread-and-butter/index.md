@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Famili Affair Open Decks" on Fri, 2 Oct 2026.
+Bread and Butter is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Famili Affair Open Decks" on Fri, 2 Oct 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Bushman (UK), Donae'o, Jïmono and Kakura and 2 more. Browse upcoming dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -17,4 +17,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 4 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

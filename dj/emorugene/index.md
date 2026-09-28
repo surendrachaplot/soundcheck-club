@@ -1,6 +1,6 @@
 # Emo Rugene
 
-Emo Rugene is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
+Emo Rugene is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
 
 Emo Rugene is an afro house and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam and Berlin. Often billed alongside Rafush, Julio Paradise and Ukãi Ndame. Next up: Maaya, Berlin on Sun 27 Sept.
 
@@ -12,6 +12,7 @@ Emo Rugene is an afro house and house artist based in Germany, tracked on soundc
 
 ## Recently played
 
+- Maaya, Berlin — Sun, 27 Sept 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - TBA, Berlin — Sun, 14 Jun 2026
 - Wilder als Erwartet, Berlin — Thu, 5 Feb 2026
@@ -19,10 +20,9 @@ Emo Rugene is an afro house and house artist based in Germany, tracked on soundc
 - Studio1111, Berlin — Sat, 4 Oct 2025
 - TORTE BAR, Berlin — Sun, 28 Sept 2025
 - Revier Südost, Berlin — Sun, 7 Sept 2025
-- Revier Südost, Berlin — Sat, 12 Jul 2025
 
 ## Shares bills with
 
 Rafush, Julio Paradise, Ukãi Ndame
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emorugene/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emorugene/)*

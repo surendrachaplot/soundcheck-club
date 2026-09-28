@@ -1,6 +1,6 @@
 # HADDI
 
-HADDI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+HADDI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 HADDI is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside Alex M.O.R.P.H., Bertie and Clara Vox. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ HADDI is a trance and techno artist based in United Kingdom, tracked on soundche
 
 Alex M.O.R.P.H., Bertie, Clara Vox
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haddi/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haddi/)*

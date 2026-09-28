@@ -1,6 +1,6 @@
 # Tonal
 
-Tonal is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Agenda Aniversario" on Wed, 23 Sept 2026.
+Tonal is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Agenda Aniversario" on Wed, 23 Sept 2026.
 
 Tonal is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including AB, Alacrán del Amor, Black Daria and Dr. ADO and 2 more. Browse upcoming dates, start times and who's playing. Av. Álvaro Obregón 160, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Tonal is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, wit
 
 Av. Álvaro Obregón 160, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tonal/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tonal/)*

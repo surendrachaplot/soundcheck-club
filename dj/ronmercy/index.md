@@ -1,6 +1,6 @@
 # Ron Mercy
 
-Ron Mercy is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri, 9 Oct 2026.
+Ron Mercy is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri, 9 Oct 2026.
 
 Ron Mercy is a club and bass artist based in United States of America, tracked on soundcheck, with 2 sets logged across Chicago and Miami. Often billed alongside //DLM, Bonita Applebumz and DB Cooper. Next up: The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ Ron Mercy is a club and bass artist based in United States of America, tracked o
 
 //DLM, Bonita Applebumz, DB Cooper
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmercy/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmercy/)*

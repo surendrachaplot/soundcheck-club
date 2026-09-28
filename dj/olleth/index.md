@@ -1,6 +1,6 @@
 # OLLE (TH)
 
-OLLE (TH) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Horn, Bangkok on Fri, 2 Oct 2026.
+OLLE (TH) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Horn, Bangkok on Fri, 2 Oct 2026.
 
 OLLE (TH) is a techno and electro artist based in Thailand, tracked on soundcheck, with 39 sets logged across Bangkok, Leipzig, Seoul and Singapore and 1 more. Often billed alongside 5.5MM, Mae Happyair and Winkieb. Next up: Horn, Bangkok on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OLLE (TH) is a techno and electro artist based in Thailand, tracked on soundchec
 
 5.5MM, Mae Happyair, Winkieb
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olleth/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olleth/)*

@@ -1,6 +1,6 @@
 # Deorro
 
-Deorro is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Deorro is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Deorro is a latin bass and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Arizona, Austin, Boston and Chicago and 10 more. Often billed alongside Seven Lions, Alesso and Deadmau5. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Deorro is a latin bass and house artist based in United States of America, track
 
 Seven Lions, Alesso, Deadmau5
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

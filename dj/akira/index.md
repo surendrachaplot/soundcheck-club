@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Socore Factory, Osaka on Fri, 2 Oct 2026.
+Akira is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Socore Factory, Osaka on Fri, 2 Oct 2026.
 
 Akira is a techno and hip-hop artist based in Belgium, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 14 more. Often billed alongside Kanti, BiBiYUA and Hermanez. Next up: Socore Factory, Osaka on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Akira is a techno and hip-hop artist based in Belgium, tracked on soundcheck, wi
 
 Kanti, BiBiYUA, Hermanez
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 28 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 23 more. Often billed alongside Hamdi, MPH and Skepta. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 Hamdi, MPH (1), Skepta
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

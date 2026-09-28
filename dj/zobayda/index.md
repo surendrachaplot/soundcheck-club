@@ -1,6 +1,6 @@
 # ZOBAYDA
 
-ZOBAYDA is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TILLATEC, Amsterdam on Fri, 16 Oct 2026.
+ZOBAYDA is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TILLATEC, Amsterdam on Fri, 16 Oct 2026.
 
 ZOBAYDA is a bass and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 3 more. Often billed alongside YoungWoman, DIORA and Slimfit. Next up: TILLATEC, Amsterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ ZOBAYDA is a bass and techno artist tracked on soundcheck, with 49 sets logged a
 
 YoungWoman, DIORA, Slimfit
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*

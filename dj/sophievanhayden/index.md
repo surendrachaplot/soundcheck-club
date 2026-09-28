@@ -1,6 +1,6 @@
 # Sophie van Hayden
 
-Sophie van Hayden is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
+Sophie van Hayden is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
 
 Sophie van Hayden is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, Patrick Scuro and Randali. Next up: Fundbureau, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sophie van Hayden is a techno and trance artist based in Germany, tracked on sou
 
 Fnatik, Patrick Scuro, Randali
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*

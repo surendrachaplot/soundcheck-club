@@ -1,6 +1,6 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Final, Taipei on Sat, 17 Oct 2026.
+Adi (CO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Final, Taipei on Sat, 17 Oct 2026.
 
 Adi (CO) is a techno and house artist based in Colombia, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Final, Taipei on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Adi (CO) is a techno and house artist based in Colombia, tracked on soundcheck, 
 
 Unai Trotti, Jane Fitz, Walrus
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

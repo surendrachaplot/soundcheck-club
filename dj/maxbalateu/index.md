@@ -1,6 +1,6 @@
 # Max Balateu
 
-Max Balateu is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Macarena Club, Barcelona on Wed, 28 Oct 2026.
+Max Balateu is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Macarena Club, Barcelona on Wed, 28 Oct 2026.
 
 Max Balateu is an electronic artist based in Spain, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Alcubierre, Utram and BIANKA. Next up: Macarena Club, Barcelona on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ Max Balateu is an electronic artist based in Spain, tracked on soundcheck, with 
 
 Alcubierre, Utram, BIANKA
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbalateu/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbalateu/)*

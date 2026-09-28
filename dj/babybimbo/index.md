@@ -1,6 +1,6 @@
 # Baby Bimbo
 
-Baby Bimbo is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Baby Bimbo is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
 Baby Bimbo is a hardcore and techno artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal and Toronto. Often billed alongside the bald girl, DJ Pacifier and Outback. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
@@ -13,6 +13,7 @@ Baby Bimbo is a hardcore and techno artist based in Canada, tracked on soundchec
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 27 Sept 2026
 - ESC, Montreal — Fri, 7 Aug 2026
 - Cafeteria, Toronto — Sat, 27 Jun 2026
 - Piranha Bar, Montreal — Fri, 26 Jun 2026
@@ -20,10 +21,9 @@ Baby Bimbo is a hardcore and techno artist based in Canada, tracked on soundchec
 - Club2061, Montreal — Sat, 25 Apr 2026
 - Union Française de Montréal, Montreal — Sat, 7 Feb 2026
 - ESC, Montreal — Sat, 24 Jan 2026
-- ESC, Montreal — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 the bald girl, DJ Pacifier, Outback
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*

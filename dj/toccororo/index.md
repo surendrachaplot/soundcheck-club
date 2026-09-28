@@ -1,6 +1,6 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+TOCCORORO is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 TOCCORORO is a techno and reggaeton artist based in Spain, tracked on soundcheck, with 135 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ TOCCORORO is a techno and reggaeton artist based in Spain, tracked on soundcheck
 
 JASSS, Manuka Honey, SALOME
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

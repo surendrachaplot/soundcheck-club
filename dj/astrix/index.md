@@ -1,6 +1,6 @@
 # Astrix
 
-Astrix is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Astrix is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Astrix is a trance and techno artist based in Israel, tracked on soundcheck, with 35 sets logged across Athens, Basel, Cologne and Copenhagen and 16 more. Often billed alongside Billy Gillies, Captain Hook and Infected Mushroom. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Astrix is a trance and techno artist based in Israel, tracked on soundcheck, wit
 
 Billy Gillies, Captain Hook, Infected Mushroom
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*

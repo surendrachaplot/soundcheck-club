@@ -1,6 +1,6 @@
 # WolfJazz
 
-WolfJazz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
+WolfJazz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
 
 WolfJazz is a techno and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh and Glasgow. Often billed alongside Keyte, Bash Man and Stephen Brown. Next up: The Safari Lounge, Edinburgh on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ WolfJazz is a techno and house artist based in United Kingdom, tracked on soundc
 
 Keyte, Bash Man, Stephen Brown
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfjazz/)*

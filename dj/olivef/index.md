@@ -1,6 +1,6 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Spybar, Chicago on Fri, 2 Oct 2026.
+Olive F is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spybar, Chicago on Fri, 2 Oct 2026.
 
 Olive F is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Spybar, Chicago on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Olive F is a house and tech house artist based in United Kingdom, tracked on sou
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

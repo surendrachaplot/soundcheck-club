@@ -1,6 +1,6 @@
 # Fabrizio Siano
 
-Fabrizio Siano is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Studionotte, Milan on Sat, 10 Oct 2026.
+Fabrizio Siano is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Studionotte, Milan on Sat, 10 Oct 2026.
 
 Fabrizio Siano is a minimal and house artist tracked on soundcheck, with 13 sets logged across Milan. Often billed alongside Dario Lem, Praslea and Thomas Melchior. Next up: Studionotte, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fabrizio Siano is a minimal and house artist tracked on soundcheck, with 13 sets
 
 Dario Lem, Praslea, Thomas Melchior
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosiano/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosiano/)*

@@ -1,6 +1,6 @@
 # bungo
 
-bungo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Aoyama Tunnel, Tokyo on Sat, 3 Oct 2026.
+bungo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Aoyama Tunnel, Tokyo on Sat, 3 Oct 2026.
 
 bungo is a house and techno artist based in Japan, tracked on soundcheck, with 139 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, 5harpy and CALPISS. Next up: Aoyama Tunnel, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ bungo is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 YELLOWUHURU, 5harpy, CALPISS
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*

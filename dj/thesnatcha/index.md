@@ -1,6 +1,6 @@
 # The Snatcha
 
-The Snatcha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Rolling Stock, London on Sat, 7 Nov 2026.
+The Snatcha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Rolling Stock, London on Sat, 7 Nov 2026.
 
 The Snatcha is a techno and house artist tracked on soundcheck, with 14 sets logged across London and Paris. Often billed alongside DJ Black Moses, Caren G. and Ryan Pamatmat. Next up: Rolling Stock, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ The Snatcha is a techno and house artist tracked on soundcheck, with 14 sets log
 
 DJ Black Moses, Caren G., Ryan Pamatmat
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thesnatcha/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thesnatcha/)*

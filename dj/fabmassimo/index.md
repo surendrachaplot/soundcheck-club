@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+Fab Massimo is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Fab Massimo is a techno and tech house artist based in Germany, tracked on sound
 
 Bombata, Techmo, Katzengold
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

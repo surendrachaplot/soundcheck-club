@@ -1,6 +1,6 @@
 # Sean Thomas
 
-Sean Thomas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Bastet, Philadelphia on Sat, 10 Oct 2026.
+Sean Thomas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bastet, Philadelphia on Sat, 10 Oct 2026.
 
 Sean Thomas is a house and techno artist tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside John Raffaele, Keen and Alessandro Cortini. Next up: Bastet, Philadelphia on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Sean Thomas is a house and techno artist tracked on soundcheck, with 7 sets logg
 
 John Raffaele, Keen, Alessandro Cortini
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanthomas/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanthomas/)*

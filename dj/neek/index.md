@@ -1,6 +1,6 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Neek is a Techno and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

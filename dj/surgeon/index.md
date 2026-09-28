@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Bassement, Madrid on Sat, 3 Oct 2026.
+Surgeon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Bassement, Madrid on Sat, 3 Oct 2026.
 
 Surgeon is a techno and house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: The Bassement, Madrid on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Surgeon is a techno and house artist based in United Kingdom, tracked on soundch
 
 Speedy J, DJ Pete, Eris Drew
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

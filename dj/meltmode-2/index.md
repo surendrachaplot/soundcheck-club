@@ -1,6 +1,6 @@
 # Meltmode (2)
 
-Meltmode (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Dual, Bangkok on Sat, 3 Oct 2026.
+Meltmode (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dual, Bangkok on Sat, 3 Oct 2026.
 
 Meltmode is a house and tech house artist based in Thailand, tracked on soundcheck, with 40 sets logged across Bali, Bangkok, Ibiza and Kuala Lumpur and 4 more. Often billed alongside Wildealer, Tissanai and IYY (TH). Next up: Dual, Bangkok on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Meltmode is a house and tech house artist based in Thailand, tracked on soundche
 
 Wildealer, Tissanai, IYY (TH)
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*

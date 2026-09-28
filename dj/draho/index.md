@@ -1,6 +1,6 @@
 # DRAHO
 
-DRAHO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Muse Berlin, Berlin on Sat, 3 Oct 2026.
+DRAHO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Muse Berlin, Berlin on Sat, 3 Oct 2026.
 
 DRAHO is a techno and trance artist based in Denmark, tracked on soundcheck, with 17 sets logged across Berlin and Copenhagen. Often billed alongside dj Joe, steamboi and Alegrando. Next up: TBA - Muse Berlin, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DRAHO is a techno and trance artist based in Denmark, tracked on soundcheck, wit
 
 dj Joe, steamboi, Alegrando
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draho/)*

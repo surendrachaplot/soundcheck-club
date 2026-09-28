@@ -1,6 +1,6 @@
 # m̶a̶h̶[alias]
 
-m̶a̶h̶[alias] is a Club and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+m̶a̶h̶[alias] is a Club and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 m̶a̶h̶[alias] is a club and idm artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside m-onz, Chris Speed Visuals and SYNTƏL8. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ m̶a̶h̶[alias] is a club and idm artist based in United Kingdom, tracked on so
 
 m-onz, Chris Speed Visuals, SYNTƏL8
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*

@@ -1,6 +1,6 @@
 # Sophia Violet
 
-Sophia Violet is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Night Tales, London on Fri, 2 Oct 2026.
+Sophia Violet is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Night Tales, London on Fri, 2 Oct 2026.
 
 Sophia Violet is a garage and house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 12 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Night Tales, London on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Sophia Violet is a garage and house artist based in United Kingdom, tracked on s
 
 Girls Don't Sync, Rich Reason, Skeptic
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*

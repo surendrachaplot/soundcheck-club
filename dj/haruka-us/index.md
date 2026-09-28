@@ -1,6 +1,6 @@
 # Haruka (US)
 
-Haruka (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 31 Oct 2026.
+Haruka (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 31 Oct 2026.
 
 Haruka (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago, New York City and Tokyo. Often billed alongside 4AM NYC, 7e and Akua. Next up: Dead Letter No. 9, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Haruka (US) is a house and techno artist based in United States of America, trac
 
 4AM NYC, 7e, Akua
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka-us/)*

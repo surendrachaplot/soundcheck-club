@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+FJAAK is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with 267 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -23,6 +23,7 @@ FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Nowadays, New York City — Sun, 27 Sept 2026
 - 131 Mccormack St, Toronto — Fri, 25 Sept 2026
 - TBA - NYC , New York City — Fri, 25 Sept 2026
 - Bsmnt, Boston — Thu, 24 Sept 2026
@@ -30,10 +31,9 @@ FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with
 - Flux, Istanbul — Sat, 19 Sept 2026
 - Bassiani, Tbilisi — Fri, 18 Sept 2026
 - Odonien, Cologne — Sat, 12 Sept 2026
-- Sub Club, Glasgow — Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Electric Monday@KitKat " on Mon, 28 Sept 2026.
+KitKatClub is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Electric Monday@KitKat " on Mon, 28 Sept 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alejandro Molinari and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
