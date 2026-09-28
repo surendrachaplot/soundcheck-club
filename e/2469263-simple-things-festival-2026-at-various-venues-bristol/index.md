@@ -1,6 +1,6 @@
 # Simple Things Festival 2026 at Various Venues, Bristol
 
-Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 30 artists on the bill: 96 Back, A Good Year, Alex Wilcox and Butch Kassidy and 26 more. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 35 artists on the bill: 96 Back, A Good Year, Alex Wilcox and Arsenal Mikebe and 31 more. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,29 +13,34 @@ Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 30
 - 96 Back
 - A Good Year
 - Alex Wilcox
+- Arsenal Mikebe
 - Butch Kassidy
 - Caroline
 - COBRAH
+- comfort
+- COUCOU CHLOE
+- DIALS
+- e-kitty
 - Fine (2)
 - Gold Panda
-- Grand River
 - Hannah Diamond
-- Joy Guidry
 - Kloyd
 - Lord Spikeheart
 - Loukeman
 - Marla Kether
-- Mermaid Chunky
 - Mietze Conte
 - Moor Mother
 - Ms Ray
+- Muchas Problemas
 - Mykki Blanco
 - Nathan Fake
 - Olof Dreijer
+- Only Fire
 - Panda Bear
 - PVA
 - Shabaka
 - SILVERWINGKILLER
+- Sofie Birch
 - Squid
 - Takuya Nakamura
 - The Avalanches

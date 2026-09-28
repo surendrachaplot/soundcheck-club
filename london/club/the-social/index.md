@@ -8,11 +8,11 @@ The Social is a music venue in London listed on soundcheck. 11 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
+| Fri, 2 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres, Yazmina |
 | Fri, 9 Oct 2026 | LOCALISM |  |
 | Fri, 9 Oct 2026 | Pleasure Unit: Brokenchord (Live), Rosie Ama b2b the butcher bird, Nick Stephens, Harry James | Brokenchord, Harry James, Rosie Ama, the butcher bird |
 | Sat, 10 Oct 2026 | ReFlex:Minimal Motion |  |
-| Fri, 16 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
+| Fri, 16 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres, Sopp (2), Ysanne |
 | Sat, 17 Oct 2026 | Lost In Disco | Jason Regan, The Sheen Resistance |
 | Sat, 17 Oct 2026 | B2B presents: ONE BIG DANCE |  |
 | Fri, 23 Oct 2026 | LOCALISM: PVA & Friends DJ set | Richard Sen |

@@ -1,14 +1,15 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+Mattia Trani is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
 
-Mattia Trani is a techno and industrial artist based in Italy, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Ibiza and London and 9 more. Often billed alongside Gianni Di Bernardo, V111 and ANKKH. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+Mattia Trani is a techno and industrial artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Ibiza and London and 10 more. Often billed alongside Gianni Di Bernardo, V111 and ANKKH. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
+| Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 
 ## Recently played
 

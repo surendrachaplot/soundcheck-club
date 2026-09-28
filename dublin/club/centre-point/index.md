@@ -1,8 +1,8 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
+Centre Point is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including charlois, Club Angel, JWY and Jyoty and 2 more. Browse upcoming dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including charlois, Club Angel, JWY and Jyoty and 2 more. Browse upcoming dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Centre Point is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, w
 | Sat, 24 Oct 2026 | Circles: Leftfield - DJ Set  | Leftfield, Pat Hyland |
 | Sat, 31 Oct 2026 | Influence x Centre Point: Halloween Special |  |
 | Fri, 13 Nov 2026 | Pegassi | Pegassi |
+| Fri, 20 Nov 2026 | Weval (DJ) | Ste Flynn, Weval |
 | Sat, 21 Nov 2026 | Maribou State (DJ Set) | Maribou State |
 
 ## Address

@@ -1,13 +1,14 @@
 # M-High
 
-M-High is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+M-High is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sub Club, Glasgow on Thu, 1 Oct 2026.
 
-M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+M-High is a house and tech house artist based in Netherlands, tracked on soundcheck, with 184 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Sub Club, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Sub Club | Glasgow |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |

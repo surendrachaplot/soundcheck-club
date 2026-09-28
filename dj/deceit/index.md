@@ -1,14 +1,14 @@
 # Deceit
 
-Deceit is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at LFO.exp, Madrid on Fri, 2 Oct 2026.
+Deceit is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - LFO, Madrid on Fri, 2 Oct 2026.
 
-Deceit is a house and electronica artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: LFO.exp, Madrid on Fri 2 Oct.
+Deceit is a house and electronica artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: TBA - LFO, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | LFO.exp | Madrid |
+| Fri, 2 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

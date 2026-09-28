@@ -1,14 +1,14 @@
 # FUKCNORMAL
 
-FUKCNORMAL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at LFO.exp, Madrid on Fri, 9 Oct 2026.
+FUKCNORMAL is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - LFO, Madrid on Fri, 9 Oct 2026.
 
-FUKCNORMAL is a techno and club artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Helsinki and Lisbon and 3 more. Often billed alongside Olvido, DJ Final Boss and LVL1. Next up: LFO.exp, Madrid on Fri 9 Oct.
+FUKCNORMAL is a techno and club artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Helsinki and Lisbon and 3 more. Often billed alongside Olvido, DJ Final Boss and LVL1. Next up: TBA - LFO, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | LFO.exp | Madrid |
+| Fri, 9 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

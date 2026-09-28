@@ -10,7 +10,7 @@ Le Nomad is a house and electronica artist based in Spain, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cadavra | Madrid |
 | Fri, 9 Oct 2026 | berlinClub | Madrid |
-| Sat, 31 Oct 2026 | LFO.exp | Madrid |
+| Sat, 31 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

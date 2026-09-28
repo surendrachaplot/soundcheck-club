@@ -1,8 +1,8 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
+Hyperaktivist is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
 
-Hyperaktivist is a techno and house artist based in Germany, tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
+Hyperaktivist is a techno and house artist based in Germany, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Hyperaktivist is a techno and house artist based in Germany, tracked on soundche
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 17 Oct 2026 | C12 | Brussels |
 | Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
+| Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
 

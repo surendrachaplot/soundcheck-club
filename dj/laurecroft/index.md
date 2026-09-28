@@ -1,8 +1,8 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Montreal on Fri, 2 Oct 2026.
+Laure Croft is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Montreal on Fri, 2 Oct 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Stereo, Montreal on Fri 2 Oct.
+Laure Croft is a techno and house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Stereo, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Laure Croft is a techno and house artist based in Netherlands, tracked on soundc
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
 | Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
 

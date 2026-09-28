@@ -9,7 +9,7 @@ The Villa is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | MCR-T (DE) & MRD | MCR-T, MRD (NO) |
-| Fri, 9 Oct 2026 | Daichi Wada (JP) + Little Miss Lucifer | Daichi Wada |
+| Fri, 9 Oct 2026 | Daichi Wada (JP) + Little Miss Lucifer / SS: Sola Wang | Daichi Wada |
 | Sat, 10 Oct 2026 | Facta & K-LONE (UK) | Facta, K-LONE |
 | Fri, 16 Oct 2026 | Sassy 009 (DJ Set), Eurohead (SE), Yawning Portal (UK), Unknown Mobile (CA)  | Erik M., Eurohead, SASSY 009, Simon Tyv, Unknown Mobile |
 | Sat, 17 Oct 2026 | Hypnokratiet with Legowelt (NL / Live), Dunk (Live)  | Legowelt |

@@ -1,13 +1,14 @@
 # BOYCA
 
-BOYCA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+BOYCA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Life Club Milano, Milan on Fri, 2 Oct 2026.
 
-BOYCA is a techno and acid artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Mar/us, Cristian Marras and Shadysnack. Next up: KitKatClub, Berlin on Fri 13 Nov.
+BOYCA is a techno and acid artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Mar/us, Cristian Marras and Shadysnack. Next up: Life Club Milano, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Life Club Milano | Milan |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played

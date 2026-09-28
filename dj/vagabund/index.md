@@ -1,8 +1,8 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+Vagabund is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Vagabund is a techno and trance artist based in Germany, tracked on soundcheck, with 73 sets logged across Antwerp, Barcelona, Basel and Berlin and 11 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
+Vagabund is a techno and trance artist based in Germany, tracked on soundcheck, with 74 sets logged across Antwerp, Barcelona, Basel and Berlin and 11 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Vagabund is a techno and trance artist based in Germany, tracked on soundcheck, 
 | Fri, 9 Oct 2026 | fi | Cologne |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Sat, 31 Oct 2026 | Left Bank Leeds | Leeds |
+| Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Thu, 26 Nov 2026 | Club Magno | Madrid |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 

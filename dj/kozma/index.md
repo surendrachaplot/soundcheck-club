@@ -1,8 +1,8 @@
 # Kozma
 
-Kozma is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
+Kozma is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
 
-Kozma is a techno and trance artist based in Hungary, tracked on soundcheck, with 19 sets logged across Budapest and London. Often billed alongside Rovizz, SABBER and Atashi. Next up: Atno, Budapest on Fri 2 Oct.
+Kozma is a techno and trance artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest and London. Often billed alongside Rovizz, SABBER and Atashi. Next up: Atno, Budapest on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kozma is a techno and trance artist based in Hungary, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Atno | Budapest |
 | Sat, 10 Oct 2026 | Textilgyár | Budapest |
+| Sat, 24 Oct 2026 | Atno | Budapest |
 
 ## Recently played
 

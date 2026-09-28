@@ -2,7 +2,7 @@
 
 Butch Kassidy is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-Butch Kassidy is a post-punk and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol, Glasgow and London. Often billed alongside Gilla Band, Warmduscher and 96 Back. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Butch Kassidy is a post-punk and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol, Glasgow and London. Often billed alongside COUCOU CHLOE, Gilla Band and Warmduscher. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Butch Kassidy is a post-punk and electronica artist based in United Kingdom, tra
 
 ## Shares bills with
 
-Gilla Band, Warmduscher, 96 Back
+COUCOU CHLOE, Gilla Band, Warmduscher
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butchkassidy/)*

@@ -1,8 +1,8 @@
-# TBA - secret location
+# TBA - Secret Location
 
-TBA - secret location is a music venue in London with 37 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Subverted" on Fri, 2 Oct 2026.
+TBA - Secret Location is a music venue in London with 37 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Subverted" on Fri, 2 Oct 2026.
 
-TBA - secret location is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

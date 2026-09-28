@@ -1,8 +1,8 @@
 # Edward
 
-Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Edward is a house and minimal artist based in Germany, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Edward is a house and minimal artist based in Germany, tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Edward is a house and minimal artist based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | FOLD | London |
+| Sat, 3 Oct 2026 | TBA | Sofia |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Thu, 3 Dec 2026 | The Pickle | Miami |

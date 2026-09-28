@@ -9,7 +9,7 @@ Flex is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | BIONIC RITUAL |  |
-| Sat, 3 Oct 2026 | ★ HYPERTRASH pres. umru ★ | DJ DIAMOND (2), Peter Puenktlich (2), ephemer (4), esti.d, hapuk, umru, yarx |
+| Sat, 3 Oct 2026 | ★ HYPERTRASH pres. umru ★ | DJ DIAMOND (2), Mavi Phoenix, Peter Puenktlich (2), ephemer (4), esti.d, hapuk, umru, yarx |
 
 ## Address
 

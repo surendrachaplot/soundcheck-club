@@ -1,13 +1,14 @@
 # Detune
 
-Detune is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Karmadrome: Halloween Party" on Sat, 31 Oct 2026.
+Detune is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Bohemien Club" on Sat, 3 Oct 2026.
 
-Detune is a music venue in Milan listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
+Detune is a music venue in Milan listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Bohemien Club |  |
 | Sat, 31 Oct 2026 | Karmadrome: Halloween Party |  |
 
 ## Address

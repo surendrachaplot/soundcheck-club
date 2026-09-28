@@ -1,13 +1,14 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mungo's Hi Fi" on Fri, 2 Oct 2026.
+Sub Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FLY - M-High & Anil Aras - Glasgow" on Thu, 1 Oct 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including Alarico, Archie Hamilton, Avalon Emerson and AXION and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Alarico, Anil Aras, Archie Hamilton and Avalon Emerson and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | FLY - M-High & Anil Aras - Glasgow | Anil Aras, M-High |
 | Fri, 2 Oct 2026 | Mungo's Hi Fi | Mungo's Hi Fi |
 | Sat, 3 Oct 2026 | Subculture w/ Telford & Stevie Cox | Stevie Cox, Telford |
 | Thu, 8 Oct 2026 | RARE Club // Saoirse | Carmen Baía, Saoirse |
@@ -17,7 +18,6 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, wit
 | Sat, 17 Oct 2026 | Subculture w/ Harri b2b ButhoTheWarrior + Moodymann | ButhoTheWarrior, DJ Harri, Moodymann |
 | Thu, 22 Oct 2026 | Sih-Lest presents: DATSKO | DATSKO |
 | Fri, 23 Oct 2026 | BREATHE: Make A Dance  | Make A Dance |
-| Fri, 23 Oct 2026 | Breathe: Make A Dance (M.A.D)  | Breathe, Make A Dance |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Dj handbag
 
-Dj handbag is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
+Dj handbag is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
 
-Dj handbag is a house and techno artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Renate, Berlin on Sat 3 Oct.
+Dj handbag is a house and techno artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Renate, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dj handbag is a house and techno artist based in Germany, tracked on soundcheck,
 | Sat, 3 Oct 2026 | Renate | Berlin |
 | Fri, 16 Oct 2026 | C12 | Brussels |
 | Sat, 17 Oct 2026 | OXI | Berlin |
+| Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
 
