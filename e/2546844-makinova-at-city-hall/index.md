@@ -1,10 +1,10 @@
 # MAKINOVA at City Hall
 
-MAKINOVA at City Hall on Fri 30 Oct, Barcelona. 2 artists on the bill: ARDZ. and Samu. Preview the line-up and save it on soundcheck.
+MAKINOVA at City Hall on Wed 30 Sept, Barcelona. 2 artists on the bill: ARDZ. and Samu. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 30 Oct 2026 |
+| Date | Wed, 30 Sept 2026 |
 | Venue | City Hall |
 | City | Barcelona |
 

@@ -12,8 +12,8 @@ Club Makossa is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 | Thu, 8 Oct 2026 | Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY | DAMO |
 | Sat, 10 Oct 2026 | POSITIVE_PRESENTS: 21 | Faded Society, Noizfiend, Positive_Con, tasha.mp4 |
 | Thu, 15 Oct 2026 | AFRO In Da Endz: Afro House, Afro Tech & Gqom |  |
-| Thu, 22 Oct 2026 | FADED PRESENTS PROJECT: Shared Crate | BIDOIS |
-| Thu, 29 Oct 2026 | FUTURE: DJ Competition & Games |  |
+| Thu, 22 Oct 2026 | Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry | BIDOIS |
+| Thu, 29 Oct 2026 | FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) |  |
 | Thu, 19 Nov 2026 | No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT | NK47, miss jas |
 
 ## Address

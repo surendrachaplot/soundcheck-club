@@ -12,7 +12,7 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-u
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
 | Fri, 9 Oct 2026 | TUSH: Bass, Breaks & Techno (Rethink Fundraiser) | Kassita, Rebekah Abdeen, babybear (2), inda Flo |
 | Sun, 11 Oct 2026 | HOLY | Richard Fearless, Tom Dubwise, Wrecked Lightship |
-| Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | Bisect, ETHICS, Hickey |
+| Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | Bisect, ETHICS, Hickey, Merlin (2) |
 | Sat, 24 Oct 2026 | clockwork: dj ladle, dj fynn, corchuelo, something good |  |
 | Fri, 30 Oct 2026 | Get On - London | Cathal, Horne, Luun |
 

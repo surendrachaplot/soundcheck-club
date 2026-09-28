@@ -1,10 +1,10 @@
 # City Hall pres. MONDAY PERREO || Guest List at City Hall
 
-City Hall pres. MONDAY PERREO || Guest List on Wed 28 Oct, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
+City Hall pres. MONDAY PERREO || Guest List on Mon 28 Sept, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 28 Oct 2026 |
+| Date | Mon, 28 Sept 2026 |
 | Venue | City Hall |
 | City | Barcelona |
 

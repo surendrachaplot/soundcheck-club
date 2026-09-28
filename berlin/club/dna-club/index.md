@@ -11,7 +11,7 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 | Fri, 2 Oct 2026 | [FREE ENTRY] - MEET ME at KOTTI  | Fakhar, INTERNAL FORCES, MAXIMUS., MEHMOOD, Slimegoat144, cell1 |
 | Sat, 3 Oct 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Silversurfer, Tallah |
 | Sat, 3 Oct 2026 | BAD IDEA. — Tasting & Rave by MATURBO | Blossmbae, KANIKA |
-| Fri, 9 Oct 2026 | OBXENE TAG DER KULTUR  | La Rod's, Nothing Left, VNVK |
+| Fri, 9 Oct 2026 | Cancelled OBXENE TAG DER KULTUR  | La Rod's, Nothing Left, VNVK |
 | Fri, 23 Oct 2026 | BIRTHDAY AFFAIR |  |
 | Sat, 24 Oct 2026 | RITMO3000 |  |
 | Sat, 31 Oct 2026 | Halloween Rave // Inferno x Hotwire x Glovex | Alex Friday, Filialleiter, Khaøz, LIIAS, TEZMA |

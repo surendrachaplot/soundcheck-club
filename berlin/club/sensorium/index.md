@@ -9,7 +9,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | TECHNO MITTWOCH: TAKE YOUR FREE TICKETS  | EVYA, KunstTechnologe, Michael Marchi, Noxumi, VEGANICECREAM, jaynetics, nixmoon |
-| Sun, 4 Oct 2026 | TRIG |  |
+| Sun, 4 Oct 2026 | TRIG | Esposito, Viktor Kampf |
 | Wed, 7 Oct 2026 | TECHNO MITTWOCH | Eleonor Bianchi, Fugist, k.meower, peak2soon |
 | Fri, 9 Oct 2026 | ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT | ESSMEE, FACONTI, KLEYN, NYCTO, SAAMO, Viktor Kampf, menicx |
 | Sun, 11 Oct 2026 | TRIG |  |

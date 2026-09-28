@@ -2,7 +2,7 @@
 
 AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0" on Sat, 3 Oct 2026.
 
-AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _minted, ALAN JOE, Bill Sanders and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing.
+AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _minted, ALAN JOE, Bill Sanders and Charlie. and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -12,7 +12,7 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 | Fri, 9 Oct 2026 | FUCK YOUR GENDER |  |
 | Fri, 16 Oct 2026 | CLASH | DJ LEVEL, Darren Black, Younox, jardabpm |
 | Fri, 16 Oct 2026 | CLASH |  |
-| Fri, 23 Oct 2026 | DOLLHAUS X SLIME | Elvin, MEGUROLOVE, Meda-Ava, SIMOFF, TAUREAN (2) |
+| Fri, 23 Oct 2026 | DOLLHAUS X SLIME | Charlie., Elvin, KVLR, MEGUROLOVE, Meda-Ava, SIMOFF, TAUREAN (2), fbi (1) |
 | Sat, 24 Oct 2026 | Brace Brace im Bunker (2 Floors) | DJesse, Isoskeles, Johænsson, Multifun, OXOPOHA, _minted, gem.ini |
 | Sat, 31 Oct 2026 | PUDDINGS pres. SCREAM QUEEN's |  |
 | Fri, 6 Nov 2026 | AИDERS x Human Colours @ AMT CLUB with Saytek - Live - , Somaphon , Kalimanda  | Kalimanda, Milk N Coffee, Rene Oldenburg, Saytek, Somaphon |

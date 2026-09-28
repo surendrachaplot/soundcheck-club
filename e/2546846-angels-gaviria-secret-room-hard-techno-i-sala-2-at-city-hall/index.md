@@ -1,10 +1,10 @@
 # ANGELS GAVIRIA - SECRET ROOM: HARD TECHNO I SALA 2 at City Hall
 
-ANGELS GAVIRIA - SECRET ROOM: HARD TECHNO I SALA 2 at City Hall on Wed 28 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+ANGELS GAVIRIA - SECRET ROOM: HARD TECHNO I SALA 2 at City Hall on Mon 28 Sept, Barcelona. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 28 Oct 2026 |
+| Date | Mon, 28 Sept 2026 |
 | Venue | City Hall |
 | City | Barcelona |
 

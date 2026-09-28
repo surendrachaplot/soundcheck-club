@@ -9,7 +9,7 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | 10 years of Subtle Radio |  |
-| Fri, 2 Oct 2026 | Bad Behli presents 365: All Night Long DJ set |  |
+| Fri, 2 Oct 2026 | Bad Behli presents 365: All Night Long **SOLD OUT** |  |
 | Sat, 3 Oct 2026 | pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat | Curses, Harry James, Jay Duncan, Josh Bayat |
 | Wed, 7 Oct 2026 | AlgoRhythms |  |
 | Thu, 8 Oct 2026 | Thirsty Thursdays with Sexy B*tch | Cam Joon |

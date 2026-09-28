@@ -1,14 +1,15 @@
 # James Lotion
 
-James Lotion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
+James Lotion is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
 
-James Lotion is a house and techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Copenhagen and Leipzig and 4 more. Often billed alongside Sparkly Pony, Dgeral and Britney Speed. Next up: KREUZWERK, Berlin on Sun 11 Oct.
+James Lotion is a house and techno artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Copenhagen and Leipzig and 4 more. Often billed alongside Sparkly Pony, Dgeral and Britney Speed. Next up: KREUZWERK, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | KREUZWERK | Berlin |
+| Fri, 23 Oct 2026 | Acud Macht NEU | Berlin |
 | Sat, 14 Nov 2026 | Kater | Berlin |
 
 ## Recently played

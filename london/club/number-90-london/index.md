@@ -1,13 +1,14 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PLAYGRIL X SEXTOU" on Sat, 3 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mixmag Lab with Bakey, Osmosis Jones, Lola So" on Thu, 1 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Mixmag Lab with Bakey, Osmosis Jones, Lola So | Bakey, Lola So, Osmosis Jones |
 | Sat, 3 Oct 2026 | PLAYGRIL X SEXTOU |  |
 | Sat, 3 Oct 2026 | Half Baked W/ Manfredas, Melody, Sam Bangura & Daddybisht | Daddybisht, Manfredas, Melody RA+RE, Sam Bangura |
 | Thu, 8 Oct 2026 | Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent |  |
@@ -17,7 +18,6 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming gi
 | Sat, 17 Oct 2026 | SHIBUI x Yum Yum Records (No90 Hideout) | James Andrew |
 | Sun, 18 Oct 2026 | Elata meets Slate: 3rd Anniversary - 24h Edition [AFTERHOURS] | 1BYAKKO, ARMANDO, Aniaef, Deranged, GIZZI, H Grade, Hertz Collision, IKIIR, James Harbrecht, KETCH, Lobster (NL), Mathys Lenne, Olivia Mendez, Pierce (GE), TAARIS, Ylia (UK), markellos |
 | Fri, 23 Oct 2026 | Lens: Moving Mad UK Tour - London | Lens (2) |
-| Sat, 24 Oct 2026 | Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents  | FITS ME FUNNY, Jackyboom |
 
 ## Address
 

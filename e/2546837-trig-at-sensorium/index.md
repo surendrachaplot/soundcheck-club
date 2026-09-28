@@ -1,11 +1,16 @@
 # TRIG at Sensorium
 
-TRIG at Sensorium on Sun 4 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TRIG at Sensorium on Sun 4 Oct, Berlin. 2 artists on the bill: Esposito and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 4 Oct 2026 |
 | Venue | Sensorium |
 | City | Berlin |
+
+## Line-up
+
+- Esposito
+- Viktor Kampf
 
 *Source: [soundcheck](https://soundcheck.club/e/2546837-trig-at-sensorium/)*

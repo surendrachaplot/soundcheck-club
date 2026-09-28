@@ -12,7 +12,7 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming gigs,
 | Thu, 8 Oct 2026 | The Bliss x Acud Club | Berenice, Human Trax, Jeans (NL) |
 | Sat, 10 Oct 2026 | Angel Audio 002: regional club sounds from Chicago to Miami | CCTV, CHILDISH BAMBINO, KaraKara, Miss T Delight, anna andersrum |
 | Sun, 11 Oct 2026 | sunday school #25 |  |
-| Fri, 23 Oct 2026 | SYRUP - FLINTA* & Friends | Charlotte Lion, maniaclina |
+| Fri, 23 Oct 2026 | SYRUP - FLINTA* & Friends | Charlotte Lion, Dzoara, James Lotion, KETA PERRY, housekatze, maniaclina |
 | Fri, 30 Oct 2026 | 'SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) | Milli |
 | Thu, 12 Nov 2026 | punktò - BERLIN (€URO TOUR 2026) |  |
 

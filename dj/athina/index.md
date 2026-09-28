@@ -1,8 +1,8 @@
 # Athina
 
-Athina is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
+Athina is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
 
-Athina is a techno and industrial artist based in Germany, tracked on soundcheck, with 94 sets logged across Berlin and Cologne. Often billed alongside Amøn, Kø:lab and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 24 Oct.
+Athina is a techno and trance artist based in Germany, tracked on soundcheck, with 95 sets logged across Berlin and Cologne. Often billed alongside Amøn, Kø:lab and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Athina is a techno and industrial artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 28 Nov 2026 | OST | Berlin |
 
 ## Recently played
 

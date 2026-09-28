@@ -1,13 +1,14 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Franziska Berns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
 
-Franziska Berns is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside dj sweet6teen and nd_baumecker. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
+Franziska Berns is a house and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside dj sweet6teen and nd_baumecker. Next up: Robert Johnson, Hesse on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Robert Johnson | Hesse |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played

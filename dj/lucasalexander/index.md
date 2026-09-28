@@ -1,8 +1,8 @@
 # Lucas Alexander
 
-Lucas Alexander is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Dome, Liverpool on Sat, 17 Oct 2026.
+Lucas Alexander is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Dome, Liverpool on Sat, 17 Oct 2026.
 
-Lucas Alexander is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Brighton, Bristol, Cardiff and Dublin and 13 more. Often billed alongside Cut the Rug, Reeshy and Incus. Next up: The Dome, Liverpool on Sat 17 Oct.
+Lucas Alexander is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Brighton, Bristol, Cardiff and Dublin and 13 more. Often billed alongside Cut the Rug, Reeshy and Incus. Next up: The Dome, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lucas Alexander is a tech house and house artist based in United Kingdom, tracke
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
 | Fri, 30 Oct 2026 | Patterns | Brighton |
+| Sat, 31 Oct 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 
 ## Recently played
 
