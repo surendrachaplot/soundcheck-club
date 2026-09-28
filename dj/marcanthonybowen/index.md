@@ -1,13 +1,14 @@
 # Marc Anthony Bowen
 
-Marc Anthony Bowen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
+Marc Anthony Bowen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 16 Oct 2026.
 
-Marc Anthony Bowen is a techno and house artist based in Italy, tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Milan and New York City and 3 more. Often billed alongside IRIDE, Marcolino and GNMR. Next up: Fvtvr, Paris on Fri 6 Nov.
+Marc Anthony Bowen is a techno and house artist based in Italy, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Milan and New York City and 3 more. Often billed alongside IRIDE, Marcolino and GNMR. Next up: Les Enfants Brillants, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
 
-Max Cooper is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: fabric, London on Sat 3 Oct.
+Max Cooper is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: fabric, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Max Cooper is a techno and electronica artist based in United Kingdom, tracked o
 | Sat, 3 Oct 2026 | fabric | London |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
+| Sun, 8 Nov 2026 | La Riviera | Madrid |
 | Fri, 13 Nov 2026 | Club Wintercircus | Ghent |
 | Sat, 14 Nov 2026 | Club Wintercircus | Ghent |
 | Fri, 20 Nov 2026 | MoN Takanawa: The Museum of Narratives | Tokyo |

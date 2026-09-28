@@ -14,8 +14,8 @@ MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE at Jimmy Woo on
 - Fleur Shore
 - George Smeddles
 - Marvin Aloys
-- Matthew Law
 - Miruna Ghica
 - MRCL
+- Murphy's Law
 
 *Source: [soundcheck](https://soundcheck.club/e/2546414-moxy-mu-zik-x-mixmag-in-the-alps-day-into-night-ade-showcase/)*

@@ -1,13 +1,14 @@
 # Chango
 
-Chango is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "SPORTS" on Thu, 12 Nov 2026.
+Chango is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Bausa" on Sun, 18 Oct 2026.
 
-Chango is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Calle de Covarrubias, 22; 28010 Madrid; Spain.
+Chango is a music venue in Madrid listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Calle de Covarrubias, 22; 28010 Madrid; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | The Bausa |  |
 | Thu, 12 Nov 2026 | SPORTS |  |
 
 ## Address

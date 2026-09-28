@@ -1,13 +1,14 @@
 # Amphia
 
-Amphia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Amphia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at LFO.exp, Madrid on Fri, 16 Oct 2026.
 
-Amphia is a techno and trance artist based in Spain, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Amphia is a techno and house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: LFO.exp, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | LFO.exp | Madrid |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

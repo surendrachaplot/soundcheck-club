@@ -1,8 +1,8 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "JUXTA Run x AURA: Where Fitness Meets Club Culture" on Tue, 29 Sept 2026.
+LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "JUXTA Run x AURA: Where Fitness Meets Club Culture" on Tue, 29 Sept 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Binomi, BLNDFLD, Delta Funktionen and formica (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Binomi, Black Devil Disco Club, BLNDFLD and Delta Funktionen and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 

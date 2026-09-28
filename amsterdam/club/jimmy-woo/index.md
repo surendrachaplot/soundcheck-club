@@ -9,7 +9,7 @@ Jimmy Woo is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | P-rallel presents NEVERMIND |  |
-| Fri, 23 Oct 2026 | MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE | Darius Syrossian, Fleur Shore, George Smeddles, MRCL, Marvin Aloys, Matthew Law, Miruna Ghica |
+| Fri, 23 Oct 2026 | MOXY MU:ZIK x MIXMAG IN THE ALPS — DAY INTO NIGHT ADE SHOWCASE | Darius Syrossian, Fleur Shore, George Smeddles, MRCL, Marvin Aloys, Miruna Ghica, Murphy's Law |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Anthea
 
-Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Anthea is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Anthea is a house and techno artist based in United Kingdom, tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Anthea is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anthea is a house and techno artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Thu, 29 Oct 2026 | Jaeger | Oslo |
+| Fri, 30 Oct 2026 | Rex Club | Paris |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 
 ## Recently played

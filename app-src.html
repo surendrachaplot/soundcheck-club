@@ -4919,7 +4919,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790590959863">
+<meta name="sc-build" content="1790593350313">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5123,7 +5123,7 @@
     // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
     // but one number is easier to keep honest than two.
     var CITIES_V = '3';   // 2026-09-13: Helsinki added
-    var YT_SETS_V = '9';   // 2026-09-28: sets responses carry `popular` (main Play pick). 2026-09-27: set-ownership verdict purge (1fe8818). 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
+    var YT_SETS_V = '10';   // 2026-09-28: v9 edge-cached the OLD popular pick; v10 busts it (popular itself is read from /api/artist). 2026-09-27: set-ownership verdict purge (1fe8818). 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -6339,7 +6339,10 @@
         j('/api/soundcloud/sets?slug='+sg+'&v='+YT_SETS_V),
         j('/api/mixesdb/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
         j('/api/nts/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
-        j('/api/youtube/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V)
+        j('/api/youtube/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
+        // `popular` comes from /api/artist: the sets responses are edge-cached for a
+        // day and can carry yesterday's pick. The artist page passes its own copy.
+        entry.popular!==undefined ? Promise.resolve({ popular:entry.popular }) : j('/api/artist?slug='+sg)
       ]).then(function(r){
         var c=[];
         function add(x){ if(x && (x.url || x.videoId)) c.push(x); }
@@ -6359,7 +6362,7 @@
         // only) and sends it as `popular` on both sets endpoints. null → the newest set,
         // the old rule below. ytRest = the other YouTube sets, newest first, so a YouTube
         // pick keeps playing through the rest.
-        var pop=(r[3]&&r[3].popular)||(r[0]&&r[0].popular)||null;
+        var pop=(r[4] && 'popular' in r[4]) ? r[4].popular : ((r[3]&&r[3].popular)||(r[0]&&r[0].popular)||null);
         function ytRest(b){
           return c.filter(function(x){ return x.kind==='yt' && x.videoId && x.videoId!==b.videoId; })
             .sort(function(x,y){ return isNaN(x.t)-isNaN(y.t) || (isNaN(y.t)?0:y.t)-(isNaN(x.t)?0:x.t); })
@@ -11369,7 +11372,7 @@
         // it came from. It used to mean their newest SOUNDCLOUD set, which started
         // a 2013 podcast for an artist whose newest set is a 2026 YouTube upload.
         function tuneInSets(){
-          var who={ slug:slug, name:a.name||slug };
+          var who={ slug:slug, name:a.name||slug, popular:a.popular };
           latestSet(who).then(function(lt){
             if(lt && lt.kind==='sc' && lt.url){ playScUrl(lt.url, lt.title, lt.art, lt.src, who); return; }
             // The pick first, then the rest of their YouTube sets newest first.
@@ -11378,7 +11381,7 @@
           });
         }
         function tuneInYt(){ prefetchSets().then(function(j){ var sets=(j&&j.sets)||[]; if(!sets.length){ showToast('No sets found for '+(a.name||slug)+' yet.'); return; } playYtList(sets.map(function(s){ return { slug:slug, name:a.name||slug, videoId:s.videoId }; }), 0); }); }
-        apRadio.addEventListener('pointerdown',function(){ latestSet({ slug:slug, name:a.name||slug }); prefetchSets(); },{passive:true});
+        apRadio.addEventListener('pointerdown',function(){ latestSet({ slug:slug, name:a.name||slug, popular:a.popular }); prefetchSets(); },{passive:true});
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
         document.getElementById('ap-wanna').addEventListener('click',function(){

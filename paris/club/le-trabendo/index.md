@@ -2,13 +2,13 @@
 
 Le Trabendo is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Flash Cocotte pride reloaded Edition" on Sat, 3 Oct 2026.
 
-Le Trabendo is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Cardopusher, Domi (FR), HORS-SOL and Kendal and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
+Le Trabendo is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Domi (FR), HORS-SOL, Kendal and LAVION and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Flash Cocotte pride reloaded Edition | Cardopusher, Pipi De Frèche |
+| Sat, 3 Oct 2026 | Flash Cocotte pride reloaded Edition | Muchas Problemas, Pipi De Frèche, Safety Trance |
 | Fri, 16 Oct 2026 | Ritmo Fatale X Dure Vie: Kendal, LAVION live, Zaatar | Kendal, LAVION, Zaatar |
 | Fri, 13 Nov 2026 | HORS-SOL | Domi (FR), Mel (FR), Unai Trotti |
 | Fri, 18 Dec 2026 | HORS-SOL (DJ act) all night long | HORS-SOL |
