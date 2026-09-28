@@ -1,19 +1,22 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at BKW Hybrid Bar, Skopje on Wed, 30 Sept 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Auckland and Bali and 60 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Gaffe, London on Fri 2 Oct.
+Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: BKW Hybrid Bar, Skopje on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | BKW Hybrid Bar | Skopje |
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Sat, 10 Oct 2026 | La Cheetah Club | Glasgow |
 | Fri, 16 Oct 2026 | TBA | Detroit |
 | Sun, 18 Oct 2026 | Flash | Washington DC |
 | Fri, 23 Oct 2026 | Kapsule | Liverpool |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
+| Thu, 5 Nov 2026 | Kino Siska | Ljubljana |
+| Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sun, 15 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | Cadavra | Madrid |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |

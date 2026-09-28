@@ -1,14 +1,16 @@
 # Carla Martinez
 
-Carla Martinez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Carla Martinez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-Carla Martinez is a house and techno artist tracked on soundcheck, with 10 sets logged across London, Melbourne, Sydney and Victoria. Often billed alongside Jordan Brando, Bryson Hill and Dean Turnley. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+Carla Martinez is a house and techno artist tracked on soundcheck, with 12 sets logged across Brisbane, London, Melbourne and Perth and 2 more. Often billed alongside Boys Noize, Club Angel and Faster Horses. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Carla Martinez is a house and techno artist tracked on soundcheck, with 10 sets 
 
 ## Shares bills with
 
-Jordan Brando, Bryson Hill, Dean Turnley
+Boys Noize, Club Angel, Faster Horses
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*

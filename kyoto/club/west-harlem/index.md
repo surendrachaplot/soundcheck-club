@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FMKS" on Mon, 28 Sept 2026.
+West Harlem is a music venue in Kyoto with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Anvai" on Thu, 1 Oct 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 8 upcoming gigs, with line-ups including akii, Baku, C.Versa and Connor and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 7 upcoming gigs, with line-ups including akii, Baku, C.Versa and Connor and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | FMKS | Kross Section |
 | Thu, 1 Oct 2026 | Anvai | DJ Master Kohta, sak (4) |
 | Fri, 2 Oct 2026 | 宝船 | Mario Kassian, SOTA, Sou Kitahara, kitapon |
 | Sat, 3 Oct 2026 | AMINO ACID | Foodman, Jyn (1), NTsKi, Taigen Kawabe, kotakunisaki, rimi |

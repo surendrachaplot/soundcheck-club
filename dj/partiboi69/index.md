@@ -1,8 +1,8 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
+Partiboi69 is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
-Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 198 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Escala25, Lisbon on Sat 10 Oct.
+Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Escala25, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,7 +17,9 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 | Sat, 21 Nov 2026 | Smolna | Warsaw |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 

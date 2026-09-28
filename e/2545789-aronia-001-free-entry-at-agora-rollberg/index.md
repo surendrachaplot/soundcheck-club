@@ -1,6 +1,6 @@
 # ARONIA #001 FREE ENTRY at Agora Rollberg
 
-ARONIA #001 FREE ENTRY at Agora Rollberg on Tue 13 Oct, Berlin. 5 artists on the bill: Al Aslan, Ayham, cell1 and Slimegoat144 and 1 more. Techno. Preview the line-up and save it on soundcheck.
+ARONIA #001 FREE ENTRY at Agora Rollberg on Tue 13 Oct, Berlin. 6 artists on the bill: Al Aslan, Ayham, cell1 and MILA DUCH and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ARONIA #001 FREE ENTRY at Agora Rollberg on Tue 13 Oct, Berlin. 5 artists on the
 - Al Aslan
 - Ayham
 - cell1
+- MILA DUCH
 - Slimegoat144
 - The Camel
 

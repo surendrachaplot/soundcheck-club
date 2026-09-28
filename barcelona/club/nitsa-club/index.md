@@ -15,7 +15,7 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 | Fri, 16 Oct 2026 | Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY | Alvva, Laidlaw, PRADA2000, Silva Bumpa, VIVAY |
 | Fri, 23 Oct 2026 | ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox | Boys Noize, DJ Marcelle, Imox, Schacke, Skee Mask |
 | Sat, 24 Oct 2026 | Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei | Erol Alkan, Ferdiyei, Yung Prado |
-| Fri, 30 Oct 2026 | Miss Bashful · Luca Eck · MGNA Crrrta · Rattlesnakke / Cinthie · Paula Tape · Sama Yax | Cinthie, Luca Eck, Miss Bashful, Paula Tape, Rattlesnakke, Sama Yax |
+| Fri, 30 Oct 2026 | Miss Bashful Live · MGNA Crrrta · Luca Eck · Rattlesnakke / Cinthie · Paula Tape · Sama Yax | Cinthie, Luca Eck, Miss Bashful, Paula Tape, Rattlesnakke, Sama Yax |
 | Sat, 31 Oct 2026 | Oscar Mulero / Me siento extraña: Verushka b2b Bella Sarris · Cashu b2b Meritxell De Soto | Bella Sarris, Cashu, Dj Fra, Meritxell De Soto, Oscar Mulero, Sylvia (ES), Verushka |
 | Fri, 13 Nov 2026 | oskar med k | oskar med k |
 

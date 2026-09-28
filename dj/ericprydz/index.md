@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gaswrx Birmingham, London on Fri, 16 Oct 2026.
+Eric Prydz is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gaswrx Birmingham, London on Fri, 16 Oct 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Gaswrx Birmingham, London on Fri 16 Oct.
+Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 106 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Gaswrx Birmingham, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 | Fri, 23 Oct 2026 | Tap1 | Copenhagen |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Pier 48's Shed A | San Francisco/Oakland |
+| Sun, 1 Nov 2026 | TBA - CA State Capitol Building Sacramento | Sacramento |
 | Fri, 20 Nov 2026 | Echostage | Washington DC |
 | Sat, 21 Nov 2026 | The Concourse Project | Austin |
 | Sat, 5 Dec 2026 | Radius | Chicago |

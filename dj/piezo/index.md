@@ -1,8 +1,8 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+Piezo is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
-Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside upsammy, CCL and mad miran. Next up: Gessnerallee, Zurich on Fri 2 Oct.
+Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside upsammy, CCL and mad miran. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 11
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 30 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 
 ## Recently played
 

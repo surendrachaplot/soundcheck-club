@@ -12,7 +12,7 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs,
 | Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Chicks Luv Us |
 | Sat, 10 Oct 2026 | RED SESSIONS PRESENTS Ezequiel Arias | Ezequiel Arias |
 | Fri, 16 Oct 2026 | Tunnel presents. Anja Schneider | Anja Schneider |
-| Sat, 17 Oct 2026 | ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) | Althoff, WHO ELSE, Zagitar |
+| Sat, 17 Oct 2026 | NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) | Althoff, WHO ELSE, Zagitar |
 | Fri, 23 Oct 2026 | Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero | Dani Corberó, Melanie Ribbe, Ssero, Tomi & Kesh |
 | Sat, 24 Oct 2026 | SUDBEAT SHOWCASE  | Danny Howells, Emi Galvan, Graziano Raffa, SACK (AR) |
 | Sat, 31 Oct 2026 | NOM presents John Digweed | John Digweed, Martin Cozar |

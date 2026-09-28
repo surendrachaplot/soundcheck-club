@@ -1,8 +1,8 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Refuge, New York City on Thu, 1 Oct 2026.
+Sam Alfred is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Refuge, New York City on Thu, 1 Oct 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Refuge, New York City on Thu 1 Oct.
+Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside X CLUB., Club Angel and KETTAMA. Next up: Refuge, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, w
 
 ## Shares bills with
 
-X CLUB., KETTAMA, SAIDAH
+X CLUB., Club Angel, KETTAMA
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

@@ -11,7 +11,7 @@ TBA is a music venue in London listed on soundcheck. 270 upcoming gigs, with lin
 | Sat, 26 Sept 2026 | AFTER HOURS - Festival Weekend | Igor Marijuan |
 | Tue, 29 Sept 2026 | MOMENTUM #006 犬ギャル |  |
 | Thu, 1 Oct 2026 | - |  |
-| Thu, 1 Oct 2026 | Matter Of Fact presents Bloody Mary Live Set + Vinyl DJ Set | Bloody Mary |
+| Thu, 1 Oct 2026 | Matter Of Fact presents Bloody Mary Vinyl DJ Set | Bloody Mary |
 | Fri, 2 Oct 2026 | Moga Essaouira 2026 | ANOTR, Alexis Cabrera, Amine K, Bradley Zero, Calabasa, Cesar Merveille, Daox, Doudou MD, E.LINA, Enrica Falqui, FLORENTIA, Fantastic Man, Fort Romeau, Gawdat, HALFPINT, HYDE, HamaDeus, Jamie Jones, Jesse Calosso, Jhobei, Kalabrese, Loewenthal, Malika, Matisa, Memed Awad, Moruki, Mumsfilibaba, Notre Dame, Piticu, Polyswitch, Ramyen, Rhadoo, Richy Ahmed, Silvie Loto, Sonja Moonear, The Martinez Brothers, Tornado Wallace, Tunik, Viken Arman, Voigtmann, Yamagucci, Yaya, n4bz |
 | Fri, 2 Oct 2026 | Infra & Machina present: Rene Wise, J.I.A., & Siia | J.I.A., Rene Wise, Siia |
 | Fri, 2 Oct 2026 | DILF London | ABSOLUTE., Austin Ato, Bonzai Bonner, Massimo Paramour, Pagano, Tom Peters |

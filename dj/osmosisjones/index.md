@@ -1,8 +1,8 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at NUMBER 90 LONDON, London on Thu, 1 Oct 2026.
+Osmosis Jones is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at NUMBER 90 LONDON, London on Thu, 1 Oct 2026.
 
-Osmosis Jones is a garage and house artist based in Australia, tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Australian Capital Territory and Bali and 27 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: NUMBER 90 LONDON, London on Thu 1 Oct.
+Osmosis Jones is a garage and house artist based in Australia, tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Australian Capital Territory and Bali and 28 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: NUMBER 90 LONDON, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Osmosis Jones is a garage and house artist based in Australia, tracked on soundc
 
 ## Shares bills with
 
-IsGwan, Prizefight, WOLTERS
+IsGwan, Prizefight, Faster Horses
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

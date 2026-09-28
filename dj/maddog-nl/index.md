@@ -1,16 +1,18 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
 
-Mad Dog is a techno and hardcore artist based in Italy, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: E1, London on Fri 2 Oct.
+Mad Dog is a techno and hardcore artist based in Italy, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: E1, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | E1 | London |
+| Sat, 3 Oct 2026 | WDM | Hannover |
 | Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 10 Oct 2026 | TBA - The Nortehrn  | Byron-bay |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |

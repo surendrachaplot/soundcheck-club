@@ -13,7 +13,7 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming gig
 | Fri, 2 Oct 2026 | F*CK / Techno first | Epicx, Mathias Birnbaum, NIKO INCRAVALLE |
 | Sat, 3 Oct 2026 | Dämonenball |  |
 | Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DAZA, Tom Marten |
-| Thu, 8 Oct 2026 | STRAFF / Thursday Techno / 5€ until 1 AM | Anubix, MØABEAT |
+| Thu, 8 Oct 2026 | STRAFF / Thursday Techno / 5€ until 1 AM ( with Ticket ) | Anubix, MØABEAT |
 | Fri, 9 Oct 2026 | TRNC:RR • R | Der Eggert, Emma (8), Javier Portilla, TechNovaBader |
 | Sat, 10 Oct 2026 | Maschine 24-7 / RAW Techno | Bisk, Jens Schwan, La Boum Fatale, Maschine, Morris Fitch, NIKO INCRAVALLE, NONTOX Rabbits, Tom Marten |
 | Tue, 13 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DJ Keyframe, Klangpusch, ZÖ (1) |

@@ -1,8 +1,8 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Simo Cell is a Bass and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
-Simo Cell is a bass and techno artist based in France, tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 44 more. Often billed alongside CCL, DjRUM and Ehua. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
+Simo Cell is a bass and techno artist based in France, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 45 more. Often billed alongside CCL, DjRUM and Ehua. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simo Cell is a bass and techno artist based in France, tracked on soundcheck, wi
 | Sat, 3 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 17 Oct 2026 | Strange Brew | Bristol |
 | Sat, 24 Oct 2026 | Basic Club | Naples |
+| Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sat, 28 Nov 2026 | EartH | London |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
 

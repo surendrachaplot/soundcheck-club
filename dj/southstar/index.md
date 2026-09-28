@@ -1,8 +1,8 @@
 # southstar
 
-southstar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
+southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
-southstar is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belfast and 34 more. Often billed alongside Funk Tribu, DJ Heartstring and Job Jobse. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
+southstar is a techno and house artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Basel and Belfast and 35 more. Often billed alongside Funk Tribu, DJ Heartstring and Job Jobse. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ southstar is a techno and house artist based in Germany, tracked on soundcheck, 
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 20 Nov 2026 | EXIL | Zurich |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 

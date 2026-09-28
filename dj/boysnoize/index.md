@@ -1,8 +1,8 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Switch, Porto on Fri, 2 Oct 2026.
+Boys Noize is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Switch, Porto on Fri, 2 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Switch, Porto on Fri 2 Oct.
+Boys Noize is a techno and house artist based in Germany, tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Berlin and 52 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Switch, Porto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,7 +17,9 @@ Boys Noize is a techno and house artist based in Germany, tracked on soundcheck,
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 14 Nov 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
