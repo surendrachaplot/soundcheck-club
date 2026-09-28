@@ -1,14 +1,13 @@
 # feedbk
 
-feedbk is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "feedbk - soft opening season with NAP & Dardenne" on Sun, 27 Sept 2026.
+feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "feedbk - industry night with Ty Serna, Taiga, Will DiMaggio, Ryan King" on Thu, 1 Oct 2026.
 
-feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Neri, Amelia Holt, B.Love and Burchan Acar and 2 more. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
+feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Neri, Amelia Holt, B.Love and Burchan Acar and 2 more. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | feedbk - soft opening season with NAP & Dardenne | Dardenne, NAP (MX) |
 | Thu, 1 Oct 2026 | feedbk - industry night with Ty Serna, Taiga, Will DiMaggio, Ryan King | Ryan King, Taiga, Ty Serna, Will DiMaggio |
 | Sat, 3 Oct 2026 | feedbk - grand opening with TBA |  |
 | Thu, 8 Oct 2026 | feedbk x risk reward with B.Love, Daniel Dutts | B.Love, Daniel Dutts |
@@ -18,6 +17,7 @@ feedbk is a music venue in New York City listed on soundcheck. 13 upcoming gigs,
 | Sat, 17 Oct 2026 | feedbk with Tom Morgan, Rama | Rama NYC, Tom Morgan |
 | Sun, 18 Oct 2026 | feedbk x slow life with Cecliio, Paolo Mosca | Cecilio, Paolo Mosca |
 | Thu, 22 Oct 2026 | feedbk with Rasaaq, Hugo | Hugo (US), Rasaaq |
+| Fri, 23 Oct 2026 | feedbk with Alex Neri, burchan | Alex Neri, Burchan Acar |
 
 ## Address
 

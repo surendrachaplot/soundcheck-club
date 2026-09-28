@@ -1,14 +1,13 @@
 # Azaleh
 
-Azaleh is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Azaleh is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bricks, London on Thu, 15 Oct 2026.
 
-Azaleh is a bass and jungle artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Leipzig, London and Sydney and 1 more. Often billed alongside Faro Alip, RARRI and A Strange Wedding. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
+Azaleh is a bass and jungle artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Leipzig, London and Sydney and 1 more. Often billed alongside Faro Alip, RARRI and A Strange Wedding. Next up: Bricks, London on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Wee Jasper | Sydney |
 | Thu, 15 Oct 2026 | Bricks | London |
 
 ## Recently played

@@ -1,15 +1,13 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+KETTAMA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
-KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Wed, 7 Oct 2026 | Knockdown Center | New York City |
 | Thu, 8 Oct 2026 | Knockdown Center | New York City |
 | Fri, 9 Oct 2026 | Knockdown Center | New York City |
@@ -20,6 +18,8 @@ KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, wi
 | Fri, 27 Nov 2026 | GASHOUDER | Amsterdam |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
 

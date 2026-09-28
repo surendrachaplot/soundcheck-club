@@ -1,14 +1,13 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cat Club, San Francisco/Oakland on Sun, 27 Sept 2026.
+Special Guest (US) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-Special Guest (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Auckland and 39 more. Often billed alongside DJ S (UK), Carasel and SP:MC. Next up: Cat Club, San Francisco/Oakland on Sun 27 Sept.
+Special Guest (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Auckland and 39 more. Often billed alongside DJ S (UK), Carasel and SP:MC. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Cat Club | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | The Nest | Nottingham |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |

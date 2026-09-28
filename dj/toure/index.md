@@ -1,13 +1,14 @@
 # Touré
 
-Touré is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Touré is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
 
-Touré is a house and electro artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: Distrikt, Leeds on Sat 3 Oct.
+Touré is a house and electro artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: renae, Manchester on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 29 Sept 2026 | renae | Manchester |
 | Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
 | Sat, 31 Oct 2026 | Distrikt | Leeds |

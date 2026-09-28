@@ -1,15 +1,13 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé" on Sun, 27 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Toy Tonics Jam - Los Angeles" on Fri, 2 Oct 2026.
 
-TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, agraybé and Anenon and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, Barbara Boeing and Brick (US) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé | Anenon, Buttechno, agraybé |
-| Sun, 27 Sept 2026 | CLOSER x TYF present SUNDANCE with Misha | Violeta |
 | Fri, 2 Oct 2026 | Toy Tonics Jam - Los Angeles | Barbara Boeing, Cody Currie, Xica Soul |
 | Sat, 3 Oct 2026 | VOLTIQUE X VICE | BUCK/OFF, Flabbergast (LA), Miguel Clark |
 | Sun, 4 Oct 2026 | CLOSER x TYF present SUNDANCE (Season Finale) with Lightleak & Cortes | heelbite316 |
@@ -18,5 +16,7 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gig
 | Wed, 14 Oct 2026 | Off Record presents 14th Door | Mesmé, Niqi |
 | Sat, 17 Oct 2026 | bodyshop | MORENXXX, Neueportrait, Noah Selene, REDLINERS |
 | Fri, 23 Oct 2026 | Witching Hours | Kittamami |
+| Sat, 24 Oct 2026 | CLUB PIVETE |  |
+| Fri, 6 Nov 2026 | CLOSER presents THERMAL with 6 SENSE (LA Debut) | 6 SENSE, Brick (US), S.I.M, fun2bjane |
 
 *Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

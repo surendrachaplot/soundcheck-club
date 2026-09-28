@@ -1,14 +1,13 @@
 # Tricky
 
-Tricky is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Tricky is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hollywood Theatre, Vancouver on Tue, 29 Sept 2026.
 
-Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 7 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 7 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: Hollywood Theatre, Vancouver on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Tue, 29 Sept 2026 | Hollywood Theatre | Vancouver |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 

@@ -4,6 +4,16 @@
   <meta charset="utf-8" />
   <title>The Dub Techno Chess Club at renae · 29 Sept 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,26 +45,26 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.ab7a2abf6439.css">
+  <link rel="stylesheet" href="/app.e4a562c55a60.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
-<meta name="description" content="The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. Dub Techno. Preview the line-up and save it on soundcheck.">
+<meta name="sc-build" content="1790590959863">
+<meta name="description" content="The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. 4 artists on the bill: AdomasLP, MEMP3, Tommy Cross and Touré. Dub Techno. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="soundcheck">
 <meta property="og:title" content="The Dub Techno Chess Club at renae · 29 Sept 2026 | soundcheck">
-<meta property="og:description" content="The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. Dub Techno. Preview the line-up and save it on soundcheck.">
+<meta property="og:description" content="The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. 4 artists on the bill: AdomasLP, MEMP3, Tommy Cross and Touré. Dub Techno. Preview the line-up and save it on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/">
-<meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=The%20Dub%20Techno%20Chess%20Club&amp;s=renae&amp;e=TUE%2C%2029%20SEPT%20%C2%B7%20MANCHESTER&amp;p=https%3A%2F%2Fimages.ra.co%2F1a31c9a4c4462126f0abd930d975398c0250d287.png&amp;q=%2Fe%2F2543022%2F">
-<meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=The%20Dub%20Techno%20Chess%20Club&amp;s=renae&amp;e=TUE%2C%2029%20SEPT%20%C2%B7%20MANCHESTER&amp;p=https%3A%2F%2Fimages.ra.co%2F1a31c9a4c4462126f0abd930d975398c0250d287.png&amp;q=%2Fe%2F2543022%2F">
+<meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=The%20Dub%20Techno%20Chess%20Club&amp;s=renae%20%C2%B7%20AdomasLP%2C%20MEMP3%2C%20Tommy%20Cross%2C%20Tour%C3%A9&amp;e=TUE%2C%2029%20SEPT%20%C2%B7%20MANCHESTER&amp;p=https%3A%2F%2Fimages.ra.co%2F13a7376d393e6e3d83021c0b984be359a8e0c24e.jpg&amp;q=%2Fe%2F2543022%2F">
+<meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=The%20Dub%20Techno%20Chess%20Club&amp;s=renae%20%C2%B7%20AdomasLP%2C%20MEMP3%2C%20Tommy%20Cross%2C%20Tour%C3%A9&amp;e=TUE%2C%2029%20SEPT%20%C2%B7%20MANCHESTER&amp;p=https%3A%2F%2Fimages.ra.co%2F13a7376d393e6e3d83021c0b984be359a8e0c24e.jpg&amp;q=%2Fe%2F2543022%2F">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"The Dub Techno Chess Club","url":"https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/","description":"The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. Dub Techno. Preview the line-up and save it on soundcheck.","startDate":"2026-09-29T18:00:00+01:00","endDate":"2026-09-30T02:00:00+01:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"renae","address":{"@type":"PostalAddress","streetAddress":"45-47 Thomas St, Manchester M4 1NA","addressLocality":"Manchester","addressCountry":"GB"},"geo":{"@type":"GeoCoordinates","latitude":53.48,"longitude":-2.24},"url":"https://soundcheck.club/manchester/club/renae/"},"organizer":[{"@type":"Organization","name":"The Dub Techno Chess Club"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/","price":"0","priceCurrency":"GBP","availability":"https://schema.org/InStock","validFrom":"2026-09-22"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F1a31c9a4c4462126f0abd930d975398c0250d287.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F1a31c9a4c4462126f0abd930d975398c0250d287.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F1a31c9a4c4462126f0abd930d975398c0250d287.png&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"The Dub Techno Chess Club","url":"https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/","description":"The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. 4 artists on the bill: AdomasLP, MEMP3, Tommy Cross and Touré. Dub Techno. Preview the line-up and save it on soundcheck.","startDate":"2026-09-29T18:00:00+01:00","endDate":"2026-09-30T02:00:00+01:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"renae","address":{"@type":"PostalAddress","streetAddress":"45-47 Thomas St, Manchester M4 1NA","addressLocality":"Manchester","addressCountry":"GB"},"geo":{"@type":"GeoCoordinates","latitude":53.48,"longitude":-2.24},"url":"https://soundcheck.club/manchester/club/renae/"},"performer":[{"@type":"MusicGroup","name":"AdomasLP","url":"https://soundcheck.club/dj/adomaslp/"},{"@type":"MusicGroup","name":"MEMP3","url":"https://soundcheck.club/dj/memp3/"},{"@type":"MusicGroup","name":"Tommy Cross","url":"https://soundcheck.club/dj/tommy-cross/"},{"@type":"MusicGroup","name":"Touré","url":"https://soundcheck.club/dj/tour/"}],"organizer":[{"@type":"Organization","name":"The Dub Techno Chess Club"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/","price":"0","priceCurrency":"GBP","availability":"https://schema.org/InStock","validFrom":"2026-09-28"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F13a7376d393e6e3d83021c0b984be359a8e0c24e.jpg&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F13a7376d393e6e3d83021c0b984be359a8e0c24e.jpg&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F13a7376d393e6e3d83021c0b984be359a8e0c24e.jpg&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Manchester","item":"https://soundcheck.club/manchester/"},{"@type":"ListItem","position":3,"name":"The Dub Techno Chess Club"}]}</script>
 </head>
 <body>
-<div id="seo-pre"><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#FDF3EC;font-family:'Archivo',system-ui,sans-serif"><h1>The Dub Techno Chess Club</h1><p>The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. Dub Techno. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Tue, 29 Sept 2026</td></tr><tr><th>Venue</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/manchester/club/renae/">renae</a></td></tr><tr><th>City</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/manchester/">Manchester</a></td></tr></tbody></table><p><a style="color:#FF9A3D" href="https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/">Open on soundcheck</a></p></main></div><script data-seo-pre>(function(){var n=document.getElementById("seo-pre");if(!n)return;n.style.display="none";document.addEventListener("DOMContentLoaded",function(){n.remove();});})();</script>
+<div id="seo-pre"><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#FDF3EC;font-family:'Archivo',system-ui,sans-serif"><h1>The Dub Techno Chess Club</h1><p>The Dub Techno Chess Club at renae on Tue 29 Sept, Manchester. 4 artists on the bill: AdomasLP, MEMP3, Tommy Cross and Touré. Dub Techno. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Tue, 29 Sept 2026</td></tr><tr><th>Venue</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/manchester/club/renae/">renae</a></td></tr><tr><th>City</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/manchester/">Manchester</a></td></tr><tr><th>Acts</th><td>4</td></tr></tbody></table><h2>Line-up</h2><ul><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/adomaslp/">AdomasLP</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/memp3/">MEMP3</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/tommycross/">Tommy Cross</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/toure/">Touré</a></li></ul><p><a style="color:#FF9A3D" href="https://soundcheck.club/e/2543022-the-dub-techno-chess-club-at-renae/">Open on soundcheck</a></p></main></div><script data-seo-pre>(function(){var n=document.getElementById("seo-pre");if(!n)return;n.style.display="none";document.addEventListener("DOMContentLoaded",function(){n.remove();});})();</script>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
   <div class="promo" id="promo" hidden></div>
   <main class="wrap">
@@ -66,10 +76,10 @@
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="home" type="button">Home</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="radio" type="button">Radio</button>
+        <button class="nl" id="nav-listen" data-nav="listen" type="button">Listen</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="hdr-log" id="hdr-log" type="button" style="display:none">+ Log a gig</button>
+      <button class="fp-ab" id="hdr-log" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><span>Log a gig</span></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -109,7 +119,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">32 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">88 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">113 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -150,17 +160,17 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
+        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Want to see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Want to see</span></button><button class="set-add" id="dock-add" type="button" hidden aria-pressed="false" aria-label="Add to Your sets"></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
         <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
              The play button is hidden (the scrubber knob is play/pause), so the visible
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
              breakpoint reshuffling. -->
         <div class="transport">
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>&minus;15</span></button>
-          <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><span>&minus;15</span></button>
+          <button class="iconbtn skipnav" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
-          <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
+          <button class="iconbtn skipnav" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span></button>
         </div>
         <div class="scrub">
           <span class="t" id="t-cur">0:00</span>
@@ -171,7 +181,7 @@
       </div>
     </div>
   </div>
-  <div class="toast" id="toast"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
   <div class="auth-overlay" id="auth-overlay">
     <div class="auth-box" id="auth-box">
@@ -216,7 +226,7 @@
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
     <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
-    <button class="bnav-tab" id="bnav-scenes" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg><span class="bnav-l">Scenes</span></button>
+    <button class="bnav-tab" id="bnav-listen" type="button" aria-label="Listen"><svg viewBox="0 0 24 24"><path d="M3.5 14v-2a8.5 8.5 0 0 1 17 0v2"/><rect x="3" y="13" width="5" height="8" rx="2"/><rect x="16" y="13" width="5" height="8" rx="2"/></svg><span class="bnav-l">Listen</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
 
@@ -228,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.ab7a2abf6439.js" defer></script>
+  <script src="/app.e4a562c55a60.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

@@ -1,16 +1,13 @@
 # Skepta
 
-Skepta is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Skepta is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Skepta is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Brisbane and Chicago and 21 more. Often billed alongside Black Coffee, TSHA and Green Velvet. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Skepta is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Brisbane and Chicago and 21 more. Often billed alongside Black Coffee, TSHA and Green Velvet. Next up: Hï Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
-| Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Sat, 3 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Warehouse Elementenstraat | Amsterdam |

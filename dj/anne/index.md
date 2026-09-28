@@ -1,14 +1,13 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
+ANNĒ is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
-ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Under Club, Buenos Aires on Sun 27 Sept.
+ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Gate Milano, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 3 Oct 2026 | TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
@@ -20,6 +19,7 @@ ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 
 | Sat, 31 Oct 2026 | TBA - Address sent out to ticket holders at 6pm on 10/31 | Philadelphia |
 | Fri, 6 Nov 2026 | Bunker | Turin |
 | Sat, 21 Nov 2026 | WE club | Thessaloniki |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 

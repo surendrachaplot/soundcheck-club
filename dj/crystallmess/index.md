@@ -1,14 +1,13 @@
 # Crystallmess
 
-Crystallmess is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at St. Bartholomew's Church, New York City on Sun, 27 Sept 2026.
+Crystallmess is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
-Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: St. Bartholomew's Church, New York City on Sun 27 Sept.
+Crystallmess is a techno and club artist based in France, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | St. Bartholomew's Church | New York City |
 | Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
 | Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |

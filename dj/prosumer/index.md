@@ -1,8 +1,8 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
+Prosumer is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
+Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Belfast and 49 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Prosumer is a house and techno artist based in United Kingdom, tracked on soundc
 | Fri, 2 Oct 2026 | Monarch | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 17 Oct 2026 | public records | New York City |
+| Sat, 31 Oct 2026 | Massive | Seattle |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # 999999999
 
-999999999 is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+999999999 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-999999999 is a techno and house artist based in Italy, tracked on soundcheck, with 284 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 75 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+999999999 is a techno and house artist based in Italy, tracked on soundcheck, with 284 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 75 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |

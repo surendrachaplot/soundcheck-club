@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor" on Sat, 26 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss" on Fri, 2 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, AEREA, AgainstMe and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, AEREA, Alfred Czital and ALI3N and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Alírio, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
 | Fri, 2 Oct 2026 | X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss | Dr. Rubinstein, Omon Breaker, Schwefelgelb, Supergloss |
 | Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
@@ -18,6 +17,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 23 Oct 2026 | Open2Close: Juliana Huxtable all night long | Juliana Huxtable |
 | Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Andre Zimmer, COZi, Carluschka, Cryptofauna, Disguised, E2NMN, Ignez, Kaiser (K S R), Kim She, Oblique, Red Rooms, Silberhauch, Toobris |
 | Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
+| Sat, 31 Oct 2026 | BCCO Halloween | AEREA, ASEC, Bailey Ibbs, Benabou, DJ Hyperdrive, Elnur, FENIM0RE, Luigi Madonna, Luxi Villar, Mac Declos, Matrixxman, Mython, PAU (6), SALIMATA, SELESSA T., future.666 |
 
 ## Address
 

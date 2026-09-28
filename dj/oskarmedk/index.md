@@ -1,15 +1,13 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+oskar med k is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
 
-oskar med k is a house and deep house artist based in Norway, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+oskar med k is a house and deep house artist based in Norway, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Wed, 7 Oct 2026 | Fonda Theatre | Los Angeles |
 | Sat, 10 Oct 2026 | Foro Niebla | Mexico City |
 | Fri, 13 Nov 2026 | Nitsa Club | Barcelona |

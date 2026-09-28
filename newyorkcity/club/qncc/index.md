@@ -1,14 +1,13 @@
 # Qncc
 
-Qncc is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Perverse Afties" on Sun, 27 Sept 2026.
+Qncc is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "QNCC presents: DOWNTEMPO" on Fri, 2 Oct 2026.
 
-Qncc is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, BASSBEAR!!, Kim Ann Foxman and Lauren Flax and 2 more. Browse upcoming dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
+Qncc is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, BASSBEAR!!, Kim Ann Foxman and Lauren Murada and 2 more. Browse upcoming dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Perverse Afties | Lauren Flax, Sevyn 0000 |
 | Fri, 2 Oct 2026 | QNCC presents: DOWNTEMPO | Pure Immanence |
 | Tue, 6 Oct 2026 | QNCC x PFLAG NYC: Picture Day |  |
 | Thu, 8 Oct 2026 | QNCC presents: YBDG |  |

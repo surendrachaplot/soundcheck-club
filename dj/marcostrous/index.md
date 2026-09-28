@@ -1,14 +1,13 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Marco Strous is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 1 Oct 2026.
 
-Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 42 sets logged across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 42 sets logged across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Noto Philadelphia, Philadelphia on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Thu, 1 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 3 Oct 2026 | Flash | Washington DC |
 | Sat, 10 Oct 2026 | Q Nightclub | Seattle |

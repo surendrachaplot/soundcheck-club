@@ -1,16 +1,13 @@
 # VTSS
 
-VTSS is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+VTSS is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
-| Sun, 27 Sept 2026 | The Midway | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | Silencio | Paris |
 | Sat, 3 Oct 2026 | Jasna 1 | Warsaw |
@@ -20,6 +17,7 @@ VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 1
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 4 Dec 2026 | Preston Warehouse | Melbourne |
+| Sat, 5 Dec 2026 | Preston Warehouse | Melbourne |
 
 ## Recently played
 

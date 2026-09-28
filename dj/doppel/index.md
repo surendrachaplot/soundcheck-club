@@ -1,14 +1,13 @@
 # Doppel
 
-Doppel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Doppel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
-Doppel is a techno and house artist based in Australia, tracked on soundcheck, with 7 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Tom Baker (AU), Andy Garvey and Butane. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
+Doppel is a techno and house artist based in Australia, tracked on soundcheck, with 7 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Tom Baker (AU), Andy Garvey and Butane. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Wee Jasper | Sydney |
 | Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 
 ## Recently played

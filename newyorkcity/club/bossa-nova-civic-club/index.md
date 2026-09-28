@@ -1,14 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Very J, A lana, & DAY/DEM" on Sun, 27 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Puro Putis with Chata, Grungemum, Henry R, Tok.io[Hosted by Tani]" on Mon, 28 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 4AM NYC, 8ULENTINA, A lana and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including 4AM NYC, 8ULENTINA, A lana and Aleska and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Very J, A lana, & DAY/DEM | A lana, DAY/DEM, Very J |
 | Mon, 28 Sept 2026 | Puro Putis with Chata, Grungemum, Henry R, Tok.io[Hosted by Tani] | Henry R, Tok.io, grunge mum |
 | Tue, 29 Sept 2026 | LIFE AFTER TRANCE x SAMUEL X: BOSSA TAKEOVER | ASTER (DJ), Franxx, Samuelx, Subcultures, TOMMYLOGIK, moistbreezy |
 | Wed, 30 Sept 2026 | Grand Prix: Ali Berger / Mariposa / Talker / Cades | Ali Berger, Cades, Mariposa, Talker |
@@ -18,6 +17,7 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 26
 | Fri, 2 Oct 2026 | Rollup: KEBRA (BR/CDMX), Dj Rankng (CDMX), La Maquina, zorenLo | Dj Rankng, KEBRA, zorenLo |
 | Sat, 3 Oct 2026 | Happy Hour: Aleska | Aleska |
 | Sat, 3 Oct 2026 | Photogenique Records x No.Vista with Left Early Bird, girl_irl, D3NIM, Mvtte0 + Jay3m | D3NIM, Lefto Early Bird, girl_irl |
+| Sun, 4 Oct 2026 | Lu2k b2b Hyas b2b Pura Pura ALL NIGHT | Hyas, Lu2k, Pura Pura |
 
 ## Address
 

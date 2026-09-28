@@ -1,13 +1,14 @@
 # CEEE
 
-CEEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Minimal Bar, Berlin on Sat, 3 Oct 2026.
+CEEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tausend, Berlin on Thu, 1 Oct 2026.
 
-CEEE is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Kijara, Anne-Sophie Selig and Danny Subsonic. Next up: Minimal Bar, Berlin on Sat 3 Oct.
+CEEE is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Kijara, Anne-Sophie Selig and Danny Subsonic. Next up: Tausend, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Tausend | Berlin |
 | Sat, 3 Oct 2026 | Minimal Bar | Berlin |
 
 ## Recently played

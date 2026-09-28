@@ -1,13 +1,14 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Mexico City on Sat, 10 Oct 2026.
+Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Massive, Seattle on Fri, 2 Oct 2026.
 
-Mystery Affair is a house and techno artist based in Mexico, tracked on soundcheck, with 98 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and Villaseñor. Next up: TBA, Mexico City on Sat 10 Oct.
+Mystery Affair is a house and techno artist based in Mexico, tracked on soundcheck, with 99 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Ursula Prawn, Portugal and Villaseñor. Next up: Massive, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Massive | Seattle |
 | Sat, 10 Oct 2026 | TBA | Mexico City |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 

@@ -1,14 +1,15 @@
 # andré wiese
 
-andré wiese is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Die Kunstbar, Cologne on Fri, 6 Nov 2026.
+andré wiese is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Die Kunstbar, Cologne on Fri, 6 Nov 2026.
 
-andré wiese is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Dj Bowlz, Kashinski and PATEK. Next up: Die Kunstbar, Cologne on Fri 6 Nov.
+andré wiese is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Cologne. Often billed alongside Dj Bowlz, Kashinski and PATEK. Next up: Die Kunstbar, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Die Kunstbar | Cologne |
+| Sat, 2 Oct 2027 | Odonien | Cologne |
 
 ## Recently played
 

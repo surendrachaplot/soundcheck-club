@@ -1,14 +1,13 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
+Two Shell is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Two Shell is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: The Midway, San Francisco/Oakland on Sun 27 Sept.
+Two Shell is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Midway | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |

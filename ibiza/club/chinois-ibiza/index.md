@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Bedouin presents SAGA" on Sun, 27 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "La Troya: Harry Romero, Oscar Colorado, Sanchez, Silven" on Mon, 28 Sept 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Bedouin presents SAGA | Bedouin |
 | Mon, 28 Sept 2026 | La Troya: Harry Romero, Oscar Colorado, Sanchez, Silven | Harry Romero, Oscar Colorado, Sanchez, Silven |
 | Wed, 30 Sept 2026 | Trip: Traumer, Margaret Dygas, Maher Daniel, Mau BB | Maher Daniel, Margaret Dygas, Traumer |
 | Thu, 1 Oct 2026 | Defected: Hannah Wants, Low Steppa, Monki, Sam Divine,Andrea Lane | Hannah Wants, Lowsteppa, Monki, Sam Divine |
@@ -18,6 +17,7 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, 
 | Sun, 4 Oct 2026 | Bedouin presents SAGA Closing | Bedouin |
 | Mon, 5 Oct 2026 | La Troya: Sparrow, Oscar Colorado, RAMPINI, Felix Da Funk | Felix Da Funk, Oscar Colorado, Sparrow (CH) |
 | Wed, 7 Oct 2026 | Mahmut Orhan Closing | Avangart Tabldot, Mahmut Orhan |
+| Thu, 8 Oct 2026 | Defected Closing: Dennis Ferrer, Kerri Chandler, Sam Divine TBA | Dennis Ferrer, Kerri Chandler, Sam Divine |
 
 ## Address
 

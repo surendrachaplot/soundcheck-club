@@ -2,7 +2,7 @@
 
 M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA" on Fri, 2 Oct 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Daora, fU.impact, Gaya Carmeli and HIGH VIBES and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Allexandra, Azura, Basstronauten and Bliss and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with li
 | Fri, 16 Oct 2026 | Bassquake by Vero | Gaya Carmeli, TANZBAER, Vero_ |
 | Sat, 17 Oct 2026 | Freakquency with Red Sun | Daora, K3VKO, RHYTMOX |
 | Fri, 23 Oct 2026 | Rave Cage with Dr. Sheppat & NYXEA | NYXEA |
-| Sat, 24 Oct 2026 | Goanautika w./ Bliss |  |
+| Sat, 24 Oct 2026 | Goanautika w./ Bliss | Allexandra, Azura, Basstronauten, Bliss (1), Daniel Boon, LORD of Psychedelics (2) |
 | Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 | Sat, 31 Oct 2026 | Intoxication Halloween SPECIAL |  |
 

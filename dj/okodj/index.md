@@ -1,14 +1,13 @@
 # OKO DJ
 
-OKO DJ is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+OKO DJ is a Experimental and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 2 Oct 2026.
 
-OKO DJ is a techno and experimental artist based in France, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Nosedrip, Eiger Drums Propaganda and Judaah. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
+OKO DJ is an experimental and techno artist based in France, tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Nosedrip, Eiger Drums Propaganda and Judaah. Next up: YuYu Cine Club, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Drama Radio Bar | Mexico City |
 | Fri, 2 Oct 2026 | YuYu Cine Club | Mexico City |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |

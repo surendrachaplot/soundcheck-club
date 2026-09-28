@@ -1,14 +1,13 @@
 # PHONYFAKE
 
-PHONYFAKE is a Deep House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 22 Sept 2026.
+PHONYFAKE is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
 
-PHONYFAKE is a deep house and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Mexico City. Often billed alongside DJ Knife, DJ OYSTER and DJ FIASCO. Next up: Drama Radio Bar, Mexico City on Tue 22 Sept.
+PHONYFAKE is a deep house and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Mexico City. Often billed alongside DJ Knife, DJ OYSTER and DJ FIASCO. Next up: Club Bermellón, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Drama Radio Bar | Mexico City |
 | Fri, 2 Oct 2026 | Club Bermellón | Mexico City |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+Jin Synth is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
 
-Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
+Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: The Island, Bristol on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | The Island | Bristol |
 | Fri, 6 Nov 2026 | Astoria | Turin |
 | Fri, 6 Nov 2026 | Astoria | Turin |

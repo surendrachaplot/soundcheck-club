@@ -1,14 +1,13 @@
 # underscores
 
-underscores is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+underscores is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Botanique, Brussels on Fri, 6 Nov 2026.
 
-underscores is an electro and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Brussels, Chicago, Los Angeles and Melbourne and 2 more. Often billed alongside umru, FCUKERS and ALISHA. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+underscores is an electro and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Brussels, Chicago, Los Angeles and Melbourne and 2 more. Often billed alongside umru, FCUKERS and ALISHA. Next up: Botanique, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | Botanique | Brussels |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 

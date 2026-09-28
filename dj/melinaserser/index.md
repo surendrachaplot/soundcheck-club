@@ -1,6 +1,6 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 24 Oct 2026.
+Melina Serser is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cobalt Studios, Newcastle on Sat, 24 Oct 2026.
 
 Melina Serser is a house and techno artist based in Uruguay, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Jane Fitz, DJ Koolt and ASIA (DE). Next up: Cobalt Studios, Newcastle on Sat 24 Oct.
 
@@ -11,10 +11,10 @@ Melina Serser is a house and techno artist based in Uruguay, tracked on soundche
 | Sat, 24 Oct 2026 | Cobalt Studios | Newcastle |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Fri, 2 Apr 2027 | TBA | Sheffield |
 
 ## Recently played
 
-- TBA, Sheffield — Fri, 4 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - La Terrrazza, Barcelona — Sat, 15 Aug 2026
 - Platforma Wolff, Bucharest — Sat, 11 Jul 2026
@@ -22,6 +22,7 @@ Melina Serser is a house and techno artist based in Uruguay, tracked on soundche
 - Amfiteatre del Parc Catalunya, Barcelona — Thu, 14 May 2026
 - Gaffe, London — Sat, 9 May 2026
 - Hoppetosse, Berlin — Sat, 25 Apr 2026
+- The Berkeley Suite, Glasgow — Fri, 24 Apr 2026
 
 ## Shares bills with
 

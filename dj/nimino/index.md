@@ -1,14 +1,13 @@
 # nimino
 
-nimino is a House and Downtempo artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+nimino is a House and Downtempo artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Project House, Leeds on Fri, 9 Oct 2026.
 
-nimino is a house and downtempo artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+nimino is a house and downtempo artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Project House, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Project House | Leeds |
 | Sat, 10 Oct 2026 | Central Chapelle | Paris |
 | Thu, 15 Oct 2026 | Pumpehuset | Copenhagen |

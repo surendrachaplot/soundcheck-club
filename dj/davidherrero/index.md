@@ -1,14 +1,13 @@
 # David Herrero
 
-David Herrero is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+David Herrero is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sun, 11 Oct 2026.
 
-David Herrero is a tech house and house artist based in Spain, tracked on soundcheck, with 10 sets logged across Miami, Montreal and Toronto. Often billed alongside Adriano Longi, Manzone & Strong and TAKiN. Next up: Wiggle Room, Toronto on Sat 26 Sept.
+David Herrero is a tech house and house artist based in Spain, tracked on soundcheck, with 10 sets logged across Miami, Montreal and Toronto. Often billed alongside Adriano Longi, Manzone & Strong and TAKiN. Next up: Wiggle Room, Toronto on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 | Sun, 11 Oct 2026 | Wiggle Room | Toronto |
 
 ## Recently played

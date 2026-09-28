@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Jyoty is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Centre Point, Dublin on Fri, 9 Oct 2026.
 
-Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Centre Point, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Centre Point | Dublin |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

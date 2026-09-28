@@ -1,14 +1,13 @@
 # San Antonios
 
-San Antonios is a music venue in New York City with 63 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Reggaeton on Houston - Latin & Reggaeton Party NYC" on Sun, 27 Sept 2026.
+San Antonios is a music venue in New York City with 62 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Reggaeton on Houston - Latin & Reggaeton Party NYC" on Thu, 1 Oct 2026.
 
-San Antonios is a music venue in New York City listed on soundcheck. 63 upcoming gigs. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
+San Antonios is a music venue in New York City listed on soundcheck. 62 upcoming gigs. Browse upcoming dates, start times and who's playing. 247 Eldridge St, New York, NY 10002, US.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Thu, 1 Oct 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Fri, 2 Oct 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
 | Fri, 2 Oct 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
@@ -18,6 +17,7 @@ San Antonios is a music venue in New York City listed on soundcheck. 63 upcoming
 | Sun, 4 Oct 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
 | Sun, 4 Oct 2026 | The Y2k Parrty- Can you hear me now? Classics Cocktail Bar |  |
 | Thu, 8 Oct 2026 | Reggaeton on Houston - Latin & Reggaeton Party NYC |  |
+| Fri, 9 Oct 2026 | Medellin Fridays - Colombian Latin & Reggaeton Party NYC |  |
 
 ## Address
 

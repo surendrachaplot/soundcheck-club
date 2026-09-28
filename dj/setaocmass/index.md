@@ -1,14 +1,13 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
+Setaoc Mass is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Setaoc Mass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Under Club, Buenos Aires on Sun 27 Sept.
+Setaoc Mass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | The Bassement | Madrid |
 | Sat, 10 Oct 2026 | Liquid Club | Malta |

@@ -1,14 +1,13 @@
 # DJ 86
 
-DJ 86 is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+DJ 86 is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OIL Club, Shenzhen on Wed, 30 Sept 2026.
 
-DJ 86 is a club and techno artist based in China, tracked on soundcheck, with 102 sets logged across Berlin, Hong Kong, Seoul and Shenzhen. Often billed alongside Beibeilon, zzm and Foambb. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
+DJ 86 is a club and techno artist based in China, tracked on soundcheck, with 102 sets logged across Berlin, Hong Kong, Seoul and Shenzhen. Often billed alongside Beibeilon, zzm and Foambb. Next up: OIL Club, Shenzhen on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 | Wed, 30 Sept 2026 | OIL Club | Shenzhen |
 | Sat, 17 Oct 2026 | OIL Club | Shenzhen |
 

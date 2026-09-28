@@ -1,15 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event)" on Sat, 26 Sept 2026.
+Wiggle Room is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Wiggly's Annual Multidisciplinary Arts Show for Nuit Blanch [9pm-7am]" on Sat, 3 Oct 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Barroness, Birdy, David Herrero and Dick Diamonds and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event) | Addy, BOZA, Barroness, Carlos Manaça, David Herrero, Hatiras, Joee Cons, Juan Gmoney Jaramillo, Junior Lopez, MC Flipside, Manzone & Strong, Marcus Visionary, Miz Megs, Nour (CAN), Randomdoug, TAKiN, Tyler Hill |
-| Sun, 27 Sept 2026 | Sunday SerVice: Joee Cons Birthday Tribute | BOZA, Joee Cons, MC Flipside, Manzone & Strong, Miz Megs |
 | Sat, 3 Oct 2026 | Wiggly's Annual Multidisciplinary Arts Show for Nuit Blanch [9pm-7am] | Dick Diamonds, Manzone & Strong, Nour (CAN), TAKiN, Tyler Hill |
 | Sun, 4 Oct 2026 | Sunday SerVice: Manolo - Manzone & Strong - Monokromatic - Birdy | Birdy, MANOLO (CA), Manzone & Strong |
 | Fri, 9 Oct 2026 | Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris) | Hatiras |
@@ -18,6 +16,8 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, 
 | Sat, 17 Oct 2026 | DJ Heather b2b COLETTE [All Night Long] - House of OM 20th Anniversary Tour | DJ Colette, DJ Heather, Mr. Haze |
 | Sun, 18 Oct 2026 | Sunday SerVice: Sander Kleinenberg [NL] | Manzone & Strong, Sander Kleinenberg, TAKiN |
 | Sat, 24 Oct 2026 | Give It To Me Old'School |  |
+| Sun, 25 Oct 2026 | Sunday SerVice: MAXIMILIANO [DC] - Manzone & Strong | Barroness, MAXIMILIANO (US), Manzone & Strong |
+| Sat, 31 Oct 2026 | WiGGLEWEEN + Afterparty [10pm-7am] | Barroness, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
 
 ## Address
 

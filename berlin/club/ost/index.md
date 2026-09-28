@@ -8,7 +8,7 @@ OST is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Iguana (2), WAN.1 |
+| Thu, 1 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Iguana (2), PERT, WAN.1 |
 | Fri, 2 Oct 2026 | OST Free Rave | An Chen, HOTBOI2300, Michael Klotz, senaitstar |
 | Sat, 3 Oct 2026 | Polyamor | Alas (2), Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, LAMMER, The Muffin Man, VIVI909, XIMA, Yasmin Regisford |
 | Thu, 8 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | TIKOA |

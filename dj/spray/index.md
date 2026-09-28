@@ -1,14 +1,13 @@
 # Spray
 
-Spray is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Floyd, Miami on Sun, 27 Sept 2026.
+Spray is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Palladium, Geneva on Sat, 10 Oct 2026.
 
-Spray is a techno and house artist based in Ireland, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Floyd, Miami on Sun 27 Sept.
+Spray is a techno and house artist based in Ireland, tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Palladium, Geneva on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Floyd | Miami |
 | Sat, 10 Oct 2026 | Palladium | Geneva |
 | Sat, 17 Oct 2026 | Badaboum | Paris |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |

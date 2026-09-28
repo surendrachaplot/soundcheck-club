@@ -1,14 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nowadays, New York City on Sun, 27 Sept 2026.
+FJAAK is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with 267 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Nowadays, New York City on Sun 27 Sept.
+FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with 267 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Nowadays | New York City |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
@@ -20,6 +19,7 @@ FJAAK is a techno and house artist based in Germany, tracked on soundcheck, with
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Sun, 22 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 

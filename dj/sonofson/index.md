@@ -1,14 +1,13 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Son of Son is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Klein Phönix, Istanbul on Sat, 17 Oct 2026.
 
-Son of Son is a techno and house artist based in Sweden, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Son of Son is a techno and house artist based in Sweden, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: Klein Phönix, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 17 Oct 2026 | Klein Phönix | Istanbul |
 
 ## Recently played

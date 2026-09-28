@@ -1,14 +1,13 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ben Sterling is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Ben Sterling is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Ben Sterling is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |

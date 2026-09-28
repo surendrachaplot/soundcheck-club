@@ -1,14 +1,13 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Locklead is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Fri, 9 Oct 2026.
 
-Locklead is a house and tech house artist based in Netherlands, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Locklead is a house and tech house artist based in Netherlands, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: fabric, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |

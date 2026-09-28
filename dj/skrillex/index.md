@@ -1,14 +1,13 @@
 # Skrillex
 
-Skrillex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Skrillex is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Skrillex is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Four Tet, Jyoty and RHR. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Skrillex is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Four Tet, Jyoty and RHR. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 
 ## Recently played

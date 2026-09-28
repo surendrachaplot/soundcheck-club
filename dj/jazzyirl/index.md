@@ -1,14 +1,13 @@
 # Jazzy (IRL)
 
-Jazzy (IRL) is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Jazzy (IRL) is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spybar, Chicago on Sat, 10 Oct 2026.
 
-Jazzy (IRL) is a house and tech house artist based in Ireland, tracked on soundcheck, with 20 sets logged across Amsterdam, Austin, Belfast and Boston and 10 more. Often billed alongside Badger (UK), Chris Lorenzo and Hedex. Next up: TBA, Los Angeles on Sun 27 Sept.
+Jazzy (IRL) is a house and tech house artist based in Ireland, tracked on soundcheck, with 20 sets logged across Amsterdam, Austin, Belfast and Boston and 10 more. Often billed alongside Badger (UK), Chris Lorenzo and Hedex. Next up: Spybar, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Sat, 10 Oct 2026 | Spybar | Chicago |
 | Sun, 11 Oct 2026 | Village Studios | Vancouver |
 | Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |

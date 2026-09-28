@@ -1,14 +1,13 @@
 # Ninajirachi
 
-Ninajirachi is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Ninajirachi is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
-Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, with 57 sets logged across Auckland, Austin, Barcelona and Berlin and 24 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, with 57 sets logged across Auckland, Austin, Barcelona and Berlin and 24 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 

@@ -1,14 +1,13 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Helena Hauff is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The White Hotel, Manchester on Fri, 2 Oct 2026.
 
-Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: The White Hotel, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 2 Oct 2026 | The White Hotel | Manchester |
 | Sat, 3 Oct 2026 | FOLD | London |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |

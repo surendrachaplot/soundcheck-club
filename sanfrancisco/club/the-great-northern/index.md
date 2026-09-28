@@ -1,14 +1,13 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SG Lewis - The Great Northern" on Sun, 27 Sept 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Woo York (Live) - San Francisco" on Fri, 9 Oct 2026.
 
-The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including Avalon Emerson, BEYA, Camillionaire and Emanate and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Avalon Emerson, BEYA, Camillionaire and Emanate and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | SG Lewis - The Great Northern | PUFFIE, SG Lewis, starfari |
 | Fri, 9 Oct 2026 | Woo York (Live) - San Francisco | Woo York |
 | Fri, 9 Oct 2026 | SET with Woo York [Live] | Emanate, Sezer Uysal, Woo York |
 | Sat, 17 Oct 2026 | Lee Foss - The Great Northern | Lee Foss |
@@ -18,6 +17,7 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Sat, 24 Oct 2026 | Safada: Brazilian Horror Story | Kevin Karrera, Profesito |
 | Thu, 29 Oct 2026 | SWEDM - The Great Northern |  |
 | Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Mez Monty, Papa Xanny, Sedef Adasï, Sholim Eso |
+| Fri, 6 Nov 2026 | Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest | EQ (Estratosfera + Qiri) |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # KZA
 
-KZA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at SOBER, Tokyo on Sun, 4 Oct 2026.
+KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Oath, Tokyo on Wed, 30 Sept 2026.
 
-KZA is a house and techno artist based in Japan, tracked on soundcheck, with 185 sets logged across Bali, Los Angeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and YOSHIROTTEN. Next up: SOBER, Tokyo on Sun 4 Oct.
+KZA is a house and techno artist based in Japan, tracked on soundcheck, with 186 sets logged across Bali, Los Angeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and YOSHIROTTEN. Next up: Oath, Tokyo on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Oath | Tokyo |
 | Sun, 4 Oct 2026 | SOBER | Tokyo |
 | Sat, 10 Oct 2026 | DJ Bar Bridge | Tokyo |
 | Thu, 15 Oct 2026 | DJ Bar Bridge | Tokyo |

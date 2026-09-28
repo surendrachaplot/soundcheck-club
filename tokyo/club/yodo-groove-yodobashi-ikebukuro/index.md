@@ -10,7 +10,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | VINYL TECHNO ON A TOKYO ROOFTOP |  |
 | Sun, 4 Oct 2026 | Indie Dance & Melodic House Rooftop – FUZIGER (EXE Audio) | COCOLY, YURI VALEN |
-| Mon, 12 Oct 2026 | DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary | DJ MIYU, KEiTA, Light.aka, STITCH, Sarina Tokihira |
+| Mon, 12 Oct 2026 | DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary | DJ MIYU, KEiTA, Light.aka, Sarina Tokihira |
 | Sun, 18 Oct 2026 | AVIDD Prologue #2 PROGRESSIVE HOUSE ROOFTOP | Nosh |
 | Sat, 31 Oct 2026 | YODO GROOVE HALLOWEEN – Limited 500 with Ken Ishii, DJ RINOKA | Ken Ishii |
 

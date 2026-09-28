@@ -1,8 +1,8 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 16 Oct 2026.
+LOVEFOXY is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 16 Oct 2026.
 
-LOVEFOXY is a house and techno artist based in Germany, tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 43 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: TRANSMISSION DC, Washington DC on Fri 16 Oct.
+LOVEFOXY is a house and techno artist based in Germany, tracked on soundcheck, with 166 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 43 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: TRANSMISSION DC, Washington DC on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ LOVEFOXY is a house and techno artist based in Germany, tracked on soundcheck, w
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
+| Fri, 20 Nov 2026 | Phonox | London |
 
 ## Recently played
 

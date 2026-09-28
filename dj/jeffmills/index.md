@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
+Jeff Mills is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Fvtvr, Paris on Wed 30 Sept.
+Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Fvtvr, Paris on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Jeff Mills is a techno and house artist based in United States of America, track
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
-| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 20 Nov 2026 | Basel Venue | Santiago |
 
 ## Recently played
 

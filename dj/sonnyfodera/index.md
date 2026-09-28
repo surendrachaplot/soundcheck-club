@@ -1,14 +1,13 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Sonny Fodera is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 28 Sept 2026.
 
-Sonny Fodera is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Sonny Fodera is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Pacha Ibiza, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Mon, 28 Sept 2026 | Pacha Ibiza | Ibiza |
 | Mon, 5 Oct 2026 | Pacha Ibiza | Ibiza |
 

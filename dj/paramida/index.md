@@ -1,8 +1,8 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+PARAMIDA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Austria and 50 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ PARAMIDA is a house and techno artist based in Germany, tracked on soundcheck, w
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 24 Oct 2026 | Balboa Salzburg Nightclub | Austria |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 

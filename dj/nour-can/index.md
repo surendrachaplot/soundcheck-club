@@ -1,14 +1,13 @@
 # Nour (CAN)
 
-Nour (CAN) is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+Nour (CAN) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Sat, 3 Oct 2026.
 
-Nour (CAN) is a tech house and house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Manzone & Strong, Barroness and Tyler Hill. Next up: Wiggle Room, Toronto on Sat 26 Sept.
+Nour (CAN) is a tech house and house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Manzone & Strong, Barroness and Tyler Hill. Next up: Wiggle Room, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 | Sat, 3 Oct 2026 | Wiggle Room | Toronto |
 | Sun, 11 Oct 2026 | Wiggle Room | Toronto |
 | Sat, 31 Oct 2026 | Wiggle Room | Toronto |

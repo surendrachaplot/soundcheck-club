@@ -1,6 +1,6 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Jane Fitz is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Jane Fitz is a techno and house artist based in United Kingdom, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Diamin. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -19,17 +19,18 @@ Jane Fitz is a techno and house artist based in United Kingdom, tracked on sound
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
+| Fri, 2 Apr 2027 | TBA | Sheffield |
 
 ## Recently played
 
 - essaim, Paris — Sun, 27 Sept 2026
-- TBA, Sheffield — Fri, 4 Sept 2026
 - Gaffe, London — Sun, 16 Aug 2026
 - Platforma Wolff, Bucharest — Fri, 14 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - THE MAGICK BAR, Rome — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
+- Colour Factory, London — Sat, 27 Jun 2026
 
 ## Shares bills with
 

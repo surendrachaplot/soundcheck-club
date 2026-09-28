@@ -1,10 +1,10 @@
 # tba at TBA
 
-tba at TBA on Fri 4 Sept, Sheffield. 4 acts on the bill: Adi (CO), Diamin, Jane Fitz and Melina Serser. Acid. Preview the line-up and save it on soundcheck.
+tba at TBA on Fri 2 Apr, Sheffield. 4 artists on the bill: Adi (CO), Diamin, Jane Fitz and Melina Serser. Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Sept 2026 |
+| Date | Fri, 2 Apr 2027 |
 | Venue | TBA |
 | City | Sheffield |
 

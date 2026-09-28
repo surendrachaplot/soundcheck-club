@@ -1,13 +1,14 @@
 # Marcus NF Harris
 
-Marcus NF Harris is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Sat, 10 Oct 2026.
+Marcus NF Harris is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Per Ankh Detroit Entheogenic Church, Detroit on Sat, 3 Oct 2026.
 
-Marcus NF Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside Ryan Sadorus, Gregboi and Dj Ryte Nou. Next up: Spkrbox, Detroit on Sat 10 Oct.
+Marcus NF Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside Ryan Sadorus, Gregboi and Dj Ryte Nou. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Per Ankh Detroit Entheogenic Church | Detroit |
 | Sat, 10 Oct 2026 | Spkrbox | Detroit |
 | Sat, 17 Oct 2026 | Corktown Tavern | Detroit |
 

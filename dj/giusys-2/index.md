@@ -1,14 +1,13 @@
 # Giusy S (2)
 
-Giusy S (2) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Union Club, Vauxhall, London on Sun, 27 Sept 2026.
+Giusy S (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 45 London, London on Fri, 30 Oct 2026.
 
-Giusy S is a tech house and house artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: Union Club, Vauxhall, London on Sun 27 Sept.
+Giusy S is a tech house and house artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: 45 London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Union Club, Vauxhall | London |
 | Fri, 30 Oct 2026 | 45 London | London |
 
 ## Recently played

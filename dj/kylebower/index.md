@@ -1,14 +1,15 @@
 # Kyle Bower
 
-Kyle Bower is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Post Bar, Helsinki on Fri, 9 Oct 2026.
+Kyle Bower is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Post Bar, Helsinki on Fri, 9 Oct 2026.
 
-Kyle Bower is a techno and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Helsinki, London and Manchester. Often billed alongside TEDESCO, 131bpm and ADRIAN LECA. Next up: Post Bar, Helsinki on Fri 9 Oct.
+Kyle Bower is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Brighton, Helsinki, London and Manchester. Often billed alongside TEDESCO, 131bpm and ADRIAN LECA. Next up: Post Bar, Helsinki on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Post Bar | Helsinki |
+| Sat, 10 Oct 2026 | Stidilä | Helsinki |
 
 ## Recently played
 

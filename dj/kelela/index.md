@@ -1,14 +1,13 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Kelela is a R&B and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Kelela is a r&b and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 10 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Kelela is a r&b and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 10 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 29 Oct 2026 | Huxley's Neue Welt | Berlin |

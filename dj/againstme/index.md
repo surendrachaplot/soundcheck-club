@@ -1,14 +1,13 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+AgainstMe is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at essaim, Paris on Fri, 9 Oct 2026.
 
-AgainstMe is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Red Rooms, Tommy Four Seven and Efdemin. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
+AgainstMe is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Red Rooms, Tommy Four Seven and Efdemin. Next up: essaim, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | essaim | Paris |
 | Sat, 10 Oct 2026 | Crackhouse | Gdansk |
 | Sat, 24 Oct 2026 | Tresor / Globus | Berlin |

@@ -1,14 +1,13 @@
 # NAP (MX)
 
-NAP (MX) is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at feedbk, New York City on Sun, 27 Sept 2026.
+NAP (MX) is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
 
-NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 14 more. Often billed alongside fleet.dreams, rodman and Ana Armada. Next up: feedbk, New York City on Sun 27 Sept.
+NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 14 more. Often billed alongside fleet.dreams, rodman and Ana Armada. Next up: TBA, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | feedbk | New York City |
 | Fri, 2 Oct 2026 | TBA | Vancouver |
 | Fri, 23 Oct 2026 | YuYu Cine Club | Mexico City |
 

@@ -1,14 +1,13 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Max Styler is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 3 Oct 2026.
 
-Max Styler is a house and tech house artist based in United States of America, tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Max Styler is a house and tech house artist based in United States of America, tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
@@ -20,6 +19,7 @@ Max Styler is a house and tech house artist based in United States of America, t
 | Fri, 20 Nov 2026 | Toffler | Rotterdam |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
+| Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 
 ## Recently played
 

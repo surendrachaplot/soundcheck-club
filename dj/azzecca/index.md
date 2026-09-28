@@ -1,15 +1,13 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Azzecca is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
-Azzecca is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Berlin and Boston and 21 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
+Azzecca is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Berlin and Boston and 21 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
-| Sun, 27 Sept 2026 | Audio SF | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Culture Box | Copenhagen |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |

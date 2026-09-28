@@ -1,14 +1,13 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CRSSD After Dark: Mathame + Fahlberg" on Sun, 27 Sept 2026.
+Music Box is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "EVAN GIIA" on Sat, 10 Oct 2026.
 
-Music Box is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Fahlberg, Mathame, Paul Oakenfold and O'Flynn and 2 more. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
+Music Box is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Paul Oakenfold, O'Flynn, Takuya Nakamura and The Crystal Method. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | CRSSD After Dark: Mathame + Fahlberg | Fahlberg, Mathame |
 | Sat, 10 Oct 2026 | EVAN GIIA |  |
 | Fri, 6 Nov 2026 | Paul Oakenfold + The Crystal Method | Paul Oakenfold, The Crystal Method |
 | Fri, 20 Nov 2026 | Minty Boi Presents: Takuya Nakamura in San Diego | Takuya Nakamura |

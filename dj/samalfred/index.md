@@ -1,15 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Sam Alfred is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Refuge, New York City on Thu, 1 Oct 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Refuge, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Thu, 1 Oct 2026 | Refuge | New York City |
 | Fri, 2 Oct 2026 | Magic Stick | Detroit |
 | Fri, 9 Oct 2026 | Substation | Seattle |
@@ -20,6 +18,8 @@ Sam Alfred is a house and techno artist based in Egypt, tracked on soundcheck, w
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Wed, 11 Nov 2026 | TBA | Ghent |
+| Fri, 13 Nov 2026 | fabric | London |
+| Fri, 27 Nov 2026 | The Limelight | Belfast |
 
 ## Recently played
 
