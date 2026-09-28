@@ -1,8 +1,8 @@
 # u/navaudit (@navaudit)
 
-u/navaudit (@navaudit) has logged 11 gigs across 7 venues in 4 cities on soundcheck, based in London.
+u/navaudit (@navaudit) has logged 13 gigs across 7 venues in 4 cities on soundcheck, based in London.
 
-- Gigs logged: 11
+- Gigs logged: 13
 - Venues: 7
 - Cities: 4
 - Seen live: 38
