@@ -1,8 +1,8 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "LIVE: Tom Gregory" on Wed, 30 Sept 2026.
+FLUCC is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "LIVE: Tom Gregory" on Wed, 30 Sept 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Bertolt Frech, Dcascallana, Deli Girls and Ele Luz and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 12 upcoming gigs, with line-ups including Altroy Jerome, Bertolt Frech, Dcascallana and Deli Girls and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
@@ -15,9 +15,9 @@ FLUCC is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with li
 | Tue, 6 Oct 2026 | LICCHT w/ DELI GIRLS (US) // RENT (A) | Deli Girls, Rent (1) |
 | Sat, 10 Oct 2026 | techNOage, from three o`clock Clubbing | SNDR_Xone |
 | Sat, 10 Oct 2026 | Überdruck im Fluc - MYSTERYBOX 01 [Überdruck + PaxNicht + Special Guest (Belgium)] |  |
+| Thu, 15 Oct 2026 | Palazzo Night |  |
+| Sat, 17 Oct 2026 | A party called JACK | Altroy Jerome, JP Bechamel |
 | Fri, 23 Oct 2026 | KONZEPT | Dcascallana, REIKA_DJ, Techflex |
-| Sat, 24 Oct 2026 | INTRIKAT x perмa | GEN-Z, Kid Kodama |
-| Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
 
 ## Address
 

@@ -9,7 +9,7 @@ Chris Gorrie is a house and electro artist based in Spain, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Sala Siroco | Madrid |
-| Sat, 31 Oct 2026 | LFO.exp | Madrid |
+| Sat, 31 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

@@ -2,14 +2,14 @@
 
 DURO is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FLUIDS - XDB" on Fri, 2 Oct 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Caim, Chloé, Daniel Avery and DJ Octopus and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Caim, Chloé, Daniel Avery and Deeetro and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | FLUIDS - XDB | XDB |
-| Fri, 2 Oct 2026 | Fluids // XDB | XDB |
+| Fri, 2 Oct 2026 | Fluids // XDB | Deeetro, The Robinson, XDB |
 | Fri, 9 Oct 2026 | ECHO - Shonky | Shonky |
 | Fri, 9 Oct 2026 | Echo // Shonky | Shonky |
 | Sat, 10 Oct 2026 | MOAB - Daniel Avery | Daniel Avery |
@@ -17,7 +17,7 @@ DURO is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line
 | Fri, 16 Oct 2026 | SOS - Gene On Earth | Gene On Earth |
 | Fri, 16 Oct 2026 | SOTTOSUONO: Gene On Earth x DURO (1st Anniversary) | DJ Octopus, FilippoDiGiorno, Gene On Earth |
 | Sat, 17 Oct 2026 | OXYGÈNE - Caim - Krijka | Caim, Krijka |
-| Sat, 17 Oct 2026 | Oxygène // Caim - Krijka | Caim, Krijka |
+| Sat, 17 Oct 2026 | Oxygène // Caim - Krijka | Caim, Enrico Vivaldi, Krijka |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Ecilo
 
-Ecilo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Ecilo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 16 Oct 2026.
 
-Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, with 22 sets logged across Amsterdam, Bali, Bangkok and Berlin and 7 more. Often billed alongside BBANDIT, Mairakilla and Pink Concrete. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, with 23 sets logged across Amsterdam, Bali, Bangkok and Berlin and 8 more. Often billed alongside BBANDIT, Mairakilla and Pink Concrete. Next up: Tempio del Futuro Perduto, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Tresor / Globus | Berlin |
 

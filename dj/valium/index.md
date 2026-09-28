@@ -9,7 +9,7 @@ Valium is a house and ambient artist based in Spain, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
-| Sat, 31 Oct 2026 | LFO.exp | Madrid |
+| Sat, 31 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

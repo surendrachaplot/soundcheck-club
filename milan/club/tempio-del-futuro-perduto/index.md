@@ -15,7 +15,7 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upc
 | Fri, 9 Oct 2026 | Oriental Techno Club - 東極玄音寺: Icey Planet, Raeya Chen, DÅwN | DÅwN, Icey Planet, Raeya Chen |
 | Sat, 10 Oct 2026 | RESISTANCE: Danny Wabbit, Kora Lyssa, cccre, Marthial, Iacopo Carli | Danny Wabbit, Iacopo Carli, Kora Lyssa, Marthial, cccre |
 | Thu, 15 Oct 2026 | Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec ///, MA\E | Blunderr, Fennec III, MA\E |
-| Fri, 16 Oct 2026 | Oriental Techno Club - 東極玄音寺: Eclio, Zenyee, Shū | SHŪ (1), Zenyee |
+| Fri, 16 Oct 2026 | Oriental Techno Club - 東極玄音寺: Ecilo, Zenyee, Shū | Ecilo, SHŪ (1), Zenyee |
 | Sat, 17 Oct 2026 | DISCO FELINA: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti | Futuro Tropicale, Naydiaa, Stella Zekri |
 | Thu, 22 Oct 2026 | Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA | Alfa Cornae, KAMA |
 

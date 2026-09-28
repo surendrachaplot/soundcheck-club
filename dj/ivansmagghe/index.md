@@ -1,13 +1,14 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kapsule, Liverpool on Fri, 2 Oct 2026.
+Ivan Smagghe is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
 
-Ivan Smagghe is a house and techno artist based in France, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Kapsule, Liverpool on Fri 2 Oct.
+Ivan Smagghe is a techno and house artist based in France, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Hotel Butterfly | Rome |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 16 Oct 2026 | Rex Club | Paris |

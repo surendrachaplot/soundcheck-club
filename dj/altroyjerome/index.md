@@ -1,14 +1,15 @@
 # Altroy Jerome
 
-Altroy Jerome is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Celeste, Vienna on Fri, 16 Oct 2026.
+Altroy Jerome is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Celeste, Vienna on Fri, 16 Oct 2026.
 
-Altroy Jerome is a techno and house artist tracked on soundcheck, with 37 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Rumi de Baires and Flo Real. Next up: Celeste, Vienna on Fri 16 Oct.
+Altroy Jerome is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Rumi de Baires and Flo Real. Next up: Celeste, Vienna on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Celeste | Vienna |
+| Sat, 17 Oct 2026 | FLUCC | Vienna |
 
 ## Recently played
 
