@@ -1,14 +1,13 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
+Pau Rosés is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 27 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 23 Oct 2026.
 
-Pau Rosés is a house and techno artist based in Spain, tracked on soundcheck, with 139 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: Audiodise Park Montjuic, Barcelona on Sun 27 Sept.
+Pau Rosés is a house and techno artist based in Spain, tracked on soundcheck, with 139 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
 | Fri, 23 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 Alex Silva is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Noxe Barcelona, Barcelona on Wed, 30 Sept 2026.
 
-Alex Silva is a house and deep house artist based in Spain, tracked on soundcheck, with 75 sets logged across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Noxe Barcelona, Barcelona on Wed 30 Sept.
+Alex Silva is a house and deep house artist based in Spain, tracked on soundcheck, with 74 sets logged across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Noxe Barcelona, Barcelona on Wed 30 Sept.
 
 ## Upcoming shows
 

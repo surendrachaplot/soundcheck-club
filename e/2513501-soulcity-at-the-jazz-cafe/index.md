@@ -1,6 +1,6 @@
 # soulcity at The Jazz Cafe
 
-soulcity at The Jazz Cafe on Sat 3 Oct, London. Preview the line-up and save it on soundcheck.
+soulcity at The Jazz Cafe on Sat 3 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

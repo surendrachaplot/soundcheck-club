@@ -5,7 +5,7 @@ u/navaudit (@navaudit) has logged 11 gigs across 7 venues in 4 cities on soundch
 - Gigs logged: 11
 - Venues: 7
 - Cities: 4
-- Seen live: 34
+- Seen live: 37
 
 ## Most seen
 

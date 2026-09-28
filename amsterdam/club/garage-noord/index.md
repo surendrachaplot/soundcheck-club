@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "9 LIVES OF Garage Noord" on Sat, 26 Sept 2026.
+Garage Noord is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "DJ Dustin, Jetti, Han" on Fri, 2 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | 9 LIVES OF Garage Noord | Chucho, DIORA, DJ Marcelle, Jo FLM, M4RY, Neska, Noise Diva, Oceanic, Ossia, Remma, Rozaly, Toff Youth, Verity, Woody92, Zohar, awhlkuhn, baby ganoush, dirtydms, teben |
 | Fri, 2 Oct 2026 | DJ Dustin, Jetti, Han | DJ Dustin, Han, Jetti |
 | Sat, 3 Oct 2026 | DJ Spinn, BMLé BMLé, Tempest | DJ Spinn |
 | Fri, 9 Oct 2026 | Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro | Andy Garvey, Buttechno, Daya, Lara Renner |
@@ -18,6 +17,7 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 14 upcoming gig
 | Wed, 21 Oct 2026 | Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina | 300SkullsAndCounting, iced lattina, screenage dj |
 | Thu, 22 Oct 2026 | Interfering Grounds x Futura Artists | Budino, Camille Maria, Crisp Sandwich, Lena Willikens, Rosa, upsammy |
 | Fri, 23 Oct 2026 | Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) | DJ Bone, OUST |
+| Sat, 24 Oct 2026 | GN does a party with Nyege Nyege & Trackwork |  |
 
 ## Address
 

@@ -9,7 +9,7 @@ Lavallée is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | In.out.sider Festival #5 | Caillou, Mikamayonnaise, Oonagh Haines, Third Wave, xaxalxe |
-| Sun, 11 Oct 2026 | COUP\E CONTAINER #6 - MONOSUM (Bristol), LEESE(BXL), Suzie BABIN (BXL) | Leese (1) |
+| Sun, 11 Oct 2026 | COUP\E CONTAINER #6 - MONOSUM (UK), LEESE(BE), Suzie BABIN (FR) | Leese (1) |
 | Fri, 16 Oct 2026 | ENCORE DUB #6 : LYS FINKE, DJ LOVEPILLS, ENCORE DUB CREW | Carrageenan, EliseThere |
 
 ## Address

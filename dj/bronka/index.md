@@ -15,7 +15,7 @@ Bronka is a baile funk and breakbeat artist based in Brazil, tracked on soundche
 | Fri, 23 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
 | Fri, 20 Nov 2026 | Café Schöne Aussichten (CSA) | Hamburg |
-| Sat, 21 Nov 2026 | Club Bahnhof Ehrenfeld | Cologne |
+| Fri, 27 Nov 2026 | Club Bahnhof Ehrenfeld | Cologne |
 
 ## Recently played
 

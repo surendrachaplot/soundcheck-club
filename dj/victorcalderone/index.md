@@ -1,14 +1,13 @@
 # Victor Calderone
 
-Victor Calderone is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Refuge, New York City on Sat, 26 Sept 2026.
+Victor Calderone is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Stereo, Montreal on Sat, 10 Oct 2026.
 
-Victor Calderone is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Austin, Boston, Denver and Ibiza and 11 more. Often billed alongside Danyelino, Avision and Ms. Mada. Next up: Refuge, New York City on Sat 26 Sept.
+Victor Calderone is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Austin, Boston, Denver and Ibiza and 11 more. Often billed alongside Danyelino, Avision and Ms. Mada. Next up: Stereo, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Refuge | New York City |
 | Sat, 10 Oct 2026 | Stereo | Montreal |
 | Sun, 11 Oct 2026 | Bsmnt | Boston |
 | Fri, 16 Oct 2026 | Flash | Washington DC |

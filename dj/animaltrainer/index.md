@@ -1,14 +1,13 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+Animal Trainer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
-Animal Trainer is a house and techno artist based in Switzerland, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Kellerkind. Next up: Hive Club, Zurich on Sat 26 Sept.
+Animal Trainer is a house and techno artist based in Switzerland, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Kellerkind. Next up: Hive Club, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Hive Club | Zurich |
 | Sat, 3 Oct 2026 | Hive Club | Zurich |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 

@@ -1,14 +1,13 @@
 # Lulah Francs
 
-Lulah Francs is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Lulah Francs is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
-Lulah Francs is a house and disco artist based in Spain, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: Kater, Berlin on Sat 26 Sept.
+Lulah Francs is a house and disco artist based in Spain, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Kater | Berlin |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Thu, 22 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 13 Nov 2026 | M.O.T | London |

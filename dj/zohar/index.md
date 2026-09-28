@@ -1,14 +1,13 @@
 # Zohar
 
-Zohar is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Zohar is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Time is the new space, Rotterdam on Fri, 2 Oct 2026.
 
-Zohar is a techno and bass artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside NVST, ojoo and Spekki Webu. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+Zohar is a techno and bass artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside NVST, ojoo and Spekki Webu. Next up: Time is the new space, Rotterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
 | Fri, 2 Oct 2026 | Time is the new space | Rotterdam |
 | Sat, 10 Oct 2026 | TBA - DM for Info | Amsterdam |
 | Wed, 21 Oct 2026 | Muziekgebouw aan t' IJ | Amsterdam |

@@ -10,8 +10,8 @@ Club Bahnhof Ehrenfeld is a music venue in Cologne listed on soundcheck. 4 upcom
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Chin Chin - Tiere der Nacht | clubm8 |
 | Sat, 24 Oct 2026 | Club Bahnhof Ehrenfeld with H.LLS // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts |  |
-| Sat, 21 Nov 2026 | Bronka HATES COLOGNE | Bronka |
 | Thu, 26 Nov 2026 | Patrik Berg: Mensch & Maschine | Patrik Berg |
+| Fri, 27 Nov 2026 | Bronka HATES COLOGNE | Bronka |
 
 ## Address
 

@@ -1,14 +1,16 @@
 # Quest
 
-Quest is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
+Quest is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
 
-Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 31 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Hafen 49, Mannheim on Sat 3 Oct.
+Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 32 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Hafen 49, Mannheim on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Hafen 49 | Mannheim |
+| Sat, 3 Oct 2026 | Das Zimmer | Mannheim |
+| Sat, 10 Oct 2026 | Sound Department | South |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |

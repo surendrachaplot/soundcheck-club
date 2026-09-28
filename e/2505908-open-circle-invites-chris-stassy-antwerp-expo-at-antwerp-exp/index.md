@@ -1,6 +1,6 @@
 # Open Circle invites Chris Stassy ◯ Antwerp Expo at Antwerp Expo
 
-Open Circle invites Chris Stassy ◯ Antwerp Expo on Fri 13 Nov, Antwerp. 4 artists on the bill: Arter, Bibi Seck, CHRIS STASSY and Marsolo. House. Preview the line-up and save it on soundcheck.
+Open Circle invites Chris Stassy ◯ Antwerp Expo on Fri 13 Nov, Antwerp. 4 artists on the bill: Arter, Bibi Seck, Chris Stussy and Marsolo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Open Circle invites Chris Stassy ◯ Antwerp Expo on Fri 13 Nov, Antwerp. 4 arti
 
 - Arter
 - Bibi Seck
-- CHRIS STASSY
+- Chris Stussy
 - Marsolo
 
 *Source: [soundcheck](https://soundcheck.club/e/2505908-open-circle-invites-chris-stassy-antwerp-expo-at-antwerp-exp/)*

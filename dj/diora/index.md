@@ -1,14 +1,13 @@
 # DIORA
 
-DIORA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+DIORA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 30 Oct 2026.
 
-DIORA is a techno and house artist based in South Africa, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 8 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+DIORA is a techno and house artist based in South Africa, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 8 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: Warehouse Elementenstraat, Amsterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
 | Fri, 30 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 7 Nov 2026 | export | Rotterdam |
 

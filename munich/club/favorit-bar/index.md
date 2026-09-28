@@ -1,14 +1,13 @@
 # Favorit Bar
 
-Favorit Bar is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Favorit Bar w/ Atari Ali" on Sun, 27 Sept 2026.
+Favorit Bar is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Favorit Bar w/ Grantler Soundsytem" on Mon, 28 Sept 2026.
 
-Favorit Bar is a music venue in Munich listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Favorit Bar is a music venue in Munich listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Favorit Bar w/ Atari Ali |  |
 | Mon, 28 Sept 2026 | Favorit Bar w/ Grantler Soundsytem |  |
 | Tue, 29 Sept 2026 | Favorit Bar w/ N:in |  |
 | Wed, 30 Sept 2026 | Favorit Bar w/ Tobias Wullert |  |

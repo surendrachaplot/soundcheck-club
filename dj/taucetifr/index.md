@@ -1,14 +1,13 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Super7, Lyon on Sun, 27 Sept 2026.
+Tauceti (FR) is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Tauceti (FR) is a techno and house artist based in France, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Super7, Lyon on Sun 27 Sept.
+Tauceti (FR) is a techno and ambient artist based in France, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Super7 | Lyon |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Unité.22 | Marseille |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |

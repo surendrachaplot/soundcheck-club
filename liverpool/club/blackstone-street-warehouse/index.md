@@ -16,7 +16,7 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 | Sat, 7 Nov 2026 | Cloonee Presents Hellbent Liverpool | Bontan, Cloonee, Jamback, Ranger Trucco |
 | Sat, 7 Nov 2026 | Cloonee presents Hellbent Liverpool | Bontan, Cloonee, Delilah, Jamback, Ranger Trucco |
 | Sat, 14 Nov 2026 | Glitterbox Liverpool |  |
-| Sun, 22 Nov 2026 | Circus presents Chris Stassy Sun 22nd Nov Liverpool | CHRIS STASSY, Jhobei, Marlie, Traumer |
+| Sun, 22 Nov 2026 | Circus presents Chris Stassy Sun 22nd Nov Liverpool | Chris Stussy, Jhobei, Marlie, Traumer |
 | Sat, 5 Dec 2026 | Morgan Seatree Liverpool | Morgan Seatree |
 
 ## Address

@@ -2,7 +2,7 @@
 
 Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Locklead is a house and tech house artist based in Netherlands, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+Locklead is a house and tech house artist based in Netherlands, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Locklead is a house and tech house artist based in Netherlands, tracked on sound
 
 ## Shares bills with
 
-Marsolo, CHRIS STASSY, East End Dubs
+Marsolo, Chris Stussy, East End Dubs
 
 *Updated Sun, 27 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

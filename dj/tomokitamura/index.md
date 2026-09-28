@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 27 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 27 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Audiodise Park Montjuic, Barcelona on Sun 27 Sept.
+Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
 | Sat, 3 Oct 2026 | TBA | Mexico City |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 | Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |

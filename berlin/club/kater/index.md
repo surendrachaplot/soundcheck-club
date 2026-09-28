@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more" on Sat, 26 Sept 2026.
+Kater is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 27 Sept 2026; the next is "TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy" on Fri, 2 Oct 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Alejandro Paz and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Alejandro Paz and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more | Anjawah, Beatina, Harry Romero, LENI (DE), Los Cabra, Lulah Francs, Melanie Havens, Mira, Moderna, Rotciv, SAM AROHA, eira haul |
 | Fri, 2 Oct 2026 | TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy | Anna Almani, Augusto Taito, Carl Bergé, DJ Buona Sara, DJ Fett Burger, DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES, Esther Silex, Euphrat, I$A, Jakob Mäder, Jesse G, Kurilo, Lenny Fuck, M.ono, Pascale Project, Punani, Rosa Kante, Subradeon, Talia Dorr, nd_baumecker |
 | Fri, 9 Oct 2026 | FOREVER 25 curated by Enorm in Form | Adri Tüde, Agustin Giri, Alicia Hahn, Annett Gapstream, CHIEF TORKEL, Caleesi, Cleos, DIEGÖ, Dave Dinger, Fabian Krooss, Foolik, Kon Faber, Luca Saporito (Audiofly), Mabu, Marius Lehnert, Miss Evoice, Mona Moore, Ole Olsen, Rave d‘Amor, Red Pig Flower, Revengedeko, Sarah Kreis, Simon Simono, Stan Starry, Sven Dohse, The Bille, justUS, miAs |
 | Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |
@@ -18,6 +17,7 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 | Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Carmelina, Corios, Doudou MD, Esther Silex, Franca, Habikat, Josiane, Kenny Larkin, Lars Eidinger, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Power Squad, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
 | Fri, 6 Nov 2026 | Kater x WARNING | Audio Werner, DJ ZBB, David Delgado, Elena Bi, The Pushamann, Trancesetters of Westphalia |
 | Sat, 7 Nov 2026 | ON! Voyage durch Neustockland | AALIYAH, Adri Tüde, Baerbel, JUSTICE (DE), Jama, Joma Beton, Just Emma, Notes & Digits, Susi&Paula, The Bille, Tom Eichhagen, VIVI (DE), diladï |
+| Fri, 13 Nov 2026 | Tipping Point | Ciao 3lla, FLAVE, Fabian Krooss, Francis FF, Frida Darko, Sahra Bass |
 
 ## Address
 

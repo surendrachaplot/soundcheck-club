@@ -6,7 +6,7 @@
 //  - everything cross-origin (api.6minutes.club, the image proxy, CARTO tiles,
 //    YouTube/SoundCloud SDKs, unpkg) → passthrough; we never cache live data.
 // Bump VERSION to invalidate the shell cache on a meaningful release.
-const VERSION = "sc-1790549331665";
+const VERSION = "sc-1790552942055";
 const SHELL = [
   "./",
   "./index.html",
