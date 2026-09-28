@@ -1,8 +1,8 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SW ♡ IBIZA SEPTEMBER 30" on Wed, 30 Sept 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SW ♡ IBIZA SEPTEMBER 30" on Wed, 30 Sept 2026.
 
-Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Gescu, Jean Pierre, Luigi Rossi and Manda Moor. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
+Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs, with line-ups including Defex, Gescu, Jean Pierre and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gi
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | SW ♡ IBIZA SEPTEMBER 30 | Gescu, Jean Pierre, Luigi Rossi, Manda Moor |
 | Wed, 7 Oct 2026 | SW ♡ IBIZA CLOSING OCTOBER 7 |  |
+| Thu, 15 Oct 2026 | One Last Sin - UTOPIA | Defex, Moana (1), The Organism |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Loefah - Venue MOT at M.O.T
 
-Loefah - Venue MOT at M.O.T on Sat 24 Oct, London. 1 artist on the bill: Loefah. Preview the line-up and save it on soundcheck.
+Loefah - Venue MOT at M.O.T on Sat 24 Oct, London. 2 artists on the bill: GEM (UK) and Loefah. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Loefah - Venue MOT at M.O.T on Sat 24 Oct, London. 1 artist on the bill: Loefah.
 
 ## Line-up
 
+- GEM (UK)
 - Loefah
 
 *Source: [soundcheck](https://soundcheck.club/e/2490884-loefah-venue-mot-at-m-o-t/)*

@@ -10,7 +10,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 37 upcoming gigs, w
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | Hard Mondays Amsterdam - Hard Techno Night with NØ1ELSE | NO1ELSE |
 | Tue, 29 Sept 2026 | [PHANTOM GROUP] KLUBNACHT w MØRRIS / Won / ALTBASE / BROEKSTER / PHILSBAD7 | MØRRIS (2), Won |
-| Wed, 30 Sept 2026 | RAVELAND: Gabber, Hardcore & Hardstyle | Robin Hastings, saskia laval |
+| Wed, 30 Sept 2026 | RAVELAND: Gabber & Hardcore with Cviata [BG], Noctryx , saskia laval, Robin Hastings | Cviata, Robin Hastings, saskia laval |
 | Thu, 1 Oct 2026 | Amsterdam Techno Sessions x Illegal Alien Records Label Night | Chich, Marco Ramos, Ricardo Garduno |
 | Sat, 3 Oct 2026 | Amsterdam Nights: Hard Techno Rave w/ Zaphy [CL], DMS1N3RGY, Sashe | DMS1N3RGY, SASHE (2), Zaphy |
 | Mon, 5 Oct 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |

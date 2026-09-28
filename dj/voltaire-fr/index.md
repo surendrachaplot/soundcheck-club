@@ -1,13 +1,14 @@
 # Voltaire
 
-Voltaire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Klakaz, Athens on Sat, 14 Nov 2026.
+Voltaire is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Glazart, Paris on Sat, 3 Oct 2026.
 
-Voltaire is a techno and house artist based in France, tracked on soundcheck, with 22 sets logged across Athens, Geneva, Lyon and Marseille and 2 more. Often billed alongside Alys LF, Eastel and Toscan Haas. Next up: Klakaz, Athens on Sat 14 Nov.
+Voltaire is a techno and house artist based in France, tracked on soundcheck, with 23 sets logged across Athens, Geneva, Lyon and Marseille and 2 more. Often billed alongside Alys LF, Eastel and Toscan Haas. Next up: Glazart, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Glazart | Paris |
 | Sat, 14 Nov 2026 | Klakaz | Athens |
 
 ## Recently played

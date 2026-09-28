@@ -9,7 +9,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 22 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | Open Decks & Tischtennis |  |
-| Fri, 2 Oct 2026 | Motus x RAGAZZI | E.T., Nadia Bel Air, cun_t, e.leptic |
+| Fri, 2 Oct 2026 | Motus x RAGAZZI | E.T., Nadia Bel Air, cun_t, e.leptic, suki |
 | Sat, 3 Oct 2026 | Pfandidos Klubnacht | DJ BRECHSTANGE, DJ TIPSTER, Dagobird, DiskoJochen, HiHat, HØLLE (2), Krash Cora, Meta Chrom, Osiris (2), Shake Daddy, m4tsch1 |
 | Tue, 6 Oct 2026 | Open Decks & Tischtennis |  |
 | Fri, 9 Oct 2026 | STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE | Cufme, DJ Business (2), Egyptian Lover, Femdelic, HugoXL, PIG (1), Stamina (DE), Wall Ra |

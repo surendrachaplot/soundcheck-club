@@ -1,13 +1,14 @@
 # Rollover Djs
 
-Rollover Djs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Fri, 16 Oct 2026.
+Rollover Djs is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
 
-Rollover Djs is a house and disco artist based in Italy, tracked on soundcheck, with 32 sets logged across Antwerp, Berlin, Milan and New York City. Often billed alongside Delfonic, Speaking Minds and John Noseda. Next up: OXI, Berlin on Fri 16 Oct.
+Rollover Djs is a house and italo disco artist based in Italy, tracked on soundcheck, with 33 sets logged across Antwerp, Berlin, Milan and New York City. Often billed alongside Delfonic, Speaking Minds and John Noseda. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Apollo Club Milano | Milan |
 | Fri, 16 Oct 2026 | OXI | Berlin |
 
 ## Recently played

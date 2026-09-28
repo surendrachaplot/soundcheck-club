@@ -1,6 +1,6 @@
 # Fogo No Cu at BABY01
 
-Fogo No Cu at BABY01 on Sat 10 Oct, Berlin. 5 artists on the bill: boyyyish, caipora, MADDYY and materia hache and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Fogo No Cu at BABY01 on Sat 10 Oct, Berlin. 6 artists on the bill: boyyyish, caipora, iZZie and MADDYY and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Fogo No Cu at BABY01 on Sat 10 Oct, Berlin. 5 artists on the bill: boyyyish, cai
 
 - boyyyish
 - caipora
+- iZZie
 - MADDYY
 - materia hache
 - Nycky Estrella

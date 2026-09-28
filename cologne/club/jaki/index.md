@@ -1,8 +1,8 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "E.P.I.Q Nights: 5th Birthday Special" on Fri, 2 Oct 2026.
+JAKI is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "E.P.I.Q Nights: 5th Birthday Special" on Fri, 2 Oct 2026.
 
-JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
+JAKI is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
 ## What's on
 
@@ -10,6 +10,7 @@ JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | E.P.I.Q Nights: 5th Birthday Special | AMSL, Anna Cainelli, Nikity, Savsannah, Sedaction |
 | Fri, 9 Oct 2026 | SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK | Cora Lee |
+| Fri, 9 Oct 2026 | SAFE CLUB SESSIONS | Cora Lee |
 | Fri, 16 Oct 2026 | JAKI presents: Delight | Slippy G., da:sypoda, karete bu |
 | Fri, 23 Oct 2026 | Back2Love: Hyperlove x Back2Bass | BUTTMONEY, Back2Bass, DJ ASS TITS, QT-XTC, juno.j |
 | Sat, 24 Oct 2026 | JAKI Club with Montee live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts | HiHat, Montee |

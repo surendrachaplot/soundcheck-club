@@ -1,14 +1,15 @@
 # Bimini
 
-Bimini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at New Century Locker, Manchester on Fri, 23 Oct 2026.
+Bimini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at New Century Locker, Manchester on Fri, 23 Oct 2026.
 
-Bimini is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 17 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: New Century Locker, Manchester on Fri 23 Oct.
+Bimini is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 17 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: New Century Locker, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | New Century Locker | Manchester |
+| Sat, 24 Oct 2026 | The Prospect Building | Bristol |
 | Sun, 25 Oct 2026 | FORGE | Sheffield |
 
 ## Recently played

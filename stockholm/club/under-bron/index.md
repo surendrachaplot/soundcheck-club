@@ -10,7 +10,7 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Freddy K, Ms. K, Andree Bohlin | Andree Bohlin, Freddy K, Ms. K |
 | Sat, 10 Oct 2026 | Rhadoo All Night Long | Rhadoo |
-| Sat, 10 Oct 2026 | Snack Jam |  |
+| Sat, 10 Oct 2026 | Snack Jam - free entry |  |
 | Fri, 16 Oct 2026 | Ritmo Liminal presents: Moopie | Moopie |
 | Sat, 17 Oct 2026 | Scandinavian Swords: Martinou (LIVE), Jin Mustafa, Anthony Linell | Anthony Linell, Jin Mustafa, Martinou |
 | Fri, 23 Oct 2026 | Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist | Daniel[i], Henning Baer, Jessie Granqvist |

@@ -1,8 +1,8 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+CHRIS STASSY is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, tracked on soundcheck, with 285 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
+CHRIS STASSY is a house and techno artist based in Netherlands, tracked on soundcheck, with 286 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 

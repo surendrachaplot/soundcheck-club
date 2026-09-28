@@ -1,6 +1,6 @@
 # Only Fire DEBUT at Klakaz
 
-Only Fire DEBUT at Klakaz on Sun 29 Nov, Athens. 5 artists on the bill: MAXImum, Memphy, Only Fire and Sozie and 1 more. Club. Preview the line-up and save it on soundcheck.
+Only Fire DEBUT at Klakaz on Sun 29 Nov, Athens. 4 artists on the bill: MAXImum, Only Fire, Sozie and VASSIŁINA. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Only Fire DEBUT at Klakaz on Sun 29 Nov, Athens. 5 artists on the bill: MAXImum,
 ## Line-up
 
 - MAXImum
-- Memphy
 - Only Fire
 - Sozie
 - VASSIŁINA

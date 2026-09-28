@@ -1,8 +1,8 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Jaz in the City, Vienna on Fri, 2 Oct 2026.
+Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Jaz in the City, Vienna on Fri, 2 Oct 2026.
 
-Fede Frostl is a progressive house and electronica artist based in Austria, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Budapest and Buenos Aires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Jaz in the City, Vienna on Fri 2 Oct.
+Fede Frostl is a progressive house and electronica artist based in Austria, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Budapest and Buenos Aires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Jaz in the City, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fede Frostl is a progressive house and electronica artist based in Austria, trac
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Jaz in the City | Vienna |
 | Sat, 3 Oct 2026 | Loop | Vienna |
+| Fri, 16 Oct 2026 | Kramladen | Vienna |
 | Sat, 21 Nov 2026 | Jaz in the City | Vienna |
 | Sat, 5 Dec 2026 | Jaz in the City | Vienna |
 

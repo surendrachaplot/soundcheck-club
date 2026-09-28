@@ -11,7 +11,7 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, 
 | Fri, 2 Oct 2026 | Vendex presents: VALKHOR | Cera Khin, Koboyo, Luciid, Mila Black, Vendex |
 | Fri, 9 Oct 2026 | SECTOR BOUNCE EDITION with DJ DRECKISCH, DJ Cringey, WILDERÍCH, HOOM & Shilo | DJ Cringey, DJ DRECKISCH, HOOM, Shilo, WILDERÍCH |
 | Fri, 16 Oct 2026 | VERKNIPT Germany - Hamburg - October 16 & 17 | Charlie, IGDA, KLOUD, KX CHR, SAIKA, SANTØS |
-| Fri, 23 Oct 2026 | RÖYKSOPP DJ Set / Hamburg |  |
+| Fri, 23 Oct 2026 | RÖYKSOPP DJ Set / Hamburg | Jo van der Meer (2), MikAH |
 | Fri, 30 Oct 2026 | VER pres. WINSON |  |
 | Sat, 14 Nov 2026 | VER x TELETECH |  |
 | Fri, 27 Nov 2026 | VER pres. Paraçek ALL NIGHT LONG | Paraçek |

@@ -17,7 +17,7 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with l
 | Thu, 15 Oct 2026 | Change the Beat: fabric London — Conference, Mixer & Club Night | Emily Nash, Kitty Amor, N1NJA, Sydney Blu, TSHA |
 | Fri, 16 Oct 2026 | FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B  | Beatrice M., Girls Don't Sync, HALFPINT, Klose One, Mantra, Oneman, Osmosis Jones, Skee Mask, Smokey Bubblin' B, Tailor Jae, Tiffany Quinn, fae (UK) |
 | Sat, 17 Oct 2026 | fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz | Anna Wall, Bobby., Craig Richards, DJ Masda, Francesco Del Garda, Freddy K, Gabrielle Kwarteng, Harry McCanna, Ivan Smagghe, Jane Fitz, Matteo Manzini, O.BEE, PARAMIDA, Ricardo Villalobos, Sama' Abdulhadi, Tapefeed, Tomas Station, Vlada, Zip |
-| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, Envy, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Special Guest (US), Sully, Sydney Bryce, Waeys |
+| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, EN:VY, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Special Guest (US), Sully, Sydney Bryce, Waeys |
 
 ## Address
 

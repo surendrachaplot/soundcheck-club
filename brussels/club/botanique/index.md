@@ -9,7 +9,7 @@ Botanique is a music venue in Brussels listed on soundcheck. 20 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Lawrence English + Margaret Hermant | Lawrence English |
-| Fri, 2 Oct 2026 | Local Slang: LYZZA / Bamao Yendé / camillusonly / DJ Takeaway / Saintcere / Stella K | DJ Takeaway, LYZZA, Stella K |
+| Fri, 2 Oct 2026 | Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K | DJ Takeaway, LYZZA, Stella K |
 | Sat, 3 Oct 2026 | Dizzee Rascal | Dizzee Rascal |
 | Thu, 8 Oct 2026 | rogergoon |  |
 | Thu, 8 Oct 2026 | Rêves x J&A |  |

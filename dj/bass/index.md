@@ -1,8 +1,8 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Bass is a Drum & Bass and Jazz artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
-Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, with 119 sets logged across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Lccm, London on Mon 28 Sept.
+Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Lccm, London on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, wit
 | Mon, 19 Oct 2026 | clubasia | Tokyo |
 | Fri, 30 Oct 2026 | TBA | Bogot |
 | Sat, 31 Oct 2026 | The Woodshop | New York City |
+| Sat, 31 Oct 2026 | Gebäude 9 | Cologne |
 
 ## Recently played
 

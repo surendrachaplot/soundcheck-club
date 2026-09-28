@@ -1,14 +1,15 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Human Club, Barcelona on Sat, 24 Oct 2026.
+David Elimelech is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Human Club, Barcelona on Sat, 24 Oct 2026.
 
-David Elimelech is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Human Club, Barcelona on Sat 24 Oct.
+David Elimelech is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Human Club, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Human Club | Barcelona |
+| Sat, 24 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

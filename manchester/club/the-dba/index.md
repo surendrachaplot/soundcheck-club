@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "koti parti playground #2" on Wed, 30 Sept 2026.
+The DBA is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "koti parti playground #2" on Wed, 30 Sept 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Aerbreak, Aiden Francis, b.lo and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Aerbreak, Aiden Francis, b.lo and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 

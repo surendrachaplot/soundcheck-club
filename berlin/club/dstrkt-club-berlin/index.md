@@ -11,7 +11,7 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming g
 | Fri, 9 Oct 2026 | Sequenced Minds at DSTRKT |  |
 | Sat, 7 Nov 2026 | ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax |  |
 | Fri, 13 Nov 2026 | KALTBAU |  |
-| Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L | Andreas Henneberg, André Galluzzi, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, TBA, Teenage Mutants, Umek |
+| Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L. A.Galuzzi/A.Henneberg/ DjHELL/ Teenage Mutants/ Umek uvm  | Andreas Henneberg, André Galluzzi, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, TBA, Teenage Mutants, Umek |
 | Sat, 5 Dec 2026 | HIVE pres. IGDA B2B Niotech ALL NIGHT LONG | IGDA, Niotech |
 
 ## Address

@@ -17,7 +17,7 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 | Sat, 10 Oct 2026 | OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion | Fold, Fonzo (UK), Lady Passion |
 | Sat, 10 Oct 2026 | An Evening with: Touch of Funk | Farhannah, Touch Of Funk |
 | Fri, 16 Oct 2026 | Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) | Anish Kumar, DAR DISKU, DJ Subaru |
-| Sat, 17 Oct 2026 | Neffa-T x OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
+| Sat, 17 Oct 2026 | OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
 
 ## Address
 

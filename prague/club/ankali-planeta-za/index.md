@@ -8,7 +8,7 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | ★★: Sepehr live, MöB, Ella Pavel, Takenaga | Ella Pavel, Sepehr, Takenaga |
+| Fri, 2 Oct 2026 | ★★: Sepehr live, MöB, Ella Pavel, Takenaga | Ella Pavel, MöB (1), Sepehr, Takenaga |
 | Sat, 3 Oct 2026 | Seismic invites Garçon | Citty, DANOWSKI000, Garçon, LickMySoul, Segment |
 | Fri, 9 Oct 2026 | #wubwub x Markham Road Records | DDAT, Jan Loup, Westdale, basic chanel |
 | Sat, 10 Oct 2026 | NASTY #6 | A/PM, Chromic Disease, Kewu, Powder Ranger, Rico Casazza, Vialla, aykanakdag |

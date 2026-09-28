@@ -510,11 +510,11 @@
        really clamps (.fade, set by _bioSweep) line 4 fades out at its trailing
        end; "See more" opens it in place. The full text is always in the DOM. */
     .fp-bio-wrap { margin:0 0 var(--sp-4); max-width:64ch; }
-    .fp-bio-wrap .fp-bio { font-size:var(--fs-base); line-height:24px; color:var(--muted); margin:0;
+    .fp-bio-wrap .fp-bio { font-size:var(--fs-base); line-height:22px; color:var(--muted); margin:0;
       display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; text-wrap:pretty; }
     .fp-bio-wrap .fp-bio.fade:not(.open) {
-      -webkit-mask:linear-gradient(#000,#000) top/100% calc(100% - 24px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 24px no-repeat;
-              mask:linear-gradient(#000,#000) top/100% calc(100% - 24px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 24px no-repeat; }
+      -webkit-mask:linear-gradient(#000,#000) top/100% calc(100% - 22px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 22px no-repeat;
+              mask:linear-gradient(#000,#000) top/100% calc(100% - 22px) no-repeat, linear-gradient(90deg,#000 55%,transparent) bottom/100% 22px no-repeat; }
     .fp-bio-wrap .fp-bio.open { -webkit-line-clamp:unset; overflow:visible; }
     .fp-bio-more { display:inline-flex; align-items:center; min-height:44px; color:var(--muted); }
     .fp-bio-more[hidden] { display:none; }
@@ -3164,6 +3164,57 @@
 .evm-act{font:700 var(--fs-md)/var(--lh-md) var(--body);color:var(--fg);flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .evm-link{font:500 var(--fs-sm)/1 var(--body);color:var(--accent);text-decoration:none;flex:0 0 auto}
 /* A real control, not a word. Natural width — never stretched. */
+/* HEALTH STATS (owner only, read-only on web). Paper NEXT 18F4-0: >=720 one row of
+   four tiles + a 1062-wide chart, web panels radius 6; below, the app block 17KW-0 S1:
+   2x2 tiles, 334 chart, radius 12. No new colours: surface/border/muted/faint + sunset. */
+.gh{margin:24px 0 4px;padding:24px 0 0;border-top:1px solid var(--border);display:flex;flex-direction:column;gap:14px;max-width:1100px}
+.gh-head{display:flex;flex-direction:column;gap:4px}
+.gh-t{font:700 21px/26px var(--head);letter-spacing:-0.015em;color:var(--fg);margin:0}
+.gh-win{font:700 13px/18px var(--body);color:var(--fg)}
+.gh-m{font:500 13px/18px var(--body);color:var(--faint);margin:0}
+.gh-lock{display:flex;align-items:center;gap:6px;margin-top:-10px}
+.gh-ico{width:13px;height:13px;flex:0 0 auto}
+.gh-tiles{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.gh-tile,.gh-card{background:var(--surface);border:1px solid rgba(255,255,255,.08);border-radius:12px;min-width:0}
+.gh-tile{padding:14px;display:flex;flex-direction:column;gap:6px}
+.gh-v{display:flex;align-items:baseline;gap:4px;min-width:0}
+.gh-v b{font:800 28px/30px var(--head);letter-spacing:-0.03em;color:var(--fg);white-space:nowrap}
+.gh-v b.none{color:var(--faint)}
+.gh-v span{font:700 15px/22px var(--body);color:var(--muted)}
+.gh-l{font:700 10.5px/12px var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.gh-card{padding:14px 14px 12px;display:flex;flex-direction:column;gap:10px}
+.gh-ch{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.gh-busy{display:none}
+.gh-svg{display:block;width:100%;height:auto}
+.gh-svg text{font-family:var(--body);font-weight:700}
+.gh-svg.w{display:none}
+.gh-empty{padding:18px;gap:6px}
+.gh-empty b{font:700 15px/22px var(--body);color:var(--fg)}
+.gh-rm{align-self:flex-start;background:none;border:0;padding:0;min-height:44px;cursor:pointer;font:500 14px/20px var(--body);color:var(--muted);text-decoration:underline;text-underline-offset:3px}
+.gh-rm:hover{color:var(--fg)}
+.gh-row{display:flex;align-items:center;gap:6px;margin-top:8px;font:500 13px/18px var(--body);color:var(--faint)}
+.gh-row .gh-ico{width:14px;height:14px}
+@media (min-width:720px){
+  .gh{padding-top:32px;gap:16px}
+  .gh-head{flex-direction:row;justify-content:space-between;align-items:baseline;gap:16px}
+  .gh-t{font-size:28px;line-height:32px;letter-spacing:-0.02em}
+  .gh-win{font-size:15px;line-height:22px}
+  .gh-m{font-size:14px;line-height:20px}
+  .gh-lock{margin-top:-8px}
+  .gh-ico{width:14px;height:14px}
+  .gh-tiles{grid-template-columns:repeat(4,1fr);gap:16px}
+  .gh-tile,.gh-card{border-color:var(--border);border-radius:var(--radius)}
+  .gh-tile{padding:18px;gap:8px}
+  .gh-v{gap:6px}
+  .gh-v b{font-size:34px;line-height:36px}
+  .gh-v span{font-size:17px;line-height:26px}
+  .gh-l{font-size:12px;line-height:14px}
+  .gh-card{padding:18px 18px 16px;gap:12px}
+  .gh-busy{display:inline}
+  .gh-busy-n{display:none}
+  .gh-svg.w{display:block}
+  .gh-svg.n{display:none}
+}
 .evm-edit{display:inline-flex;align-items:center;gap:8px;margin-top:14px;height:48px;padding:0 18px;
   border-radius:var(--radius-btn);cursor:pointer;
   border:1px solid rgba(255,154,61,0.4);background:rgba(255,154,61,0.1);
@@ -3491,7 +3542,7 @@
     .fp-kick .fp-foll{ background:var(--accent-weak); color:var(--accent); padding:2px 8px; border-radius:var(--radius-pill); margin-left:8px; white-space:nowrap; display:inline-block; }
     .fp-namerow{ display:flex; align-items:center; gap:6px 16px; flex-wrap:wrap; margin:10px 0 10px; }
     .fp-h1{ font:800 clamp(34px,6.5vw,72px)/0.98 var(--head); letter-spacing:-0.03em; margin:0; overflow-wrap:break-word; }
-    .fp-bio{ font:400 var(--fs-base)/1.55 var(--body); color:var(--muted); max-width:none; margin:0 0 16px; }
+    .fp-bio{ font:400 var(--fs-base)/22px var(--body); color:var(--muted); max-width:none; margin:0 0 16px; }
     .fp-socials{ display:flex; gap:12px; margin-bottom:16px; align-items:center; }
     .fp-namerow .fp-socials{ margin:0; }
     .fp-gemline{ margin:0 0 14px; }
@@ -4956,7 +5007,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790602030300">
+<meta name="sc-build" content="1790606278682">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5015,7 +5066,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">33 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">88 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">114 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">33 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">88 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">115 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9422,6 +9473,126 @@
         '<button class="evm-edit" id="ev-mine-edit" type="button">\u270e Edit this gig</button>'+
       '</div>';
     }
+    // ── HEALTH STATS ON A LOGGED GIG (web, READ-ONLY; Paper NEXT 18F4-0 + 17KW-0) ──
+    // A browser cannot read Apple Health / Health Connect, so the web never asks.
+    // It only DRAWS stats the app already stored: the owner's own `mine.health`
+    // (the API never puts it on anyone else's payload). Same maths as iOS
+    // HealthMath: 15-min buckets from window_start, a FIXED 2,000 steps/bucket
+    // full bar (never per gig — two gigs compare), no samples = a 2px line-2
+    // floor, never an estimate. Times are the GIG's zone (`tz`), not the viewer's.
+    var GH_SLOT=15*60*1000, GH_FULL=2000;
+    var GH_PULSE='<svg class="gh-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h4l3-7 4 14 3-7h4" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    var GH_LOCK='<svg class="gh-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 11h12v10H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    function ghSrc(h){ return h&&h.source==='health_connect'?'Health Connect':'Apple Health'; }
+    function ghClock(t, tz, hourOnly){
+      var o={ hour:'2-digit', minute:'2-digit', hourCycle:'h23' }; if(hourOnly) delete o.minute;
+      try{ return new Intl.DateTimeFormat('en-GB', Object.assign({ timeZone: tz||undefined }, o)).format(new Date(t)); }
+      catch(_){ return new Intl.DateTimeFormat('en-GB', o).format(new Date(t)); }
+    }
+    function ghNum(n){ return Number(n).toLocaleString('en-GB'); }
+    function ghDur(secs){ var m=Math.floor(Math.max(0,secs)/60), h=Math.floor(m/60), r=m%60; return h===0?r+'m':(r===0?h+'h':h+'h '+r+'m'); }
+    function ghSecs(h){ return h.duration_s!=null?h.duration_s:Math.round((Date.parse(h.window_end)-Date.parse(h.window_start))/1000); }
+    // ponytail: miles only for en-US, the one big miles locale; iOS reads the device region.
+    function ghDist(m){ var mi=/^en-US$/i.test(navigator.language||''); return [(m/(mi?1609.344:1000)).toFixed(1), mi?'mi':'km']; }
+    function ghFigures(h){
+      var p=[ghDur(ghSecs(h))];
+      if(h.steps!=null) p.push(ghNum(h.steps)+' steps');
+      if(h.distance_m!=null) p.push(ghDist(h.distance_m).join(' '));
+      return p.join(' · ');
+    }
+    function ghBuckets(h){
+      var s=Date.parse(h.window_start), e=Date.parse(h.window_end);
+      var n=Math.max(1, Math.ceil((e-s)/GH_SLOT)), out=new Array(n).fill(null);
+      (h.steps_series||[]).forEach(function(p){
+        var i=Math.floor((Date.parse(p.t)-s)/GH_SLOT);
+        if(i>=0 && i<n) out[i]=(out[i]||0)+(Number(p.v)||0);
+      });
+      return out;
+    }
+    // One chart spec, two sizes: wide (1062x170, "23:00") and narrow (334x118, "23").
+    function ghChartSVG(b, start, tz, W, H, labH, wide){
+      var n=b.length, bh=H-labH, pitch=W/n, gap=Math.max(2,pitch*0.28), w=Math.max(1,pitch-gap), gid='ghg'+(wide?'w':'n');
+      var r='';
+      b.forEach(function(v,i){
+        var x=(i*pitch).toFixed(2);
+        if(v==null){ r+='<rect x="'+x+'" y="'+(bh-2)+'" width="'+w.toFixed(2)+'" height="2" fill="#3A2F66"/>'; return; }
+        var hh=Math.max(2, Math.min(1, v/GH_FULL)*bh);
+        r+='<rect x="'+x+'" y="'+(bh-hh).toFixed(1)+'" width="'+w.toFixed(2)+'" height="'+hh.toFixed(1)+'" fill="url(#'+gid+')"/>';
+      });
+      var fs=wide?11:10.5, lab=function(i,end){
+        return '<text x="'+(end?W:(i*pitch).toFixed(2))+'" y="'+(H-2)+'"'+(end?' text-anchor="end"':'')+' font-size="'+fs+'" letter-spacing="1.4" fill="#8D7FA8">'+ghClock(start+i*GH_SLOT, tz, !wide)+'</text>';
+      };
+      for(var i=0;i<n;i+=4) r+=lab(i);
+      if(n%4===0) r+=lab(n,true);
+      return '<svg class="gh-svg '+(wide?'w':'n')+'" viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="xMinYMin meet" aria-hidden="true">'+
+        '<defs><linearGradient id="'+gid+'" gradientUnits="userSpaceOnUse" x1="0" y1="'+bh+'" x2="'+W+'" y2="0"><stop offset="0" stop-color="#FF5E7E"/><stop offset="1" stop-color="#FF9A3D"/></linearGradient></defs>'+
+        r+'<line x1="0" y1="'+(bh+0.5)+'" x2="'+W+'" y2="'+(bh+0.5)+'" stroke="rgba(255,255,255,.08)"/></svg>';
+    }
+    function ghRowHTML(h){ return '<span class="gh-row">'+GH_PULSE+'<span>'+esc(ghFigures(h))+'</span></span>'; }
+    // The passport diary comes from the PUBLIC /api/profile, which never carries
+    // health. For your own diary, add the line from /api/diary (owner-only).
+    function ghFillDiary(scope){
+      authedFetch('/api/diary').then(function(r){ return r.ok?r.json():{}; }).then(function(j){
+        (j.entries||[]).forEach(function(d){
+          if(!d.health || d.id==null) return;
+          var b=scope.querySelector('.pb-ds[data-entry="'+String(d.id).replace(/"/g,'')+'"] .pb-ds-body');
+          if(!b || b.querySelector('.gh-row')) return;
+          var n=b.querySelector('.pb-ds-note'), t=document.createElement('div'); t.innerHTML=ghRowHTML(d.health);
+          b.insertBefore(t.firstChild, n);
+        });
+      }).catch(function(){});
+    }
+    function gigHealthHTML(h, entryId, tz){
+      if(!h || !h.window_start || !h.window_end) return '';
+      var s=Date.parse(h.window_start), e=Date.parse(h.window_end), src=ghSrc(h);
+      var empty=h.steps==null && h.active_kcal==null && h.distance_m==null;
+      var tile=function(val, unit, label, has){
+        return '<div class="gh-tile"><div class="gh-v"><b'+(has?'':' class="none"')+'>'+(has?esc(val):'—')+'</b>'+(has&&unit?'<span>'+unit+'</span>':'')+'</div>'+
+          '<div class="gh-l">'+label+(has?'':' · no data')+'</div></div>';
+      };
+      var body;
+      if(empty){
+        body='<div class="gh-card gh-empty"><b>'+src+' has no steps for these hours.</b>'+
+          '<p class="gh-m">Maybe your phone was off. The app looks again the next time you open this gig there.</p></div>';
+      } else {
+        var d=h.distance_m!=null?ghDist(h.distance_m):null, b=ghBuckets(h), best=-1, bi=-1;
+        b.forEach(function(v,i){ if(v!=null && v>best){ best=v; bi=i; } });
+        // The longest run with no samples, when others have data (iOS HealthMath.gap).
+        var ga=-1, gz=-1;
+        for(var i=0;i<b.length;){ if(b[i]==null){ var j=i; while(j<b.length && b[j]==null) j++; if(j-i>gz-ga){ ga=i; gz=j; } i=j; } else i++; }
+        var busy=bi>=0?'Busiest: '+ghClock(s+bi*GH_SLOT,tz)+', '+ghNum(best)+' steps.':'';
+        var gapTx=(bi>=0 && ga>=0)?'No steps from '+ghClock(s+ga*GH_SLOT,tz)+' to '+ghClock(s+gz*GH_SLOT,tz)+'. '+src+' had nothing for those hours.':'';
+        body='<div class="gh-tiles">'+
+            tile(ghDur(ghSecs(h)), null, 'Time out', true)+
+            tile(h.steps!=null?ghNum(h.steps):null, null, 'Steps', h.steps!=null)+
+            tile(d?d[0]:null, d?d[1]:null, 'Distance', !!d)+
+            tile(h.active_kcal!=null?ghNum(h.active_kcal):null, 'kcal', 'Active energy', h.active_kcal!=null)+
+          '</div>'+
+          '<div class="gh-card gh-chart" role="img" aria-label="Steps every 15 minutes, '+ghClock(s,tz)+' to '+ghClock(e,tz)+'.'+(busy?' '+esc(busy):'')+'">'+
+            '<div class="gh-ch"><span class="gh-l">Steps · every 15 min</span>'+(busy?'<span class="gh-m gh-busy">'+busy+'</span>':'')+'</div>'+
+            ghChartSVG(b, s, tz, 1062, 170, 22, true)+ghChartSVG(b, s, tz, 334, 118, 18, false)+
+            (busy?'<p class="gh-m gh-busy-n">'+busy+'</p>':'')+(gapTx?'<p class="gh-m">'+gapTx+'</p>':'')+
+          '</div>';
+      }
+      return '<section class="gh" id="gig-health" data-entry="'+esc(String(entryId))+'" aria-labelledby="gh-t">'+
+        '<div class="gh-head"><h2 class="gh-t" id="gh-t">Your gig, in steps</h2>'+
+          '<span class="gh-win">Arrived '+ghClock(s,tz)+' · Left '+ghClock(e,tz)+'</span></div>'+
+        '<div class="gh-m gh-lock">'+GH_LOCK+'<span>Only you see this · from '+src+'</span></div>'+
+        body+
+        '<button class="gh-rm" type="button" id="gh-rm">Remove health stats</button>'+
+      '</section>';
+    }
+    // Remove = DELETE /api/diary/:id/health, behind a confirm (the apps use the
+    // system alert; the browser's own dialog is the web's equivalent).
+    document.addEventListener('click', function(e){
+      var btn=e.target.closest && e.target.closest('#gh-rm'); if(!btn) return;
+      var sec=btn.closest('.gh'), id=sec&&sec.dataset.entry; if(!id) return;
+      if(!confirm('Remove health stats?\n\nThe steps, time and chart leave this gig. '+(sec.textContent.indexOf('Health Connect')>=0?'Health Connect':'Apple Health')+' keeps its own data.')) return;
+      btn.disabled=true;
+      authedFetch('/api/diary/'+encodeURIComponent(id)+'/health',{ method:'DELETE' })
+        .then(function(r){ if(!r.ok) throw 0; sec.remove(); if(_diaryById[id]) _diaryById[id].health=null; showToast('Health stats removed.'); })
+        .catch(function(){ btn.disabled=false; showToast('Couldn’t remove that. Try again.'); });
+    });
     // VENUE DNA IS EARNED (Suren, 2026-09-19). Under this many ratings the panel
     // shows only what the listings already prove — what the room MOSTLY plays and
     // which rooms are SIMILAR. The sound system, the busiest day, the door price
@@ -9732,7 +9903,7 @@
         var del = (isMe && d.id!=null) ? '<button class="dv-edit" type="button" data-edit="'+esc(String(d.id))+'" aria-label="Edit gig">✎</button><button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
         var tiles = arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug, (a.name||a.slug)+(a.rating?' ★'+a.rating:''), false, a.image); }).join('')+'</div>' : '';
         var note = d.note?'<div class="pb-ds-note">'+esc(d.note)+'</div>':'';
-        return '<div class="pb-ds"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+city+ev+del+'</div>'+tiles+note+'</div></div>';
+        return '<div class="pb-ds"'+(d.id!=null?' data-entry="'+esc(String(d.id))+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+city+ev+del+'</div>'+tiles+((isMe&&d.health)?ghRowHTML(d.health):'')+note+'</div></div>';
       }).join('')+'</div>';
     }
     // Passport stat band above the diary: nights / venues / cities / most-seen act.
@@ -9811,6 +9982,7 @@
     }
     function wireDiary(scope, isMe, onChange){
       if(!scope) return;
+      if(isMe) ghFillDiary(scope);
       scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       scope.querySelectorAll('[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
       scope.querySelectorAll('[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
@@ -10535,7 +10707,10 @@
         // from whichever parts exist — an em-dash with nothing before it, or an
         // empty <small> under the venue, both read as a rendering fault.
         var sub=[arts, d.note].filter(Boolean).map(esc).join(' — ');
-        return '<li><span class="open-ev">'+vn+(dl?(' <small>'+esc(dl)+'</small>'):'')+(sub?('<br><small>'+sub+'</small>'):'')+'</span>'+edit+del+'</li>';
+        // Your own health stats: ONE meta line, no chart (Paper 17KW S4). Owner only —
+        // /api/diary is only ever your own list; `isMe` keeps it off anyone else's.
+        var hl=(isMe && d.health)?ghRowHTML(d.health):'';
+        return '<li><span class="open-ev">'+vn+(dl?(' <small>'+esc(dl)+'</small>'):'')+(sub?('<br><small>'+sub+'</small>'):'')+hl+'</span>'+edit+del+'</li>';
       }).join('')+'</ul>';
     }
 
@@ -12573,7 +12748,7 @@
         city:d.city, genres:d.genres||[], description:d.description||'', content:d.content||'', logged:!!d.logged,
         minPrice: d.min_price!=null ? Number(d.min_price) : null, maxPrice: d.max_price!=null ? Number(d.max_price) : null, currency: d.currency||null,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
-        alsoOn:d.also_on||[], promoters:d.promoters||[],
+        alsoOn:d.also_on||[], promoters:d.promoters||[], mine:d.mine||null, tz:d.tz||null,
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image, setStart:a.setStart||null, setEnd:a.setEnd||null }; }) };
     }
     async function openEvent(id){
@@ -12683,6 +12858,7 @@
             '</div>'+
           '</div>'+
           (ev.mine?evMineHTML(ev):'')+
+          (ev.mine&&ev.mine.health?gigHealthHTML(ev.mine.health, ev.mine.id, ev.tz):'')+
           // ROUND 8 (Paper 14N2): Line-up | Line-up sets as ONE flat underline
           // strip (the DS .fp-tabs), not two stacked lists. Keys #lineup and
           // #lineup-sets are stable; the labels may change.

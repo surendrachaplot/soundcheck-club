@@ -11,7 +11,7 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 | Sat, 3 Oct 2026 | The Sound Society x 22Recordings | C.ru.z, DJ Tree, Dizzy |
 | Sat, 31 Oct 2026 | 01366 ̸ ANNO V {HALLOWEEN} | Anabel Arroyo, Aristides, Baldman, Darwin, Jhort, Joey Stella, Queixal, radd |
 | Sat, 7 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
-| Sat, 21 Nov 2026 | SUBconscious // Jungle Drum and Bass | MC Stormy |
+| Sat, 21 Nov 2026 | SUBconscious // Digital & Charla Green [Function Records] | Charla Green, Egres, Jon-roy, MC Stormy, Sekev, VJ Meerkat |
 | Sat, 19 Dec 2026 | Big Kharma // N-Type - Crazy D - Breakfake | Breakfake, MC Stormy, Mimsy, N-Type |
 
 ## Address

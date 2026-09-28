@@ -1,0 +1,18 @@
+# OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK at Phonox
+
+OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK at Phonox on Sat 17 Oct, London. 4 artists on the bill: MJK, Neffa-T, Pinch and Tasha. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | Phonox |
+| City | London |
+
+## Line-up
+
+- MJK
+- Neffa-T
+- Pinch
+- Tasha
+
+*Source: [soundcheck](https://soundcheck.club/e/2512348-outro-neffa-t-pinch-trim-tasha-b2b-mjk-at-phonox/)*

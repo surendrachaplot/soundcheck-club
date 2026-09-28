@@ -8,7 +8,7 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Hang the DJ Vol.9 |  |
+| Thu, 1 Oct 2026 | Hang the DJ Vol.9 | untitled (2) |
 | Fri, 2 Oct 2026 | Studio56 with Ed From Balham |  |
 | Sat, 3 Oct 2026 | LO MID HI with Special Guests @ Tola Peckham  | Althoff, ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
 | Fri, 9 Oct 2026 | Parallel Sounds with Yesca | Nick Parallel, Yesca, dan.e.l.a |

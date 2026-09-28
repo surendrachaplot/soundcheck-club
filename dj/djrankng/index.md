@@ -1,8 +1,8 @@
 # Dj Rankng
 
-Dj Rankng is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 2 Oct 2026.
+Dj Rankng is a Latin Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 2 Oct 2026.
 
-Dj Rankng is a latin bass and club artist based in Mexico, tracked on soundcheck, with 42 sets logged across Berlin, Mexico City and New York City. Often billed alongside Dj Diego, Primordial Om and Ruiseñor. Next up: Bossa Nova Civic Club, New York City on Fri 2 Oct.
+Dj Rankng is a latin bass and club artist based in Mexico, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Mexico City and New York City. Often billed alongside Dj Diego, Primordial Om and Ruiseñor. Next up: Bossa Nova Civic Club, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dj Rankng is a latin bass and club artist based in Mexico, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 17 Oct 2026 | ÆDEN | Berlin |
+| Fri, 23 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

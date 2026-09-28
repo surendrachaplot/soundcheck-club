@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "NIBIRII pres. Ely Oaks" on Fri, 2 Oct 2026.
+Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "NIBIRII pres. Ely Oaks" on Fri, 2 Oct 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 24 Oct 2026 | SA - 24.10.2026 / KitKatClub |  |
 | Sat, 31 Oct 2026 | Bootshaus & Loonyland pres. Halloween 2026 | Ave (DE), Caro van Ee, Chris El Greco, Jerome, LSG |
 | Fri, 13 Nov 2026 | Hakke360 |  |
-| Fri, 20 Nov 2026 | Alle Farben - A World full of Colors Club Tour 2026 | Alle Farben, Lahos |
+| Sat, 14 Nov 2026 | Wonderful Days - The Classic Rave Festival VOL X | DJ Falk, DJ Sammy, Da Hool, Eric Sneo, Franky Jones, Jens Lissat, Jones |
 
 ## Address
 
