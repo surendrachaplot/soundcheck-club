@@ -1,13 +1,14 @@
 # LeMichael
 
-LeMichael is a Electronica and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Switch Bar, Barcelona on Wed, 4 Nov 2026.
+LeMichael is a Electronica and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dr. Dou Social Club, Barcelona on Sat, 3 Oct 2026.
 
-LeMichael is an electronica and deep house artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Switch Bar, Barcelona on Wed 4 Nov.
+LeMichael is an electronica and deep house artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Dr. Dou Social Club, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Dr. Dou Social Club | Barcelona |
 | Wed, 4 Nov 2026 | Switch Bar | Barcelona |
 | Wed, 2 Dec 2026 | Switch Bar | Barcelona |
 

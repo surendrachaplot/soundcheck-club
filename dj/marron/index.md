@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
+MARRØN is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
 
-MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 2 Oct.
+MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ MARRØN is a techno and house artist based in Netherlands, tracked on soundcheck
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
+| Sat, 17 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 30 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
-| Sat, 28 Nov 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
 

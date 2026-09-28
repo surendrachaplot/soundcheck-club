@@ -1,14 +1,15 @@
 # Tiyumii
 
-Tiyumii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
+Tiyumii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
 
-Tiyumii is a techno and house artist based in Venezuela, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Julio César, Sofy Suars and T0M1. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
+Tiyumii is a techno and house artist based in Venezuela, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Julio César, Sofy Suars and T0M1. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Razzmatazz | Barcelona |
+| Fri, 16 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
