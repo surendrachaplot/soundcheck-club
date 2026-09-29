@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+Mochakk is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
 
 Mochakk is a house and tech house artist based in Brazil, tracked on soundcheck, with 157 sets logged across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: [UNVRS], Ibiza on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Mochakk is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

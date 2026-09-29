@@ -1,6 +1,6 @@
 # Nay Jay
 
-Nay Jay is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Nay Jay is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Nay Jay is a progressive house and deep house artist tracked on soundcheck, with 3 sets logged across San Francisco/Oakland. Often billed alongside ALMAS, Pixxie and Alkemiss Erika. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Nay Jay is a progressive house and deep house artist tracked on soundcheck, with
 
 ALMAS, Pixxie, Alkemiss Erika
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayjay/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayjay/)*

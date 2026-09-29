@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB" on Thu, 1 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB" on Thu, 1 Oct 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Anastasiya Ty, ANÍBAL, DeGuzman and Djooke and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 4 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

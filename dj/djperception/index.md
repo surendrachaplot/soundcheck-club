@@ -1,6 +1,6 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+DJ Perception is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 DJ Perception is a garage and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ DJ Perception is a garage and house artist based in United Kingdom, tracked on s
 
 Lady Passion, Jeremy Sylvester, Harry Luda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*

@@ -1,6 +1,6 @@
 # ANÍBAL
 
-ANÍBAL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
+ANÍBAL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
 
 ANÍBAL is a techno and trance artist based in Portugal, tracked on soundcheck, with 24 sets logged across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: Ministerium Club, Lisbon on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ ANÍBAL is a techno and trance artist based in Portugal, tracked on soundcheck, 
 
 Djooke, AAguilAA, Dimitri Tenot
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*

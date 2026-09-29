@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Bpm - Pulse" on Thu, 8 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Bpm - Pulse" on Thu, 8 Oct 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Dukwa, sim0ne and Skream. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -18,4 +18,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

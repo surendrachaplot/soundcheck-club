@@ -1,6 +1,6 @@
 # adamoandiamo
 
-adamoandiamo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
+adamoandiamo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
 
 adamoandiamo is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Leipzig. Often billed alongside gin (DE), VALENTIN FRAIS and LUNA.le. Next up: Neue Welle, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ adamoandiamo is a trance and techno artist based in Germany, tracked on soundche
 
 gin (DE), VALENTIN FRAIS, LUNA.le
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamoandiamo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamoandiamo/)*

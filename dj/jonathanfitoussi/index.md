@@ -1,6 +1,6 @@
 # Jonathan Fitoussi
 
-Jonathan Fitoussi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
+Jonathan Fitoussi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
 
 Jonathan Fitoussi is an electronic artist based in France, tracked on soundcheck, with 2 sets logged across Berlin and Milan. Often billed alongside ASIA (DE), Alessandro Cortini and Grand River. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
 
@@ -18,4 +18,4 @@ Jonathan Fitoussi is an electronic artist based in France, tracked on soundcheck
 
 ASIA (DE), Alessandro Cortini, Grand River
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanfitoussi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanfitoussi/)*

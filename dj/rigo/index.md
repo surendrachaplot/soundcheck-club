@@ -1,6 +1,6 @@
 # RIGO
 
-RIGO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Atdge Seoul, Seoul on Wed, 7 Oct 2026.
+RIGO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Atdge Seoul, Seoul on Wed, 7 Oct 2026.
 
 RIGO is a techno and trance artist tracked on soundcheck, with 34 sets logged across Berlin, Düsseldorf, Lyon and Nantes and 2 more. Often billed alongside CallBackSami, P errine and oror. Next up: Atdge Seoul, Seoul on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ RIGO is a techno and trance artist tracked on soundcheck, with 34 sets logged ac
 
 CallBackSami, P errine, oror
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*

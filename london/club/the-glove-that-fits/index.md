@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "GRADUATED FROM THE BASEMENT 2026" on Wed, 30 Sept 2026.
+The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "GRADUATED FROM THE BASEMENT 2026" on Wed, 30 Sept 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

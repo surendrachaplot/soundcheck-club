@@ -1,6 +1,6 @@
 # KING BOOO!
 
-KING BOOO! is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lakota, Bristol on Thu, 29 Oct 2026.
+KING BOOO! is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lakota, Bristol on Thu, 29 Oct 2026.
 
 KING BOOO! is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside IN PARALLEL, LARISHKA (UK) and T-Man (UK). Next up: Lakota, Bristol on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ KING BOOO! is a garage and drum & bass artist based in United Kingdom, tracked o
 
 IN PARALLEL, LARISHKA (UK), T-Man (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbooo!/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbooo!/)*

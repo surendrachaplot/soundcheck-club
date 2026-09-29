@@ -1,6 +1,6 @@
 # m.O.N.R.O.E.
 
-m.O.N.R.O.E. is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Sat, 3 Oct 2026.
+m.O.N.R.O.E. is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Los Angeles on Sat, 3 Oct 2026.
 
 m.O.N.R.O.E. is a house and minimal artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: TBA, Los Angeles on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ m.O.N.R.O.E. is a house and minimal artist based in United States of America, tr
 
 Andrea Ghita, Jorissen, Kellie Allen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*

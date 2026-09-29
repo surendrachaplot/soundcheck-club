@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Albion Audio X Protocol X Semtex" on Fri, 2 Oct 2026.
+Distillery N17 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Albion Audio X Protocol X Semtex" on Fri, 2 Oct 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Pits, Adrien Calvet, Amotik and Antonio De Angelis and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

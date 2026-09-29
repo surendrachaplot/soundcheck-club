@@ -1,6 +1,6 @@
 # Big AL
 
-Big AL is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
+Big AL is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
 
 Big AL is an electronic artist based in Lebanon, tracked on soundcheck, with 3 sets logged across Barcelona and Manchester. Often billed alongside Kanedo, Death on the Balcony and Rory Cochrane. Next up: Macarena Club, Barcelona on Tue 6 Oct.
 
@@ -19,4 +19,4 @@ Big AL is an electronic artist based in Lebanon, tracked on soundcheck, with 3 s
 
 Kanedo, Death on the Balcony, Rory Cochrane
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigal/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigal/)*

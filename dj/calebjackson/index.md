@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Caleb Jackson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Caleb Jackson is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bali and Berlin and 8 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Caleb Jackson is a house and techno artist based in Australia, tracked on soundc
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

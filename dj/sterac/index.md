@@ -1,6 +1,6 @@
 # STERAC
 
-STERAC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+STERAC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
 STERAC is a techno and house artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Lady Starlight, Steve Rachmad and Ben Klock. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ STERAC is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Lady Starlight, Steve Rachmad, Ben Klock
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*

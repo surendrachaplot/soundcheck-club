@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Cap is a house and minimal artist based in Romania, tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ Cap is a house and minimal artist based in Romania, tracked on soundcheck, with 
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

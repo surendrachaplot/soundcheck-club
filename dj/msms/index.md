@@ -1,6 +1,6 @@
 # MSMS
 
-MSMS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
+MSMS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
 
 MSMS is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Mexico City and Tokyo. Often billed alongside Abiu, Astma and Chihoshi. Next up: VENT, Tokyo on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ MSMS is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Abiu, Astma, Chihoshi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msms/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msms/)*

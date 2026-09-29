@@ -1,8 +1,8 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 3 Oct 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Franky Rizardo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 246 sets logged across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Ushuaïa Ibiza, Ibiza on Sat 3 Oct.
+Franky Rizardo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 248 sets logged across Amsterdam, Austin, Bali and Barcelona and 50 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Ushuaïa Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Franky Rizardo is a house and tech house artist based in Netherlands, tracked on
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 13 Nov 2026 | Pandora Sevilla | South |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
-| Thu, 3 Dec 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Franky Rizardo is a house and tech house artist based in Netherlands, tracked on
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

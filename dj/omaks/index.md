@@ -1,6 +1,6 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 OMAKS is a techno and hardcore artist based in France, tracked on soundcheck, with 139 sets logged across Amsterdam, Ankara, Antwerp and Barcelona and 41 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ OMAKS is a techno and hardcore artist based in France, tracked on soundcheck, wi
 
 LESSSS, Shlømo, Basswell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

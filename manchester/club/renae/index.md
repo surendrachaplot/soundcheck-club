@@ -1,6 +1,6 @@
 # renae
 
-renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Dub Techno Chess Club" on Tue, 29 Sept 2026.
+renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "The Dub Techno Chess Club" on Tue, 29 Sept 2026.
 
 renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including AdomasLP, Bruno Bellissimo, Camilla Reghenzi and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
@@ -20,4 +20,4 @@ renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

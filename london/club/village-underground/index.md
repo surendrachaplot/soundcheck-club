@@ -1,6 +1,6 @@
 # Village Underground
 
-Village Underground is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "1-800 GIRLS (Live)" on Wed, 30 Sept 2026.
+Village Underground is a music venue in London with 20 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "1-800 GIRLS (Live)" on Wed, 30 Sept 2026.
 
 Village Underground is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 1-800 GIRLS, Amy Wiles, anu and Aroop Roy and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Village Underground is a music venue in London listed on soundcheck. 20 upcoming
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

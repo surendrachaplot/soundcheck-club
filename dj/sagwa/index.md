@@ -1,6 +1,6 @@
 # Sagwa
 
-Sagwa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Post Bar, Helsinki on Sat, 17 Oct 2026.
+Sagwa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Post Bar, Helsinki on Sat, 17 Oct 2026.
 
 Sagwa is a house and minimal artist based in Finland, tracked on soundcheck, with 3 sets logged across Helsinki. Often billed alongside Katerina, MihuT and Ogazón. Next up: Post Bar, Helsinki on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Sagwa is a house and minimal artist based in Finland, tracked on soundcheck, wit
 
 Katerina, MihuT, Ogazón
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagwa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagwa/)*

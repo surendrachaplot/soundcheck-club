@@ -1,6 +1,6 @@
 # Nick Ure
 
-Nick Ure is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Nick Ure is a Experimental and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Nick Ure is an experimental and downtempo artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne and New South Wales. Often billed alongside Bridget Small, Elsie and Mike Midnight. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nick Ure is an experimental and downtempo artist based in Australia, tracked on 
 
 Bridget Small (2), Elsie, Mike Midnight
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*

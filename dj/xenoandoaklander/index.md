@@ -1,6 +1,6 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
+Xeno & Oaklander is a Industrial and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
 
 Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Xanadu, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Xeno & Oaklander are an industrial and minimal duo based in United States of Ame
 
 L.Sangre, Martial Canterel, ADULT.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*

@@ -1,6 +1,6 @@
 # Igor Marijuan
 
-Igor Marijuan is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, San Diego on Sat, 26 Sept 2026.
+Igor Marijuan is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, San Diego on Sat, 26 Sept 2026.
 
 Igor Marijuan is a house and deep house artist based in Spain, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside unders, BOHEM and Lee Burridge. Next up: TBA, San Diego on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Igor Marijuan is a house and deep house artist based in Spain, tracked on soundc
 
 unders, BOHEM, Lee Burridge
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*

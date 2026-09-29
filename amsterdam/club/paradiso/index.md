@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Rødhåd x Speedy J" on Wed, 30 Sept 2026.
+Paradiso is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Rødhåd x Speedy J" on Wed, 30 Sept 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AAT (NL), Because of Art, DJ Snake and Donato Dozzy and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, w
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

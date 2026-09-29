@@ -1,13 +1,14 @@
 # ASEC
 
-ASEC is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+ASEC is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
-ASEC is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Brussels and Glasgow and 9 more. Often billed alongside Beste Hira, P.E.A.R.L. and Tommy Four Seven. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
+ASEC is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Glasgow and 10 more. Often billed alongside Beste Hira, P.E.A.R.L. and Tommy Four Seven. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Soul SKG | Thessaloniki |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 6 Nov 2026 | essaim | Paris |
 | Sat, 14 Nov 2026 | Lofi | Amsterdam |
@@ -27,4 +28,4 @@ ASEC is a techno and electronica artist based in United Kingdom, tracked on soun
 
 Beste Hira, P.E.A.R.L., Tommy Four Seven
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asec/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asec/)*

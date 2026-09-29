@@ -1,8 +1,8 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 9 Oct 2026.
+6EJOU is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 9 Oct 2026.
 
-6EJOU is a techno and industrial artist based in France, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Studio Club Malaga, Malaga on Fri 9 Oct.
+6EJOU is a techno and industrial artist based in France, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Studio Club Malaga, Malaga on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Fri, 30 Oct 2026 | TBA - Tirana | Tirana |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Room 2 Glasgow | Glasgow |
 | Sat, 19 Dec 2026 | Parc Des Expositions | Paris |
@@ -31,4 +32,4 @@
 
 KARAH, Raxeller, CARV
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

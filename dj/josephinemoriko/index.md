@@ -1,6 +1,6 @@
 # Josephine Moriko
 
-Josephine Moriko is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
+Josephine Moriko is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
 
 Josephine Moriko is an experimental and post-punk artist tracked on soundcheck, with 12 sets logged across Copenhagen, London and Stockholm. Often billed alongside Julian Artur, Peder Mannerfelt and Axel Hallqvist. Next up: Southside Gallery, Stockholm on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Josephine Moriko is an experimental and post-punk artist tracked on soundcheck, 
 
 Julian Artur, Peder Mannerfelt, Axel Hallqvist
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*

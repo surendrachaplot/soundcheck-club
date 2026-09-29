@@ -1,6 +1,6 @@
 # Mohani
 
-Mohani is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kunst Kabinett Seoul, Seoul on Fri, 9 Oct 2026.
+Mohani is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kunst Kabinett Seoul, Seoul on Fri, 9 Oct 2026.
 
 Mohani is an ambient and electronica artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside sooom, Kibum and ANSR. Next up: Kunst Kabinett Seoul, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mohani is an ambient and electronica artist based in South Korea, tracked on sou
 
 sooom, Kibum, ANSR
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohani/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohani/)*

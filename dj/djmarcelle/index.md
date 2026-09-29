@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Lubber Fiend, Newcastle on Fri, 9 Oct 2026.
+DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Lubber Fiend, Newcastle on Fri, 9 Oct 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: The Lubber Fiend, Newcastle on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, trac
 
 DjRUM, ojoo, Objekt
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

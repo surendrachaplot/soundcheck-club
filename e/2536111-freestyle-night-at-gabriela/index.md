@@ -1,6 +1,6 @@
 # FREESTYLE NIGHT at Gabriela
 
-FREESTYLE NIGHT at Gabriela on Sun 4 Oct, New York City. 1 artist on the bill: HD (US). Club and Latin Bass. Preview the line-up and save it on soundcheck.
+FREESTYLE NIGHT at Gabriela on Sun 4 Oct, New York City. 3 artists on the bill: DJ Ultra Violet, HD (US) and Joey LaBeija. Club and Latin Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ FREESTYLE NIGHT at Gabriela on Sun 4 Oct, New York City. 1 artist on the bill: H
 
 ## Line-up
 
+- DJ Ultra Violet
 - HD (US)
+- Joey LaBeija
 
 *Source: [soundcheck](https://soundcheck.club/e/2536111-freestyle-night-at-gabriela/)*

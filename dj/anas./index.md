@@ -1,6 +1,6 @@
 # Anas.
 
-Anas. is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
+Anas. is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
 
 Anas. is a tech house and progressive house artist based in France, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside Chtak., Djé Djé from the block and Spicy Sofi. Next up: 42 Marches, Paris on Sat 31 Oct.
 
@@ -14,4 +14,4 @@ Anas. is a tech house and progressive house artist based in France, tracked on s
 
 Chtak., Djé Djé from the block, Spicy Sofi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anas./)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anas./)*

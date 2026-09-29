@@ -1,6 +1,6 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
+James Zabiela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
 James Zabiela is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ James Zabiela is a house and techno artist based in United Kingdom, tracked on s
 
 Sasha, Anthony Pappa, Danny Howells
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Effy is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 Effy is a techno and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Effy is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

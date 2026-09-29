@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Francis Mercier presents Solèy" on Mon, 28 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "East End Dubs presents Eastenderz" on Tue, 29 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Ashibah, Bontan, Francis Mercier, Jade, Mahmut Orhan, Major League Djz, Rolbac |
 | Tue, 29 Sept 2026 | East End Dubs presents Eastenderz | Ariel Rodz, East End Dubs, Fatzo, Gallya, Hot Since 82, Nick Curly, Oden, Paco Osuna |
 | Wed, 30 Sept 2026 | MEDUZA & James Hype present OUR HOUSE - CLOSING PARTY | Brina Knauss, Calussa, James Hype (UK), Jonas Blue, Korolova, Malive, Meduza |
 | Fri, 2 Oct 2026 | CamelPhat presents Summer of Love - CLOSING PARTY | CamelPhat, Edd (1), Ewan McVicar, Jayda G |
@@ -22,4 +21,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with 
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

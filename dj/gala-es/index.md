@@ -1,6 +1,6 @@
 # Gala (ES)
 
-Gala (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cadavra, Madrid on Fri, 16 Oct 2026.
+Gala (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cadavra, Madrid on Fri, 16 Oct 2026.
 
 Gala (ES) is a techno and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside SYSTEMA, Baldman and Certain People. Next up: Cadavra, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gala (ES) is a techno and electronica artist based in Spain, tracked on soundche
 
 SYSTEMA, Baldman, Certain People
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*

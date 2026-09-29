@@ -1,6 +1,6 @@
 # missteikk
 
-missteikk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+missteikk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 missteikk is a techno and house artist tracked on soundcheck, with 30 sets logged across Armenia, Berlin, Tbilisi and Warsaw and 1 more. Often billed alongside ulises4000, GOOSINDRA and Rafush. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ missteikk is a techno and house artist tracked on soundcheck, with 30 sets logge
 
 ulises4000, GOOSINDRA, Rafush
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missteikk/)*

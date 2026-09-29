@@ -1,8 +1,8 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Church Nightclub, Denver on Fri, 2 Oct 2026.
+Claptone is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Church Nightclub, Denver on Fri, 2 Oct 2026.
 
-Claptone is a house and tech house artist based in Germany, tracked on soundcheck, with 235 sets logged across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: The Church Nightclub, Denver on Fri 2 Oct.
+Claptone is a house and tech house artist based in Germany, tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Austin and Bali and 55 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: The Church Nightclub, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Claptone is a house and tech house artist based in Germany, tracked on soundchec
 | Fri, 9 Oct 2026 | Marina Bay Sands | Singapore |
 | Sun, 11 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
+| Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Sat, 7 Nov 2026 | LAB theCLUB | Madrid |
 | Sat, 14 Nov 2026 | KOKO | London |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
@@ -33,4 +34,4 @@ Claptone is a house and tech house artist based in Germany, tracked on soundchec
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

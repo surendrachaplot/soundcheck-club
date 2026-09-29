@@ -1,14 +1,13 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
+Jamback is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Marsolo and Kolter. Next up: DC-10, Ibiza on Mon 28 Sept.
+Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Marsolo and Kolter. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
@@ -20,9 +19,11 @@ Jamback is a house and tech house artist based in Netherlands, tracked on soundc
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Amber's | Manchester |
+| Sun, 8 Nov 2026 | 93 Feet East | London |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 28 Sept 2026
 - Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
@@ -30,10 +31,9 @@ Jamback is a house and tech house artist based in Netherlands, tracked on soundc
 - Spybar, Chicago — Sun, 6 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Club Vinyl, Denver — Fri, 4 Sept 2026
-- The Concourse Project, Austin — Thu, 3 Sept 2026
 
 ## Shares bills with
 
 East End Dubs, Marsolo, Kolter
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

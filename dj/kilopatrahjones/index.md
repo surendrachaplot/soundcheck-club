@@ -1,6 +1,6 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
+Kilopatrah Jones is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
 
 Kilopatrah Jones is a house and techno artist based in United States of America, tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Good Room, New York City on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Kilopatrah Jones is a house and techno artist based in United States of America,
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

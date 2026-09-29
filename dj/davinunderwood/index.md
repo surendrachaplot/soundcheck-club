@@ -1,6 +1,6 @@
 # Davin Underwood
 
-Davin Underwood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at migas, a listening bar, Berlin on Sat, 3 Oct 2026.
+Davin Underwood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at migas, a listening bar, Berlin on Sat, 3 Oct 2026.
 
 Davin Underwood is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin and Hamburg. Often billed alongside KVIS, Laetizia and Sofía Catalán. Next up: migas, a listening bar, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Davin Underwood is a house and techno artist tracked on soundcheck, with 30 sets
 
 KVIS, Laetizia, Sofía Catalán
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davinunderwood/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davinunderwood/)*

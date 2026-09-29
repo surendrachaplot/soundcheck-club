@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at New Century Locker, Manchester on Fri, 9 Oct 2026.
+Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at New Century Locker, Manchester on Fri, 9 Oct 2026.
 
 Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 148 sets logged across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: New Century Locker, Manchester on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 148 sets
 
 Baby Cocada, Florentino, Safety Trance
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

@@ -1,14 +1,13 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Cult Member" on Sun, 27 Sept 2026.
+Fortune Sound Club is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Mango Szn: Vancouver" on Sun, 11 Oct 2026.
 
-Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Amtrac, Cult Member and MTooray. Browse upcoming dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
+Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Amtrac and MTooray. Browse upcoming dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Cult Member | Cult Member |
 | Sun, 11 Oct 2026 | Mango Szn: Vancouver | MTooray |
 | Sat, 21 Nov 2026 | Amtrac (Live) | Amtrac |
 
@@ -16,4 +15,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

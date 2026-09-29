@@ -1,6 +1,6 @@
 # MARDENMEISTER
 
-MARDENMEISTER is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Chinastraat, Ghent on Sat, 7 Nov 2026.
+MARDENMEISTER is a Hardcore and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Chinastraat, Ghent on Sat, 7 Nov 2026.
 
 MARDENMEISTER is a hardcore and acid artist based in Belgium, tracked on soundcheck, with 3 sets logged across Ghent. Often billed alongside Foubert, Inkorrekt and SEE YOU LATER. Next up: Chinastraat, Ghent on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ MARDENMEISTER is a hardcore and acid artist based in Belgium, tracked on soundch
 
 Foubert, Inkorrekt, SEE YOU LATER
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mardenmeister/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mardenmeister/)*

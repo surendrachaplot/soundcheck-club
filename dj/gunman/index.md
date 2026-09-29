@@ -1,6 +1,6 @@
 # Gunman
 
-Gunman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 2 Oct 2026.
+Gunman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 2 Oct 2026.
 
 Gunman is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Frankfurt. Often billed alongside Andreas Kraemer and DJ Hildegard. Next up: Tanzhaus West, Frankfurt on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Gunman is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Andreas Kraemer, DJ Hildegard
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunman/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunman/)*

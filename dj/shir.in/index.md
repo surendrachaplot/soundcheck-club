@@ -1,6 +1,6 @@
 # SHIR.IN
 
-SHIR.IN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Wed, 30 Sept 2026.
+SHIR.IN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Wed, 30 Sept 2026.
 
 SHIR.IN is a club and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside Sita Shah, DJ Etiquette and Darama. Next up: The Glove That Fits, London on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ SHIR.IN is a club and techno artist based in Germany, tracked on soundcheck, wit
 
 Sita Shah, DJ Etiquette, Darama
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shir.in/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shir.in/)*

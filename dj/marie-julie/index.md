@@ -1,6 +1,6 @@
 # Marie-Julie
 
-Marie-Julie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+Marie-Julie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
 
 Marie-Julie is a techno and house artist based in Belgium, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Phara, Altinbas and Border One. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Marie-Julie is a techno and house artist based in Belgium, tracked on soundcheck
 
 Phara, Altinbas, Border One
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*

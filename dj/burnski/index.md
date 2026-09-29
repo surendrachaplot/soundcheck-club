@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Fri, 9 Oct 2026.
+Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at fabric, London on Fri, 9 Oct 2026.
 
 Burnski is a house and garage artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: fabric, London on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Burnski is a house and garage artist based in United Kingdom, tracked on soundch
 
 Kepler, Sidney Charles, Dennis Quin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

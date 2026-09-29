@@ -1,6 +1,6 @@
 # Brenda (ES)
 
-Brenda (ES) is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at RADION, Amsterdam on Fri, 16 Oct 2026.
+Brenda (ES) is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at RADION, Amsterdam on Fri, 16 Oct 2026.
 
 Brenda (ES) is a latin bass and baile funk artist based in Spain, tracked on soundcheck, with 3 sets logged across Amsterdam and Barcelona. Often billed alongside ANXHELA, NIZ (SP) and Saint Caboclo. Next up: RADION, Amsterdam on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Brenda (ES) is a latin bass and baile funk artist based in Spain, tracked on sou
 
 ANXHELA, NIZ (SP), Saint Caboclo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenda-es/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenda-es/)*

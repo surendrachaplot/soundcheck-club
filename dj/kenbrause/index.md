@@ -1,6 +1,6 @@
 # Ken Brause
 
-Ken Brause is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
+Ken Brause is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
 Ken Brause is a trance and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Tristan K, anyka and snoritz. Next up: Schrotty, Cologne on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Ken Brause is a trance and house artist based in Germany, tracked on soundcheck,
 
 Tristan K (1), anyka, snoritz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenbrause/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenbrause/)*

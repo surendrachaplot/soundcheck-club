@@ -1,6 +1,6 @@
 # Auspex
 
-Auspex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Open Air, New York City on Sat, 3 Oct 2026.
+Auspex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Open Air, New York City on Sat, 3 Oct 2026.
 
 Auspex is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Boston and Miami and 4 more. Often billed alongside Ne/Re/A, Juana and Phase Fatale. Next up: TBA - Open Air, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Auspex is a techno and house artist based in United States of America, tracked o
 
 Ne/Re/A, Juana, Phase Fatale
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auspex/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auspex/)*

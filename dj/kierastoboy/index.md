@@ -1,6 +1,6 @@
 # Kierastoboy
 
-Kierastoboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
+Kierastoboy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
 
 Kierastoboy is a house and techno artist tracked on soundcheck, with 50 sets logged across Bangkok, Lisbon, Seoul and Sydney and 1 more. Often billed alongside Rui Vargas, Adam Purnell and ANYA JAVYBZ. Next up: Lux Fragil, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kierastoboy is a house and techno artist tracked on soundcheck, with 50 sets log
 
 Rui Vargas, Adam Purnell, ANYA JAVYBZ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kierastoboy/)*

@@ -1,6 +1,6 @@
 # Eighteenth Street Lounge (ESL)
 
-Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "ESL: Last Call. Maximiliano / Room 12" on Sun, 11 Oct 2026.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "ESL: Last Call. Maximiliano / Room 12" on Sun, 11 Oct 2026.
 
 Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including MAXIMILIANO (US) and Room 12. Browse upcoming dates, start times and who's playing. 1230 9th Street Washington, DC.
 
@@ -14,4 +14,4 @@ Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on sound
 
 1230 9th Street Washington, DC, Washington DC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*

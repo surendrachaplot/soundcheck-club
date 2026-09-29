@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PRíNCIPE 15 YEARS" on Thu, 1 Oct 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "PRíNCIPE 15 YEARS" on Thu, 1 Oct 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Adi and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

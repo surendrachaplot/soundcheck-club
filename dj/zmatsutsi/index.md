@@ -1,6 +1,6 @@
 # Zmatsutsi
 
-Zmatsutsi is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
+Zmatsutsi is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
 
 Zmatsutsi is an electronica and experimental artist tracked on soundcheck, with 3 sets logged across Leeds and Manchester. Often billed alongside babyschön, 98dots and Semi Peppered. Next up: The Carlton Club, Manchester on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Zmatsutsi is an electronica and experimental artist tracked on soundcheck, with 
 
 babyschön, 98dots, Semi Peppered
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zmatsutsi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zmatsutsi/)*

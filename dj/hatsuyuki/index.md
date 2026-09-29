@@ -1,6 +1,6 @@
 # HATSUYUKI
 
-HATSUYUKI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
+HATSUYUKI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
 
 HATSUYUKI is a techno and house artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside AY, DADO and SAKO. Next up: ZEROTOKYO, Tokyo on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ HATSUYUKI is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 AY (10), DADO, SAKO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hatsuyuki/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hatsuyuki/)*

@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Weekday Offender presents Panteros666" on Sat, 17 Oct 2026.
+The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Weekday Offender presents Panteros666" on Sat, 17 Oct 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including G-Spot, Panteros666 and SUBVISIONS. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -15,4 +15,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, w
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

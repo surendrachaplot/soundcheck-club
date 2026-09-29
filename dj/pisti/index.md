@@ -1,6 +1,6 @@
 # Pisti
 
-Pisti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Combo Torino, Turin on Thu, 22 Oct 2026.
+Pisti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Combo Torino, Turin on Thu, 22 Oct 2026.
 
 Pisti is a house and techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Turin. Often billed alongside Al.Essio, Federico Gandin and Hugo. Next up: Combo Torino, Turin on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Pisti is a house and techno artist based in Italy, tracked on soundcheck, with 3
 
 Al.Essio, Federico Gandin, Hugo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pisti/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pisti/)*

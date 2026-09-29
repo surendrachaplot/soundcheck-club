@@ -1,8 +1,8 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Colette, Birmingham on Sat, 3 Oct 2026.
+Lewis Carroll is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Colette, Birmingham on Sat, 3 Oct 2026.
 
-Lewis Carroll is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Birmingham, Brighton and Edinburgh and 5 more. Often billed alongside Dan Schofield, Tom Da Silva and Harry McCanna. Next up: Club Colette, Birmingham on Sat 3 Oct.
+Lewis Carroll is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Birmingham, Brighton and Edinburgh and 5 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: Club Colette, Birmingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lewis Carroll is a house and tech house artist based in United Kingdom, tracked 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Club Colette | Birmingham |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Ironworks | London |
 | Sat, 5 Dec 2026 | Night Tales Loft | London |
 
 ## Recently played
@@ -25,6 +26,6 @@ Lewis Carroll is a house and tech house artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-Dan Schofield, Tom Da Silva, Harry McCanna
+Dan Schofield, Tom Da Silva, Elliot Schooling
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

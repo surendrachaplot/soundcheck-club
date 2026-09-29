@@ -1,6 +1,6 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nyapi, Seoul on Thu, 8 Oct 2026.
+YAMARCHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nyapi, Seoul on Thu, 8 Oct 2026.
 
 YAMARCHY is a house and techno artist based in Japan, tracked on soundcheck, with 331 sets logged across Bali, Bangkok, Berlin and Hong Kong and 9 more. Often billed alongside Monkey Timers, CHIDA and Kenji Takimi. Next up: Nyapi, Seoul on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ YAMARCHY is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Monkey Timers, CHIDA, Kenji Takimi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*

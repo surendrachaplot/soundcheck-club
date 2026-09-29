@@ -1,6 +1,6 @@
 # Feral
 
-Feral is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Feral is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Feral is a techno and trance artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Spekki Webu, Luigi Tozzi and Amulador. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Feral is a techno and trance artist based in Italy, tracked on soundcheck, with 
 
 Spekki Webu, Luigi Tozzi, Amulador
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

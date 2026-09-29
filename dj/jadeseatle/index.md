@@ -1,6 +1,6 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 17 Little Portland Street, London on Thu, 1 Oct 2026.
+Jade Seatle is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 17 Little Portland Street, London on Thu, 1 Oct 2026.
 
 Jade Seatle is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: 17 Little Portland Street, London on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ Jade Seatle is a house and techno artist based in United Kingdom, tracked on sou
 
 Jane Fitz, NIGHT MOVES, Seb Odyssey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

@@ -1,6 +1,6 @@
 # BOYPRINCESS
 
-BOYPRINCESS is a Latin Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+BOYPRINCESS is a Latin Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 BOYPRINCESS is a latin bass and industrial artist based in United States of America, tracked on soundcheck, with 3 sets logged across San Francisco/Oakland. Often billed alongside 2AT, BRIIZV and DE ALMA. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ BOYPRINCESS is a latin bass and industrial artist based in United States of Amer
 
 2AT, BRIIZV, DE ALMA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyprincess/)*

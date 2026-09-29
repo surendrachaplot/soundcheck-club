@@ -1,6 +1,6 @@
 # DR 4SKYN
 
-DR 4SKYN is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cafeteria, Toronto on Sat, 24 Oct 2026.
+DR 4SKYN is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Cafeteria, Toronto on Sat, 24 Oct 2026.
 
 DR 4SKYN is a house and club artist based in Canada, tracked on soundcheck, with 14 sets logged across Toronto. Often billed alongside XANGA, Delicious DJ and EMRYSLAZULI. Next up: Cafeteria, Toronto on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DR 4SKYN is a house and club artist based in Canada, tracked on soundcheck, with
 
 XANGA, Delicious DJ, EMRYSLAZULI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*

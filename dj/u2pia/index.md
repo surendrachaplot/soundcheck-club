@@ -1,6 +1,6 @@
 # u2pia
 
-u2pia is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
+u2pia is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
 
 u2pia is an electro and breakbeat artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside pruefunke, Alphabae and Anne-Lu. Next up: Hafenklang, Hamburg on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ u2pia is an electro and breakbeat artist based in Germany, tracked on soundcheck
 
 pruefunke, Alphabae, Anne-Lu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u2pia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u2pia/)*

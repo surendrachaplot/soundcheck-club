@@ -1,8 +1,8 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sugar Free" on Thu, 1 Oct 2026.
+Circus Osaka is a music venue in Osaka with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Sugar Free" on Thu, 1 Oct 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 11 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
@@ -11,16 +11,16 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 11 upcoming gigs, w
 | Thu, 1 Oct 2026 | Sugar Free | MiTSUYAS, Sugar Free |
 | Fri, 2 Oct 2026 | Riordan CIRCUS Osaka | Riordan |
 | Sat, 3 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, YUVIE |
+| Thu, 8 Oct 2026 | DOTT -3 hour set- | DOTT, MARU (2), SEIJI (2) |
+| Sat, 10 Oct 2026 | Daniel Bell -All Night Long | Daniel Bell |
 | Sun, 11 Oct 2026 | QUERICO 4th Anniversary | ANCHIN, Aliceyuki, MileZ, Paperkraft, Ryu (2), SAMO (JP) |
+| Thu, 15 Oct 2026 | SSWT |  |
 | Fri, 16 Oct 2026 | synts presents: Mietze Conte |  |
 | Fri, 23 Oct 2026 | PARTY ATHLETES presents SPOTTO 2nd Anniversary Party | MARU (2), SEIJI (2), Unai Trotti |
 | Sat, 24 Oct 2026 | MONZA | AOKI takamasa, Kohei |
-| Fri, 30 Oct 2026 | UNDERMALL vol.4 | J Wax, Osmosis Jones |
-| Sat, 14 Nov 2026 | LYNY Osaka show | SAKO |
-| Thu, 19 Nov 2026 | Yo Speed × Awesome 5th Party | Yo Speed |
 
 ## Address
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

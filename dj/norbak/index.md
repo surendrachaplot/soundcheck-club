@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Bassement, Madrid on Sat, 3 Oct 2026.
+Nørbak is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Bassement, Madrid on Sat, 3 Oct 2026.
 
 Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: The Bassement, Madrid on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 Temudo, Quelza, CRAVO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

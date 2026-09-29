@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
+I-F is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
 
 I-F is a disco and house artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Rachdingue, Barcelona on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ I-F is a disco and house artist based in Netherlands, tracked on soundcheck, wit
 
 Intergalactic Gary, Marsman, Esther Dune
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

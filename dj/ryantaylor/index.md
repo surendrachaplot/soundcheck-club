@@ -1,6 +1,6 @@
 # Ryan Taylor
 
-Ryan Taylor is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Haggerston, London on Thu, 15 Oct 2026.
+Ryan Taylor is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Haggerston, London on Thu, 15 Oct 2026.
 
 Ryan Taylor is a funk / soul and hip-hop artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Bear Winder, Beavs and Daydream Disco. Next up: The Haggerston, London on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Ryan Taylor is a funk / soul and hip-hop artist based in United Kingdom, tracked
 
 Bear Winder, Beavs, Daydream Disco
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryantaylor/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryantaylor/)*

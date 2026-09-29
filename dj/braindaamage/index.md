@@ -1,6 +1,6 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+BRAINDAAMAGE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 32 sets logged across Berlin, Rotterdam, Vienna and Zurich. Often billed alongside Raxeller, andris and CAERMI. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ BRAINDAAMAGE is a techno and industrial artist based in Switzerland, tracked on 
 
 Raxeller, andris, CAERMI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

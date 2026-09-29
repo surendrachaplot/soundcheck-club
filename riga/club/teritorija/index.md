@@ -1,25 +1,26 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "COSMO RAVE: AROUND THE WORLD" on Fri, 9 Oct 2026.
+Teritorija is a music venue in Riga with 17 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "// Notwelcome" on Fri, 2 Oct 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming gigs, with line-ups including DENOVA, Dmitry Puffin, Ksenia Kamikaza and Leprosy and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 17 upcoming gigs, with line-ups including Aniri Chan, DENOVA, Dmitry Puffin and Esoniq and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | // Notwelcome | Notwelcome |
+| Sat, 3 Oct 2026 | Vinyl Pressure | Waxid |
 | Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD | Notwelcome, Pulss |
+| Sat, 10 Oct 2026 | Aniri Chan // Pulss | Aniri Chan, Pulss |
 | Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary | Dmitry Puffin, Ksenia Kamikaza, Notwelcome, VLAD PHANGAN |
-| Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE - Night | DENOVA, Leprosy, Marex Kai, RAWKORED, XSYNC19 |
-| Sat, 31 Oct 2026 | BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening | MVKO, XSYNC19, oshigakill |
-| Fri, 13 Nov 2026 | Cosmo Rave: Gravity |  |
-| Fri, 20 Nov 2026 | Platz fur Tanz x Teritorija: Pfirter (AR), Moteka (FR) | Ksenia Kamikaza, Moteka, Pfirter |
-| Fri, 4 Dec 2026 | KINKY RAVE w/ Lockhart (UK) | Ksenia Kamikaza, Lockhart |
-| Fri, 11 Dec 2026 | Let's Do Techno X Scotish Base vol. 3 |  |
-| Fri, 18 Dec 2026 | Platz fur Tanz x Teritorija: Marco Ramos (NL) | Ksenia Kamikaza, Marco Ramos |
+| Sat, 17 Oct 2026 | In Residency |  |
+| Fri, 23 Oct 2026 | In Residency |  |
+| Sat, 24 Oct 2026 | In Residency |  |
+| Fri, 30 Oct 2026 | mOZ // VLAD PHANGAN | VLAD PHANGAN, mOZ (2) |
+| Sat, 31 Oct 2026 | Esoniq | Esoniq |
 
 ## Address
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

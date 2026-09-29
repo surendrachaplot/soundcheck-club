@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Peach is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Peach is a house and techno artist based in Canada, tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

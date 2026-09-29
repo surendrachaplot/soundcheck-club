@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 29 Sept 2026.
+Babyccino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 29 Sept 2026.
 
 Babyccino is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: La Cheetah Club, Glasgow on Tue 29 Sept.
 
@@ -27,4 +27,4 @@ Babyccino is a house and techno artist based in United Kingdom, tracked on sound
 
 McCart, Domenic Cappello, Kairogen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

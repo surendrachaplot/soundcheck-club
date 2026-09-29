@@ -1,6 +1,6 @@
 # Alexandernaut
 
-Alexandernaut is a IDM and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
+Alexandernaut is a IDM and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Alexandernaut is an idm and electro artist based in United States of America, tracked on soundcheck, with 1 set logged across San Francisco/Oakland. Often billed alongside Hydroplane, Xanopticon and Øbsrvr (PDX). Next up: Underground SF, San Francisco/Oakland on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ Alexandernaut is an idm and electro artist based in United States of America, tr
 
 Hydroplane, Xanopticon, Øbsrvr (PDX)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernaut/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernaut/)*

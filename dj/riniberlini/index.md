@@ -1,6 +1,6 @@
 # Rini Berlini
 
-Rini Berlini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Patronaat, Netherlands on Sat, 10 Oct 2026.
+Rini Berlini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Patronaat, Netherlands on Sat, 10 Oct 2026.
 
 Rini Berlini is a techno and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside A L I X, Gijsheid and RUL3. Next up: Patronaat, Netherlands on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rini Berlini is a techno and house artist tracked on soundcheck, with 18 sets lo
 
 A L I X, Gijsheid, RUL3
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*

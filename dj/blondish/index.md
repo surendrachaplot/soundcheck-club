@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Foro Costanera Norte (FCN), Buenos Aires on Sat, 10 Oct 2026.
+BLOND:ISH is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Foro Costanera Norte (FCN), Buenos Aires on Sat, 10 Oct 2026.
 
 BLOND:ISH is a house and techno artist based in Canada, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Boston and 30 more. Often billed alongside Marco Carola, Seth Troxler and Vintage Culture. Next up: Foro Costanera Norte (FCN), Buenos Aires on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ BLOND:ISH is a house and techno artist based in Canada, tracked on soundcheck, w
 
 Marco Carola, Seth Troxler, Vintage Culture
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

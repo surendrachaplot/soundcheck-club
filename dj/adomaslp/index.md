@@ -1,6 +1,6 @@
 # AdomasLP
 
-AdomasLP is a Dub Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
+AdomasLP is a Dub Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
 
 AdomasLP is a dub techno and downtempo artist tracked on soundcheck, with 36 sets logged across Bristol, London and Manchester. Often billed alongside Tommy Cross, MEMP3 and Ruf Dug. Next up: renae, Manchester on Tue 29 Sept.
 
@@ -26,4 +26,4 @@ AdomasLP is a dub techno and downtempo artist tracked on soundcheck, with 36 set
 
 Tommy Cross, MEMP3, Ruf Dug
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*

@@ -1,6 +1,6 @@
 # Bohnenblust
 
-Bohnenblust is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Supermarket, Zurich on Thu, 29 Oct 2026.
+Bohnenblust is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Supermarket, Zurich on Thu, 29 Oct 2026.
 
 Bohnenblust is an electronic artist tracked on soundcheck, with 34 sets logged across Zurich. Often billed alongside Zefzeed, Aron (CH) and CEZAR. Next up: Supermarket, Zurich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Bohnenblust is an electronic artist tracked on soundcheck, with 34 sets logged a
 
 Zefzeed, Aron (CH), CEZAR
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bohnenblust/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bohnenblust/)*

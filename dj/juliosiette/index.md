@@ -1,6 +1,6 @@
 # Julio Siette
 
-Julio Siette is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
+Julio Siette is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
 
 Julio Siette is a house and progressive house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona and Valencia. Often billed alongside Flow, Flowing and Ingy. Next up: TBA, Valencia on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Julio Siette is a house and progressive house artist based in Spain, tracked on 
 
 Flow, Flowing, Ingy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliosiette/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliosiette/)*

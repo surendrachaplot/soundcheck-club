@@ -1,6 +1,6 @@
 # NANAH
 
-NANAH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Luka, Seoul on Fri, 2 Oct 2026.
+NANAH is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Luka, Seoul on Fri, 2 Oct 2026.
 
 NANAH is a techno and hardcore artist tracked on soundcheck, with 38 sets logged across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Luka, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ NANAH is a techno and hardcore artist tracked on soundcheck, with 38 sets logged
 
 D.E.F, Rivako, PONGPONG
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanah/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanah/)*

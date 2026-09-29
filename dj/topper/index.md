@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Palazzo, Morocco on Wed, 30 Sept 2026.
+Topper is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Le Palazzo, Morocco on Wed, 30 Sept 2026.
 
 Topper is a house and minimal artist tracked on soundcheck, with 89 sets logged across Bali, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Le Palazzo, Morocco on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Topper is a house and minimal artist tracked on soundcheck, with 89 sets logged 
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Mar/us is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
 Mar/us is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bangkok and Berlin and 25 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: Fuchs2, Prague on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Mar/us is a techno and house artist tracked on soundcheck, with 92 sets logged a
 
 Cristian Marras, Metaraph, Samantha Togni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KB3, Copenhagen on Fri, 16 Oct 2026.
+S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
 S3PPA is a house and trance artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Copenhagen and Dublin and 7 more. Often billed alongside DART, Gerardo Niva and NewTone. Next up: KB3, Copenhagen on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ S3PPA is a house and trance artist based in Netherlands, tracked on soundcheck, 
 
 DART, Gerardo Niva, NewTone
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

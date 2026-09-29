@@ -1,6 +1,6 @@
 # Sisko Electrofanatik
 
-Sisko Electrofanatik is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Sisko Electrofanatik is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
 Sisko Electrofanatik is a techno and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Athens, Berlin and Helsinki. Often billed alongside AELVA K, Alex Micca and Barbur. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Sisko Electrofanatik is a techno and tech house artist tracked on soundcheck, wi
 
 AELVA K, Alex Micca, Barbur
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siskoelectrofanatik/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siskoelectrofanatik/)*

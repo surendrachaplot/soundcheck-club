@@ -1,6 +1,6 @@
 # E-Boo
 
-E-Boo is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beaver Works, Leeds on Fri, 6 Nov 2026.
+E-Boo is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beaver Works, Leeds on Fri, 6 Nov 2026.
 
 E-Boo is an acid and experimental artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Brighton and Leeds. Often billed alongside Jake Rollinson, OJ Willis and Paranoid London. Next up: Beaver Works, Leeds on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ E-Boo is an acid and experimental artist based in United Kingdom, tracked on sou
 
 Jake Rollinson, OJ Willis, Paranoid London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-boo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-boo/)*

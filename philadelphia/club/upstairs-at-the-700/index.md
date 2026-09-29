@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Convergence" on Thu, 1 Oct 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Convergence" on Thu, 1 Oct 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, with line-ups including El-D (USA), Headnod and soundsofgreg. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -16,4 +16,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 3 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

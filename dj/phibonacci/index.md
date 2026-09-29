@@ -1,6 +1,6 @@
 # Phibonacci
 
-Phibonacci is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Middle East, Boston on Sat, 10 Oct 2026.
+Phibonacci is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Middle East, Boston on Sat, 10 Oct 2026.
 
 Phibonacci is a garage and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston. Often billed alongside HypeLies. Next up: The Middle East, Boston on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Phibonacci is a garage and house artist based in United States of America, track
 
 HypeLies
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phibonacci/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phibonacci/)*

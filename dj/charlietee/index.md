@@ -1,6 +1,6 @@
 # Charlie Tee
 
-Charlie Tee is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ministry Of Sound, London on Fri, 2 Oct 2026.
+Charlie Tee is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ministry Of Sound, London on Fri, 2 Oct 2026.
 
 Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Ministry Of Sound, London on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on
 
 K Motionz, BassLayerz, Hedex
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlietee/)*

@@ -1,6 +1,6 @@
 # Feliciana Silvestre
 
-Feliciana Silvestre is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Piston, Toronto on Thu, 1 Oct 2026.
+Feliciana Silvestre is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Piston, Toronto on Thu, 1 Oct 2026.
 
 Feliciana Silvestre is a techno and trance artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Jad Ad, Jonah K and Jose Carbonell. Next up: The Piston, Toronto on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Feliciana Silvestre is a techno and trance artist tracked on soundcheck, with 9 
 
 Jad Ad, Jonah K, Jose Carbonell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felicianasilvestre/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felicianasilvestre/)*

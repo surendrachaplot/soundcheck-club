@@ -1,6 +1,6 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
+Jek (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
 
 Jek (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Buenos Aires and Copenhagen and 14 more. Often billed alongside djfix, Matas and adobeprincess. Next up: TBA - Outdoor Gathering, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Jek (US) is a techno and house artist based in United States of America, tracked
 
 djfix, Matas, adobeprincess
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*

@@ -1,6 +1,6 @@
 # Opalia
 
-Opalia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Miradouro de Baixo, Lisbon on Fri, 2 Oct 2026.
+Opalia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Miradouro de Baixo, Lisbon on Fri, 2 Oct 2026.
 
 Opalia is a house and techno artist tracked on soundcheck, with 35 sets logged across Lisbon and London. Often billed alongside Dub Tiger, Guy from 1990 and 4lquimista. Next up: Miradouro de Baixo, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Opalia is a house and techno artist tracked on soundcheck, with 35 sets logged a
 
 Dub Tiger, Guy from 1990, 4lquimista
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opalia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opalia/)*

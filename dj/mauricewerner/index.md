@@ -1,6 +1,6 @@
 # Maurice Werner
 
-Maurice Werner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Thu, 22 Oct 2026.
+Maurice Werner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OXI, Berlin on Thu, 22 Oct 2026.
 
 Maurice Werner is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside NIKØ, DJ Spaßgetränk and Konsument. Next up: OXI, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Maurice Werner is a techno and trance artist based in Germany, tracked on soundc
 
 NIKØ, DJ Spaßgetränk, Konsument
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricewerner/)*

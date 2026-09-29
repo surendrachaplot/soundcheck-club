@@ -1,6 +1,6 @@
 # Aquasky
 
-Aquasky is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Aquasky is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Aquasky is an electronica and breakbeat artist tracked on soundcheck, with 3 sets logged across London, Malaga and South. Often billed alongside A.N.I., Benny Page and Billy Daniel Bunter. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Aquasky is an electronica and breakbeat artist tracked on soundcheck, with 3 set
 
 A.N.I., Benny Page, Billy Daniel Bunter
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aquasky/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aquasky/)*

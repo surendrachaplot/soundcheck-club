@@ -1,13 +1,14 @@
 # CHICHI (KR)
 
-CHICHI (KR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
+CHICHI (KR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Blank Site, Seoul on Sat, 3 Oct 2026.
 
-CHICHI (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 6 sets logged across Hong Kong, Kuala Lumpur and Seoul. Often billed alongside Kim.Qna, Leejunghyuk and CHICHI. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
+CHICHI (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 7 sets logged across Hong Kong, Kuala Lumpur and Seoul. Often billed alongside Kim.Qna, Leejunghyuk and CHICHI. Next up: Blank Site, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Blank Site | Seoul |
 | Fri, 9 Oct 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
 
 ## Recently played
@@ -22,4 +23,4 @@ CHICHI (KR) is a techno and house artist based in South Korea, tracked on soundc
 
 Kim.Qna, Leejunghyuk, CHICHI (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*

@@ -1,13 +1,14 @@
 # Nídia
 
-Nídia is a Kuduro and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Nídia is a Kuduro and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
-Nídia is a kuduro and bass artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DJ Firmeza, Dj Danifox and DJ Marfox. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
+Nídia is a kuduro and bass artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DJ Firmeza, Dj Danifox and DJ Marfox. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nídia is a kuduro and bass artist based in France, tracked on soundcheck, with 
 
 DJ Firmeza, Dj Danifox, DJ Marfox
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*

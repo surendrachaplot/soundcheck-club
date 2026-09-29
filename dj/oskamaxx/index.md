@@ -1,6 +1,6 @@
 # OSKAMAXX
 
-OSKAMAXX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Helios37, Cologne on Fri, 16 Oct 2026.
+OSKAMAXX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Helios37, Cologne on Fri, 16 Oct 2026.
 
 OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, Baumeister98 and Pueblo Gelb. Next up: Helios37, Cologne on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 BabaBass3000, Baumeister98, Pueblo Gelb
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*

@@ -1,6 +1,6 @@
 # Kyle Hall
 
-Kyle Hall is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Kyle Hall is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
 
 Kyle Hall is a house and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Kyle Hall is a house and techno artist based in United States of America, tracke
 
 Byron The Aquarius, Carl Craig, DJ Holographic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*

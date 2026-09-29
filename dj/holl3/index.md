@@ -1,13 +1,14 @@
 # HOLL3
 
-HOLL3 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Stealth, Nottingham on Fri, 6 Nov 2026.
+HOLL3 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Nottingham on Fri, 30 Oct 2026.
 
-HOLL3 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Ibiza, London, Nottingham and Sheffield. Often billed alongside ACT ON, George Mensah and Luke Wolfman. Next up: Stealth, Nottingham on Fri 6 Nov.
+HOLL3 is a house and garage artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Ibiza, London, Nottingham and Sheffield. Often billed alongside ACT ON, George Mensah and Luke Wolfman. Next up: TBA, Nottingham on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA | Nottingham |
 | Fri, 6 Nov 2026 | Stealth | Nottingham |
 
 ## Recently played
@@ -25,4 +26,4 @@ HOLL3 is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ACT ON, George Mensah, Luke Wolfman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*

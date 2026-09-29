@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 30 Sept 2026.
+Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 30 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Ahni, AZADÎ, Bconscious and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aexhy, Ahni, AZADÎ and Bconscious and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 20 upcoming gigs,
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

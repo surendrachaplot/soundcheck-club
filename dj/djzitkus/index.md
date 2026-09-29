@@ -1,6 +1,6 @@
 # DJ Zitkus
 
-DJ Zitkus is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saint Judes, Glasgow on Sat, 31 Oct 2026.
+DJ Zitkus is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Saint Judes, Glasgow on Sat, 31 Oct 2026.
 
 DJ Zitkus is a trance and hardcore artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Edinburgh and Glasgow. Often billed alongside Joe Deacon, Ultrabeat and Ian Van Dahl. Next up: Saint Judes, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Zitkus is a trance and hardcore artist based in United Kingdom, tracked on so
 
 Joe Deacon, Ultrabeat, Ian Van Dahl
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*

@@ -1,14 +1,15 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "BRVJ presents LUNAR PALACE / 月下宫殿" on Fri, 2 Oct 2026.
+Cakeshop is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "BRVJ presents LUNAR PALACE / 月下宫殿" on Fri, 2 Oct 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Dillinja, Excultist, HYUNHXEE and MOONICE and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Bby Eco, DDD, Dillinja and Excultist and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | BRVJ presents LUNAR PALACE / 月下宫殿 | Excultist, HYUNHXEE |
+| Thu, 8 Oct 2026 | SOAR 6 with Bby Eco | Bby Eco, DDD (2), Mount XLR |
 | Sat, 10 Oct 2026 | Darklight Drum and Bass: Dillinja (Valve, Metalheadz, V Recordings) + Guests | Dillinja |
 | Sat, 17 Oct 2026 | Cakeshop 14th anniv at Cake and Pistil |  |
 | Fri, 6 Nov 2026 | Breaks & Kimchi present Neffa-T | MOONICE, Neffa-T, Nimvy, Tabris, untitled (2) |
@@ -17,4 +18,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

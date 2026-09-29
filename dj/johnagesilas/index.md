@@ -1,6 +1,6 @@
 # John Agesilas
 
-John Agesilas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BAR Inc, Osaka on Thu, 8 Oct 2026.
+John Agesilas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BAR Inc, Osaka on Thu, 8 Oct 2026.
 
 John Agesilas is a house and deep house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Miami, Osaka and Paris. Often billed alongside Leroy Rey, MUSCLECARS and Nedda Sou. Next up: BAR Inc, Osaka on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ John Agesilas is a house and deep house artist tracked on soundcheck, with 18 se
 
 Leroy Rey, MUSCLECARS, Nedda Sou
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnagesilas/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnagesilas/)*

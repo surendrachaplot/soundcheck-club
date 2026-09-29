@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
+ANNĒ is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
 ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Gate Milano, Milan on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

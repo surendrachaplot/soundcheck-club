@@ -1,6 +1,6 @@
 # Voices Of Valley
 
-Voices Of Valley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Piree, Athens on Sat, 3 Oct 2026.
+Voices Of Valley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Piree, Athens on Sat, 3 Oct 2026.
 
 Voices Of Valley is a techno and house artist tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside Spiros Pappas, Autow Nite Superstore and Mimi. Next up: Piree, Athens on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Voices Of Valley is a techno and house artist tracked on soundcheck, with 7 sets
 
 Spiros Pappas, Autow Nite Superstore, Mimi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voicesofvalley/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voicesofvalley/)*

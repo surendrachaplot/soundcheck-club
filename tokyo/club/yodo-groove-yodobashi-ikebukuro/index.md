@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "VINYL TECHNO ON A TOKYO ROOFTOP" on Sat, 3 Oct 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "VINYL TECHNO ON A TOKYO ROOFTOP" on Sat, 3 Oct 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including COCOLY, DJ MIYU, KEiTA and Ken Ishii and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -18,4 +18,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

@@ -1,6 +1,6 @@
 # Drumsound & Bassline Smith
 
-Drumsound & Bassline Smith is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bee Noir, Manchester on Sat, 14 Nov 2026.
+Drumsound & Bassline Smith is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bee Noir, Manchester on Sat, 14 Nov 2026.
 
 Drumsound & Bassline Smith are a drum & bass and jungle duo based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, London, Manchester and Prague and 1 more. Often billed alongside Grooverider, DJ SS and Ray Keith. Next up: Bee Noir, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Drumsound & Bassline Smith are a drum & bass and jungle duo based in United King
 
 Grooverider, DJ SS, Ray Keith
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsoundbasslinesmith/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsoundbasslinesmith/)*

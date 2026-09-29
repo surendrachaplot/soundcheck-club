@@ -1,6 +1,6 @@
 # the inner circle vienna / wien
 
-the inner circle vienna / wien is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "L!m!naL" on Sat, 10 Oct 2026.
+the inner circle vienna / wien is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "L!m!naL" on Sat, 10 Oct 2026.
 
 the inner circle vienna / wien is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Groove. Browse upcoming dates, start times and who's playing. Altmannsdorfer Straße 144, 1230 Vienna.
 
@@ -14,4 +14,4 @@ the inner circle vienna / wien is a music venue in Vienna listed on soundcheck. 
 
 Altmannsdorfer Straße 144, 1230 Vienna, Vienna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/the-inner-circle-vienna-wien/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/the-inner-circle-vienna-wien/)*

@@ -1,8 +1,8 @@
 # Introversion
 
-Introversion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Introversion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
-Introversion is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Budapest and 9 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
+Introversion is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Introversion is a techno and house artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Paavli Kultuurivabrik | Tallinn |
+| Sat, 6 Feb 2027 | WDM | Hannover |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Introversion is a techno and house artist based in Germany, tracked on soundchec
 
 Sylvie Maziarz, 1luu, Afem Syko
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*

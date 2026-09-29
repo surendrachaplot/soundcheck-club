@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "RAMI/Hue Rey/iz" on Mon, 28 Sept 2026.
+Mitsuki is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "UNDERTONE" on Tue, 29 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including Carl H, Celter, Dan Andrei and DJ MARIA. and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Carl H, Celter, Dan Andrei and DJ MARIA. and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | RAMI/Hue Rey/iz |  |
 | Tue, 29 Sept 2026 | UNDERTONE | Celter, Wada Yosuke, levolant |
 | Sat, 3 Oct 2026 | meso/exo | Kugel, YELLOWUHURU, teppei |
 | Wed, 7 Oct 2026 | Invites:Yonti | Shinsuke Goto, YUI (JP.), Yonti, Zorba |
@@ -21,4 +20,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with li
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

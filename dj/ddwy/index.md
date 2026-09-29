@@ -1,6 +1,6 @@
 # ddwy
 
-ddwy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nyapi, Seoul on Sat, 3 Oct 2026.
+ddwy is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nyapi, Seoul on Sat, 3 Oct 2026.
 
 ddwy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 18 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: Nyapi, Seoul on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ ddwy is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Inner Totality, Denzel, Bell Towers
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*

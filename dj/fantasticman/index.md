@@ -1,6 +1,6 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Fantastic Man is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Fantastic Man is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: TBA, Central on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 131 sets 
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

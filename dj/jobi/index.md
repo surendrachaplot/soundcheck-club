@@ -1,6 +1,6 @@
 # Jobi
 
-Jobi is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Doka, Amsterdam on Wed, 21 Oct 2026.
+Jobi is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Doka, Amsterdam on Wed, 21 Oct 2026.
 
 Jobi is a drum & bass and breakbeat artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Amsterdam and San Francisco/Oakland. Often billed alongside MYNA. Next up: Doka, Amsterdam on Wed 21 Oct.
 
@@ -18,4 +18,4 @@ Jobi is a drum & bass and breakbeat artist based in United Kingdom, tracked on s
 
 MYNA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobi/)*

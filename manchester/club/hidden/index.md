@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Hidden x Ghosts of Garage Residents Party" on Fri, 2 Oct 2026.
+Hidden is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Warehouse Rave with Residents & Friends" on Fri, 2 Oct 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -8,7 +8,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Hidden x Ghosts of Garage Residents Party |  |
+| Fri, 2 Oct 2026 | Warehouse Rave with Residents & Friends |  |
 | Sat, 3 Oct 2026 | Hidden presents: Delilah, Jakkob  | Delilah, Jakkob |
 | Fri, 9 Oct 2026 | Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast | Dr. Rubinstein, Egg On Toast, Nene H, ketia |
 | Sat, 17 Oct 2026 | Tim Reaper (4 Hour Set) + Syntax | Syntax (2), Tim Reaper |
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

@@ -1,6 +1,6 @@
 # Noway
 
-Noway is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Piree, Athens on Sat, 3 Oct 2026.
+Noway is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Piree, Athens on Sat, 3 Oct 2026.
 
 Noway is a bass and house artist based in Canada, tracked on soundcheck, with 36 sets logged across Athens, Berlin, Geneva and Osaka and 2 more. Often billed alongside MOOTOE, In-Character and SLEEPY HEVD. Next up: Piree, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Noway is a bass and house artist based in Canada, tracked on soundcheck, with 36
 
 MOOTOE, In-Character, SLEEPY HEVD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*

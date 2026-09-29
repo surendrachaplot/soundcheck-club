@@ -1,6 +1,6 @@
 # Hayato
 
-Hayato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
+Hayato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at VENT, Tokyo on Fri, 16 Oct 2026.
 
 Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 157 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: VENT, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Sota Shimada, Hayato Iwaki, AMANE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*

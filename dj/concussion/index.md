@@ -1,6 +1,6 @@
 # Concussion
 
-Concussion is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Whammy Bar, Auckland on Sat, 3 Oct 2026.
+Concussion is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Whammy Bar, Auckland on Sat, 3 Oct 2026.
 
 Concussion is a techno and bass artist based in New Zealand, tracked on soundcheck, with 35 sets logged across Auckland, Berlin, Budapest and Frankfurt and 2 more. Often billed alongside Takydon, DJ 069 and Fabian Wegmeth. Next up: Whammy Bar, Auckland on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Concussion is a techno and bass artist based in New Zealand, tracked on soundche
 
 Takydon, DJ 069, Fabian Wegmeth
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concussion/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concussion/)*

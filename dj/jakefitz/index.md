@@ -1,6 +1,6 @@
 # Jake Fitz
 
-Jake Fitz is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Limelight, Belfast on Fri, 2 Oct 2026.
+Jake Fitz is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Limelight, Belfast on Fri, 2 Oct 2026.
 
 Jake Fitz is an electronica and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Belfast and Dublin. Often billed alongside ALISHA, DIEBYVEG and Enzo Siragusa. Next up: The Limelight, Belfast on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Jake Fitz is an electronica and house artist based in Ireland, tracked on soundc
 
 ALISHA, DIEBYVEG, Enzo Siragusa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakefitz/)*

@@ -1,6 +1,6 @@
 # Connie
 
-Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Moondog Hifi, New York City on Fri, 2 Oct 2026.
+Connie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Moondog Hifi, New York City on Fri, 2 Oct 2026.
 
 Connie is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Barcelona, Los Angeles, Milan and New York City and 1 more. Often billed alongside Amy Jor, Asha Jasz and Maksim. Next up: Moondog Hifi, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Connie is a house and techno artist based in United States of America, tracked o
 
 Amy Jor, Asha Jasz, Maksim
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*

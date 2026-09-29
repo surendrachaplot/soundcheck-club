@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Fri, 16 Oct 2026.
+DJ SO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 DJ SO is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 12 more. Often billed alongside Yo Nishijima, LØST and Peter Van Hoesen. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ DJ SO is a techno and house artist tracked on soundcheck, with 83 sets logged ac
 
 Yo Nishijima, LØST, Peter Van Hoesen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

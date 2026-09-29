@@ -1,6 +1,6 @@
 # Kole
 
-Kole is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
+Kole is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
 
 Kole is a techno and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Amsterdam, Cologne and Liverpool. Often billed alongside Holy Priest, AAT (NL) and Benny Rodrigues. Next up: Martiniplaza, Amsterdam on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Kole is a techno and club artist based in United Kingdom, tracked on soundcheck,
 
 Holy Priest, AAT (NL), Benny Rodrigues
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kole/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kole/)*

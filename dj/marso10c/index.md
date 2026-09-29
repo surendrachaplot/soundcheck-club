@@ -1,6 +1,6 @@
 # Mars O10C
 
-Mars O10C is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Macadam, Nantes on Fri, 2 Oct 2026.
+Mars O10C is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Macadam, Nantes on Fri, 2 Oct 2026.
 
 Mars O10C is a techno and progressive house artist based in France, tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Macadam, Nantes on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mars O10C is a techno and progressive house artist based in France, tracked on s
 
 Julie Desire, Jolly (FR), A-440
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

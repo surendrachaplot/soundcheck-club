@@ -1,6 +1,6 @@
 # Jayé
 
-Jayé is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Thu, 22 Oct 2026.
+Jayé is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Thu, 22 Oct 2026.
 
 Jayé is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside AlBird, B2BLOVE and Caro Vola. Next up: OST, Berlin on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Jayé is a techno artist based in Germany, tracked on soundcheck, with 5 sets lo
 
 AlBird, B2BLOVE, Caro Vola
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaye/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaye/)*

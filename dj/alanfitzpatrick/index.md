@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
 
 Alan Fitzpatrick is a techno and house artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 35 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, tracked o
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

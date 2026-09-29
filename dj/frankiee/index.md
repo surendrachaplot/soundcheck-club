@@ -1,6 +1,6 @@
 # FRANKIEE
 
-FRANKIEE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
+FRANKIEE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
 
 FRANKIEE is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across London, Marseille, Milan and Rome. Often billed alongside Bonza, IRIDE and Marcolino. Next up: Hotel Butterfly, Rome on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ FRANKIEE is a techno and electro artist based in United Kingdom, tracked on soun
 
 Bonza, IRIDE, Marcolino
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*

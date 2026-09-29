@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Fan von Viel und Auf'n Punkt" on Fri, 2 Oct 2026.
+Beate Uwe is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Fan von Viel und Auf'n Punkt" on Fri, 2 Oct 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Adrija, AKA AKA, ALXJ and ARSENAL and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

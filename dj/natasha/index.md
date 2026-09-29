@@ -1,6 +1,6 @@
 # Natasha
 
-Natasha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
+Natasha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
 
 Natasha is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Manchester, Melbourne and Tokyo. Often billed alongside CAITY WATSON, DJ Mowgli and Gewnky. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Natasha is a techno and industrial artist based in United Kingdom, tracked on so
 
 CAITY WATSON, DJ Mowgli, Gewnky
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasha/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasha/)*

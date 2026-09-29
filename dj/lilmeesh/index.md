@@ -1,6 +1,6 @@
 # Lil Meesh
 
-Lil Meesh is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
+Lil Meesh is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
 
 Lil Meesh is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Detroit, London and Manchester. Often billed alongside Ace Shyllon, DJ SYNC and Dave Law. Next up: The Horse & Groom, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lil Meesh is a house and afro house artist based in United Kingdom, tracked on s
 
 Ace Shyllon, DJ SYNC, Dave Law
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmeesh/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmeesh/)*

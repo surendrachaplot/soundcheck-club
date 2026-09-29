@@ -1,6 +1,6 @@
 # MATRIX3K
 
-MATRIX3K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kaskada, Warsaw on Sat, 3 Oct 2026.
+MATRIX3K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kaskada, Warsaw on Sat, 3 Oct 2026.
 
 MATRIX3K is a techno and house artist based in Poland, tracked on soundcheck, with 101 sets logged across Barcelona, Berlin, Brussels and Krakow and 7 more. Often billed alongside Buchan, Contakt (PL) and Edvvin. Next up: Kaskada, Warsaw on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MATRIX3K is a techno and house artist based in Poland, tracked on soundcheck, wi
 
 Buchan, Contakt (PL), Edvvin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix3k/)*

@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Mike Morrisey is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 Mike Morrisey is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 8 more. Often billed alongside Dan Costello, Luke Welsh and MPhilly. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Mike Morrisey is a tech house and house artist based in United Kingdom, tracked 
 
 Dan Costello, Luke Welsh, MPhilly
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

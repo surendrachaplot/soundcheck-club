@@ -1,6 +1,6 @@
 # Mourad Bncr
 
-Mourad Bncr is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Manggha, Krakow on Fri, 16 Oct 2026.
+Mourad Bncr is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Manggha, Krakow on Fri, 16 Oct 2026.
 
 Mourad Bncr is an electronic artist based in Canada, tracked on soundcheck, with 3 sets logged across Krakow and Montreal. Often billed alongside Juana, Mimi Virus and Mossy Mugler. Next up: Manggha, Krakow on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Mourad Bncr is an electronic artist based in Canada, tracked on soundcheck, with
 
 Juana, Mimi Virus, Mossy Mugler
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouradbncr/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouradbncr/)*

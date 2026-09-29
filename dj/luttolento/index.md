@@ -1,6 +1,6 @@
 # Lutto Lento
 
-Lutto Lento is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
+Lutto Lento is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
 
 Lutto Lento is an experimental and hip-hop artist based in Poland, tracked on soundcheck, with 5 sets logged across Berlin, London, Milan and Poland and 1 more. Often billed alongside Ar Ker, Bassvictim and Blood of Aza. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
 
@@ -21,4 +21,4 @@ Lutto Lento is an experimental and hip-hop artist based in Poland, tracked on so
 
 Ar Ker, Bassvictim, Blood of Aza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luttolento/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luttolento/)*

@@ -1,6 +1,6 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 2 Oct 2026.
+D Stone is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 2 Oct 2026.
 
 D Stone is a house and tech house artist based in Netherlands, tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Gianca - Murazzi, Turin on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ D Stone is a house and tech house artist based in Netherlands, tracked on soundc
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

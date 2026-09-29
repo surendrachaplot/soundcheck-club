@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
 Antal is a house and disco artist based in Netherlands, tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Antal is a house and disco artist based in Netherlands, tracked on soundcheck, w
 
 Hunee, Kléo, Coco Maria
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

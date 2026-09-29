@@ -1,8 +1,8 @@
 # Fernando Olaya
 
-Fernando Olaya is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
+Fernando Olaya is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
 
-Fernando Olaya is a house and deep house artist based in Colombia, tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside DJ Chus, Jessy Nimni and Kike Roldan. Next up: Do Not Sit On The Furniture, Miami on Sat 21 Nov.
+Fernando Olaya is a house and deep house artist based in Colombia, tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside DJ Chus, Kike Roldan and Lucas Zarate. Next up: Do Not Sit On The Furniture, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Fernando Olaya is a house and deep house artist based in Colombia, tracked on so
 
 ## Shares bills with
 
-DJ Chus, Jessy Nimni, Kike Roldan
+DJ Chus, Kike Roldan, Lucas Zarate
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandoolaya/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandoolaya/)*

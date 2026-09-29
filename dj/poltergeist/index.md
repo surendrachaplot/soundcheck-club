@@ -1,13 +1,14 @@
 # Poltergeist
 
-Poltergeist is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at MTW, Frankfurt on Sat, 12 Dec 2026.
+Poltergeist is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Stromwerk Dresden, Dresden on Fri, 27 Nov 2026.
 
-Poltergeist is a techno and trance artist based in Italy, tracked on soundcheck, with 3 sets logged across Frankfurt, Melbourne and Stockholm. Often billed alongside DAMN DANIEL, Ebony Willis and Holy Priest. Next up: MTW, Frankfurt on Sat 12 Dec.
+Poltergeist is a techno and trance artist based in Italy, tracked on soundcheck, with 4 sets logged across Dresden, Frankfurt, Melbourne and Stockholm. Often billed alongside DAMN DANIEL, Ebony Willis and Holy Priest. Next up: Stromwerk Dresden, Dresden on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Stromwerk Dresden | Dresden |
 | Sat, 12 Dec 2026 | MTW | Frankfurt |
 
 ## Recently played
@@ -19,4 +20,4 @@ Poltergeist is a techno and trance artist based in Italy, tracked on soundcheck,
 
 DAMN DANIEL, Ebony Willis, Holy Priest
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergeist/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poltergeist/)*

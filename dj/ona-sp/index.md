@@ -1,6 +1,6 @@
 # ONA (SP)
 
-ONA (SP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 17 Oct 2026.
+ONA (SP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 17 Oct 2026.
 
 ONA (SP) is a house and techno artist based in Spain, tracked on soundcheck, with 115 sets logged across Barcelona, Berlin, Madrid and Naples and 1 more. Often billed alongside Ale Hope, Pisano and Brieela. Next up: TBA - Secret Location (Madrid), Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ONA (SP) is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 Ale Hope, Pisano, Brieela
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ona-sp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ona-sp/)*

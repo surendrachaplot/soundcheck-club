@@ -1,6 +1,6 @@
 # djehrenlos
 
-djehrenlos is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Zeche Zollverein, Dortmund-essen on Sat, 28 Nov 2026.
+djehrenlos is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Zeche Zollverein, Dortmund-essen on Sat, 28 Nov 2026.
 
 djehrenlos is a techno and electro artist tracked on soundcheck, with 2 sets logged across Cologne and Dortmund Essen. Often billed alongside DJ SPORTSCHUH, Greta Perola and Juulz. Next up: Zeche Zollverein, Dortmund Essen on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ djehrenlos is a techno and electro artist tracked on soundcheck, with 2 sets log
 
 DJ SPORTSCHUH, Greta Perola, Juulz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djehrenlos/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djehrenlos/)*

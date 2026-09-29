@@ -1,6 +1,6 @@
 # Very J
 
-Very J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
+Very J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
 
 Very J is a house and techno artist based in United States of America, tracked on soundcheck, with 129 sets logged across Boston, Detroit, London and Los Angeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: ErF Studios, New York City on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Very J is a house and techno artist based in United States of America, tracked o
 
 For Future's Sake, John Raffaele, Devoye
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*

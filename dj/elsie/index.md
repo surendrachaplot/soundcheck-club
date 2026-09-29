@@ -1,6 +1,6 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Night Cat, Melbourne on Sat, 5 Dec 2026.
+Elsie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Night Cat, Melbourne on Sat, 5 Dec 2026.
 
 Elsie is a house and electronica artist based in Australia, tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Adriana, DJ Luv You and Zjoso. Next up: The Night Cat, Melbourne on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Elsie is a house and electronica artist based in Australia, tracked on soundchec
 
 Adriana (1), DJ Luv You, Zjoso
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

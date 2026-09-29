@@ -1,6 +1,6 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Simon Vuarambon is a progressive house and deep house artist based in Switzerland, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Simon Vuarambon is a progressive house and deep house artist based in Switzerlan
 
 Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

@@ -1,6 +1,6 @@
 # mxtina
 
-mxtina is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+mxtina is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
 
 mxtina is an acid and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Manchester. Often billed alongside GayBoy, JAMS (UK) and King Kit. Next up: Honey Street Studio, Manchester on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ mxtina is an acid and house artist based in United Kingdom, tracked on soundchec
 
 GayBoy, JAMS (UK), King Kit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxtina/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxtina/)*

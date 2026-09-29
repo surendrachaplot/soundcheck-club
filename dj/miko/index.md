@@ -1,6 +1,6 @@
 # Miko
 
-Miko is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+Miko is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
 Miko is an electro and electronica artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Luval, Andy Luff and Mariiin. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
@@ -18,4 +18,4 @@ Miko is an electro and electronica artist based in Italy, tracked on soundcheck,
 
 Luval, Andy Luff, Mariiin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miko/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miko/)*

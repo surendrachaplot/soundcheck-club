@@ -1,6 +1,6 @@
 # Al V Dam
 
-Al V Dam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
+Al V Dam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
 
 Al V Dam is a techno and house artist tracked on soundcheck, with 33 sets logged across Austin, Denver, New York City and Washington DC. Often billed alongside M. Shogi, Brett Johnson and DJ BAD APPLE. Next up: Xuxa, Austin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Al V Dam is a techno and house artist tracked on soundcheck, with 33 sets logged
 
 M. Shogi, Brett Johnson, DJ BAD APPLE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvdam/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvdam/)*

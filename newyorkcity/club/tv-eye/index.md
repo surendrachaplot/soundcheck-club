@@ -1,6 +1,6 @@
 # TV EYE
 
-TV EYE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "LOVE 2 LOVE - A DONNA SUMMER DISCO PARTY" on Fri, 2 Oct 2026.
+TV EYE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "LOVE 2 LOVE - A DONNA SUMMER DISCO PARTY" on Fri, 2 Oct 2026.
 
 TV EYE is a music venue in New York City listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 1647 Weirfield St, Ridgewood, NY 11385.
 
@@ -16,4 +16,4 @@ TV EYE is a music venue in New York City listed on soundcheck. 3 upcoming gigs. 
 
 1647 Weirfield St, Ridgewood, NY 11385, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*

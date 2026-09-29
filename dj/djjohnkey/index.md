@@ -1,6 +1,6 @@
 # DJ John Key
 
-DJ John Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
+DJ John Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
 
 DJ John Key is a techno and trance artist based in Denmark, tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside Alegrando, Britney Speed and Liad Krispin. Next up: Den Anden Side, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ John Key is a techno and trance artist based in Denmark, tracked on soundchec
 
 Alegrando, Britney Speed, Liad Krispin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjohnkey/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjohnkey/)*

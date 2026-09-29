@@ -1,6 +1,6 @@
 # Felipe Gordon
 
-Felipe Gordon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Felipe Gordon is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Felipe Gordon is a house and disco artist tracked on soundcheck, with 49 sets logged across Barcelona, Belgrade, Berlin and Boston and 26 more. Often billed alongside Ryu, BLOND:ISH and Carlita. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Felipe Gordon is a house and disco artist tracked on soundcheck, with 49 sets lo
 
 Ryu (2), BLOND:ISH, Carlita
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felipegordon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felipegordon/)*

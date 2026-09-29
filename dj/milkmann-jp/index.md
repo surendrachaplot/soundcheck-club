@@ -1,14 +1,14 @@
 # MILKMANN
 
-MILKMANN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Aoyama Tunnel, Tokyo on Tue, 29 Sept 2026.
+MILKMANN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Red Bar, Tokyo on Tue, 29 Sept 2026.
 
-MILKMANN is a house and techno artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Ippei, LEFTOLD and Miki Nagakawa. Next up: Aoyama Tunnel, Tokyo on Tue 29 Sept.
+MILKMANN is a house and techno artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Ippei, LEFTOLD and Miki Nagakawa. Next up: Red Bar, Tokyo on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Aoyama Tunnel | Tokyo |
+| Tue, 29 Sept 2026 | Red Bar | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ MILKMANN is a house and techno artist tracked on soundcheck, with 10 sets logged
 
 Ippei, LEFTOLD, Miki Nagakawa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milkmann-jp/)*

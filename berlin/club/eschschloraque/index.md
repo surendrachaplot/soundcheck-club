@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Strange Songs for September" on Wed, 30 Sept 2026.
+Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Strange Songs for September" on Wed, 30 Sept 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

@@ -1,6 +1,6 @@
 # TUX (2)
 
-TUX (2) is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+TUX (2) is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
 TUX is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Bristol and Leeds. Often billed alongside Et Al, JAZ IMSKY and Josi Devil. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
@@ -15,4 +15,4 @@ TUX is a dubstep and garage artist based in United Kingdom, tracked on soundchec
 
 Et Al (1), JAZ IMSKY, Josi Devil
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tux-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tux-2/)*

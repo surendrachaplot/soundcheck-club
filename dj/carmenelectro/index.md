@@ -1,14 +1,15 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Carmen Electro is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Carmen Electro is a techno and house artist based in Finland, tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Carmen Electro is a techno and house artist based in Finland, tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
+| Sat, 3 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
 
@@ -27,4 +28,4 @@ Carmen Electro is a techno and house artist based in Finland, tracked on soundch
 
 slin, Frederic., Laure Croft
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*

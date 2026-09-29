@@ -1,6 +1,6 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 4622 S King Dr., Chicago on Fri, 2 Oct 2026.
+CTRLZORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - 4622 S King Dr., Chicago on Fri, 2 Oct 2026.
 
 CTRLZORA is a house and techno artist based in United States of America, tracked on soundcheck, with 111 sets logged across Chicago, Copenhagen, Detroit and Los Angeles and 7 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: TBA - 4622 S King Dr., Chicago on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CTRLZORA is a house and techno artist based in United States of America, tracked
 
 JADALAREIGN, BLESSTONIO, Cordell Johnson
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

@@ -1,6 +1,6 @@
 # Malounadou
 
-Malounadou is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Malounadou is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
 Malounadou is a house and club artist based in Germany, tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside Rayya, Altroy Jerome and Anna Ullrich. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Malounadou is a house and club artist based in Germany, tracked on soundcheck, w
 
 Rayya, Altroy Jerome, Anna Ullrich
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*

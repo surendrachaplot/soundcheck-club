@@ -1,6 +1,6 @@
 # suki
 
-suki is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Humboldthain Club, Berlin on Fri, 2 Oct 2026.
+suki is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Humboldthain Club, Berlin on Fri, 2 Oct 2026.
 
 suki is a techno and progressive house artist based in Australia, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: Humboldthain Club, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ suki is a techno and progressive house artist based in Australia, tracked on sou
 
 Mabel, Hannah D, Lex
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suki/)*

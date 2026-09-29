@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "diffuse: Brunello x Dean Turnley" on Sun, 4 Oct 2026.
+Culture is a music venue in Washington DC with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "diffuse: Brunello x Dean Turnley" on Sun, 4 Oct 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, Morgan Seatree, NOVAH and Ranger Trucco. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -21,4 +21,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 8 upcoming gigs,
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

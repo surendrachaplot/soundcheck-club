@@ -1,8 +1,8 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Tama Sumo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
-Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
+Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, 
 | Fri, 30 Oct 2026 | TBA | Chicago |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Signal | New York City |
+| Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -30,4 +31,4 @@ Tama Sumo is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Lakuti, Roi Perez, Virginia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

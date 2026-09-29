@@ -1,6 +1,6 @@
 # Evius
 
-Evius is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Evius is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Evius is a techno and trance artist based in Poland, tracked on soundcheck, with 45 sets logged across Krakow and Warsaw. Often billed alongside dj.zamocno, Abrew and PayoYayo. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Evius is a techno and trance artist based in Poland, tracked on soundcheck, with
 
 dj.zamocno, Abrew, PayoYayo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evius/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evius/)*

@@ -1,6 +1,6 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Bain, New York City on Wed, 30 Sept 2026.
+DJ Marfox is a Kuduro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Le Bain, New York City on Wed, 30 Sept 2026.
 
 DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: Le Bain, New York City on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 65 sets logg
 
 Nídia, DJ Lycox, DJ Nigga Fox
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

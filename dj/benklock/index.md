@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
+Ben Klock is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
 
 Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Fvtvr, Paris on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

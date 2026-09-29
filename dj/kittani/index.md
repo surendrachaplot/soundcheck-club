@@ -1,6 +1,6 @@
 # Kittani
 
-Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Castle, London on Fri, 9 Oct 2026.
+Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Castle, London on Fri, 9 Oct 2026.
 
 Kittani is a techno and trance artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Sophia Nicole, DJ VALENTINE and FITS ME FUNNY. Next up: The Castle, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kittani is a techno and trance artist tracked on soundcheck, with 11 sets logged
 
 Sophia Nicole, DJ VALENTINE, FITS ME FUNNY
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*

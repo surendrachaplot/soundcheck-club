@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Zenker Brothers is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Zenker Brothers is a techno and house artist based in Germany, tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Zenker Brothers is a techno and house artist based in Germany, tracked on soundc
 
 Stenny, Skee Mask, re:ni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

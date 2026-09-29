@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CIAO. Discoteca Italiana" on Fri, 2 Oct 2026.
+Apollo Club Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "CIAO. Discoteca Italiana" on Fri, 2 Oct 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Paula Tape, Benjamin Fröhlich, Daniel Monaco and Massimiliano Pagliara and 2 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -16,4 +16,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 3 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

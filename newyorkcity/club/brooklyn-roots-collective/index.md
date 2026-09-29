@@ -1,6 +1,6 @@
 # Brooklyn Roots Collective
 
-Brooklyn Roots Collective is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Book Club Radio Festival #2 The Outer Rim" on Fri, 2 Oct 2026.
+Brooklyn Roots Collective is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Book Club Radio Festival #2 The Outer Rim" on Fri, 2 Oct 2026.
 
 Brooklyn Roots Collective is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Byron The Aquarius, DJ Heather, Fibre and Hiroko Yamamura and 2 more. Browse upcoming dates, start times and who's playing. 255 Randolph St, Brooklyn, NY 11237, USA.
 
@@ -16,4 +16,4 @@ Brooklyn Roots Collective is a music venue in New York City listed on soundcheck
 
 255 Randolph St, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-roots-collective/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-roots-collective/)*

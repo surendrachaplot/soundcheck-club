@@ -1,6 +1,6 @@
 # Neotroxian
 
-Neotroxian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+Neotroxian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
 
 Neotroxian is a hardcore and techno artist based in Romania, tracked on soundcheck, with 11 sets logged across Bucharest. Often billed alongside Project Morpheus, Dalek and KØMI. Next up: Forge, Bucharest on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Neotroxian is a hardcore and techno artist based in Romania, tracked on soundche
 
 Project Morpheus, Dalek, KØMI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neotroxian/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neotroxian/)*

@@ -1,6 +1,6 @@
 # Ivan Carbone
 
-Ivan Carbone is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Gate Milano, Milan on Fri, 4 Dec 2026.
+Ivan Carbone is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gate Milano, Milan on Fri, 4 Dec 2026.
 
 Ivan Carbone is a techno and electronica artist based in Italy, tracked on soundcheck, with 33 sets logged across Berlin, Milan, Naples and Paris. Often billed alongside AIN'T GEORGE, Damian_Church and Jesooria. Next up: Gate Milano, Milan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ivan Carbone is a techno and electronica artist based in Italy, tracked on sound
 
 AIN'T GEORGE, Damian_Church, Jesooria
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivancarbone/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivancarbone/)*

@@ -1,6 +1,6 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
+CAMILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
 CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with 142 sets logged across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Shvili and Armii1n. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
@@ -27,4 +27,4 @@ CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with
 
 Joiah, Shvili, Armii1n
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

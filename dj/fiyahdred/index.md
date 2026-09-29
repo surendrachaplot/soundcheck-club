@@ -1,6 +1,6 @@
 # Fiyahdred
 
-Fiyahdred is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Fiyahdred is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
 Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Bok Bok and Donnie Sunshine. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on so
 
 Karen Nyame KG, Bok Bok, Donnie Sunshine
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*

@@ -1,8 +1,8 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Omar+ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 30 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,10 @@ Omar+ is a house and tech house artist based in United Kingdom, tracked on sound
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 7 Nov 2026 | The Church Nightclub | Denver |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
+| Sun, 22 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Sat, 30 Jan 2027 | Knockdown Center | New-york-city |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Omar+ is a house and tech house artist based in United Kingdom, tracked on sound
 
 Obskur, Max Dean, Joss Dean
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

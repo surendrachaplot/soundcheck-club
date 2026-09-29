@@ -1,6 +1,6 @@
 # Neska
 
-Neska is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+Neska is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
 Neska is a techno and house artist based in Spain, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Central and 8 more. Often billed alongside dirtydms, BERTON and Jasmín. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Neska is a techno and house artist based in Spain, tracked on soundcheck, with 7
 
 dirtydms, BERTON, Jasmín
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

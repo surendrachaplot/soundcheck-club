@@ -1,6 +1,6 @@
 # RONJA.
 
-RONJA. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+RONJA. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 RONJA. is a house and techno artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and The Hague. Often billed alongside Maarten Spoor, AJNA and AMARE. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ RONJA. is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Maarten Spoor, AJNA, AMARE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronja-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronja-2/)*

@@ -1,6 +1,6 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Cosmic Gate is a Trance and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Cosmic Gate is a trance and progressive house artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Austin and Belfast and 28 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Cosmic Gate is a trance and progressive house artist based in Germany, tracked o
 
 Luccio, Armin van Buuren, Ferry Corsten
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

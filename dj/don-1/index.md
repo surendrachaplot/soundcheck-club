@@ -1,6 +1,6 @@
 # Dön (1)
 
-Dön (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Absenta del Raval, Barcelona on Wed, 30 Sept 2026.
+Dön (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Absenta del Raval, Barcelona on Wed, 30 Sept 2026.
 
 Dön is a techno and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside ENZOSLAV and VOLLKOMM. Next up: Absenta del Raval, Barcelona on Wed 30 Sept.
 
@@ -18,4 +18,4 @@ Dön is a techno and electronica artist based in Spain, tracked on soundcheck, w
 
 ENZOSLAV, VOLLKOMM
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/don-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/don-1/)*

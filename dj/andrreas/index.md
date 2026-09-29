@@ -1,6 +1,6 @@
 # Andrreas
 
-Andrreas is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
+Andrreas is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
 
 Andrreas is a house artist based in Mexico, tracked on soundcheck, with 1 set logged across Mexico City. Often billed alongside ARWEN and Franco. Next up: Revo Rooftop, Mexico City on Fri 2 Oct.
 
@@ -14,4 +14,4 @@ Andrreas is a house artist based in Mexico, tracked on soundcheck, with 1 set lo
 
 ARWEN, Franco (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrreas/)*

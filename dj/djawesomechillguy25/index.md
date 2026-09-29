@@ -1,6 +1,6 @@
 # dj awesomechillguy25
 
-dj awesomechillguy25 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+dj awesomechillguy25 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 dj awesomechillguy25 is a house and techno artist based in New Zealand, tracked on soundcheck, with 7 sets logged across Auckland and Melbourne. Often billed alongside AROHA, Bari and Bella Claxton. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -23,4 +23,4 @@ dj awesomechillguy25 is a house and techno artist based in New Zealand, tracked 
 
 AROHA, Bari, Bella Claxton
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djawesomechillguy25/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djawesomechillguy25/)*

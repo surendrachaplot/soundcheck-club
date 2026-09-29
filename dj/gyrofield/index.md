@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+gyrofield is a Drum & Bass and Bass artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 28 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 
 KAVARI, Mala, DjRUM
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

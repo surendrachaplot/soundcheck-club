@@ -1,6 +1,6 @@
 # Kaasimo
 
-Kaasimo is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Kaasimo is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
 Kaasimo is a deep house and minimal techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg and Zurich. Often billed alongside Anna Schreit, Antonym and Batte. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Kaasimo is a deep house and minimal techno artist based in Germany, tracked on s
 
 Anna Schreit, Antonym, Batte
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaasimo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaasimo/)*

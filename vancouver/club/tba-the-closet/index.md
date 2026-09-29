@@ -1,6 +1,6 @@
 # TBA - The Closet
 
-TBA - The Closet is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "FundRaver for Palestine: Open Decks" on Sat, 3 Oct 2026.
+TBA - The Closet is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "FundRaver for Palestine: Open Decks" on Sat, 3 Oct 2026.
 
 TBA - The Closet is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Closet is a music venue in Vancouver listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | FundRaver for Palestine: Open Decks |  |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-the-closet/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-the-closet/)*

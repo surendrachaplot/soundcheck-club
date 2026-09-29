@@ -1,6 +1,6 @@
 # MADDYY
 
-MADDYY is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BABY01, Berlin on Sat, 10 Oct 2026.
+MADDYY is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BABY01, Berlin on Sat, 10 Oct 2026.
 
 MADDYY is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Ady Toledano, Bizzarro Universe and Cook Strummer. Next up: BABY01, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ MADDYY is a house and electronica artist based in United Kingdom, tracked on sou
 
 Ady Toledano, Bizzarro Universe, Cook Strummer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maddyy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maddyy/)*

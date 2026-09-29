@@ -1,6 +1,6 @@
 # WENG (2)
 
-WENG (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pangea, Montreal on Fri, 16 Oct 2026.
+WENG (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Pangea, Montreal on Fri, 16 Oct 2026.
 
 WENG is a techno and hardcore artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside A_C_E., Axel Esphinoza and Doruksen. Next up: Pangea, Montreal on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ WENG is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 A_C_E., Axel Esphinoza, Doruksen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weng-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weng-2/)*

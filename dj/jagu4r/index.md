@@ -1,6 +1,6 @@
 # JAGU4R
 
-JAGU4R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lore, Atlanta on Fri, 2 Oct 2026.
+JAGU4R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lore, Atlanta on Fri, 2 Oct 2026.
 
 JAGU4R is a techno and trance artist tracked on soundcheck, with 7 sets logged across Atlanta, New York City and Washington DC. Often billed alongside Cyb3r Bull, DJ Firmeza and DJ Marfox. Next up: Lore, Atlanta on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ JAGU4R is a techno and trance artist tracked on soundcheck, with 7 sets logged a
 
 Cyb3r Bull, DJ Firmeza, DJ Marfox
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*

@@ -1,6 +1,6 @@
 # TMH Tranzit
 
-TMH Tranzit is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+TMH Tranzit is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
 TMH Tranzit is a techno and experimental artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across Berlin and Prague. Often billed alongside RAVING zebra, Adam Vandal and EMIRI TSUKUI. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ TMH Tranzit is a techno and experimental artist based in Czech Republic, tracked
 
 RAVING zebra, Adam Vandal, EMIRI TSUKUI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tmhtranzit/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tmhtranzit/)*

@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Avalon Emerson is a techno and house artist based in United States of America, tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Avalon Emerson is a techno and house artist based in United States of America, t
 
 Sedef Adasï, BASHKKA, Aurora Halal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

@@ -1,6 +1,6 @@
 # MVHY
 
-MVHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
+MVHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
 MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, New York City, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Natuta. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 La Schmock, DJ City, Natuta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*

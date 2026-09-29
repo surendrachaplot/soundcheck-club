@@ -1,6 +1,6 @@
 # Tommy Cross
 
-Tommy Cross is a Dub Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
+Tommy Cross is a Dub Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
 
 Tommy Cross is a dub techno and house artist tracked on soundcheck, with 39 sets logged across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: renae, Manchester on Tue 29 Sept.
 
@@ -26,4 +26,4 @@ Tommy Cross is a dub techno and house artist tracked on soundcheck, with 39 sets
 
 AdomasLP, MEMP3, Ruf Dug
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*

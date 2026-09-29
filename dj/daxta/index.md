@@ -1,6 +1,6 @@
 # Daxta
 
-Daxta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Riviera, Madrid on Sat, 5 Dec 2026.
+Daxta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Riviera, Madrid on Sat, 5 Dec 2026.
 
 Daxta is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 17 sets logged across Boston, Bristol, Cologne and Denver and 9 more. Often billed alongside Camo & Krooked, Mefjus and Pola & Bryson. Next up: La Riviera, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Daxta is a drum & bass and jungle artist based in Germany, tracked on soundcheck
 
 Camo & Krooked, Mefjus, Pola & Bryson
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxta/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxta/)*

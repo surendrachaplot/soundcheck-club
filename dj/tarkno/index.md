@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
+Tarkno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
 
 Tarkno is a techno and house artist based in Australia, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 31 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Klub K4, Ljubljana on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tarkno is a techno and house artist based in Australia, tracked on soundcheck, w
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

@@ -1,6 +1,6 @@
 # DJ Autumn
 
-DJ Autumn is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ikii, Berlin on Fri, 9 Oct 2026.
+DJ Autumn is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ikii, Berlin on Fri, 9 Oct 2026.
 
 DJ Autumn is a bass and club artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Banoffee Pies, MLE (UK) and La Dame. Next up: Ikii, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Autumn is a bass and club artist based in United Kingdom, tracked on soundche
 
 Banoffee Pies, MLE (UK), La Dame
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djautumn/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djautumn/)*

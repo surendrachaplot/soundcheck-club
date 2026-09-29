@@ -1,6 +1,6 @@
 # Gabriel Brasil
 
-Gabriel Brasil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
+Gabriel Brasil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
 
 Gabriel Brasil is a house and techno artist based in Brazil, tracked on soundcheck, with 18 sets logged across Amsterdam, Lisbon and Sao Paulo. Often billed alongside Gui Boratto, Kirilski and Snooz. Next up: Village Underground Lisboa, Lisbon on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Gabriel Brasil is a house and techno artist based in Brazil, tracked on soundche
 
 Gui Boratto, Kirilski, Snooz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbrasil/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbrasil/)*

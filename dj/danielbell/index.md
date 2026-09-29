@@ -1,14 +1,15 @@
 # Daniel Bell
 
-Daniel Bell is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Sat, 3 Oct 2026.
+Daniel Bell is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at WOMB, Tokyo on Sat, 3 Oct 2026.
 
-Daniel Bell is a house and techno artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Erika, BMG and Mike Servito. Next up: WOMB, Tokyo on Sat 3 Oct.
+Daniel Bell is a house and techno artist based in United States of America, tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Erika, BMG and Mike Servito. Next up: WOMB, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | WOMB | Tokyo |
+| Sat, 10 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 16 Oct 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | Tresor / Globus | Berlin |
@@ -16,6 +17,7 @@ Daniel Bell is a house and techno artist based in United States of America, trac
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 6 Nov 2026 | Vibehaus ATX | Austin |
+| Fri, 20 Nov 2026 | TBA - Secret Location | New York City |
 
 ## Recently played
 
@@ -32,4 +34,4 @@ Daniel Bell is a house and techno artist based in United States of America, trac
 
 Erika, BMG, Mike Servito
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

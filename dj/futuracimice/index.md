@@ -1,6 +1,6 @@
 # futura cimice
 
-futura cimice is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Panke, Berlin on Fri, 30 Oct 2026.
+futura cimice is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Panke, Berlin on Fri, 30 Oct 2026.
 
 futura cimice is a bass and hip-hop artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Fukinsei, Atoloi and Entangled Auch. Next up: Panke, Berlin on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ futura cimice is a bass and hip-hop artist tracked on soundcheck, with 4 sets lo
 
 Fukinsei, Atoloi, Entangled Auch
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futuracimice/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futuracimice/)*

@@ -1,6 +1,6 @@
 # Flemish.Fetish
 
-Flemish.Fetish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Flemish.Fetish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Flemish.Fetish is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Antwerp, Berlin, Brussels and Munich and 2 more. Often billed alongside Jana Falcon, ADAM MUNNINGS and VRTL. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Flemish.Fetish is a house and techno artist based in Germany, tracked on soundch
 
 Jana Falcon, ADAM MUNNINGS, VRTL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*

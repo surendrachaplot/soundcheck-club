@@ -1,6 +1,6 @@
 # Late London
 
-Late London is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spybar, Chicago on Thu, 15 Oct 2026.
+Late London is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Spybar, Chicago on Thu, 15 Oct 2026.
 
 Late London is a house and tech house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago, Miami, Philadelphia and Washington DC. Often billed alongside Fátima, J. Park and Jackie Hollander. Next up: Spybar, Chicago on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Late London is a house and tech house artist based in United States of America, 
 
 Fátima, J. Park, Jackie Hollander
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latelondon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latelondon/)*

@@ -1,6 +1,6 @@
 # Wehbba
 
-Wehbba is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Wehbba is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Wehbba is a techno and tech house artist based in Brazil, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Alex Stein, Eli Brown and Victor Ruiz. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Wehbba is a techno and tech house artist based in Brazil, tracked on soundcheck,
 
 Alex Stein, Eli Brown, Victor Ruiz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wehbba/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wehbba/)*

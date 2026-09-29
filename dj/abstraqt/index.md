@@ -1,6 +1,6 @@
 # abstraqt
 
-abstraqt is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 90mil, Berlin on Sat, 14 Nov 2026.
+abstraqt is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 90mil, Berlin on Sat, 14 Nov 2026.
 
 abstraqt is a house and ambient artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Miri Malek, NaN. and Akiï. Next up: 90mil, Berlin on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ abstraqt is a house and ambient artist tracked on soundcheck, with 5 sets logged
 
 Miri Malek, NaN., Akiï
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraqt/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraqt/)*

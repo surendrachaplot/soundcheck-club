@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 John T. Gast is an experimental and dub artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ John T. Gast is an experimental and dub artist based in United Kingdom, tracked 
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

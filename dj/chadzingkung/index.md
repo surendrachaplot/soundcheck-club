@@ -1,6 +1,6 @@
 # Chadzing Kung
 
-Chadzing Kung is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Eastway Baths, London on Thu, 15 Oct 2026.
+Chadzing Kung is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Eastway Baths, London on Thu, 15 Oct 2026.
 
 Chadzing Kung is an electronica and ambient artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside GRE9, 76 % and ChunS!ut. Next up: Eastway Baths, London on Thu 15 Oct.
 
@@ -19,4 +19,4 @@ Chadzing Kung is an electronica and ambient artist based in United Kingdom, trac
 
 GRE9, 76 %, ChunS!ut
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chadzingkung/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chadzingkung/)*

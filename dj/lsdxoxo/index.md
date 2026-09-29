@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Cause, London on Sat, 3 Oct 2026.
+LSDXOXO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Cause, London on Sat, 3 Oct 2026.
 
 LSDXOXO is a techno and house artist based in United States of America, tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: The Cause, London on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ LSDXOXO is a techno and house artist based in United States of America, tracked 
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

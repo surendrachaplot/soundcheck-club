@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Belgrave Music Hall, Leeds on Fri, 2 Oct 2026.
+Kylie Wears Berghaus is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Belgrave Music Hall, Leeds on Fri, 2 Oct 2026.
 
 Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Acid Sally, Adiel and Alousea. Next up: Belgrave Music Hall, Leeds on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 
 Acid Sally, Adiel, Alousea
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

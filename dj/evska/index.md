@@ -1,6 +1,6 @@
 # EVSKA
 
-EVSKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bread and Butter, London on Sat, 19 Dec 2026.
+EVSKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bread and Butter, London on Sat, 19 Dec 2026.
 
 EVSKA is a techno and house artist based in Poland, tracked on soundcheck, with 31 sets logged across Edinburgh, London and Warsaw. Often billed alongside ROXAN (UK), SADOVSKI and Katelate. Next up: Bread and Butter, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ EVSKA is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 ROXAN (UK), SADOVSKI, Katelate
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evska/)*

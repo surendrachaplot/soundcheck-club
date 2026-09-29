@@ -1,6 +1,6 @@
 # PARIS (AU)
 
-PARIS (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Petco Park, San-diego on Thu, 31 Dec 2026.
+PARIS (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 PARIS (AU) is a techno and house artist tracked on soundcheck, with 45 sets logged across Barcelona, Brisbane, Cologne and Geneva and 7 more. Often billed alongside TBA, Moulin and After X. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ PARIS (AU) is a techno and house artist tracked on soundcheck, with 45 sets logg
 
 TBA, Moulin, After X
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parisau/)*

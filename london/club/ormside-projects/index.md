@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola" on Thu, 1 Oct 2026.
+Ormside Projects is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola" on Thu, 1 Oct 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including amil raja, Appleblim, Beatrice M. and Buckley (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

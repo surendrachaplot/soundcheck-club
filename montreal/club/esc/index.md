@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Tangerine" on Thu, 1 Oct 2026.
+ESC is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Tangerine" on Thu, 1 Oct 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including abel.aiff, BADJUDA, BINKY and Brendocha and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -18,4 +18,4 @@ ESC is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with lin
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

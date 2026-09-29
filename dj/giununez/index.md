@@ -1,14 +1,15 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Funilaria Bixiga, Sao Paulo on Sat, 3 Oct 2026.
+Giu Nunez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Funilaria Bixiga, Sao Paulo on Sat, 3 Oct 2026.
 
-Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Craig Ouar, Zopelar and Anacalypto. Next up: Funilaria Bixiga, Sao Paulo on Sat 3 Oct.
+Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Brazil and Lisbon and 9 more. Often billed alongside Craig Ouar, Mendel and Zopelar. Next up: Funilaria Bixiga, Sao Paulo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Funilaria Bixiga | Sao Paulo |
+| Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Craig Ouar, Zopelar, Anacalypto
+Craig Ouar, Mendel, Zopelar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

@@ -1,6 +1,6 @@
 # Secrets
 
-Secrets is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Fri, 2 Oct 2026.
+Secrets is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Spkrbox, Detroit on Fri, 2 Oct 2026.
 
 Secrets is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Chicago and Detroit. Often billed alongside DJ Psycho, E Spleece and Tylr. Next up: Spkrbox, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Secrets is a house and techno artist based in United States of America, tracked 
 
 DJ Psycho, E Spleece, Tylr
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secrets/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secrets/)*

@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Music City: Neil Macc, Jay Boogie, Jon Elliott" on Wed, 30 Sept 2026.
+Jupiter Disco is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Music City: Neil Macc, Jay Boogie, Jon Elliott" on Wed, 30 Sept 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 23 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

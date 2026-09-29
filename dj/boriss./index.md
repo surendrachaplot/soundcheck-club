@@ -1,6 +1,6 @@
 # Boris S.
 
-Boris S. is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Boris S. is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Boris S. is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne, Madrid and Zurich. Often billed alongside Alienata, BIIA and BLANKA. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Boris S. is a techno artist based in Germany, tracked on soundcheck, with 3 sets
 
 Alienata, BIIA, BLANKA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriss./)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriss./)*

@@ -1,6 +1,6 @@
 # Gigi
 
-Gigi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Gigi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Gigi is a techno and house artist tracked on soundcheck, with 30 sets logged across Auckland, Barcelona, London and Los Angeles and 9 more. Often billed alongside Ika (GE), Angelo Mike and Ash Scholem. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Gigi is a techno and house artist tracked on soundcheck, with 30 sets logged acr
 
 Ika (GE), Angelo Mike, Ash Scholem
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi/)*

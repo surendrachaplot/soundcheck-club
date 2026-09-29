@@ -1,6 +1,6 @@
 # Arsenal Mikebe
 
-Arsenal Mikebe is a Amapiano and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bimhuis, Amsterdam on Fri, 23 Oct 2026.
+Arsenal Mikebe is a Amapiano and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bimhuis, Amsterdam on Fri, 23 Oct 2026.
 
 Arsenal Mikebe is an amapiano and post-punk artist based in Uganda, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Bristol and Brussels and 4 more. Often billed alongside Mad Professor, DjRUM and Eris Drew. Next up: Bimhuis, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Arsenal Mikebe is an amapiano and post-punk artist based in Uganda, tracked on s
 
 Mad Professor, DjRUM, Eris Drew
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

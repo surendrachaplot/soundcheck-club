@@ -1,6 +1,6 @@
 # Aisling
 
-Aisling is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Sat, 17 Oct 2026.
+Aisling is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Sat, 17 Oct 2026.
 
 Aisling is a house and techno artist based in Ireland, tracked on soundcheck, with 19 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside MARINI, Binx and Danny Vito. Next up: The Glove That Fits, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aisling is a house and techno artist based in Ireland, tracked on soundcheck, wi
 
 MARINI, Binx, Danny Vito
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisling/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisling/)*

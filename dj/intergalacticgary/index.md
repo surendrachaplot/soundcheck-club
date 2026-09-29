@@ -1,6 +1,6 @@
 # Intergalactic Gary
 
-Intergalactic Gary is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at H0L0, New York City on Sat, 17 Oct 2026.
+Intergalactic Gary is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at H0L0, New York City on Sat, 17 Oct 2026.
 
 Intergalactic Gary is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 17 more. Often billed alongside I-F, Marsman and Mowgli (NL). Next up: H0L0, New York City on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Intergalactic Gary is an italo disco and disco artist based in Netherlands, trac
 
 I-F, Marsman, Mowgli (NL)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*

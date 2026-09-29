@@ -1,6 +1,6 @@
 # Eli Ercolani
 
-Eli Ercolani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 9 Oct 2026.
+Eli Ercolani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 9 Oct 2026.
 
 Eli Ercolani is a house and techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Guille Gironde and Enzo Lira. Next up: DETROIT CLUB, Barcelona on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Eli Ercolani is a house and techno artist based in Italy, tracked on soundcheck,
 
 Guille Gironde (2), Enzo Lira
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliercolani/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliercolani/)*

@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw" on Sun, 11 Oct 2026.
+Cassiopeia is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw" on Sun, 11 Oct 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Jetset, Megaira, Patchy and TANZBAER and 1 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

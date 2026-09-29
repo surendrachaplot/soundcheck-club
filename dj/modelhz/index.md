@@ -1,6 +1,6 @@
 # Model Hz
 
-Model Hz is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Gare / Le Gore, Paris on Sun, 27 Sept 2026.
+Model Hz is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Gare / Le Gore, Paris on Sun, 27 Sept 2026.
 
 Model Hz is a techno artist tracked on soundcheck, with 3 sets logged across Paris. Often billed alongside SUCCUBUS, GOTIS and Mechanism C.. Next up: La Gare / Le Gore, Paris on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Model Hz is a techno artist tracked on soundcheck, with 3 sets logged across Par
 
 SUCCUBUS, GOTIS, Mechanism C.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modelhz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modelhz/)*

@@ -1,6 +1,6 @@
 # carrà
 
-carrà is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 1 Oct 2026.
+carrà is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 1 Oct 2026.
 
 carrà is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin, Brussels and Paris. Often billed alongside In-Tan, LG JASPER <3 and Sinan Varol. Next up: La Gare / Le Gore, Paris on Thu 1 Oct.
 
@@ -20,4 +20,4 @@ carrà is a techno and house artist tracked on soundcheck, with 4 sets logged ac
 
 In-Tan, LG JASPER <3, Sinan Varol
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrà/)*

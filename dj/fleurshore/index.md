@@ -1,6 +1,6 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
+Fleur Shore is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 Fleur Shore is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 186 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside Archie Hamilton, Jamie Jones and Mason Collective. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Fleur Shore is a house and tech house artist based in United Kingdom, tracked on
 
 Archie Hamilton, Jamie Jones, Mason Collective
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Chow Lee Album Release Show" on Tue, 29 Sept 2026.
+SOBs is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Chow Lee Album Release Show" on Tue, 29 Sept 2026.
 
 SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 444, Joon, Token and VANI. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

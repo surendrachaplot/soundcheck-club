@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+KLOUD is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 KLOUD is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 38 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ KLOUD is a techno and house artist based in United States of America, tracked on
 
 Lola Cerise, Kander, DJ Heartstring
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

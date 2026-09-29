@@ -1,6 +1,6 @@
 # Miss Nasty
 
-Miss Nasty is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 9 Oct 2026.
+Miss Nasty is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 9 Oct 2026.
 
 Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Amsterdam, Munich, Utrecht and Vienna. Often billed alongside Kapote, Arpy Brown and Sam Ruffillo. Next up: KABUL à GoGo, Utrecht on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Miss Nasty is a disco and house artist based in Austria, tracked on soundcheck, 
 
 Kapote, Arpy Brown, Sam Ruffillo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missnasty/)*

@@ -1,6 +1,6 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Cole Knight is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Cole Knight is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Cole Knight is a house and techno artist based in United States of America, trac
 
 Jamie Jones, Ben Sterling, Ms. Mada
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*

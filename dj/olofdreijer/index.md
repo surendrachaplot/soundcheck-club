@@ -1,6 +1,6 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sleeping Village, Chicago on Wed, 30 Sept 2026.
+Olof Dreijer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sleeping Village, Chicago on Wed, 30 Sept 2026.
 
 Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Sleeping Village, Chicago on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 
 Ben UFO, Suze Ijó, nonsuit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*

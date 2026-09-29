@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA" on Fri, 2 Oct 2026.
+M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA" on Fri, 2 Oct 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Allexandra, Azura, Basstronauten and Bliss and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

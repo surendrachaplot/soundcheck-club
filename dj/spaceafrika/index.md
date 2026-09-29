@@ -1,14 +1,14 @@
 # Space Afrika
 
-Space Afrika is a Experimental and Ambient artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - FACT Liverpool, Liverpool on Tue, 29 Sept 2026.
+Space Afrika is a Experimental and Ambient artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at FACT Liverpool, Liverpool on Tue, 29 Sept 2026.
 
-Space Afrika is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Helena Hauff, Loraine James and Rainy Miller. Next up: TBA - FACT Liverpool, Liverpool on Tue 29 Sept.
+Space Afrika is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Helena Hauff, Loraine James and Rainy Miller. Next up: FACT Liverpool, Liverpool on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | TBA - FACT Liverpool | Liverpool |
+| Tue, 29 Sept 2026 | FACT Liverpool | Liverpool |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sun, 11 Oct 2026 | TBA | Krakow |
 | Thu, 22 Oct 2026 | Volksbühne | Berlin |
@@ -33,4 +33,4 @@ Space Afrika is an experimental and ambient artist based in United Kingdom, trac
 
 Helena Hauff, Loraine James, Rainy Miller
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*

@@ -1,6 +1,6 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KLØBB Ka2 // Pumpehuset" on Sat, 3 Oct 2026.
+Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "KLØBB Ka2 // Pumpehuset" on Sat, 3 Oct 2026.
 
 Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Cassius, Conway, MASIV and nimino and 1 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
@@ -19,4 +19,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs,
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

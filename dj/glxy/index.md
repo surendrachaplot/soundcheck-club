@@ -1,14 +1,15 @@
 # GLXY
 
-GLXY is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+GLXY is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-GLXY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Duskee, Monrroe and SP:MC. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+GLXY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside Duskee, Monrroe and SP:MC. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 30 Oct 2026 | Kauz | Zurich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GLXY is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Duskee, Monrroe, SP:MC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*

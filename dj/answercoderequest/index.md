@@ -1,8 +1,8 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
+Answer Code Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
 
-Answer Code Request is a techno and house artist based in Germany, tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Bali and Bangkok and 39 more. Often billed alongside Amotik, Barker and Oracy. Next up: Schwuz, Berlin on Thu 1 Oct.
+Answer Code Request is a techno and house artist based in Germany, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Bali and Bangkok and 39 more. Often billed alongside Amotik, Barker and Oracy. Next up: Schwuz, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Answer Code Request is a techno and house artist based in Germany, tracked on so
 | Thu, 1 Oct 2026 | Schwuz | Berlin |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Nitsa Club | Barcelona |
+| Fri, 23 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Answer Code Request is a techno and house artist based in Germany, tracked on so
 
 Amotik, Barker, Oracy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

@@ -1,6 +1,6 @@
 # Swindle (UK)
 
-Swindle (UK) is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+Swindle (UK) is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
 Swindle (UK) is a bass and grime artist tracked on soundcheck, with 4 sets logged across London, Manchester and North Island. Often billed alongside 4am Kru, A Little Sound and Ama (UK). Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
@@ -20,4 +20,4 @@ Swindle (UK) is a bass and grime artist tracked on soundcheck, with 4 sets logge
 
 4am Kru, A Little Sound, Ama (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swindle-uk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swindle-uk/)*

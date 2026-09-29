@@ -1,6 +1,6 @@
 # GAZZA (UK)
 
-GAZZA (UK) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
+GAZZA (UK) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
 GAZZA (UK) is a house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside OMC (UK), Ardishko and NAFEESA. Next up: The Glove That Fits, London on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ GAZZA (UK) is a house artist based in United Kingdom, tracked on soundcheck, wit
 
 OMC (UK), Ardishko, NAFEESA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzauk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazzauk/)*

@@ -1,6 +1,6 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Pola & Bryson is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Pola & Bryson are a drum & bass and bass duo based in United Kingdom, tracked on soundcheck, with 71 sets logged across Auckland, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Camo & Krooked, Emily Makis and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Pola & Bryson are a drum & bass and bass duo based in United Kingdom, tracked on
 
 Camo & Krooked, Emily Makis, Hybrid Minds
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

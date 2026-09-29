@@ -1,6 +1,6 @@
 # Isabella-Rose
 
-Isabella-Rose is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Rebellion, Manchester on Fri, 23 Oct 2026.
+Isabella-Rose is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rebellion, Manchester on Fri, 23 Oct 2026.
 
 Isabella-Rose is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Joe Mac, 2CUTE2CUE and Baba Sketch. Next up: Rebellion, Manchester on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Isabella-Rose is a hardcore and jungle artist based in United Kingdom, tracked o
 
 Joe Mac, 2CUTE2CUE, Baba Sketch
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-rose/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-rose/)*

@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 10 Oct 2026.
+Kolter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 10 Oct 2026.
 
 Kolter is a house and tech house artist based in Germany, tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside Jamback, East End Dubs and M-High. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kolter is a house and tech house artist based in Germany, tracked on soundcheck,
 
 Jamback, East End Dubs, M-High
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

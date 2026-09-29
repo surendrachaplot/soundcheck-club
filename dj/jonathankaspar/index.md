@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
+Jonathan Kaspar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
 
 Jonathan Kaspar is a house and techno artist based in Germany, tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Mano Le Tough and Robag Wruhme. Next up: La Terrrazza, Barcelona on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Jonathan Kaspar is a house and techno artist based in Germany, tracked on soundc
 
 Mira, Mano Le Tough, Robag Wruhme
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

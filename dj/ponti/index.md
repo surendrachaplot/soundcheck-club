@@ -1,6 +1,6 @@
 # Pønti
 
-Pønti is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
+Pønti is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
 
 Pønti is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Amo (IT), Bruno Brero and Vaneska. Next up: ÆDEN, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Pønti is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Amo (IT), Bruno Brero, Vaneska
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponti/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponti/)*

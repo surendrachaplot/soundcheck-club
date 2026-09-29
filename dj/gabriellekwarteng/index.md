@@ -1,14 +1,13 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Headrow House, Leeds on Fri, 2 Oct 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Auckland and Bali and 60 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: DC-10, Ibiza on Mon 28 Sept.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Auckland and Bali and 60 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Headrow House, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Fri, 2 Oct 2026 | Headrow House | Leeds |
 | Fri, 9 Oct 2026 | FORGE | Sheffield |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
@@ -20,9 +19,11 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
+| Sat, 5 Dec 2026 | TBA | Mexico City |
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 28 Sept 2026
 - Jasna 1, Warsaw — Fri, 25 Sept 2026
 - Flash, Washington DC — Sun, 20 Sept 2026
 - BASEMENT, New York City — Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 - Westhafen, Leipzig — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Skatecafe, Amsterdam — Fri, 4 Sept 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

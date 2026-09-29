@@ -1,6 +1,6 @@
 # KhoMha
 
-KhoMha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+KhoMha is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 KhoMha is a techno and trance artist tracked on soundcheck, with 4 sets logged across Medellin, Miami, San Francisco/Oakland and Toronto. Often billed alongside Diossa, AISHA and ANNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ KhoMha is a techno and trance artist tracked on soundcheck, with 4 sets logged a
 
 Diossa, AISHA, ANNA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khomha/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khomha/)*

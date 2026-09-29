@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hollywood Theatre, Vancouver on Tue, 29 Sept 2026.
+Tricky is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hollywood Theatre, Vancouver on Tue, 29 Sept 2026.
 
 Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 7 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: Hollywood Theatre, Vancouver on Tue 29 Sept.
 
@@ -26,4 +26,4 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, tracked on
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

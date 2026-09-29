@@ -1,6 +1,6 @@
 # SERRATI
 
-SERRATI is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Motel Campo, Geneva on Sat, 7 Nov 2026.
+SERRATI is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Motel Campo, Geneva on Sat, 7 Nov 2026.
 
 SERRATI is a techno and acid artist tracked on soundcheck, with 3 sets logged across Geneva. Often billed alongside Alex Nantaya, KAEL and Lars Huismann. Next up: Motel Campo, Geneva on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ SERRATI is a techno and acid artist tracked on soundcheck, with 3 sets logged ac
 
 Alex Nantaya, KAEL (1), Lars Huismann
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrati/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrati/)*

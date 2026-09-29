@@ -1,6 +1,6 @@
 # Omar Fayyad
 
-Omar Fayyad is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Tunisia on Fri, 27 Nov 2026.
+Omar Fayyad is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Omar Fayyad is a house artist based in Egypt, tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona, Berlin and Tbilisi and 1 more. Often billed alongside BEQA, Barbara Preisinger and Bas Ibellini. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Omar Fayyad is a house artist based in Egypt, tracked on soundcheck, with 5 sets
 
 BEQA, Barbara Preisinger, Bas Ibellini
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*

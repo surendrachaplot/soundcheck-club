@@ -1,6 +1,6 @@
 # Vince LaSalle
 
-Vince LaSalle is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Last Arch, London on Fri, 30 Oct 2026.
+Vince LaSalle is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Last Arch, London on Fri, 30 Oct 2026.
 
 Vince LaSalle is a grime and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside HiFever, Luke Mannion and Ryan Nicholls. Next up: Last Arch, London on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Vince LaSalle is a grime and house artist based in United Kingdom, tracked on so
 
 HiFever, Luke Mannion, Ryan Nicholls
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincelasalle/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincelasalle/)*

@@ -1,6 +1,6 @@
 # Hexen
 
-Hexen is a Ambient and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Hexen is a Ambient and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
 Hexen is an ambient and progressive house artist tracked on soundcheck, with 5 sets logged across Berlin, Prague and Saxony Anhalt. Often billed alongside Early Bird, FREIGEISTER and GOLD. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Hexen is an ambient and progressive house artist tracked on soundcheck, with 5 s
 
 Early Bird, FREIGEISTER, GOLD (4)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hexen/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hexen/)*

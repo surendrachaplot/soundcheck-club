@@ -1,6 +1,6 @@
 # Nitefield
 
-Nitefield is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
+Nitefield is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Madam, Amsterdam on Sat, 28 Nov 2026.
 
 Nitefield is a tech house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam. Often billed alongside Stephen William, andela and Julian Justin. Next up: Madam, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nitefield is a tech house artist based in Netherlands, tracked on soundcheck, wi
 
 Stephen William, andela, Julian Justin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefield/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefield/)*

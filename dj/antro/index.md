@@ -1,6 +1,6 @@
 # ANTRO
 
-ANTRO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Wed, 30 Sept 2026.
+ANTRO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ÆDEN, Berlin on Wed, 30 Sept 2026.
 
 ANTRO is a techno and house artist based in Finland, tracked on soundcheck, with 11 sets logged across Berlin and Helsinki. Often billed alongside PHLOXO, HAUSBRAND and NØSARA. Next up: ÆDEN, Berlin on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ ANTRO is a techno and house artist based in Finland, tracked on soundcheck, with
 
 PHLOXO, HAUSBRAND, NØSARA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*

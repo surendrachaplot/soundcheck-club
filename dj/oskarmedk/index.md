@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
+oskar med k is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
 
 oskar med k is a house and deep house artist based in Norway, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ oskar med k is a house and deep house artist based in Norway, tracked on soundch
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
+Francis Mercier is a Afro House and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 28 Sept.
+Francis Mercier is an afro house and house artist based in United States of America, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sun, 11 Oct 2026 | Pacha New York | New York City |
@@ -22,6 +21,7 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Mon, 28 Sept 2026
 - Bloody Louis, Brussels — Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 21 Sept 2026
 - Reframe Studios Indoors, Los Angeles — Sat, 19 Sept 2026
@@ -29,10 +29,9 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 - Lula Club, Madrid — Sun, 13 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 7 Sept 2026
 - TBA - The Port Lands, Toronto — Sun, 6 Sept 2026
-- TBA - The Port Lands, Toronto — Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

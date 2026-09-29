@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Mexico City on Sun, 4 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Mexico City on Sun, 4 Oct 2026.
 
 Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 37 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: TBA, Mexico City on Sun 4 Oct.
 
@@ -30,4 +30,4 @@ Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundchec
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

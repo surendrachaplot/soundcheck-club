@@ -1,6 +1,6 @@
 # Montonn Jira
 
-Montonn Jira is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Montonn Jira is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Montonn Jira is an idm and experimental artist based in Thailand, tracked on soundcheck, with 2 sets logged across Bangkok and Tokyo. Often billed alongside Club Mascot, DJ Dragon and DJ Praw. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Montonn Jira is an idm and experimental artist based in Thailand, tracked on sou
 
 Club Mascot, DJ Dragon, DJ Praw
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montonnjira/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montonnjira/)*

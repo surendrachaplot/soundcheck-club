@@ -1,6 +1,6 @@
 # Mitomi Tokoto
 
-Mitomi Tokoto is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
+Mitomi Tokoto is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
 Mitomi Tokoto is a house and progressive house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside YOSHIMASA, AY and Axwell. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ Mitomi Tokoto is a house and progressive house artist based in Japan, tracked on
 
 YOSHIMASA, AY (10), Axwell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitomitokoto/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitomitokoto/)*

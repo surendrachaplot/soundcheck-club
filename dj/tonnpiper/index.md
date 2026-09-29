@@ -1,6 +1,6 @@
 # Tonn Piper
 
-Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Tonn Piper is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Austin and Birmingham and 22 more. Often billed alongside Andy C, IC3 and Mozey. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tonn Piper is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Andy C, IC3, Mozey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*

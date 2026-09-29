@@ -1,6 +1,6 @@
 # Paul Seul
 
-Paul Seul is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Paul Seul is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Brussels and 15 more. Often billed alongside Glayden, Von Bikräv and Goffbaby. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck
 
 Glayden, Von Bikräv, Goffbaby
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*

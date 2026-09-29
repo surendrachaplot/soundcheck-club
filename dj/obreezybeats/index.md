@@ -1,6 +1,6 @@
 # Obreezy Beats
 
-Obreezy Beats is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
+Obreezy Beats is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 Obreezy Beats is a club and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia and Vancouver. Often billed alongside RESONATE.JPEG, Speed.FM and Kissel. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Obreezy Beats is a club and techno artist based in United States of America, tra
 
 RESONATE.JPEG, Speed.FM, Kissel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obreezybeats/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obreezybeats/)*

@@ -1,6 +1,6 @@
 # Hélène Vogelsinger
 
-Hélène Vogelsinger is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Auditorium San Fedele, Milan on Mon, 26 Oct 2026.
+Hélène Vogelsinger is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Auditorium San Fedele, Milan on Mon, 26 Oct 2026.
 
 Hélène Vogelsinger is an electronica and experimental artist based in France, tracked on soundcheck, with 3 sets logged across Belgrade, Milan and Mykonos. Often billed alongside Ben Vince, Bortnique and Fibra Vrgov. Next up: Auditorium San Fedele, Milan on Mon 26 Oct.
 
@@ -19,4 +19,4 @@ Hélène Vogelsinger is an electronica and experimental artist based in France, 
 
 Ben Vince, Bortnique, Fibra Vrgov
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenevogelsinger/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenevogelsinger/)*

@@ -1,6 +1,6 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+upsammy is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 upsammy is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ upsammy is a techno and experimental artist based in Netherlands, tracked on sou
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

@@ -1,6 +1,6 @@
 # Oldshoes
 
-Oldshoes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hertz, Seoul on Fri, 2 Oct 2026.
+Oldshoes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hertz, Seoul on Fri, 2 Oct 2026.
 
 Oldshoes is a house and techno artist tracked on soundcheck, with 97 sets logged across Seoul and Tokyo. Often billed alongside denny, Acidwork and Jucid. Next up: Hertz, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Oldshoes is a house and techno artist tracked on soundcheck, with 97 sets logged
 
 denny, Acidwork, Jucid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*

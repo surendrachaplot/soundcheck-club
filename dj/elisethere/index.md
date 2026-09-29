@@ -1,6 +1,6 @@
 # EliseThere
 
-EliseThere is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at UMI, Brussels on Sat, 10 Oct 2026.
+EliseThere is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at UMI, Brussels on Sat, 10 Oct 2026.
 
 EliseThere is a dub and bass artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside STDJ, ojoo and Maliman. Next up: UMI, Brussels on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ EliseThere is a dub and bass artist based in Belgium, tracked on soundcheck, wit
 
 STDJ, ojoo, Maliman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisethere/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisethere/)*

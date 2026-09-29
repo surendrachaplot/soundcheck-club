@@ -1,6 +1,6 @@
 # Carlo Sine
 
-Carlo Sine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
+Carlo Sine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
 
 Carlo Sine is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Barcelona, Boston and New York City. Often billed alongside Andrey Trofimov, Loren Berrier and My Dude. Next up: Jupiter Disco, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Carlo Sine is a house and techno artist based in United States of America, track
 
 Andrey Trofimov, Loren Berrier, My Dude
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*

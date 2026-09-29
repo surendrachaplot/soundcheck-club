@@ -1,6 +1,6 @@
 # fongkikid
 
-fongkikid is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
+fongkikid is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
 
 fongkikid is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Montreal and Toronto. Often billed alongside Garden of Magic, Honeydrip and Orange Moon. Next up: TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ fongkikid is a techno and experimental artist based in United Kingdom, tracked o
 
 Garden of Magic, Honeydrip, Orange Moon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fongkikid/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fongkikid/)*

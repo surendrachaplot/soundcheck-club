@@ -1,18 +1,18 @@
 # lisa tba
 
-lisa tba is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
+lisa tba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OXI, Berlin on Thu, 22 Oct 2026.
 
-lisa tba is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
+lisa tba is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: OXI, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | OXI | Berlin |
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Mon, 28 Sept 2026
 - Jonny Knüppel, Berlin — Fri, 25 Sept 2026
 - ://about blank, Berlin — Fri, 18 Sept 2026
 - Renate, Berlin — Fri, 11 Sept 2026
@@ -20,10 +20,9 @@ lisa tba is a techno and house artist based in Germany, tracked on soundcheck, w
 - Tempelhof Airport, Berlin — Sat, 1 Aug 2026
 - Südpol, Hamburg — Sat, 23 May 2026
 - Jonny Knüppel, Berlin — Fri, 15 May 2026
-- ://about blank, Berlin — Sat, 2 May 2026
 
 ## Shares bills with
 
 Bamela Paywatch, Gwen Wayne, AGILY
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*

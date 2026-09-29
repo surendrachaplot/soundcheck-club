@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Tausend Electronica: CEEE" on Thu, 1 Oct 2026.
+Tausend is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Tausend Electronica: CEEE" on Thu, 1 Oct 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Bombata, CEEE, LIZZN and Mambi Dexter and 1 more. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

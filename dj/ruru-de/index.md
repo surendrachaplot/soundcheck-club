@@ -1,6 +1,6 @@
 # ruru (1)
 
-ruru (1) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Südpol, Hamburg on Fri, 23 Oct 2026.
+ruru (1) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Südpol, Hamburg on Fri, 23 Oct 2026.
 
 ruru is a house and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg and Montreal. Often billed alongside Afem Syko, HugoBass303 and NSLZ. Next up: Südpol, Hamburg on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ ruru is a house and trance artist based in Germany, tracked on soundcheck, with 
 
 Afem Syko, HugoBass303, NSLZ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruru-de/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruru-de/)*

@@ -1,6 +1,6 @@
 # Cinar
 
-Cinar is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
+Cinar is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
 
 Cinar is an afro house and house artist based in Turkey, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Yoel Telyaz, Demiralay and Gabe K. Next up: 77, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Cinar is an afro house and house artist based in Turkey, tracked on soundcheck, 
 
 Yoel Telyaz, Demiralay, Gabe K (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinar/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinar/)*

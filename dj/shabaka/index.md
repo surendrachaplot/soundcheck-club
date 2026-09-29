@@ -1,6 +1,6 @@
 # Shabaka
 
-Shabaka is a Electronica and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Shabaka is a Electronica and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Shabaka is an electronica and jazz artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Antwerp, Bristol, Chicago and Dublin and 6 more. Often billed alongside Arsenal Mikebe, John Glacier and Olof Dreijer. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Shabaka is an electronica and jazz artist based in United Kingdom, tracked on so
 
 Arsenal Mikebe, John Glacier, Olof Dreijer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabaka/)*

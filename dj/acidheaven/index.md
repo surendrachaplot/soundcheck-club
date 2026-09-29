@@ -1,6 +1,6 @@
 # acidheaven
 
-acidheaven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 9 Oct 2026.
+acidheaven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 9 Oct 2026.
 
 acidheaven is a house and techno artist based in Spain, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside ISAbella, Chico Blanco and Albal. Next up: YuYu Cine Club, Mexico City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ acidheaven is a house and techno artist based in Spain, tracked on soundcheck, w
 
 ISAbella, Chico Blanco, Albal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*

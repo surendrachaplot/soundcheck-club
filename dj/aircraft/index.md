@@ -1,22 +1,23 @@
 # Aircraft
 
-Aircraft is a New Wave and Post-Punk artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kantine am Berghain, Berlin on Mon, 28 Sept 2026.
+Aircraft is a New Wave and Post-Punk artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lieberscholli, Munich on Fri, 6 Nov 2026.
 
-Aircraft is a new wave and post-punk artist based in Ukraine, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 7 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Kantine am Berghain, Berlin on Mon 28 Sept.
+Aircraft is a new wave and post-punk artist based in Ukraine, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Lieberscholli, Munich on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Kantine am Berghain | Berlin |
 | Fri, 6 Nov 2026 | Lieberscholli | Munich |
 | Wed, 25 Nov 2026 | Hydrozagadka | Warsaw |
+| Thu, 26 Nov 2026 | TBA - MELLO | Vilnius |
 | Fri, 27 Nov 2026 | TBA - Depo | Riga |
 | Sat, 28 Nov 2026 | Fort Bar | Tallinn |
 | Sat, 5 Dec 2026 | Elfer Club | Frankfurt |
 
 ## Recently played
 
+- Kantine am Berghain, Berlin — Mon, 28 Sept 2026
 - NSDSM Treehouse, Amsterdam — Sat, 16 May 2026
 - Hydrozagadka, Warsaw — Fri, 1 May 2026
 - Theodora Extra, Barcelona — Sat, 21 Feb 2026
@@ -24,10 +25,9 @@ Aircraft is a new wave and post-punk artist based in Ukraine, tracked on soundch
 - Urban Spree, Berlin — Sun, 21 Sept 2025
 - KHIDI, Tbilisi — Sat, 8 Mar 2025
 - Sekta Selekta, Krakow — Fri, 21 Feb 2025
-- Studio dB, Berlin — Sun, 2 Feb 2025
 
 ## Shares bills with
 
 Liza Aikin, Philipp Strobel, Sakrum
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*

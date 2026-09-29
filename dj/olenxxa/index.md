@@ -1,6 +1,6 @@
 # Olenxxa
 
-Olenxxa is a Electro and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Astron Club, Athens on Fri, 2 Oct 2026.
+Olenxxa is a Electro and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Astron Club, Athens on Fri, 2 Oct 2026.
 
 Olenxxa is an electro and downtempo artist tracked on soundcheck, with 10 sets logged across Athens. Often billed alongside Taylor Savage, Miss Trouli and Turbo Teeth. Next up: Astron Club, Athens on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Olenxxa is an electro and downtempo artist tracked on soundcheck, with 10 sets l
 
 Taylor Savage, Miss Trouli, Turbo Teeth
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olenxxa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olenxxa/)*

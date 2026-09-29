@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Floyd, Miami on Fri, 9 Oct 2026.
+Laolu is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Floyd, Miami on Fri, 9 Oct 2026.
 
 Laolu is an afro house and house artist based in Switzerland, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Floyd, Miami on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Laolu is an afro house and house artist based in Switzerland, tracked on soundch
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

@@ -1,14 +1,15 @@
 # NALIITA
 
-NALIITA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Milneys, Melbourne on Fri, 2 Oct 2026.
+NALIITA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Milneys, Melbourne on Fri, 2 Oct 2026.
 
-NALIITA is a house and deep house artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Miles Ahead, Julius Myles and Emil LP. Next up: Milneys, Melbourne on Fri 2 Oct.
+NALIITA is a house and deep house artist based in Australia, tracked on soundcheck, with 19 sets logged across Melbourne. Often billed alongside Miles Ahead, Julius Myles and Emil LP. Next up: Milneys, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Milneys | Melbourne |
+| Sat, 17 Oct 2026 | The Night Cat | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NALIITA is a house and deep house artist based in Australia, tracked on soundche
 
 Miles Ahead, Julius Myles, Emil LP
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*

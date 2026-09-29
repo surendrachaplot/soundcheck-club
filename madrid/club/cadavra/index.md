@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Pariah at Anfang" on Thu, 1 Oct 2026.
+Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Pariah at Anfang" on Thu, 1 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including 2garlics, Alvaro Cabana, Andy Martin and Anna Wall and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

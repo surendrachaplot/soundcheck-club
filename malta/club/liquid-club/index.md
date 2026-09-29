@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KINSIDERS" on Fri, 9 Oct 2026.
+Liquid Club is a music venue in Malta with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "KINSIDERS" on Fri, 9 Oct 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 9 upcoming gigs, with line-ups including Billy Hills, Brian James, Cheech and Dicentra and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -22,4 +22,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 9 upcoming gigs, wit
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

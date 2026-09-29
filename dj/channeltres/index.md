@@ -1,6 +1,6 @@
 # Channel Tres
 
-Channel Tres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Commodore Ballroom, Vancouver on Wed, 30 Sept 2026.
+Channel Tres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Commodore Ballroom, Vancouver on Wed, 30 Sept 2026.
 
 Channel Tres is a house and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Austin, Berlin, Brisbane and Brussels and 18 more. Often billed alongside KETTAMA, Boys Noize and Jyoty. Next up: Commodore Ballroom, Vancouver on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Channel Tres is a house and techno artist based in United States of America, tra
 
 KETTAMA, Boys Noize, Jyoty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*

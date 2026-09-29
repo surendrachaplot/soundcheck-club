@@ -1,8 +1,8 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
 
-Klaudia Gawlas is a techno and tech house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Spartaque, Joyhauser and Lino Fuso. Next up: Now&Wow, Rotterdam on Sat 7 Nov.
+Klaudia Gawlas is a techno and tech house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Spartaque, Joyhauser and Lino Fuso. Next up: Now&Wow, Rotterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, tracked on so
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Now&Wow | Rotterdam |
 | Fri, 27 Nov 2026 | E1 | London |
+| Fri, 11 Dec 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, tracked on so
 
 Spartaque, Joyhauser, Lino Fuso
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

@@ -1,6 +1,6 @@
 # Shaba (1)
 
-Shaba (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat, 31 Oct 2026.
+Shaba (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat, 31 Oct 2026.
 
 Shaba is a techno and house artist based in Argentina, tracked on soundcheck, with 3 sets logged across Philadelphia. Often billed alongside PHIL TY, ANNĒ and Dadrev. Next up: TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Shaba is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 PHIL TY, ANNĒ, Dadrev
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaba-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaba-1/)*

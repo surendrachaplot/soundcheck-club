@@ -1,6 +1,6 @@
 # Julietta Ferrari
 
-Julietta Ferrari is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Julietta Ferrari is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 Julietta Ferrari is an electro and experimental artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona, Glasgow, London and Madrid and 1 more. Often billed alongside JUMER, Montenegro and ENGALANAN. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Julietta Ferrari is an electro and experimental artist based in Spain, tracked o
 
 JUMER, Montenegro, ENGALANAN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*

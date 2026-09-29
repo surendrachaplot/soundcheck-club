@@ -1,6 +1,6 @@
 # Selectress Kinky P
 
-Selectress Kinky P is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Chicago on Thu, 8 Oct 2026.
+Selectress Kinky P is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Chicago on Thu, 8 Oct 2026.
 
 Selectress Kinky P is a dub and bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago. Often billed alongside Alice Longyu Gao, Angel Alanis and BLESSTONIO. Next up: TBA, Chicago on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Selectress Kinky P is a dub and bass artist based in United States of America, t
 
 Alice Longyu Gao, Angel Alanis, BLESSTONIO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectresskinkyp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectresskinkyp/)*

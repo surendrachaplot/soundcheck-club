@@ -1,6 +1,6 @@
 # Danny L Harle
 
-Danny L Harle is a Dubstep and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Warehouse, Denver on Fri, 30 Oct 2026.
+Danny L Harle is a Dubstep and Pop artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Warehouse, Denver on Fri, 30 Oct 2026.
 
 Danny L Harle is a dubstep and pop artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Crystallmess, Lauren Duffus and Malibu. Next up: TBA - Warehouse, Denver on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Danny L Harle is a dubstep and pop artist based in United Kingdom, tracked on so
 
 Crystallmess, Lauren Duffus, Malibu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*

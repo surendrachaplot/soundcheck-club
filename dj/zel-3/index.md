@@ -1,6 +1,6 @@
 # ZEL (3)
 
-ZEL (3) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at essaim, Paris on Fri, 30 Oct 2026.
+ZEL (3) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at essaim, Paris on Fri, 30 Oct 2026.
 
 ZEL is a techno and electro artist based in France, tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Alex Nantaya, Altinbas and Erna (FR). Next up: essaim, Paris on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ ZEL is a techno and electro artist based in France, tracked on soundcheck, with 
 
 Alex Nantaya, Altinbas, Erna (FR)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zel-3/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zel-3/)*

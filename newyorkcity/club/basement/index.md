@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA" on Fri, 2 Oct 2026.
+BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA" on Fri, 2 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

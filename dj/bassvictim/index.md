@@ -1,6 +1,6 @@
 # Bassvictim
 
-Bassvictim is a Electro and Experimental artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Bassvictim is a Electro and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Bassvictim is an electro and experimental artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Boston and 19 more. Often billed alongside mMega, Evian Christ and Heartcoregirl. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Bassvictim is an electro and experimental artist based in United Kingdom, tracke
 
 mMega, Evian Christ, Heartcoregirl
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*

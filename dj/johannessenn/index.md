@@ -1,6 +1,6 @@
 # Johannes Senn
 
-Johannes Senn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amp, Munster on Fri, 30 Oct 2026.
+Johannes Senn is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Amp, Munster on Fri, 30 Oct 2026.
 
 Johannes Senn is a trance and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Munster. Often billed alongside Toni Scheppat, Valeby and Acidfinky. Next up: Amp, Munster on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Johannes Senn is a trance and techno artist based in Germany, tracked on soundch
 
 Toni Scheppat, Valeby, Acidfinky
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannessenn/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannessenn/)*

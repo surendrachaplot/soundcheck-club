@@ -1,6 +1,6 @@
 # Twelve Seven
 
-Twelve Seven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
+Twelve Seven is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
 
 Twelve Seven is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Joey Stella, Sylvia (ES) and Amphia. Next up: Razzmatazz, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Twelve Seven is a techno and house artist tracked on soundcheck, with 39 sets lo
 
 Joey Stella, Sylvia (ES), Amphia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveseven/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twelveseven/)*

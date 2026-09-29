@@ -1,6 +1,6 @@
 # Wagon
 
-Wagon is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Kelela" on Thu, 22 Oct 2026.
+Wagon is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Kelela" on Thu, 22 Oct 2026.
 
 Wagon is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Digitalism, Kelela and oskar med k. Browse upcoming dates, start times and who's playing. Estación de Chamartí­n, Planta ático.
 
@@ -16,4 +16,4 @@ Wagon is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with lin
 
 Estación de Chamartí­n, Planta ático, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*

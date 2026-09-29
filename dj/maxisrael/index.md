@@ -1,6 +1,6 @@
 # Max Israel
 
-Max Israel is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sun, 18 Oct 2026.
+Max Israel is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Paloma, Berlin on Sun, 18 Oct 2026.
 
 Max Israel is a house and breakbeat artist tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Javier Bähr, Robin Koch and LEZARDS. Next up: Paloma, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Max Israel is a house and breakbeat artist tracked on soundcheck, with 9 sets lo
 
 Javier Bähr, Robin Koch, LEZARDS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxisrael/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxisrael/)*

@@ -1,6 +1,6 @@
 # Y U QT
 
-Y U QT is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Melkweg, Amsterdam on Sat, 3 Oct 2026.
+Y U QT is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Melkweg, Amsterdam on Sat, 3 Oct 2026.
 
 Y U QT is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 27 more. Often billed alongside Dr Dubplate, Yung Singh and Bakey. Next up: Melkweg, Amsterdam on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Y U QT is a garage and bass artist based in United Kingdom, tracked on soundchec
 
 Dr Dubplate, Yung Singh, Bakey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*

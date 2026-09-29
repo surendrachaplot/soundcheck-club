@@ -1,6 +1,6 @@
 # Ion Pananides
 
-Ion Pananides is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
+Ion Pananides is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
 
 Ion Pananides is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ion Pananides is a house and tech house artist based in Spain, tracked on soundc
 
 Alex Pott, DJ Sandwich, IULS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionpananides/)*

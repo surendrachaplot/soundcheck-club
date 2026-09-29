@@ -1,14 +1,13 @@
 # Auditorium San Fedele
 
-Auditorium San Fedele is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI" on Mon, 28 Sept 2026.
+Auditorium San Fedele is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI" on Mon, 5 Oct 2026.
 
-Auditorium San Fedele is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Aho Ssan, Alfio Antico, Andy Stott and Ben Frost and 2 more. Browse upcoming dates, start times and who's playing. via Ulrico Hoepli 3b, 20121, Milano, Italy.
+Auditorium San Fedele is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Aho Ssan, Alfio Antico, Andy Stott and Carmen Villain and 2 more. Browse upcoming dates, start times and who's playing. via Ulrico Hoepli 3b, 20121, Milano, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | INNER SPACES / AUTUNNALE 2026 - RITRATTI TRASVERSALI | Ben Frost |
 | Mon, 5 Oct 2026 | INNER SPACES / AUTUNNALE 2026 - RITRATTI TRASVERSALI | Carmen Villain, Mor Elian |
 | Mon, 19 Oct 2026 | INNER SPACES / AUTUNNALE 2026 - RITRATTI TRASVERSALI | Aho Ssan |
 | Mon, 26 Oct 2026 | INNER SPACES / AUTUNNALE 2026 - RITRATTI TRASVERSALI | Hélène Vogelsinger |
@@ -20,4 +19,4 @@ Auditorium San Fedele is a music venue in Milan listed on soundcheck. 7 upcoming
 
 via Ulrico Hoepli 3b, 20121, Milano, Italy, Milan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/auditorium-san-fedele/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/auditorium-san-fedele/)*

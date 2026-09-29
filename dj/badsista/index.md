@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fünk, Mexico City on Sat, 17 Oct 2026.
+BADSISTA is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fünk, Mexico City on Sat, 17 Oct 2026.
 
 BADSISTA is a house and baile funk artist based in Brazil, tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 39 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Fünk, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BADSISTA is a house and baile funk artist based in Brazil, tracked on soundcheck
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

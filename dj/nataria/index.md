@@ -1,8 +1,8 @@
 # nataria
 
-nataria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DeTour, Tokyo on Fri, 2 Oct 2026.
+nataria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DeTour, Tokyo on Fri, 2 Oct 2026.
 
-nataria is a techno and hardcore artist based in Russia, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside AME (JP), sawanese and Natasha (VE). Next up: DeTour, Tokyo on Fri 2 Oct.
+nataria is a techno and hardcore artist based in Russia, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside AME (JP), Natasha (VE) and sawanese. Next up: DeTour, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ nataria is a techno and hardcore artist based in Russia, tracked on soundcheck, 
 
 ## Shares bills with
 
-AME (JP), sawanese, Natasha (VE)
+AME (JP), Natasha (VE), sawanese
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*

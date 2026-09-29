@@ -1,6 +1,6 @@
 # bawab
 
-bawab is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foundation Room - House Of Blues, Chicago on Sat, 3 Oct 2026.
+bawab is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Foundation Room - House Of Blues, Chicago on Sat, 3 Oct 2026.
 
 bawab is a downtempo and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sydka, Antaares and Dysco-official. Next up: Foundation Room - House Of Blues, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ bawab is a downtempo and deep house artist based in United States of America, tr
 
 Sydka, Antaares, Dysco-official
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bawab/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bawab/)*

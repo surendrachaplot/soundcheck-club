@@ -1,6 +1,6 @@
 # Social Room
 
-Social Room is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Canton Low End Express 粵港澳低音快線" on Wed, 30 Sept 2026.
+Social Room is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Canton Low End Express 粵港澳低音快線" on Wed, 30 Sept 2026.
 
 Social Room is a music venue in Hong Kong listed on soundcheck. 3 upcoming gigs, with line-ups including KOLAK and SARS. Browse upcoming dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
 
@@ -16,4 +16,4 @@ Social Room is a music venue in Hong Kong listed on soundcheck. 3 upcoming gigs,
 
 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong, Hong Kong
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*

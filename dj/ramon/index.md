@@ -1,6 +1,6 @@
 # Ramón
 
-Ramón is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Odonien, Cologne on Sat, 2 Oct 2027.
+Ramón is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Odonien, Cologne on Sat, 2 Oct 2027.
 
 Ramón is an electronic artist tracked on soundcheck, with 3 sets logged across Cologne and Munich. Often billed alongside ANNA, Bergen and Britta Arnold. Next up: Odonien, Cologne on Sat 2 Oct.
 
@@ -19,4 +19,4 @@ Ramón is an electronic artist tracked on soundcheck, with 3 sets logged across 
 
 ANNA, Bergen, Britta Arnold
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon/)*

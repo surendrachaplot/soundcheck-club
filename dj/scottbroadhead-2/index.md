@@ -1,6 +1,6 @@
 # Scott Broadhead
 
-Scott Broadhead is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 3 Oct 2026.
+Scott Broadhead is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Doghouse bar & Record Store, Leeds on Sat, 3 Oct 2026.
 
 Scott Broadhead is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Leeds. Often billed alongside Ted Coyle, BP and Ola & Lucia. Next up: The Doghouse bar & Record Store, Leeds on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Scott Broadhead is a house and electronica artist based in United Kingdom, track
 
 Ted Coyle, BP (1), Ola & Lucia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbroadhead-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbroadhead-2/)*

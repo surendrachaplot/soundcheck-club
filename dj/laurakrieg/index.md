@@ -1,6 +1,6 @@
 # Laura Krieg
 
-Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Laura Krieg is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Laura Krieg is a post-punk and new wave artist based in Canada, tracked on soundcheck, with 8 sets logged across Athens, Berlin, Brussels and Montreal and 3 more. Often billed alongside Anarchotech, Caillou (DE) and Chrom. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Laura Krieg is a post-punk and new wave artist based in Canada, tracked on sound
 
 Anarchotech, Caillou (DE), Chrom
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurakrieg/)*

@@ -1,6 +1,6 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+DJ Cringey is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
 
 DJ Cringey is a techno and trance artist based in New Zealand, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Basel and Belfast and 24 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ DJ Cringey is a techno and trance artist based in New Zealand, tracked on soundc
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

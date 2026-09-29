@@ -1,6 +1,6 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
+Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
 
 Job Jobse is a house and techno artist based in Netherlands, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside Palms Trax, BASHKKA and KI/KI. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Job Jobse is a house and techno artist based in Netherlands, tracked on soundche
 
 Palms Trax, BASHKKA, KI/KI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

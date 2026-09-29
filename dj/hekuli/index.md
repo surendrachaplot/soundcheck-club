@@ -1,6 +1,6 @@
 # Hekuli
 
-Hekuli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Hekuli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 Hekuli is a house and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Burnhard, KinoKo and ANTYA. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Hekuli is a house and techno artist tracked on soundcheck, with 3 sets logged ac
 
 Burnhard, KinoKo, ANTYA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekuli/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekuli/)*

@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Konzerthaus Berlin, Berlin on Wed, 30 Sept 2026.
+Efdemin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Konzerthaus Berlin, Berlin on Wed, 30 Sept 2026.
 
 Efdemin is a techno and house artist based in Germany, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: Konzerthaus Berlin, Berlin on Wed 30 Sept.
 
@@ -33,4 +33,4 @@ Efdemin is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Polygonia, Steffi, Virginia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

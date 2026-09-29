@@ -1,6 +1,6 @@
 # Jane Decks
 
-Jane Decks is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 10 Oct 2026.
+Jane Decks is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Oxford Art Factory, Sydney on Sat, 10 Oct 2026.
 
 Jane Decks is a house and techno artist based in Australia, tracked on soundcheck, with 39 sets logged across Melbourne and Sydney. Often billed alongside Lily FM, Max Cherry and Bouki. Next up: Oxford Art Factory, Sydney on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Jane Decks is a house and techno artist based in Australia, tracked on soundchec
 
 Lily FM, Max Cherry, Bouki
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*

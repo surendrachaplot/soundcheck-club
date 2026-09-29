@@ -1,6 +1,6 @@
 # HCTM
 
-HCTM is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tunnel Club, Pereira on Sat, 17 Oct 2026.
+HCTM is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tunnel Club, Pereira on Sat, 17 Oct 2026.
 
 HCTM is an electronic artist tracked on soundcheck, with 2 sets logged across Mexico City and Pereira. Often billed alongside Marco Bailey. Next up: Tunnel Club, Pereira on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ HCTM is an electronic artist tracked on soundcheck, with 2 sets logged across Me
 
 Marco Bailey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hctm/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hctm/)*

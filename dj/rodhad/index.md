@@ -1,8 +1,8 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paradiso, Amsterdam on Wed, 30 Sept 2026.
+Rødhåd is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Paradiso, Amsterdam on Wed, 30 Sept 2026.
 
-Rødhåd is a techno and house artist based in Germany, tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside JakoJako, Ben Klock and Fadi Mohem. Next up: Paradiso, Amsterdam on Wed 30 Sept.
+Rødhåd is a techno and house artist based in Germany, tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside JakoJako, Ben Klock and Fadi Mohem. Next up: Paradiso, Amsterdam on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Rødhåd is a techno and house artist based in Germany, tracked on soundcheck, w
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | Paradiso | Amsterdam |
+| Fri, 30 Oct 2026 | Soul SKG | Thessaloniki |
 | Sat, 31 Oct 2026 | fabric | London |
 | Sun, 1 Nov 2026 | The Bassement | Madrid |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
-| Fri, 20 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Rødhåd is a techno and house artist based in Germany, tracked on soundcheck, w
 
 JakoJako, Ben Klock, Fadi Mohem
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

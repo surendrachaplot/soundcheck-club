@@ -1,6 +1,6 @@
 # Chris Lake
 
-Chris Lake is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Chris Lake is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Chris Lake is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Austin, Barcelona, Boston and Chicago and 24 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Chris Lake is a house and tech house artist based in United Kingdom, tracked on 
 
 FISHER, Loco Dice, Boys Noize
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*

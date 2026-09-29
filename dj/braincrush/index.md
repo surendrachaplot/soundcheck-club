@@ -1,6 +1,6 @@
 # Braincrush
 
-Braincrush is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mastak, Warsaw on Sat, 10 Oct 2026.
+Braincrush is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mastak, Warsaw on Sat, 10 Oct 2026.
 
 Braincrush is a techno artist based in Poland, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Lyor Kalt, Butwho and Forest (PL). Next up: Mastak, Warsaw on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Braincrush is a techno artist based in Poland, tracked on soundcheck, with 2 set
 
 Lyor Kalt, Butwho, Forest (PL)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braincrush/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braincrush/)*

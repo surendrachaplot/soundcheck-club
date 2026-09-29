@@ -1,6 +1,6 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Nicolas Julian is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Nicolas Julian is a techno and trance artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Nicolas Julian is a techno and trance artist based in Germany, tracked on soundc
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

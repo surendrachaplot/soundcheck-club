@@ -1,8 +1,8 @@
 # Elliot Schooling
 
-Elliot Schooling is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Elliot Schooling is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Elliot Schooling is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Elliot Schooling is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 156 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elliot Schooling is a house and tech house artist based in United Kingdom, track
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | Ironworks | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Elliot Schooling is a house and tech house artist based in United Kingdom, track
 
 Liam Palmer, Locky, L.P. Rhythm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*

@@ -1,6 +1,6 @@
 # Leia Drex
 
-Leia Drex is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
+Leia Drex is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
 
 Leia Drex is an electronic artist tracked on soundcheck, with 3 sets logged across Bratislava and Prague. Often billed alongside Icarian PB1, Orkus and Patricio Strix. Next up: Radost Music Club, Bratislava on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Leia Drex is an electronic artist tracked on soundcheck, with 3 sets logged acro
 
 Icarian PB1, Orkus, Patricio Strix
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leiadrex/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leiadrex/)*

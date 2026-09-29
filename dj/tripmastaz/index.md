@@ -1,6 +1,6 @@
 # Tripmastaz
 
-Tripmastaz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Golden Gate, Berlin on Sat, 10 Oct 2026.
+Tripmastaz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Golden Gate, Berlin on Sat, 10 Oct 2026.
 
 Tripmastaz is a house and techno artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Inga!, David Delgado and Brizman. Next up: Golden Gate, Berlin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Tripmastaz is a house and techno artist based in Germany, tracked on soundcheck,
 
 Inga!, David Delgado, Brizman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*

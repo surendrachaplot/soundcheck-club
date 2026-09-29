@@ -1,6 +1,6 @@
 # ZO.1
 
-ZO.1 is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+ZO.1 is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 ZO.1 is a house and afro house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Hedda Stenberg, ACID FLORA and Animal Trainer. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ ZO.1 is a house and afro house artist based in Netherlands, tracked on soundchec
 
 Hedda Stenberg, ACID FLORA, Animal Trainer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zo.1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zo.1/)*

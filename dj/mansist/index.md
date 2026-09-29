@@ -1,6 +1,6 @@
 # Mansist
 
-Mansist is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Favela, Munster on Sat, 3 Oct 2026.
+Mansist is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Favela, Munster on Sat, 3 Oct 2026.
 
 Mansist is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin, Munster and Rotterdam. Often billed alongside Davitte, Eric Brwn and Glossardi. Next up: Club Favela, Munster on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Mansist is a techno artist based in Germany, tracked on soundcheck, with 3 sets 
 
 Davitte, Eric Brwn, Glossardi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mansist/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mansist/)*

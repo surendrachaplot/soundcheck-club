@@ -1,6 +1,6 @@
 # Royksopp
 
-Royksopp is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Royksopp is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Royksopp is a house and electronica artist based in Norway, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Ben Böhmer, Jayda G and The Blaze. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Royksopp is a house and electronica artist based in Norway, tracked on soundchec
 
 Ben Böhmer, Jayda G, The Blaze
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royksopp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/royksopp/)*

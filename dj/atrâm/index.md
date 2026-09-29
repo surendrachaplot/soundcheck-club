@@ -1,6 +1,6 @@
 # Atrâm
 
-Atrâm is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
+Atrâm is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
 
 Atrâm is a techno and ghetto tech artist based in Spain, tracked on soundcheck, with 40 sets logged across Brussels, Madrid and Valencia. Often billed alongside Quka, Bellaswag and FUKCNORMAL. Next up: Club Magno, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Atrâm is a techno and ghetto tech artist based in Spain, tracked on soundcheck,
 
 Quka, Bellaswag, FUKCNORMAL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrâm/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrâm/)*

@@ -1,6 +1,6 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spilve Airport, Riga on Fri, 2 Oct 2026.
+Anabel Arroyo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Spilve Airport, Riga on Fri, 2 Oct 2026.
 
 Anabel Arroyo is a techno and house artist based in Spain, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: Spilve Airport, Riga on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Anabel Arroyo is a techno and house artist based in Spain, tracked on soundcheck
 
 James Newmarch, Voicedrone, Blasha & Allatt
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*

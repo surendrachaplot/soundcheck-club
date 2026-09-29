@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hangaren, Copenhagen on Fri, 2 Oct 2026.
+Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hangaren, Copenhagen on Fri, 2 Oct 2026.
 
 Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Hangaren, Copenhagen on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Nastia is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

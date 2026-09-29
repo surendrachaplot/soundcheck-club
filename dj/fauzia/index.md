@@ -1,6 +1,6 @@
 # FAUZIA
 
-FAUZIA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
+FAUZIA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at M.O.T, London on Fri, 30 Oct 2026.
 
 FAUZIA is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 3 more. Often billed alongside Pariah, Flowdan and Mantra. Next up: M.O.T, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FAUZIA is a techno and bass artist based in United Kingdom, tracked on soundchec
 
 Pariah, Flowdan, Mantra
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*

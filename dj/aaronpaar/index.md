@@ -1,6 +1,6 @@
 # Aaron Paar
 
-Aaron Paar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Airliner, Los Angeles on Sat, 10 Oct 2026.
+Aaron Paar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Airliner, Los Angeles on Sat, 10 Oct 2026.
 
 Aaron Paar is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Los Angeles, New York City, San Diego and Washington DC. Often billed alongside SEEPS, Chloëdees and Juliet Mendoza. Next up: The Airliner, Los Angeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aaron Paar is a house and deep house artist based in United States of America, t
 
 SEEPS, Chloëdees, Juliet Mendoza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronpaar/)*

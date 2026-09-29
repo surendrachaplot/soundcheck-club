@@ -1,6 +1,6 @@
 # LEGRAM VG
 
-LEGRAM VG is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
+LEGRAM VG is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
 
 LEGRAM VG is a house and electro artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Anaïs Liro, Oscar VG and Lumbago. Next up: TBA - Secret Warehouse Location, Boston on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ LEGRAM VG is a house and electro artist based in United Kingdom, tracked on soun
 
 Anaïs Liro, Oscar VG, Lumbago
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*

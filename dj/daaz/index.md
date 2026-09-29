@@ -1,6 +1,6 @@
 # daaz
 
-daaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+daaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 daaz is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside SURJAL, djz00p and B-Pushr. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ daaz is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 SURJAL, djz00p, B-Pushr
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daaz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daaz/)*

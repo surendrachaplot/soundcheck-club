@@ -1,6 +1,6 @@
 # Freedom Fighters
 
-Freedom Fighters is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Komplexo Tempo, Sao Paulo on Sat, 17 Oct 2026.
+Freedom Fighters is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Komplexo Tempo, Sao Paulo on Sat, 17 Oct 2026.
 
 Freedom Fighters is a techno and psytrance artist based in Israel, tracked on soundcheck, with 5 sets logged across Los Angeles, Melbourne, Paris and Sao Paulo. Often billed alongside John O'Callaghan, Act of Rage and Ajja. Next up: Komplexo Tempo, Sao Paulo on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Freedom Fighters is a techno and psytrance artist based in Israel, tracked on so
 
 John O'Callaghan, Act of Rage, Ajja
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomfighters/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomfighters/)*

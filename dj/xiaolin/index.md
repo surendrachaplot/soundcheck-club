@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+Xiaolin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
 Xiaolin is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Xiaolin is a house and techno artist tracked on soundcheck, with 80 sets logged 
 
 Sunsiaré, Mr. Ho, Rødhåd
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

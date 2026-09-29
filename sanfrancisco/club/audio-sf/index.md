@@ -1,6 +1,6 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Madota" on Fri, 2 Oct 2026.
+Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Madota" on Fri, 2 Oct 2026.
 
 Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including ALMAS, Baauer, Cristoph and David Harness and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upco
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

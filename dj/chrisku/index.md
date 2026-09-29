@@ -1,6 +1,6 @@
 # Chris Ku
 
-Chris Ku is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
+Chris Ku is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
 
 Chris Ku is a house and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Cosmic Cherry. Next up: Kater, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Chris Ku is a house and tech house artist based in Germany, tracked on soundchec
 
 Tajik, Chris Beulich, Cosmic Cherry
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*

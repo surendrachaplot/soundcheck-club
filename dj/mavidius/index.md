@@ -1,6 +1,6 @@
 # Mavidius
 
-Mavidius is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Void Club, Berlin on Sat, 17 Oct 2026.
+Mavidius is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Void Club, Berlin on Sat, 17 Oct 2026.
 
 Mavidius is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside LEANNE and Modulatos. Next up: Void Club, Berlin on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Mavidius is a techno and house artist based in Germany, tracked on soundcheck, w
 
 LEANNE, Modulatos
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*

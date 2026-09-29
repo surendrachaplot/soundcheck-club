@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri, 2 Oct 2026.
+Spacer Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri, 2 Oct 2026.
 
 Spacer Woman is a techno and trance artist based in Turkey, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Spacer Woman is a techno and trance artist based in Turkey, tracked on soundchec
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

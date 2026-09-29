@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "EXODUS vol. 251" on Wed, 23 Sept 2026.
+clubasia is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "EXODUS vol. 251" on Wed, 23 Sept 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including Bass, Bonnie, Calavera and Carpainter and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with 
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

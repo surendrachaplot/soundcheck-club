@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "MANEVARIM Sunday fixture at Para klub" on Sun, 4 Oct 2026.
+Para Klub Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "MANEVARIM Sunday fixture at Para klub" on Sun, 4 Oct 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -15,4 +15,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

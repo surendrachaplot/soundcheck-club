@@ -1,6 +1,6 @@
 # Da Hool
 
-Da Hool is a Afrobeat and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+Da Hool is a Afrobeat and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 Da Hool is an afrobeat and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Cologne, Düsseldorf and Ghent and 2 more. Often billed alongside A.N.I., Airwave and Alexander Koning. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Da Hool is an afrobeat and trance artist based in Germany, tracked on soundcheck
 
 A.N.I., Airwave, Alexander Koning
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dahool/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dahool/)*

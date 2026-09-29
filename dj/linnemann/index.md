@@ -1,6 +1,6 @@
 # Linnemann
 
-Linnemann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Linnemann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Linnemann is a techno and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Glasgow, Manchester, North and Sheffield. Often billed alongside 96 Back, Esmé and Lvcky. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Linnemann is a techno and house artist based in United Kingdom, tracked on sound
 
 96 Back, Esmé, Lvcky
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linnemann/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linnemann/)*

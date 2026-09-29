@@ -1,6 +1,6 @@
 # Hatiras
 
-Hatiras is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Wiggle Room, Toronto on Fri, 9 Oct 2026.
+Hatiras is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Wiggle Room, Toronto on Fri, 9 Oct 2026.
 
 Hatiras is a house and tech house artist based in Canada, tracked on soundcheck, with 71 sets logged across Amsterdam, Chicago, Miami and Montreal and 2 more. Often billed alongside Vincent Caira, Miz Megs and TAKiN. Next up: Wiggle Room, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hatiras is a house and tech house artist based in Canada, tracked on soundcheck,
 
 Vincent Caira, Miz Megs, TAKiN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgehatiras/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgehatiras/)*

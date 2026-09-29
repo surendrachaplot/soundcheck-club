@@ -1,6 +1,6 @@
 # Maltrip
 
-Maltrip is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dallas Club, Mexico City on Fri, 30 Oct 2026.
+Maltrip is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Dallas Club, Mexico City on Fri, 30 Oct 2026.
 
 Maltrip is a techno and latin bass artist tracked on soundcheck, with 18 sets logged across Mexico City. Often billed alongside Enya Botello, NEGRACONDA and Pablo Lara. Next up: Dallas Club, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maltrip is a techno and latin bass artist tracked on soundcheck, with 18 sets lo
 
 Enya Botello, NEGRACONDA, Pablo Lara
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maltrip/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maltrip/)*

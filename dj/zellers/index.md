@@ -1,6 +1,6 @@
 # Zellers
 
-Zellers is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ESC, Montreal on Sat, 17 Oct 2026.
+Zellers is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ESC, Montreal on Sat, 17 Oct 2026.
 
 Zellers is a techno and trance artist based in Canada, tracked on soundcheck, with 69 sets logged across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: ESC, Montreal on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Zellers is a techno and trance artist based in Canada, tracked on soundcheck, wi
 
 Marnigurl, Jaw Jones, DJ RATA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*

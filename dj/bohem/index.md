@@ -1,6 +1,6 @@
 # BOHEM
 
-BOHEM is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 17 Oct 2026.
+BOHEM is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 17 Oct 2026.
 
 BOHEM is an electronica and house artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona and Ibiza. Often billed alongside Rampue, Igor Marijuan and SHARE (NL). Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BOHEM is an electronica and house artist based in Spain, tracked on soundcheck, 
 
 Rampue, Igor Marijuan, SHARE (NL)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bohem/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bohem/)*

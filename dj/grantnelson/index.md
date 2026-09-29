@@ -1,13 +1,14 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 28 Nov 2026.
+Grant Nelson is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
-Grant Nelson is a house and garage artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 11 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Port of Leith Distillery, Edinburgh on Sat 28 Nov.
+Grant Nelson is a house and garage artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 12 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Sat, 28 Nov 2026 | Port of Leith Distillery | Edinburgh |
 | Sat, 12 Dec 2026 | Sankeys | Manchester |
 
@@ -26,4 +27,4 @@ Grant Nelson is a house and garage artist based in United Kingdom, tracked on so
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

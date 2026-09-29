@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Garage artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Plano B, Porto on Sat, 10 Oct 2026.
+salute is a House and Garage artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Plano B, Porto on Sat, 10 Oct 2026.
 
 salute is a house and garage artist based in Austria, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Auckland and Austin and 59 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Plano B, Porto on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ salute is a house and garage artist based in Austria, tracked on soundcheck, wit
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

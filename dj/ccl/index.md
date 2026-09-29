@@ -1,6 +1,6 @@
 # CCL
 
-CCL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+CCL is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 CCL is a techno and house artist based in United States of America, tracked on soundcheck, with 213 sets logged across Amsterdam, Auckland, Austin and Barcelona and 58 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ CCL is a techno and house artist based in United States of America, tracked on s
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

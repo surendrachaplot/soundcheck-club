@@ -1,6 +1,6 @@
 # COOK SWEET
 
-COOK SWEET is a Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lovehaus, Seoul on Sun, 27 Sept 2026.
+COOK SWEET is a Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lovehaus, Seoul on Sun, 27 Sept 2026.
 
 COOK SWEET is a bass and jazz artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside MAZE (KR), Mixtre$$ and Small Crab. Next up: Lovehaus, Seoul on Sun 27 Sept.
 
@@ -19,4 +19,4 @@ COOK SWEET is a bass and jazz artist based in United Kingdom, tracked on soundch
 
 MAZE (KR), Mixtre$$, Small Crab (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*

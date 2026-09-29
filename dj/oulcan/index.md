@@ -1,6 +1,6 @@
 # oulcan
 
-oulcan is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 1 Oct 2026.
+oulcan is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 1 Oct 2026.
 
 oulcan is a house and club artist based in Turkey, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Bulbul Berlin, Berlin on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ oulcan is a house and club artist based in Turkey, tracked on soundcheck, with 3
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

@@ -1,6 +1,6 @@
 # Papa Jay
 
-Papa Jay is a Dubstep and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
+Papa Jay is a Dubstep and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
 
 Papa Jay is a dubstep and afrobeat artist tracked on soundcheck, with 3 sets logged across Arizona, Denver and New York City. Often billed alongside Deorro, Dombresky and Gravagerz. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Papa Jay is a dubstep and afrobeat artist tracked on soundcheck, with 3 sets log
 
 Deorro, Dombresky, Gravagerz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajay/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajay/)*

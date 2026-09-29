@@ -1,6 +1,6 @@
 # byrush
 
-byrush is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Schlegel Kultur Club, Bochum on Sat, 10 Oct 2026.
+byrush is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Schlegel Kultur Club, Bochum on Sat, 10 Oct 2026.
 
 byrush is a trance and techno artist tracked on soundcheck, with 3 sets logged across Bochum, Dortmund Essen and Düsseldorf. Often billed alongside DJ HÖRDE, Maruwa and Molis. Next up: Schlegel Kultur Club, Bochum on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ byrush is a trance and techno artist tracked on soundcheck, with 3 sets logged a
 
 DJ HÖRDE, Maruwa, Molis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byrush/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byrush/)*

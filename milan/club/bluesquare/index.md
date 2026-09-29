@@ -1,6 +1,6 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Hi-Fi Weekends with Valerio Vaudano pres Steamy Pizza Box Night *Free Entry*" on Sat, 3 Oct 2026.
+Bluesquare is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Hi-Fi Weekends with Valerio Vaudano pres Steamy Pizza Box Night *Free Entry*" on Sat, 3 Oct 2026.
 
 Bluesquare is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Gramophone, Kid Fonque, Turbojazz and Valerio Vaudano. Browse upcoming dates, start times and who's playing. Via Tortona 33, 20144.
 
@@ -15,4 +15,4 @@ Bluesquare is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with
 
 Via Tortona 33, 20144, Milan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

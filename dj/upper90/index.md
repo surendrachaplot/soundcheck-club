@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
+Upper90 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
 
 Upper90 is a techno and trance artist based in Australia, tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: WDM, Hannover on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Upper90 is a techno and trance artist based in Australia, tracked on soundcheck,
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

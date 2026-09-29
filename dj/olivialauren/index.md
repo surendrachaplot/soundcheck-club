@@ -1,6 +1,6 @@
 # Olivia Lauren
 
-Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
+Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Olivia Lauren is a club and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across San Francisco/Oakland. Often billed alongside arktoi, ANDYLAND and ELA MENTAL. Next up: Monarch, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Olivia Lauren is a club and techno artist based in United States of America, tra
 
 arktoi, ANDYLAND, ELA MENTAL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialauren/)*

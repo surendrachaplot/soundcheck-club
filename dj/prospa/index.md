@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Prospa is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Prospa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Prospa is a house and techno artist based in United Kingdom, tracked on soundche
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

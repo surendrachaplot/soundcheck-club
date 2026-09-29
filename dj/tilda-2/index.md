@@ -1,6 +1,6 @@
 # TILDA (2)
 
-TILDA (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Planet Wax, London on Thu, 8 Oct 2026.
+TILDA (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Planet Wax, London on Thu, 8 Oct 2026.
 
 TILDA is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London, Manchester, Newcastle and Paris and 1 more. Often billed alongside Amelia Leigh, CICELY and Abby Daze. Next up: Planet Wax, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ TILDA is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 
 Amelia Leigh, CICELY, Abby Daze
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tilda-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tilda-2/)*

@@ -1,6 +1,6 @@
 # RotorMotor
 
-RotorMotor is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Klub K4, Ljubljana on Sat, 24 Oct 2026.
+RotorMotor is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Klub K4, Ljubljana on Sat, 24 Oct 2026.
 
 RotorMotor is an electronic artist tracked on soundcheck, with 3 sets logged across Budapest, Ljubljana and Madrid. Often billed alongside CRB, Clouds and DJ RENT A TENT. Next up: Klub K4, Ljubljana on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ RotorMotor is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 CRB, Clouds, DJ RENT A TENT
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rotormotor/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rotormotor/)*

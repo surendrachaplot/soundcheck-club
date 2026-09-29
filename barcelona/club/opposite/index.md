@@ -1,6 +1,6 @@
 # Opposite
 
-Opposite is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "INTIMATE x sqnce pres.  Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton" on Fri, 16 Oct 2026.
+Opposite is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "INTIMATE x sqnce pres.  Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton" on Fri, 16 Oct 2026.
 
 Opposite is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Agustin Ficarra, Kebin van Reeken, Nicholas Van Orton and SANIRR and 1 more. Browse upcoming dates, start times and who's playing. Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona).
 
@@ -15,4 +15,4 @@ Opposite is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, wi
 
 Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona), Barcelona
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*

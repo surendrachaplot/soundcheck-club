@@ -1,8 +1,8 @@
 # echocatcher
 
-echocatcher is a Bass and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
+echocatcher is a Bass and Club artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
 
-echocatcher is a bass and club artist based in China, tracked on soundcheck, with 13 sets logged across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside DJ EBP, FEIYI and Illsee. Next up: Forestlimit, Tokyo on Fri 9 Oct.
+echocatcher is a bass and club artist based in China, tracked on soundcheck, with 14 sets logged across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside DJ EBP, FEIYI and Illsee. Next up: Forestlimit, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ echocatcher is a bass and club artist based in China, tracked on soundcheck, wit
 | Fri, 9 Oct 2026 | Forestlimit | Tokyo |
 | Sat, 17 Oct 2026 | Club Daphnia | Osaka |
 | Tue, 20 Oct 2026 | BAR Inc | Osaka |
+| Fri, 23 Oct 2026 | Wigwam | Shanghai |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ echocatcher is a bass and club artist based in China, tracked on soundcheck, wit
 
 DJ EBP, FEIYI, Illsee
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

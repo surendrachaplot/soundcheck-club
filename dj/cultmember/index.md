@@ -1,14 +1,13 @@
 # Cult Member
 
-Cult Member is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fortune Sound Club, Vancouver on Sun, 27 Sept 2026.
+Cult Member is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Coda, Toronto on Thu, 1 Oct 2026.
 
-Cult Member is a techno and trance artist based in Canada, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 18 more. Often billed alongside TDJ, online threat and Torus. Next up: Fortune Sound Club, Vancouver on Sun 27 Sept.
+Cult Member is a techno and trance artist based in Canada, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 18 more. Often billed alongside TDJ, online threat and Torus. Next up: Coda, Toronto on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Fortune Sound Club | Vancouver |
 | Thu, 1 Oct 2026 | Coda | Toronto |
 | Fri, 2 Oct 2026 | Newspeak | Montreal |
 
@@ -27,4 +26,4 @@ Cult Member is a techno and trance artist based in Canada, tracked on soundcheck
 
 TDJ, online threat, Torus
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultmember/)*

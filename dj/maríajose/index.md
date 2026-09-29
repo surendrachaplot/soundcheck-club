@@ -1,6 +1,6 @@
 # maríajosé
 
-maríajosé is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Sat, 17 Oct 2026.
+maríajosé is a Reggaeton and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ÆDEN, Berlin on Sat, 17 Oct 2026.
 
 maríajosé is a reggaeton and afrobeats artist tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Maque, Trigger T and lionza. Next up: ÆDEN, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ maríajosé is a reggaeton and afrobeats artist tracked on soundcheck, with 11 s
 
 Maque, Trigger T, lionza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*

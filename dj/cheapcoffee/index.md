@@ -1,6 +1,6 @@
 # Cheap Coffee
 
-Cheap Coffee is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
+Cheap Coffee is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
 
 Cheap Coffee is a house and r&b artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Czech Strings, DJ Fresh Garlic and NicolasNico. Next up: Beate Uwe, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Cheap Coffee is a house and r&b artist based in Germany, tracked on soundcheck, 
 
 Czech Strings, DJ Fresh Garlic, NicolasNico
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*

@@ -1,6 +1,6 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "ANGEL BREAKS EXTRA" on Wed, 30 Sept 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "ANGEL BREAKS EXTRA" on Wed, 30 Sept 2026.
 
 Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
@@ -14,4 +14,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 1 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

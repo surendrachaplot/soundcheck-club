@@ -1,6 +1,6 @@
 # REO (UK)
 
-REO (UK) is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hope House, Leeds on Sat, 24 Oct 2026.
+REO (UK) is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hope House, Leeds on Sat, 24 Oct 2026.
 
 REO (UK) is a broken beat and jazz artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Leeds, London and San Francisco/Oakland. Often billed alongside CasuallyClued, Juno and Marvin Jupiter. Next up: Hope House, Leeds on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ REO (UK) is a broken beat and jazz artist based in United Kingdom, tracked on so
 
 CasuallyClued, Juno (4), Marvin Jupiter
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reo-uk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reo-uk/)*

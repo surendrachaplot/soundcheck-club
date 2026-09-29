@@ -1,14 +1,14 @@
 # Brett Dancer
 
-Brett Dancer is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, New York City on Fri, 2 Oct 2026.
+Brett Dancer is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Eden NYC, New York City on Fri, 2 Oct 2026.
 
-Brett Dancer is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago, New York City, Portland and Washington DC. Often billed alongside Baronhawk Poitier, Karizma and Ashley Younniä. Next up: TBA, New York City on Fri 2 Oct.
+Brett Dancer is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago, New York City, Portland and Washington DC. Often billed alongside Baronhawk Poitier, Karizma and Ashley Younniä. Next up: Eden NYC, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | New York City |
+| Fri, 2 Oct 2026 | Eden NYC | New York City |
 
 ## Recently played
 
@@ -20,4 +20,4 @@ Brett Dancer is a house and funk / soul artist based in United States of America
 
 Baronhawk Poitier, Karizma, Ashley Younniä
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brettdancer/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brettdancer/)*

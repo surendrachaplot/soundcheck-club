@@ -1,8 +1,8 @@
 # Coda
 
-Coda is a music venue in Toronto with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Cult Member" on Thu, 1 Oct 2026.
+Coda is a music venue in Toronto with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Cult Member" on Thu, 1 Oct 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 17 upcoming gigs, with line-ups including A Little Sound, Because of Art, Biscits and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with line-ups including A Little Sound, Because of Art, Biscits and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
@@ -11,16 +11,16 @@ Coda is a music venue in Toronto listed on soundcheck. 17 upcoming gigs, with li
 | Thu, 1 Oct 2026 | Cult Member | Cult Member |
 | Fri, 2 Oct 2026 | DEAN TURNLEY |  |
 | Sat, 3 Oct 2026 | Jay de Lys | Jay de Lys |
+| Sun, 4 Oct 2026 | ZHU x HNTR | HNTR, ZHU |
 | Fri, 9 Oct 2026 | A Little Sound | A Little Sound |
 | Sat, 10 Oct 2026 | Mind Against | Mind Against |
 | Sat, 17 Oct 2026 | Because of Art | Because of Art |
 | Fri, 23 Oct 2026 | Luuk van Dijk | Luuk van Dijk |
 | Fri, 30 Oct 2026 | Classmatic | Classmatic |
 | Fri, 6 Nov 2026 | Skream | Skream |
-| Sat, 7 Nov 2026 | MALUGI | MALUGI |
 
 ## Address
 
 794 Bathurst St, Toronto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

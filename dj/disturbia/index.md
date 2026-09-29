@@ -1,6 +1,6 @@
 # Disturbia
 
-Disturbia is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
+Disturbia is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
 
 Disturbia is an electronic artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across Barcelona, Krakow and Prague. Often billed alongside Akua, Architect and Citro. Next up: Razzmatazz, Barcelona on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Disturbia is an electronic artist based in Czech Republic, tracked on soundcheck
 
 Akua, Architect, Citro
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disturbia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disturbia/)*

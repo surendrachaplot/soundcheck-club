@@ -1,6 +1,6 @@
 # Martim Rola
 
-Martim Rola is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+Martim Rola is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
 Martim Rola is a techno and progressive house artist tracked on soundcheck, with 27 sets logged across Barcelona, Cardiff, Ibiza and Lisbon and 5 more. Often billed alongside ARODES, SHIA and Shimza. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Martim Rola is a techno and progressive house artist tracked on soundcheck, with
 
 ARODES, SHIA, Shimza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*

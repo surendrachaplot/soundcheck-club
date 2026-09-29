@@ -1,6 +1,6 @@
 # Sharnie
 
-Sharnie is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
+Sharnie is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
 
 Sharnie is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: Pan-Pan, Birmingham on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sharnie is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Axle, Beatrice M., Bluetoof
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*

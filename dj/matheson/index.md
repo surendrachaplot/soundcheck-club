@@ -1,6 +1,6 @@
 # Matheson
 
-Matheson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 24 Oct 2026.
+Matheson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 24 Oct 2026.
 
 Matheson is a techno and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Belfast. Often billed alongside More Gain, Reger and DJ Time of the Month. Next up: The Ulster Sports Club, Belfast on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Matheson is a techno and house artist based in United Kingdom, tracked on soundc
 
 More Gain, Reger, DJ Time of the Month
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matheson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matheson/)*

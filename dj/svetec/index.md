@@ -1,6 +1,6 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
+Svetec is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
 
 Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 30 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Fabrik, Madrid on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

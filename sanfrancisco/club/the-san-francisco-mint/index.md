@@ -1,6 +1,6 @@
 # The San Francisco Mint
 
-The San Francisco Mint is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Shingo Nakamura day party - SF Mint" on Sat, 3 Oct 2026.
+The San Francisco Mint is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Shingo Nakamura day party - SF Mint" on Sat, 3 Oct 2026.
 
 The San Francisco Mint is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Bart Skils, MYRNE and Shingo Nakamura. Browse upcoming dates, start times and who's playing. 88 5th St, San Francisco, CA 94103, USA.
 
@@ -15,4 +15,4 @@ The San Francisco Mint is a music venue in San Francisco/Oakland listed on sound
 
 88 5th St, San Francisco, CA 94103, USA, San Francisco/Oakland
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-san-francisco-mint/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-san-francisco-mint/)*

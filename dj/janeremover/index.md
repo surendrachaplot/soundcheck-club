@@ -1,6 +1,6 @@
 # Jane Remover
 
-Jane Remover is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jane Remover is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jane Remover is a techno and electronica artist based in United States of America, tracked on soundcheck, with 2 sets logged across Miami and New York City. Often billed alongside 619!, 999999999 and AABEL. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ Jane Remover is a techno and electronica artist based in United States of Americ
 
 619!, 999999999, AABEL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeremover/)*

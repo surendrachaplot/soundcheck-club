@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HTTP:// How to throw parties - a FREE panel event" on Thu, 1 Oct 2026.
+Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HTTP:// How to throw parties - a FREE panel event" on Thu, 1 Oct 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Darcy Justice and DJ Mum and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -22,4 +22,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

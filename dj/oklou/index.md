@@ -1,6 +1,6 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Oklou is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Oklou is an experimental and pop artist based in France, tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, Brussels and Chicago and 16 more. Often billed alongside Erika de Casier, james K and Nick León. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Oklou is an experimental and pop artist based in France, tracked on soundcheck, 
 
 Erika de Casier, james K, Nick León
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*

@@ -1,14 +1,15 @@
 # KAITO (5)
 
-KAITO (5) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
+KAITO (5) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
 
-KAITO is a techno and industrial artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo and Toronto. Often billed alongside DALJAE, KATSU and CHIKA. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
+KAITO is a techno and industrial artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo and Toronto. Often billed alongside DALJAE, KATSU and CHIKA. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA - Secret Location | Toronto |
+| Fri, 16 Oct 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KAITO is a techno and industrial artist based in Japan, tracked on soundcheck, w
 
 DALJAE, KATSU (2), CHIKA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-5/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-5/)*

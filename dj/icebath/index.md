@@ -1,6 +1,6 @@
 # ICE BATH
 
-ICE BATH is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+ICE BATH is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
 
 ICE BATH is a club and experimental artist based in Mexico, tracked on soundcheck, with 4 sets logged across Mexico City. Often billed alongside fka phaedra, nimrock11 and Awa (uwu). Next up: Foro Niebla, Mexico City on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ ICE BATH is a club and experimental artist based in Mexico, tracked on soundchec
 
 fka phaedra, nimrock11, Awa (uwu)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icebath/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icebath/)*

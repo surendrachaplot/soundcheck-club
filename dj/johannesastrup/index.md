@@ -1,6 +1,6 @@
 # Johannes Astrup
 
-Johannes Astrup is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+Johannes Astrup is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 Johannes Astrup is a techno and trance artist based in Denmark, tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Copenhagen and Düsseldorf and 2 more. Often billed alongside Milo Makua, Anders Horse and Anna Logic. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Johannes Astrup is a techno and trance artist based in Denmark, tracked on sound
 
 Milo Makua, Anders Horse, Anna Logic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesastrup/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesastrup/)*

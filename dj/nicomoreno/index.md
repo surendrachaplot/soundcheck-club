@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Nico Moreno is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Nico Moreno is a techno and house artist based in France, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Nico Moreno is a techno and house artist based in France, tracked on soundcheck,
 
 I Hate Models, DYEN, Trym
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

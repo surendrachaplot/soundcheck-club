@@ -1,6 +1,6 @@
 # Colours Hoxton
 
-Colours Hoxton is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Pilates Rave - Longevity Rave x Balanced Social" on Sat, 24 Oct 2026.
+Colours Hoxton is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Pilates Rave - Longevity Rave x Balanced Social" on Sat, 24 Oct 2026.
 
 Colours Hoxton is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Dina Summer, Dj Malefica, Elander Ziggy and Kalipo and 2 more. Browse upcoming dates, start times and who's playing. 2-4 Hoxton Square, London N1 6NU, United Kingdom.
 
@@ -15,4 +15,4 @@ Colours Hoxton is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 2-4 Hoxton Square, London N1 6NU, United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*

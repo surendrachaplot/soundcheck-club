@@ -1,6 +1,6 @@
 # iZZie
 
-iZZie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BABY01, Berlin on Sat, 10 Oct 2026.
+iZZie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BABY01, Berlin on Sat, 10 Oct 2026.
 
 iZZie is a house and electronica artist based in France, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Amowia, Caesarr and Karani. Next up: BABY01, Berlin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ iZZie is a house and electronica artist based in France, tracked on soundcheck, 
 
 Amowia, Caesarr, Karani
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzie/)*

@@ -1,6 +1,6 @@
 # Carlita
 
-Carlita is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Carlita is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Carlita is a house and techno artist based in Turkey, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Carlita is a house and techno artist based in Turkey, tracked on soundcheck, wit
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

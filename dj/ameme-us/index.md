@@ -1,8 +1,8 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 2 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 2 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 2 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, 
 | Fri, 2 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 3 Oct 2026 | Jungle Island | Miami |
 | Wed, 7 Oct 2026 | [UNVRS] | Ibiza |
+| Fri, 16 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 6 Dec 2026 | Savaya Bali | Bali |
@@ -30,4 +31,4 @@ AMÉMÉ is a house and afro house artist based in Benin, tracked on soundcheck, 
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

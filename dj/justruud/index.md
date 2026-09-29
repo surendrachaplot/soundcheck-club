@@ -1,6 +1,6 @@
 # Justruud
 
-Justruud is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BAR Inc, Osaka on Sun, 25 Oct 2026.
+Justruud is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BAR Inc, Osaka on Sun, 25 Oct 2026.
 
 Justruud is a house and electro artist based in South Korea, tracked on soundcheck, with 60 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RTRP, Cozyhoon and Gyusco. Next up: BAR Inc, Osaka on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Justruud is a house and electro artist based in South Korea, tracked on soundche
 
 RTRP, Cozyhoon, Gyusco
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*

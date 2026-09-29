@@ -1,6 +1,6 @@
 # indus (2)
 
-indus (2) is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sala Apolo, Barcelona on Wed, 21 Oct 2026.
+indus (2) is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sala Apolo, Barcelona on Wed, 21 Oct 2026.
 
 indus is an electronica and guaracha artist based in Colombia, tracked on soundcheck, with 4 sets logged across Barcelona, Lyon, Munich and Oslo. Often billed alongside Casablanca 303 and DC Salas. Next up: Sala Apolo, Barcelona on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ indus is an electronica and guaracha artist based in Colombia, tracked on soundc
 
 Casablanca 303, DC Salas
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indus-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indus-2/)*

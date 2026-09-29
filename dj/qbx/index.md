@@ -1,6 +1,6 @@
 # Q:BX
 
-Q:BX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
+Q:BX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
 
 Q:BX is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside Bella Hex, Cleric and DLV. Next up: TBA - WAREHOUSE TBA , New York City on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Q:BX is a techno and house artist based in United States of America, tracked on 
 
 Bella Hex, Cleric, DLV
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qbx/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qbx/)*

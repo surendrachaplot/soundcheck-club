@@ -1,6 +1,6 @@
 # The Edge Seoul
 
-The Edge Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Tsukasa Ito (Yokohama, JP) at The Edge" on Fri, 2 Oct 2026.
+The Edge Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Tsukasa Ito (Yokohama, JP) at The Edge" on Fri, 2 Oct 2026.
 
 The Edge Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including aso, Isoz, Rob Goodspeed and Taelyn and 1 more. Browse upcoming dates, start times and who's playing. 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ The Edge Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, 
 
 334-8 Euljiro 3(sam)-ga, Jung-gu, Seoul, South Korea, Seoul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-edge-seoul/)*

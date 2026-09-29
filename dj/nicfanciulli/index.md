@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Nic Fanciulli is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Nic Fanciulli is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -31,4 +31,4 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, tracked 
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

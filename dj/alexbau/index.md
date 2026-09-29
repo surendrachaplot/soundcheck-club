@@ -1,6 +1,6 @@
 # Alex Bau
 
-Alex Bau is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Alex Bau is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Alex Bau is a techno and electro artist based in Germany, tracked on soundcheck, with 3 sets logged across Austria, Munich and New York City. Often billed alongside AKA AKA, Alicea and André Dancekowski. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -19,4 +19,4 @@ Alex Bau is a techno and electro artist based in Germany, tracked on soundcheck,
 
 AKA AKA, Alicea, André Dancekowski
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbau/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbau/)*

@@ -1,6 +1,6 @@
 # Pieter Jansen
 
-Pieter Jansen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Pieter Jansen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Pieter Jansen is a house and techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Eversines, Marie K and Caim. Next up: FOLD, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pieter Jansen is a house and techno artist based in Netherlands, tracked on soun
 
 Eversines, Marie K (1), Caim
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*

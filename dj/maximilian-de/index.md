@@ -1,6 +1,6 @@
 # Maximilian
 
-Maximilian is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Monarch, San Francisco/Oakland on Thu, 1 Oct 2026.
+Maximilian is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, San Francisco/Oakland on Thu, 1 Oct 2026.
 
 Maximilian is a house and acid artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne, New York City and San Francisco/Oakland. Often billed alongside ENNA, Eszter and ANNA. Next up: Monarch, San Francisco/Oakland on Thu 1 Oct.
 
@@ -22,4 +22,4 @@ Maximilian is a house and acid artist based in Germany, tracked on soundcheck, w
 
 ENNA, Eszter, ANNA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilian-de/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilian-de/)*

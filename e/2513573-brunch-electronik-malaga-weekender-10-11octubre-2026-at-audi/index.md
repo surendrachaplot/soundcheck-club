@@ -18,7 +18,7 @@ Brunch Electronik Malaga WEEKENDER 10/11OCTUBRE 2026 at Auditorio Málaga Cortij
 - Denis Horvat
 - Fhiga
 - Francisco Allendes
-- FUMI
+- fumi (DE)
 - GIØ (1)
 - GNRØ
 - Héctor Oaks

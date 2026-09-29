@@ -1,6 +1,6 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Nyennea is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Nyennea is a club and experimental artist based in Greece, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Anthracene, Porschelane and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nyennea is a club and experimental artist based in Greece, tracked on soundcheck
 
 Anthracene, Porschelane, bod [包家巷]
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyennea/)*

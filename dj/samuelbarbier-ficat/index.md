@@ -1,6 +1,6 @@
 # Samuel Barbier-Ficat
 
-Samuel Barbier-Ficat is a Gabber and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 3 Oct 2026.
+Samuel Barbier-Ficat is a Gabber and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 3 Oct 2026.
 
 Samuel Barbier-Ficat is a gabber and experimental artist based in France, tracked on soundcheck, with 3 sets logged across Berlin, London and Tokyo. Often billed alongside CANDIE, Quantum Echo and Renslink. Next up: Heavy Sick Zero, Tokyo on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Samuel Barbier-Ficat is a gabber and experimental artist based in France, tracke
 
 CANDIE (2), Quantum Echo, Renslink
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelbarbier-ficat/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelbarbier-ficat/)*

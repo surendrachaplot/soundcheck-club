@@ -1,6 +1,6 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
+Us Two is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Us Two is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Us Two is a tech house and house artist based in United Kingdom, tracked on soun
 
 Ilario Alicante, Max Dean, East End Dubs
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

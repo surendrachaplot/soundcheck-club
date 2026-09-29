@@ -1,6 +1,6 @@
 # FECROMASS
 
-FECROMASS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Traffic, Tokyo on Sat, 3 Oct 2026.
+FECROMASS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Traffic, Tokyo on Sat, 3 Oct 2026.
 
 FECROMASS is a techno and industrial artist based in Japan, tracked on soundcheck, with 38 sets logged across Hong Kong, Seoul and Tokyo. Often billed alongside Golpe Mortal, nAo12xu and Mars89. Next up: Traffic, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ FECROMASS is a techno and industrial artist based in Japan, tracked on soundchec
 
 Golpe Mortal, nAo12xu, Mars89
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fecromass/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fecromass/)*

@@ -1,6 +1,6 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
+Jin Synth is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
 
 Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Efdemin, Fadi Mohem and Luigi Tozzi. Next up: The Island, Bristol on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Jin Synth is a techno and experimental artist tracked on soundcheck, with 51 set
 
 Efdemin, Fadi Mohem, Luigi Tozzi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

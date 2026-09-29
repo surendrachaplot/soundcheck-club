@@ -1,6 +1,6 @@
 # Sarah Davachi
 
-Sarah Davachi is a Experimental and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Sarah Davachi is a Experimental and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Sarah Davachi is an experimental and minimal artist based in United States of America, tracked on soundcheck, with 22 sets logged across Athens, Berlin, Hamburg and Krakow and 10 more. Often billed alongside Justin Carter, Clarissa Connelly and Dawuna. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Sarah Davachi is an experimental and minimal artist based in United States of Am
 
 Justin Carter, Clarissa Connelly, Dawuna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*

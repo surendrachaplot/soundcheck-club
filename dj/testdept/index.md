@@ -1,6 +1,6 @@
 # Test Dept
 
-Test Dept is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Test Dept is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Test Dept is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Barcelona and Berlin. Often billed alongside Ancient Methods, Andi and Beau Wanzer. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Test Dept is an electronic artist based in United Kingdom, tracked on soundcheck
 
 Ancient Methods, Andi, Beau Wanzer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testdept/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testdept/)*

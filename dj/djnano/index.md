@@ -1,6 +1,6 @@
 # Dj Nano
 
-Dj Nano is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bassement, Madrid on Sat, 31 Oct 2026.
+Dj Nano is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Bassement, Madrid on Sat, 31 Oct 2026.
 
 Dj Nano is an electronic artist tracked on soundcheck, with 2 sets logged across Barcelona and Madrid. Often billed alongside Ibañez, Ismael Rivas and Paco Maroto. Next up: The Bassement, Madrid on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Dj Nano is an electronic artist tracked on soundcheck, with 2 sets logged across
 
 Ibañez, Ismael Rivas, Paco Maroto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnano/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnano/)*

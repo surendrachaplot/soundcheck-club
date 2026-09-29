@@ -1,6 +1,6 @@
 # Justin Aulis Long
 
-Justin Aulis Long is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at smartbar, Chicago on Fri, 16 Oct 2026.
+Justin Aulis Long is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at smartbar, Chicago on Fri, 16 Oct 2026.
 
 Justin Aulis Long is a techno and acid artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Chicago, Detroit and New York City. Often billed alongside DVS1, Brenda and DJ Hyperactive. Next up: smartbar, Chicago on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Justin Aulis Long is a techno and acid artist based in United States of America,
 
 DVS1, Brenda, DJ Hyperactive
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinaulislong/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinaulislong/)*

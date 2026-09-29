@@ -1,6 +1,6 @@
 # theia
 
-theia is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
+theia is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 theia is an electronic artist based in South Korea, tracked on soundcheck, with 10 sets logged across Cyprus, Ibiza, Seoul and Zurich. Often billed alongside GREGOTECHNO, Suman and Valenzia. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ theia is an electronic artist based in South Korea, tracked on soundcheck, with 
 
 GREGOTECHNO, Suman, Valenzia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theia-kr/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theia-kr/)*

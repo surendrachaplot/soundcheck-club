@@ -1,6 +1,6 @@
 # Lyor Kalt
 
-Lyor Kalt is a Techno and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mastak, Warsaw on Sat, 10 Oct 2026.
+Lyor Kalt is a Techno and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mastak, Warsaw on Sat, 10 Oct 2026.
 
 Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 19 sets logged across Krakow and Warsaw. Often billed alongside Butwho, Francesca (PL) and SYS.END. Next up: Mastak, Warsaw on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lyor Kalt is a techno and hard drum artist based in Ukraine, tracked on soundche
 
 Butwho, Francesca (PL), SYS.END
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*

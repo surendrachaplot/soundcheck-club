@@ -1,6 +1,6 @@
 # HONEY B
 
-HONEY B is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
+HONEY B is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
 
 HONEY B is a techno and club artist based in United States of America, tracked on soundcheck, with 88 sets logged across Berlin, Boston, Edinburgh and Miami and 8 more. Often billed alongside nextdimensional, DJ Shannon and Kandylion. Next up: Jupiter Disco, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ HONEY B is a techno and club artist based in United States of America, tracked o
 
 nextdimensional, DJ Shannon, Kandylion
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*

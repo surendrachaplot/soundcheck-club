@@ -1,6 +1,6 @@
 # Rigzz
 
-Rigzz is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Lignée, Microcentro, Buenos Aires on Sat, 3 Oct 2026.
+Rigzz is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Lignée, Microcentro, Buenos Aires on Sat, 3 Oct 2026.
 
 Rigzz is a minimal and house artist based in Argentina, tracked on soundcheck, with 3 sets logged across Buenos Aires. Often billed alongside Lemonade and volks. Next up: TBA - Lignée, Microcentro, Buenos Aires on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Rigzz is a minimal and house artist based in Argentina, tracked on soundcheck, w
 
 Lemonade, volks
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rigzz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rigzz/)*

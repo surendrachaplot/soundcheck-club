@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "19:26 presents The Passage Between Worlds" on Fri, 2 Oct 2026.
+Knockdown Center is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "19:26 presents The Passage Between Worlds" on Fri, 2 Oct 2026.
 
-Knockdown Center is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 19:26, Afem Syko, Anastazja and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 19:26, Afem Syko, Anastazja and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 15 upco
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

@@ -1,6 +1,6 @@
 # Sabina Palma
 
-Sabina Palma is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sala Urbana, Mexico City on Fri, 9 Oct 2026.
+Sabina Palma is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sala Urbana, Mexico City on Fri, 9 Oct 2026.
 
 Sabina Palma is a techno and electronica artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexico City. Often billed alongside MORVIUS, Botelo and Deenia. Next up: Sala Urbana, Mexico City on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Sabina Palma is a techno and electronica artist based in Mexico, tracked on soun
 
 MORVIUS, Botelo, Deenia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*

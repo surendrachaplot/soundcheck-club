@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sound Department, South on Sat, 10 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sound Department, South on Sat, 10 Oct 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Raxeller, SANTØS and A.N.I.. Next up: Sound Department, South on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 
 Raxeller, SANTØS, A.N.I.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

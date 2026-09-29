@@ -1,6 +1,6 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Laura De Greef is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Laura De Greef is a house and techno artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 7 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Laura De Greef is a house and techno artist based in Belgium, tracked on soundch
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

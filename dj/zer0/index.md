@@ -1,6 +1,6 @@
 # Zerø
 
-Zerø is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at E1, London on Sat, 21 Nov 2026.
+Zerø is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at E1, London on Sat, 21 Nov 2026.
 
 Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 77 sets logged across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: E1, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zerø is a house and techno artist based in Italy, tracked on soundcheck, with 7
 
 Fabrizio Sala, Giorgio Gigli, 000vda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*

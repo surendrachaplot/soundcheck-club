@@ -1,6 +1,6 @@
 # Clearcast
 
-Clearcast is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
+Clearcast is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
 Clearcast is a techno and garage artist based in United States of America, tracked on soundcheck, with 56 sets logged across Auckland, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Skiis, Vertigo and Adware. Next up: Elsewhere, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Clearcast is a techno and garage artist based in United States of America, track
 
 Skiis, Vertigo, Adware
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*

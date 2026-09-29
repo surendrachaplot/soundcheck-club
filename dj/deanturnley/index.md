@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Big Pink, Detroit on Fri, 9 Oct 2026.
+Dean Turnley is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Big Pink, Detroit on Fri, 9 Oct 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 28 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 23 more. Often billed alongside Hamdi, MPH and Skepta. Next up: Big Pink, Detroit on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 Hamdi, MPH (1), Skepta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

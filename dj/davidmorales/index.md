@@ -1,6 +1,6 @@
 # David Morales
 
-David Morales is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pikes Ibiza, Ibiza on Wed, 30 Sept 2026.
+David Morales is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pikes Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 David Morales is a house and disco artist based in United States of America, tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Bangkok and Basel and 39 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Pikes Ibiza, Ibiza on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ David Morales is a house and disco artist based in United States of America, tra
 
 Louie Vega, Melvo Baptiste, DJ Paulette
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

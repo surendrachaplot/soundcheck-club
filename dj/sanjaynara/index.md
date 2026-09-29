@@ -1,6 +1,6 @@
 # Sanjay Nara
 
-Sanjay Nara is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
+Sanjay Nara is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
 
 Sanjay Nara is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside AMLA.DHAS, Akanbi and Handsome Krish. Next up: Mood Ring, New York City on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Sanjay Nara is an electronic artist based in United States of America, tracked o
 
 AMLA.DHAS, Akanbi, Handsome Krish
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjaynara/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjaynara/)*

@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amber's, Manchester on Sat, 24 Oct 2026.
+Mix-Stress is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Amber's, Manchester on Sat, 24 Oct 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Meme Gold. Next up: Amber's, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Krysko, Meme Gold
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Defected" on Thu, 1 Oct 2026.
+UNO MALTA is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Defected" on Thu, 1 Oct 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including Aline Rocha, Amtrac, Andrea Oliva and Because of Art and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -15,4 +15,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with 
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

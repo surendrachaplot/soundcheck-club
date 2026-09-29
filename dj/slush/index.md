@@ -1,6 +1,6 @@
 # Slush
 
-Slush is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Slush is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
 Slush is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Copenhagen, Glasgow, Leeds and London and 2 more. Often billed alongside Bristol Luke, Salvo and Sam Scrvn. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Slush is a techno and hardcore artist tracked on soundcheck, with 17 sets logged
 
 Bristol Luke, Salvo (3), Sam Scrvn
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slush/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slush/)*

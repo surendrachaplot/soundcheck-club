@@ -1,6 +1,6 @@
 # Tom Bartlett
 
-Tom Bartlett is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 31 Oct 2026.
+Tom Bartlett is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 31 Oct 2026.
 
 Tom Bartlett is a deep house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside Patrick Barry and SITH. Next up: American Legion Marsh Post #442, Boston on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Tom Bartlett is a deep house and techno artist based in United States of America
 
 Patrick Barry, SITH
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombartlett/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombartlett/)*

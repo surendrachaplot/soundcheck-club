@@ -1,6 +1,6 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+re:ni is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 re:ni is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ re:ni is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

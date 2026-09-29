@@ -1,8 +1,8 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
+VIVI909 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
 
-VIVI909 is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside CAIVA, Mila Black and Elotrance. Next up: OST, Berlin on Sat 3 Oct.
+VIVI909 is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside CAIVA, Mila Black and Elotrance. Next up: OST, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ VIVI909 is a techno and trance artist based in Germany, tracked on soundcheck, w
 | Sat, 17 Oct 2026 | Zoom Club | Frankfurt |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Fri, 5 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ VIVI909 is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 CAIVA, Mila Black, Elotrance
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

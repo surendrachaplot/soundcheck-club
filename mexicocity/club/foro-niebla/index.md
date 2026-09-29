@@ -1,6 +1,6 @@
 # Foro Niebla
 
-Foro Niebla is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Aiff - Namasenda " on Sat, 3 Oct 2026.
+Foro Niebla is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Aiff - Namasenda " on Sat, 3 Oct 2026.
 
 Foro Niebla is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including cowntrydog, fka phaedra, ICE BATH and Isla Den and 2 more. Browse upcoming dates, start times and who's playing. Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Foro Niebla is a music venue in Mexico City listed on soundcheck. 2 upcoming gig
 
 Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-niebla/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-niebla/)*

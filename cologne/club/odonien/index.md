@@ -1,8 +1,8 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 30 Sept 2026.
+Odonien is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 30 Sept 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Aio, andré wiese, Avocado and Belasto and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Aio, andré wiese, Avocado and Belasto and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with
 | Sat, 14 Nov 2026 | Praerie Festival Hebstfest | Aio, Martin Ka, Maurice Mino, Secret Act, Sin:port, Who is ela¿, ZweiE |
 | Fri, 20 Nov 2026 | Mira & Chris Schwarzwälder -All Night Long- | Chris Schwarzwälder, Mira |
 | Sat, 21 Nov 2026 | Lichtblick in Odonien |  |
-| Sat, 2 Oct 2027 | WIR Schwestern- Tanz die Einheit, Baby with Cecilia Tosh (Tresor Berlin), So So Klein live uvm | ANNA, Bergen, Cecilia Tosh, ENNA, Early Bird, Eszter, Maximilian, Progressive, Ramón, Soso Klein, Viper, andré wiese |
+| Sun, 28 Feb 2027 | ADRENALINE  pres. David Löhlein, Yasmin Regisford & THELMA | David Löhlein, FLACCO, THELMA, Vagabund, Yasmin Regisford |
 
 ## Address
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

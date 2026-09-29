@@ -1,6 +1,6 @@
 # Forello
 
-Forello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 2 Oct 2026.
+Forello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 2 Oct 2026.
 
 Forello is a techno and house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Buenos Aires and Madrid and 1 more. Often billed alongside E110101, PERT and TINKERHELL. Next up: Rastro Live Studio, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Forello is a techno and house artist based in Argentina, tracked on soundcheck, 
 
 E110101, PERT, TINKERHELL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forello/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forello/)*

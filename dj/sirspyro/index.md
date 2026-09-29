@@ -1,6 +1,6 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Black Box, Denver on Fri, 2 Oct 2026.
+Sir Spyro is a Grime and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Black Box, Denver on Fri, 2 Oct 2026.
 
 Sir Spyro is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 14 more. Often billed alongside Footsie, Kahn and D Double E. Next up: The Black Box, Denver on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Sir Spyro is a grime and dubstep artist based in United Kingdom, tracked on soun
 
 Footsie, Kahn, D Double E
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

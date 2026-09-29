@@ -1,6 +1,6 @@
 # Redevil (2)
 
-Redevil (2) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at broad hall., Philadelphia on Fri, 9 Oct 2026.
+Redevil (2) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at broad hall., Philadelphia on Fri, 9 Oct 2026.
 
 Redevil is a house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside DJ Dawson, Derrick Carter and Tommy Cornelis. Next up: broad hall., Philadelphia on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ Redevil is a house artist based in United States of America, tracked on soundche
 
 DJ Dawson, Derrick Carter, Tommy Cornelis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redevil-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redevil-2/)*

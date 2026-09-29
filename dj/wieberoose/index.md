@@ -1,6 +1,6 @@
 # Wiebe Roose
 
-Wiebe Roose is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Insomnia, Berlin on Sat, 24 Oct 2026.
+Wiebe Roose is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Insomnia, Berlin on Sat, 24 Oct 2026.
 
 Wiebe Roose is a techno and tech house artist based in Belgium, tracked on soundcheck, with 143 sets logged across Bangkok, Barcelona, Berlin and Cologne and 5 more. Often billed alongside DAV3, Monty and Epicx. Next up: Insomnia, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Wiebe Roose is a techno and tech house artist based in Belgium, tracked on sound
 
 DAV3, Monty, Epicx
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*

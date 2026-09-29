@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+Daphni is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
 Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Floating Points, Ben UFO and Four Tet. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 Floating Points, Ben UFO, Four Tet
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

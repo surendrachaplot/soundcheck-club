@@ -1,6 +1,6 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+DJ Travella is a Singeli and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
 DJ Travella is a singeli and club artist based in Tanzania, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ Travella is a singeli and club artist based in Tanzania, tracked on soundchec
 
 DJ Diaki, Mia Koden, Aunty Rayzor
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

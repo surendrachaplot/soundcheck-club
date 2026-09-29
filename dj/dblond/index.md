@@ -1,6 +1,6 @@
 # DBlond
 
-DBlond is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
+DBlond is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
 
 DBlond is an electronica artist based in Spain, tracked on soundcheck, with 3 sets logged across Madrid and Malaga. Often billed alongside rubbio, Dan Piu and Daniel Kelsan. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ DBlond is an electronica artist based in Spain, tracked on soundcheck, with 3 se
 
 rubbio, Dan Piu, Daniel Kelsan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dblond/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dblond/)*

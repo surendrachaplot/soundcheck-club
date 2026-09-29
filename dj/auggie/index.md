@@ -1,14 +1,16 @@
 # Auggië
 
-Auggië is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Auggië is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
 
-Auggië is a techno and house artist based in Italy, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Ivory, Âme and Cipy. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
+Auggië is a techno and house artist based in Italy, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Ivory, Âme and Cipy. Next up: Volt Club Milano, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Volt Club Milano | Milan |
 | Thu, 22 Oct 2026 | Cut Throat | Amsterdam |
+| Sat, 24 Oct 2026 | Volt Club Milano | Milan |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Auggië is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Ivory, Âme, Cipy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*

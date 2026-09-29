@@ -1,6 +1,6 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Caves, Edinburgh on Fri, 2 Oct 2026.
+Frazi.er is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Caves, Edinburgh on Fri, 2 Oct 2026.
 
 Frazi.er is a techno and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: The Caves, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Frazi.er is a techno and house artist based in United Kingdom, tracked on soundc
 
 E.DN, Liam Cappello, 999999999
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*

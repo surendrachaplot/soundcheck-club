@@ -1,6 +1,6 @@
 # Mambi Dexter
 
-Mambi Dexter is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tausend, Berlin on Fri, 23 Oct 2026.
+Mambi Dexter is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tausend, Berlin on Fri, 23 Oct 2026.
 
 Mambi Dexter is a house and disco artist based in Poland, tracked on soundcheck, with 36 sets logged across Berlin, Sydney and Warsaw. Often billed alongside Piotr Ho, Hyperbole and PayoYayo. Next up: Tausend, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Mambi Dexter is a house and disco artist based in Poland, tracked on soundcheck,
 
 Piotr Ho, Hyperbole, PayoYayo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*

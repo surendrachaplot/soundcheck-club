@@ -1,6 +1,6 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DURO, Milan on Sat, 7 Nov 2026.
+Vera Logdanidi is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DURO, Milan on Sat, 7 Nov 2026.
 
 Vera Logdanidi is a techno and ambient artist based in Ukraine, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Efdemin and Altinbas. Next up: DURO, Milan on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vera Logdanidi is a techno and ambient artist based in Ukraine, tracked on sound
 
 Na Nich, Efdemin, Altinbas
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

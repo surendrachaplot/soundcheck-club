@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Extra Smooth presents: Yu Mi" on Fri, 2 Oct 2026.
+Cu is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Extra Smooth presents: Yu Mi" on Fri, 2 Oct 2026.
 
 Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including babybear, BIG REG, Bisect and Cathal and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -8,7 +8,7 @@ Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-u
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yu Mi |
+| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yumi |
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
 | Fri, 9 Oct 2026 | TUSH: Bass, Breaks & Techno (Rethink Fundraiser) | Kassita, Rebekah Abdeen, babybear (2), inda Flo |
 | Sun, 11 Oct 2026 | HOLY | Richard Fearless, Tom Dubwise, Wrecked Lightship |
@@ -21,4 +21,4 @@ Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-u
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

@@ -1,6 +1,6 @@
 # Stu From Somewhere
 
-Stu From Somewhere is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fire, London on Sat, 7 Nov 2026.
+Stu From Somewhere is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fire, London on Sat, 7 Nov 2026.
 
 Stu From Somewhere is a disco and house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside @cookie, Cristian Ebasta and Enrico Chirchiello. Next up: Fire, London on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Stu From Somewhere is a disco and house artist tracked on soundcheck, with 3 set
 
 @cookie, Cristian Ebasta, Enrico Chirchiello
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stufromsomewhere/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stufromsomewhere/)*

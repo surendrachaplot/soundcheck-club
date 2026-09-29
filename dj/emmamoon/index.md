@@ -1,6 +1,6 @@
 # Emma Moon
 
-Emma Moon is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+Emma Moon is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 Emma Moon is a techno and trance artist based in Australia, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brisbane and Ghent and 5 more. Often billed alongside Garfie, Bella Claxton and Pleasant Michelle. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Emma Moon is a techno and trance artist based in Australia, tracked on soundchec
 
 Garfie, Bella Claxton, Pleasant Michelle
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*

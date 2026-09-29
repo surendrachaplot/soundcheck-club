@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak" on Fri, 2 Oct 2026.
+FOLD is a music venue in London with 26 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak" on Fri, 2 Oct 2026.
 
 FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including aalice, Aaron J, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

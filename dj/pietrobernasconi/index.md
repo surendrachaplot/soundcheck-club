@@ -1,6 +1,6 @@
 # Pietro Bernasconi
 
-Pietro Bernasconi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Altrove, Milan on Fri, 2 Oct 2026.
+Pietro Bernasconi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Altrove, Milan on Fri, 2 Oct 2026.
 
 Pietro Bernasconi is an electronic artist based in Italy, tracked on soundcheck, with 3 sets logged across Barcelona and Milan. Often billed alongside Daniele Umore, David Fogarty and Gabriele. Next up: Altrove, Milan on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Pietro Bernasconi is an electronic artist based in Italy, tracked on soundcheck,
 
 Daniele Umore, David Fogarty, Gabriele
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrobernasconi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrobernasconi/)*

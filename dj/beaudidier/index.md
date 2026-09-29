@@ -1,6 +1,6 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Beau Didier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
 Beau Didier is a techno and house artist based in Netherlands, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 39 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Beau Didier is a techno and house artist based in Netherlands, tracked on soundc
 
 Isaiah (NL), Flits, Lasse
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

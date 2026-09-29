@@ -1,6 +1,6 @@
 # Venjent
 
-Venjent is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at H2o6, Riga on Fri, 30 Oct 2026.
+Venjent is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at H2o6, Riga on Fri, 30 Oct 2026.
 
 Venjent is a drum & bass and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Budapest and Riga. Often billed alongside Aphrodite, Blooom and Bug. Next up: H2o6, Riga on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Venjent is a drum & bass and electro artist based in United Kingdom, tracked on 
 
 Aphrodite, Blooom, Bug (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venjent/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venjent/)*

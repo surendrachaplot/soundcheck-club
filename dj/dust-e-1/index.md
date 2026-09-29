@@ -1,6 +1,6 @@
 # Dust-E-1
 
-Dust-E-1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Montreal on Fri, 23 Oct 2026.
+Dust-E-1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Stereo, Montreal on Fri, 23 Oct 2026.
 
 Dust-E-1 is a techno and house artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal and New York City. Often billed alongside Mole (US), 1morning and Alinka. Next up: Stereo, Montreal on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Dust-E-1 is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 Mole (US), 1morning, Alinka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dust-e-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dust-e-1/)*

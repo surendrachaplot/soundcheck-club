@@ -1,13 +1,14 @@
 # Nocturnal (KR)
 
-Nocturnal (KR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Faust, Seoul on Sat, 3 Oct 2026.
+Nocturnal (KR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Exit Reality, Singapore on Fri, 2 Oct 2026.
 
-Nocturnal (KR) is a house and techno artist based in South Korea, tracked on soundcheck, with 107 sets logged across Osaka, Prague, Seoul and Singapore and 1 more. Often billed alongside Minish, Ginger (KR) and Mars Parck. Next up: Faust, Seoul on Sat 3 Oct.
+Nocturnal (KR) is a house and techno artist based in South Korea, tracked on soundcheck, with 108 sets logged across Osaka, Prague, Seoul and Singapore and 1 more. Often billed alongside Minish, Ginger (KR) and Mars Parck. Next up: Exit Reality, Singapore on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Exit Reality | Singapore |
 | Sat, 3 Oct 2026 | Faust | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nocturnal (KR) is a house and techno artist based in South Korea, tracked on sou
 
 Minish, Ginger (KR), Mars Parck
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalkr/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalkr/)*

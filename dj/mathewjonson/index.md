@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Mathew Jonson is a techno and house artist based in Canada, tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 44 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -30,4 +30,4 @@ Mathew Jonson is a techno and house artist based in Canada, tracked on soundchec
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

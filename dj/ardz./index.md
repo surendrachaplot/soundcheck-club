@@ -1,6 +1,6 @@
 # ARDZ.
 
-ARDZ. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at City Hall, Barcelona on Wed, 30 Sept 2026.
+ARDZ. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at City Hall, Barcelona on Wed, 30 Sept 2026.
 
 ARDZ. is a techno and hardcore artist based in Malaysia, tracked on soundcheck, with 3 sets logged across Barcelona and Kuala Lumpur. Often billed alongside Claramonte, Kamo and Roobs. Next up: City Hall, Barcelona on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ ARDZ. is a techno and hardcore artist based in Malaysia, tracked on soundcheck, 
 
 Claramonte, Kamo, Roobs
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardz./)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ardz./)*

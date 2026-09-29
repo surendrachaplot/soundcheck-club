@@ -1,6 +1,6 @@
 # Amelia (2)
 
-Amelia (2) is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ble Azure Peninsula, Athens on Sun, 11 Oct 2026.
+Amelia (2) is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ble Azure Peninsula, Athens on Sun, 11 Oct 2026.
 
 Amelia is an electronica artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens. Often billed alongside Atencio, Fideles and George Apergis. Next up: Ble Azure Peninsula, Athens on Sun 11 Oct.
 
@@ -19,4 +19,4 @@ Amelia is an electronica artist based in Greece, tracked on soundcheck, with 3 s
 
 Atencio, Fideles, George Apergis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelia-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelia-2/)*

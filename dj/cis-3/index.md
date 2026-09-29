@@ -1,6 +1,6 @@
 # CIS (3)
 
-CIS (3) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+CIS (3) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 CIS is a house and trance artist tracked on soundcheck, with 4 sets logged across Amsterdam, London and Utrecht. Often billed alongside SUPERSTRINGS, Eva Vrijdag and AUTOFLOWER. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ CIS is a house and trance artist tracked on soundcheck, with 4 sets logged acros
 
 SUPERSTRINGS, Eva Vrijdag, AUTOFLOWER
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cis-3/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cis-3/)*

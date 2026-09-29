@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Soberbius Showcase 02.10" on Fri, 2 Oct 2026.
+X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Soberbius Showcase 02.10" on Fri, 2 Oct 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including David Carro, Mario Mendoza and Vico Deep. Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

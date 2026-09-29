@@ -1,6 +1,6 @@
 # Takuma Matsunaga
 
-Takuma Matsunaga is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spread, Tokyo on Fri, 9 Oct 2026.
+Takuma Matsunaga is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Spread, Tokyo on Fri, 9 Oct 2026.
 
 Takuma Matsunaga is a trance and techno artist tracked on soundcheck, with 6 sets logged across Kyoto and Tokyo. Often billed alongside Hue Ray, Mars89 and Azrel. Next up: Spread, Tokyo on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Takuma Matsunaga is a trance and techno artist tracked on soundcheck, with 6 set
 
 Hue Ray, Mars89, Azrel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*

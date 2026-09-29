@@ -1,14 +1,14 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ark // TWIENA [NL]" on Sat, 3 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ark // TWIENA [NL] | Contrast Radio" on Sat, 3 Oct 2026.
 
-ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and Dan Newman and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
+ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Arktic, Auramatic, Crybaby and Cybernet and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | ark // TWIENA [NL] | TWIENA |
+| Sat, 3 Oct 2026 | ark // TWIENA [NL] / Contrast Radio | Arktic, FAF (1), KLIO, TWIENA |
 | Sat, 31 Oct 2026 | ark // Guy Contact - DJ Luv You | DJ Luv You, Guy Contact |
 | Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell -  | Crybaby, Harry Connell, MASSI. |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

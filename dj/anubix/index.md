@@ -1,14 +1,15 @@
 # Anubix
 
-Anubix is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Der Weiße Hase, Berlin on Thu, 8 Oct 2026.
+Anubix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Der Weiße Hase, Berlin on Thu, 8 Oct 2026.
 
-Anubix is a techno and trance artist tracked on soundcheck, with 47 sets logged across Barcelona and Berlin. Often billed alongside Epicx, DJ Jordan and Emma. Next up: Der Weiße Hase, Berlin on Thu 8 Oct.
+Anubix is a techno and trance artist tracked on soundcheck, with 48 sets logged across Barcelona and Berlin. Often billed alongside Epicx, DJ Jordan and Emma. Next up: Der Weiße Hase, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Der Weiße Hase | Berlin |
+| Fri, 16 Oct 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anubix is a techno and trance artist tracked on soundcheck, with 47 sets logged 
 
 Epicx, DJ Jordan, Emma (8)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*

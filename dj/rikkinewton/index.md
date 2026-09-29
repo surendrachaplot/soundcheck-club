@@ -1,6 +1,6 @@
 # Rikki Newton
 
-Rikki Newton is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
+Rikki Newton is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at KEPK, Brisbane on Sun, 4 Oct 2026.
 
 Rikki Newton is a techno and jungle artist based in Australia, tracked on soundcheck, with 5 sets logged across Brisbane. Often billed alongside .VRIL, Leighton James and Echo Inspectors. Next up: KEPK, Brisbane on Sun 4 Oct.
 
@@ -21,4 +21,4 @@ Rikki Newton is a techno and jungle artist based in Australia, tracked on soundc
 
 .VRIL, Leighton James, Echo Inspectors
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkinewton/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkinewton/)*

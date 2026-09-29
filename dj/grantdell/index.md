@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Grant Dell is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Grant Dell is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Boston and Brighton and 9 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Grant Dell is a house and tech house artist based in United Kingdom, tracked on 
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

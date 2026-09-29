@@ -1,6 +1,6 @@
 # Valody
 
-Valody is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wibar, Netherlands on Sat, 3 Oct 2026.
+Valody is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Wibar, Netherlands on Sat, 3 Oct 2026.
 
 Valody is a techno and house artist based in Portugal, tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Lisbon and Netherlands and 5 more. Often billed alongside Maria Cue, Anika Kunst and Chlär. Next up: Wibar, Netherlands on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Valody is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Maria Cue, Anika Kunst, Chlär
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*

@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
 
 Fantasm is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Fantasm is a techno and hardcore artist based in United States of America, track
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

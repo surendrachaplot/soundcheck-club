@@ -1,6 +1,6 @@
 # Alena
 
-Alena is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 17 Oct 2026.
+Alena is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 17 Oct 2026.
 
 Alena is a tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Düsseldorf and Prague. Often billed alongside Ansea, Good Mood and Mathias Kaden. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Alena is a tech house artist based in Germany, tracked on soundcheck, with 4 set
 
 Ansea, Good Mood, Mathias Kaden
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alena/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alena/)*

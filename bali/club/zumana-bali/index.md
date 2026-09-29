@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Monkey Safari" on Wed, 30 Sept 2026.
+Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Monkey Safari" on Wed, 30 Sept 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, with line-ups including Artbat, Alan Dixon, Alex Wann and Colyn and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, wit
 | Fri, 20 Nov 2026 | GIOLI & ASSIA | Giolì & Assia |
 | Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

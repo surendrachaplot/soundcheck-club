@@ -1,6 +1,6 @@
 # ALEXXE
 
-ALEXXE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Casa Independente, Lisbon on Sat, 10 Oct 2026.
+ALEXXE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Casa Independente, Lisbon on Sat, 10 Oct 2026.
 
 ALEXXE is a house and club artist based in Portugal, tracked on soundcheck, with 2 sets logged across Lisbon. Often billed alongside BLEID and Herlander. Next up: Casa Independente, Lisbon on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ ALEXXE is a house and club artist based in Portugal, tracked on soundcheck, with
 
 BLEID, Herlander
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxe/)*

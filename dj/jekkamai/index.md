@@ -1,6 +1,6 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chinastraat, Ghent on Fri, 9 Oct 2026.
+JEKKAMAÏ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
 JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, with 36 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ JEKKAMAÏ is a techno and house artist based in Belgium, tracked on soundcheck, 
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

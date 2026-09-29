@@ -1,8 +1,8 @@
 # Chicha (2)
 
-Chicha (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 29 Sept 2026.
+Chicha (2) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 29 Sept 2026.
 
-Chicha is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh, Glasgow, London and Madrid and 1 more. Often billed alongside xivro, makaya and Andrae Durden. Next up: People's Leisure Club, Edinburgh on Tue 29 Sept.
+Chicha is a bass and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh, Glasgow, London and Madrid and 1 more. Often billed alongside xivro, makaya and Andrae Durden. Next up: People's Leisure Club, Edinburgh on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chicha is a bass and techno artist based in United Kingdom, tracked on soundchec
 
 xivro, makaya, Andrae Durden
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicha-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicha-2/)*

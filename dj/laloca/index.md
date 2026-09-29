@@ -1,6 +1,6 @@
 # LALØCA
 
-LALØCA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
+LALØCA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
 LALØCA is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside 4NOUK, 9LALEY and Ally. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LALØCA is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 4NOUK, 9LALEY, Ally (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laloca/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laloca/)*

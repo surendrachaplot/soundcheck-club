@@ -1,6 +1,6 @@
 # Oshana
 
-Oshana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Oshana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Oshana is a house and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Anthea, Astral Travel and Alexia Glensy. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Oshana is a house and techno artist based in United States of America, tracked o
 
 Anthea, Astral Travel, Alexia Glensy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

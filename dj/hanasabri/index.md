@@ -1,6 +1,6 @@
 # Hana Sabri
 
-Hana Sabri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Xuxa, Austin on Fri, 6 Nov 2026.
+Hana Sabri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Xuxa, Austin on Fri, 6 Nov 2026.
 
 Hana Sabri is a techno and trance artist tracked on soundcheck, with 28 sets logged across Austin and Houston. Often billed alongside Natch Nadjafi, RAMGON and GODEMPEROR. Next up: Xuxa, Austin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Hana Sabri is a techno and trance artist tracked on soundcheck, with 28 sets log
 
 Natch Nadjafi, RAMGON, GODEMPEROR
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanasabri/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanasabri/)*

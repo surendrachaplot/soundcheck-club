@@ -1,6 +1,6 @@
 # D.O.D.
 
-D.O.D. is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Luz De Gas, Barcelona on Wed, 30 Sept 2026.
+D.O.D. is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Luz De Gas, Barcelona on Wed, 30 Sept 2026.
 
 D.O.D. is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Barcelona, Belfast, Boston and Brighton and 24 more. Often billed alongside Danny Howard, Sonny Fodera and hitty. Next up: Luz De Gas, Barcelona on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ D.O.D. is a house and tech house artist based in United Kingdom, tracked on soun
 
 Danny Howard, Sonny Fodera, hitty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.d./)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.d./)*

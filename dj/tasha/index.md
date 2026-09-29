@@ -1,6 +1,6 @@
 # Tasha
 
-Tasha is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Tasha is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 Tasha is a techno and house artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: FOLD, London on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Tasha is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Steffi, Blasha & Allatt, DVS1
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

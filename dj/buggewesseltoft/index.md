@@ -1,6 +1,6 @@
 # Bugge Wesseltoft
 
-Bugge Wesseltoft is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 2 Oct 2026.
+Bugge Wesseltoft is a Electronica and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 2 Oct 2026.
 
 Bugge Wesseltoft is an electronica and jazz artist based in Norway, tracked on soundcheck, with 4 sets logged across Istanbul, London and Oslo. Often billed alongside Henrik Schwarz, Bugge Wesseltoft & Henrik Schwarz duo and Murat Uncuoglu. Next up: Frankhan Selectist, Istanbul on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Bugge Wesseltoft is an electronica and jazz artist based in Norway, tracked on s
 
 Henrik Schwarz, Bugge Wesseltoft & Henrik Schwarz duo, Murat Uncuoglu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buggewesseltoft/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buggewesseltoft/)*

@@ -1,6 +1,6 @@
 # Seki
 
-Seki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club 77, Sydney on Fri, 23 Oct 2026.
+Seki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club 77, Sydney on Fri, 23 Oct 2026.
 
 Seki is a house and techno artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside Karani, Kenfo and Maz (BR). Next up: Club 77, Sydney on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Seki is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Karani, Kenfo, Maz (BR)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seki-aus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seki-aus/)*

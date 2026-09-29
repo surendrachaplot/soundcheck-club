@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+SMURFOUDIRTY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across New York City. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, trac
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

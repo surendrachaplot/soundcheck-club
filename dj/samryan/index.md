@@ -1,6 +1,6 @@
 # Sam Ryan
 
-Sam Ryan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mssng Pieces, London on Sat, 3 Oct 2026.
+Sam Ryan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mssng Pieces, London on Sat, 3 Oct 2026.
 
 Sam Ryan is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Nottingham. Often billed alongside Antonio Vendone, Black Hawks of Panamá and Carly Foxx. Next up: Mssng Pieces, London on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Sam Ryan is a house and disco artist based in United Kingdom, tracked on soundch
 
 Antonio Vendone, Black Hawks of Panamá, Carly Foxx
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samryan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samryan/)*

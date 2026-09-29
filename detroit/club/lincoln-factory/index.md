@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Valentino Khan" on Fri, 2 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Valentino Khan" on Fri, 2 Oct 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -22,4 +22,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

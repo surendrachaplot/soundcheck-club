@@ -1,6 +1,6 @@
 # Margot
 
-Margot is a Techno and Classical artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Silence Please, New York City on Thu, 5 Nov 2026.
+Margot is a Techno and Classical artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Silence Please, New York City on Thu, 5 Nov 2026.
 
 Margot is a techno and classical artist tracked on soundcheck, with 2 sets logged across New York City and Sao Paulo. Often billed alongside Anders (BR), Ben Sims and Flip Devonian. Next up: Silence Please, New York City on Thu 5 Nov.
 
@@ -18,4 +18,4 @@ Margot is a techno and classical artist tracked on soundcheck, with 2 sets logge
 
 Anders (BR), Ben Sims, Flip Devonian
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margot/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margot/)*

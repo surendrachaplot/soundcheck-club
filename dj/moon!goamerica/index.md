@@ -1,6 +1,6 @@
 # Moon! go America
 
-Moon! go America is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pistil, Seoul on Sat, 3 Oct 2026.
+Moon! go America is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Pistil, Seoul on Sat, 3 Oct 2026.
 
 Moon! go America is an experimental and bass artist based in South Korea, tracked on soundcheck, with 3 sets logged across Seoul. Often billed alongside Pjeon, EESE and MaLo. Next up: Pistil, Seoul on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Moon! go America is an experimental and bass artist based in South Korea, tracke
 
 Pjeon, EESE, MaLo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moon!goamerica/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moon!goamerica/)*

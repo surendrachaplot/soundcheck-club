@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
+UFO95 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
 
 UFO95 is a techno and house artist based in France, tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Berlin and 52 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Paradiso, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ UFO95 is a techno and house artist based in France, tracked on soundcheck, with 
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

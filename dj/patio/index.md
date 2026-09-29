@@ -1,6 +1,6 @@
 # Patio
 
-Patio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+Patio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
 Patio is a techno and house artist based in Italy, tracked on soundcheck, with 5 sets logged across Detroit and Warsaw. Often billed alongside Anane, Beatnok and Blake Baxter. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Patio is a techno and house artist based in Italy, tracked on soundcheck, with 5
 
 Anane, Beatnok, Blake Baxter
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patio/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patio/)*

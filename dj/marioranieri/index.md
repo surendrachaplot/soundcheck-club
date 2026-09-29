@@ -1,6 +1,6 @@
 # Mario Ranieri
 
-Mario Ranieri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Mario Ranieri is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Mario Ranieri is a techno and industrial artist based in Austria, tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside CESAR ALMENA, Frank Kvitta and Freddy K. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Mario Ranieri is a techno and industrial artist based in Austria, tracked on sou
 
 CESAR ALMENA, Frank Kvitta, Freddy K
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioranieri/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioranieri/)*

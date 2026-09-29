@@ -1,6 +1,6 @@
 # Azura
 
-Azura is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M-BIA, Berlin on Sat, 24 Oct 2026.
+Azura is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at M-BIA, Berlin on Sat, 24 Oct 2026.
 
 Azura is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Liverpool, London and New York City and 2 more. Often billed alongside Basstronauten, Daniel Boon and LORD of Psychedelics. Next up: M-BIA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Azura is a techno and drum & bass artist based in Germany, tracked on soundcheck
 
 Basstronauten, Daniel Boon, LORD of Psychedelics (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azura/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azura/)*

@@ -1,6 +1,6 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Planet.tt Gasometer, Vienna on Tue, 29 Sept 2026.
+Autechre is a IDM and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Planet.tt Gasometer, Vienna on Tue, 29 Sept 2026.
 
 Autechre is an idm and techno artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Planet.tt Gasometer, Vienna on Tue 29 Sept.
 
@@ -36,4 +36,4 @@ Autechre is an idm and techno artist based in United Kingdom, tracked on soundch
 
 Mark Broom, HiTech, ojoo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

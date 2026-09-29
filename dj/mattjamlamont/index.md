@@ -1,6 +1,6 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
+Matt Jam Lamont is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
 
 Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside MC DT, Scott Garcia and MC CKP. Next up: Dunnings 2, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on
 
 MC DT, Scott Garcia, MC CKP
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*

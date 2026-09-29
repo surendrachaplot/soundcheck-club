@@ -1,6 +1,6 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Dennis Quin is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Dennis Quin is a house and tech house artist based in Netherlands, tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Dennis Quin is a house and tech house artist based in Netherlands, tracked on so
 
 Prunk, Job de Jong, M-High
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*

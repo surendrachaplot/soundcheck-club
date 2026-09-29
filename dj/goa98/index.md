@@ -1,6 +1,6 @@
 # Goa'98
 
-Goa'98 is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
+Goa'98 is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
 
 Goa'98 is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami and Philadelphia. Often billed alongside Kobza, Conosur and Maddalena. Next up: Aire Miami, Miami on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Goa'98 is a progressive house and techno artist based in United States of Americ
 
 Kobza, Conosur, Maddalena
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*

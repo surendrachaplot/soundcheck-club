@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "VANTA with Erika" on Fri, 2 Oct 2026.
+vurt. is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "VANTA with Erika" on Fri, 2 Oct 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Andreas Tilliander, Erika, odkis and Siot and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -17,4 +17,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

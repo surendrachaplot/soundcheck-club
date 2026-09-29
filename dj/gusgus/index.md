@@ -1,14 +1,15 @@
 # Gus Gus
 
-Gus Gus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Gus Gus is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-Gus Gus is a techno and house artist tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Canary Islands and Istanbul and 4 more. Often billed alongside Ephemeris, Agatha Pher and Ashbury Heights. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+Gus Gus is a techno and house artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Canary Islands and Iceland and 5 more. Often billed alongside Ephemeris, Agatha Pher and Agzilla. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
+| Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gus Gus is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 ## Shares bills with
 
-Ephemeris, Agatha Pher, Ashbury Heights
+Ephemeris, Agatha Pher, Agzilla
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*

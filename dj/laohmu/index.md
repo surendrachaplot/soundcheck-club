@@ -1,6 +1,6 @@
 # LAOHMU
 
-LAOHMU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Shinjuku Duusraa, Tokyo on Wed, 30 Sept 2026.
+LAOHMU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Shinjuku Duusraa, Tokyo on Wed, 30 Sept 2026.
 
 LAOHMU is a house and techno artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside Negami and Nobuharu Morimoto. Next up: Shinjuku Duusraa, Tokyo on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ LAOHMU is a house and techno artist tracked on soundcheck, with 3 sets logged ac
 
 Negami, Nobuharu Morimoto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laohmu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laohmu/)*

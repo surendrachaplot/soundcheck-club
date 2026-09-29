@@ -1,6 +1,6 @@
 # SFV Acid
 
-SFV Acid is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BAR Inc, Osaka on Fri, 23 Oct 2026.
+SFV Acid is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BAR Inc, Osaka on Fri, 23 Oct 2026.
 
 SFV Acid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 3 sets logged across Los Angeles and Osaka. Often billed alongside 11ai, Adiós Mundo Cruel and Ava Blank. Next up: BAR Inc, Osaka on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ SFV Acid is a techno and hardcore artist based in United States of America, trac
 
 11ai, Adiós Mundo Cruel, Ava Blank
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sfvacid/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sfvacid/)*

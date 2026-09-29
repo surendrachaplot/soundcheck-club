@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Toffler, Rotterdam on Sat, 7 Nov 2026.
+Pawlowski (UK) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Toffler, Rotterdam on Sat, 7 Nov 2026.
 
 Pawlowski (UK) is a techno and trance artist based in Poland, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Alignment, Nico Moreno and Holy Priest. Next up: Toffler, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pawlowski (UK) is a techno and trance artist based in Poland, tracked on soundch
 
 Alignment, Nico Moreno, Holy Priest
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

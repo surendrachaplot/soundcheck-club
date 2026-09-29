@@ -1,6 +1,6 @@
 # Babs op de beat
 
-Babs op de beat is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
+Babs op de beat is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
 
 Babs op de beat is a disco and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside MeRas, Soulfania and Aiscream. Next up: Club NYX, Amsterdam on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Babs op de beat is a disco and house artist based in Netherlands, tracked on sou
 
 MeRas, Soulfania, Aiscream
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsopdebeat/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsopdebeat/)*

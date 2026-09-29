@@ -1,6 +1,6 @@
 # Mondai
 
-Mondai is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Big Pink, Detroit on Fri, 2 Oct 2026.
+Mondai is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Big Pink, Detroit on Fri, 2 Oct 2026.
 
 Mondai is a house and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago, Detroit and New York City. Often billed alongside EDEN BEKELE, Zillion and Bodegaparty. Next up: Big Pink, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mondai is a house and club artist based in United States of America, tracked on 
 
 EDEN BEKELE, Zillion, Bodegaparty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mondai/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mondai/)*

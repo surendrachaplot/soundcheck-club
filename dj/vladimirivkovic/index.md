@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at BKW Hybrid Bar, Skopje on Wed, 30 Sept 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BKW Hybrid Bar, Skopje on Wed, 30 Sept 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: BKW Hybrid Bar, Skopje on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, tracked on sound
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

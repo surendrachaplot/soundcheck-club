@@ -1,6 +1,6 @@
 # Maj.Tom
 
-Maj.Tom is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
+Maj.Tom is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
 
 Maj.Tom is an electronic artist based in France, tracked on soundcheck, with 2 sets logged across Barcelona and Marseille. Often billed alongside Brieela, Josépha and LM. Next up: Nido Marseille, Marseille on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Maj.Tom is an electronic artist based in France, tracked on soundcheck, with 2 s
 
 Brieela, Josépha, LM
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maj.tom/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maj.tom/)*

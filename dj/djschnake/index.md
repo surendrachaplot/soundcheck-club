@@ -1,15 +1,17 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Le Petit Salon, Lyon on Fri, 2 Oct 2026.
+Dj Schnake is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Le Petit Salon, Lyon on Fri, 2 Oct 2026.
 
-Dj Schnake is a techno and trance artist based in France, tracked on soundcheck, with 51 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Le Petit Salon, Lyon on Fri 2 Oct.
+Dj Schnake is a techno and trance artist based in France, tracked on soundcheck, with 53 sets logged across Antwerp, Berlin, Brussels and Budapest and 9 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Le Petit Salon, Lyon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Le Petit Salon | Lyon |
+| Sat, 17 Oct 2026 | Le Château du Bois Guy | Rennes |
 | Sat, 19 Dec 2026 | Petit CAB | Marseille |
+| Sat, 24 Jul 2027 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Dj Schnake is a techno and trance artist based in France, tracked on soundcheck,
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

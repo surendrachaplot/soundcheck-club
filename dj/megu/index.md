@@ -1,6 +1,6 @@
 # megu
 
-megu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 5 Oct 2026.
+megu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 5 Oct 2026.
 
 megu is a house and techno artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Iori Wakasa, Ko Umehara and hiroto yano. Next up: Enter Shibuya, Tokyo on Mon 5 Oct.
 
@@ -18,4 +18,4 @@ megu is a house and techno artist tracked on soundcheck, with 2 sets logged acro
 
 Iori Wakasa, Ko Umehara, hiroto yano
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megu/)*

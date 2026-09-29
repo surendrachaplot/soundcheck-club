@@ -1,6 +1,6 @@
 # Vermelho
 
-Vermelho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Sao Paulo on Sat, 3 Oct 2026.
+Vermelho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Sao Paulo on Sat, 3 Oct 2026.
 
 Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, with 71 sets logged across Brazil, Buenos Aires and Sao Paulo. Often billed alongside Paulete Lindacelva, DJ DUE and Zopelar. Next up: TBA, Sao Paulo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Vermelho is a house and techno artist based in Brazil, tracked on soundcheck, wi
 
 Paulete Lindacelva, DJ DUE, Zopelar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*

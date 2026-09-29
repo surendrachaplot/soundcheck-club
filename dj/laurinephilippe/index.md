@@ -1,6 +1,6 @@
 # Laurine Philippe
 
-Laurine Philippe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+Laurine Philippe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 Laurine Philippe is a techno and house artist based in Belgium, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Dan Bay, Drag & Drop and Frau Laura. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Laurine Philippe is a techno and house artist based in Belgium, tracked on sound
 
 Dan Bay, Drag & Drop, Frau Laura
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurinephilippe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurinephilippe/)*

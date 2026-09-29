@@ -1,6 +1,6 @@
 # Yachym
 
-Yachym is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Yachym is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Yachym is a dub and bass artist based in Czech Republic, tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Yachym is a dub and bass artist based in Czech Republic, tracked on soundcheck, 
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*

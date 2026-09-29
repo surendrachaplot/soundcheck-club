@@ -1,6 +1,6 @@
 # Wrcklés
 
-Wrcklés is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Wed, 30 Sept 2026.
+Wrcklés is a Experimental and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Spkrbox, Detroit on Wed, 30 Sept 2026.
 
 Wrcklés is an experimental and r&b artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Isaac Prieto, 888lambchop and BLAAQGOLD. Next up: Spkrbox, Detroit on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ Wrcklés is an experimental and r&b artist based in United States of America, tr
 
 Isaac Prieto, 888lambchop, BLAAQGOLD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrckles/)*

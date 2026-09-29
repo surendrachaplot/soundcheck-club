@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
+XXHARDBIT3S is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
 
 XXHARDBIT3S is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 51 sets logged across Boston, Denver, Detroit and Montreal and 5 more. Often billed alongside JESSXO, 3mouth and Soo Intoit. Next up: Motorista Studio, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ XXHARDBIT3S is a hardcore and gabber artist based in United States of America, t
 
 JESSXO, 3mouth, Soo Intoit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

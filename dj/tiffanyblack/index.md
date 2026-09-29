@@ -1,6 +1,6 @@
 # Tiffany Black
 
-Tiffany Black is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Love Affair Basement, London on Wed, 7 Oct 2026.
+Tiffany Black is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Love Affair Basement, London on Wed, 7 Oct 2026.
 
 Tiffany Black is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Next up: Love Affair Basement, London on Wed 7 Oct.
 
@@ -14,4 +14,4 @@ Tiffany Black is an electronic artist based in United Kingdom, tracked on soundc
 
 - Love Affair Basement, London — Thu, 11 Jun 2026
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyblack/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyblack/)*

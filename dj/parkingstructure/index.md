@@ -1,6 +1,6 @@
 # Parking Structure
 
-Parking Structure is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+Parking Structure is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Parking Structure is a techno and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across San Francisco/Oakland. Often billed alongside AFFIRM, Adware and BAD JUUJU. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Parking Structure is a techno and club artist based in United States of America,
 
 AFFIRM, Adware, BAD JUUJU
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parkingstructure/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parkingstructure/)*

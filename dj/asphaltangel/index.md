@@ -1,6 +1,6 @@
 # asphalt angel
 
-asphalt angel is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
+asphalt angel is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
 
 asphalt angel is a bass and garage artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside JCow, Kalla and LG JASPER <3. Next up: Lark, Berlin on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ asphalt angel is a bass and garage artist based in Germany, tracked on soundchec
 
 JCow, Kalla, LG JASPER <3
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asphaltangel/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asphaltangel/)*

@@ -1,6 +1,6 @@
 # DJ SAKI
 
-DJ SAKI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
+DJ SAKI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
 
 DJ SAKI is a techno and trance artist based in Japan, tracked on soundcheck, with 14 sets logged across Osaka and Tokyo. Often billed alongside Kihira Naoki, AMG SAIMURA (TECHVANE) and DJ SO. Next up: Club Daphnia, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ SAKI is a techno and trance artist based in Japan, tracked on soundcheck, wit
 
 Kihira Naoki, AMG SAIMURA (TECHVANE), DJ SO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaki/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaki/)*

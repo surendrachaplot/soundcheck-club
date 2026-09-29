@@ -1,6 +1,6 @@
 # Hi Milio
 
-Hi Milio is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 2 Oct 2026.
+Hi Milio is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Hi Milio is a house and disco artist tracked on soundcheck, with 6 sets logged across San Francisco/Oakland. Often billed alongside Duserock, OFFAIAH and yanzy. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Hi Milio is a house and disco artist tracked on soundcheck, with 6 sets logged a
 
 Duserock, OFFAIAH, yanzy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-milio/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-milio/)*

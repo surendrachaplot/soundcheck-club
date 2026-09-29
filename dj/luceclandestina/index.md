@@ -1,6 +1,6 @@
 # Luce Clandestina
 
-Luce Clandestina is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
+Luce Clandestina is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
 
 Luce Clandestina is a techno and electro artist based in Italy, tracked on soundcheck, with 48 sets logged across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Officine Grandi Riparazioni, Turin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Luce Clandestina is a techno and electro artist based in Italy, tracked on sound
 
 Emiliano Comollo, Seven sins, Voodoos and Taboos
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*

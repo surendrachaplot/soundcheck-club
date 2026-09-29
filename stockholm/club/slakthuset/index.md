@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "House Mates Invites Djuma Soundsystem" on Sat, 3 Oct 2026.
+Slakthuset is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "House Mates Invites Djuma Soundsystem" on Sat, 3 Oct 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Bara W, Djuma Soundsystem, Erik Sahl and Mira Iranpour. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -16,4 +16,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

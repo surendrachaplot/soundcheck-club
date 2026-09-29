@@ -1,6 +1,6 @@
 # SKIN CONTACT
 
-SKIN CONTACT is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 1 Ingraham Street, New York City on Sat, 3 Oct 2026.
+SKIN CONTACT is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - 1 Ingraham Street, New York City on Sat, 3 Oct 2026.
 
 SKIN CONTACT is a techno and electro artist based in United States of America, tracked on soundcheck, with 22 sets logged across New York City. Often billed alongside Atomheartmommy, Cyb3r Bull and DOLLNXTDOOR. Next up: TBA - 1 Ingraham Street, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SKIN CONTACT is a techno and electro artist based in United States of America, t
 
 Atomheartmommy, Cyb3r Bull, DOLLNXTDOOR
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skincontact/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skincontact/)*

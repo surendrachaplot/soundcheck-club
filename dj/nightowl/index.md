@@ -1,6 +1,6 @@
 # Night Owl
 
-Night Owl is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
+Night Owl is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at T7 Paris, Paris on Sat, 3 Oct 2026.
 
 Night Owl is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Paris and Sydney. Often billed alongside A.N.I., Alex Nantaya and Angel Karel. Next up: T7 Paris, Paris on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Night Owl is a techno and industrial artist based in United Kingdom, tracked on 
 
 A.N.I., Alex Nantaya, Angel Karel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*

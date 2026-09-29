@@ -1,6 +1,6 @@
 # Alfonso Javier
 
-Alfonso Javier is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at BASEMENT, New York City on Sat, 10 Oct 2026.
+Alfonso Javier is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BASEMENT, New York City on Sat, 10 Oct 2026.
 
 Alfonso Javier is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across New York City. Often billed alongside ALEXIS DE LA ROSA, Akua and DJ TOOL. Next up: BASEMENT, New York City on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Alfonso Javier is an electronic artist based in United States of America, tracke
 
 ALEXIS DE LA ROSA, Akua, DJ TOOL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsojavier/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsojavier/)*

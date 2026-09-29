@@ -1,6 +1,6 @@
 # Toro (4)
 
-Toro (4) is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Toro (4) is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Toro is a hardcore and industrial artist tracked on soundcheck, with 2 sets logged across Miami and Washington DC. Often billed alongside CFCF, Cadeem LaMarr and CalvoMusic. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Toro is a hardcore and industrial artist tracked on soundcheck, with 2 sets logg
 
 CFCF, Cadeem LaMarr, CalvoMusic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro-4/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro-4/)*

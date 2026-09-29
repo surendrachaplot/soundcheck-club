@@ -1,6 +1,6 @@
 # Deano
 
-Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Open Ground, Wuppertal on Sat, 21 Nov 2026.
+Deano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Open Ground, Wuppertal on Sat, 21 Nov 2026.
 
 Deano is a techno and house artist based in South Africa, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Faretrade, JED (ZA) and Árni. Next up: Open Ground, Wuppertal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Deano is a techno and house artist based in South Africa, tracked on soundcheck,
 
 Faretrade, JED (ZA), Árni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

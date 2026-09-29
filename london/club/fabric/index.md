@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more" on Fri, 2 Oct 2026.
+fabric is a music venue in London with 27 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "FABRICLIVE: Yung Singh, O'Flynn (All Night Long), KOLLIN, Ma Sha, Percy Mingle + more" on Fri, 2 Oct 2026.
 
 fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including AANO, Aaron Hibell, Adana Twins and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

@@ -1,6 +1,6 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gallery, London on Thu, 1 Oct 2026.
+Yamagucci is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Gallery, London on Thu, 1 Oct 2026.
 
 Yamagucci is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL. Next up: Gallery, London on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ Yamagucci is a house and techno artist based in United States of America, tracke
 
 Adam Ten, Mita Gami, SIEGEL (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

@@ -1,6 +1,6 @@
 # Jesusdapnk
 
-Jesusdapnk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Private Location, San Diego on Sat, 3 Oct 2026.
+Jesusdapnk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Private Location, San Diego on Sat, 3 Oct 2026.
 
 Jesusdapnk is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Los Angeles and San Diego. Often billed alongside Boys Don't Disco, Paul Najera and Funkhousir. Next up: TBA - Private Location, San Diego on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jesusdapnk is a house and deep house artist based in United States of America, t
 
 Boys Don't Disco, Paul Najera, Funkhousir
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusdapnk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusdapnk/)*

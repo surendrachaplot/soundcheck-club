@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FLUIDS - XDB" on Fri, 2 Oct 2026.
+DURO is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "FLUIDS - XDB" on Fri, 2 Oct 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Caim, Chloé, Daniel Avery and Deeetro and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

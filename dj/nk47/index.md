@@ -1,6 +1,6 @@
 # NK47
 
-NK47 is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Makossa, London on Thu, 19 Nov 2026.
+NK47 is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Makossa, London on Thu, 19 Nov 2026.
 
 NK47 is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside ABIMBOLA, AfroLicious Mumma and Baytee Baytak. Next up: Club Makossa, London on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ NK47 is an experimental and club artist based in United Kingdom, tracked on soun
 
 ABIMBOLA, AfroLicious Mumma, Baytee Baytak
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nk47/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nk47/)*

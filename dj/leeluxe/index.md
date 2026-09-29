@@ -1,6 +1,6 @@
 # Lee Luxe
 
-Lee Luxe is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 93 Feet East, London on Sat, 7 Nov 2026.
+Lee Luxe is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 93 Feet East, London on Sat, 7 Nov 2026.
 
 Lee Luxe is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Ibiza, London and Malta. Often billed alongside Jerome Six, Adam Locke and Chanel Carmichael. Next up: 93 Feet East, London on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Lee Luxe is a tech house and deep house artist based in United Kingdom, tracked 
 
 Jerome Six, Adam Locke, Chanel Carmichael
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeluxe/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeluxe/)*

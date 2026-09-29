@@ -1,14 +1,15 @@
 # Locky
 
-Locky is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
+Locky is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nine Lives, Malta on Wed, 30 Sept 2026.
 
-Locky is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 29 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Nine Lives, Malta on Wed 30 Sept.
+Locky is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 150 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 30 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Nine Lives, Malta on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Nine Lives | Malta |
+| Thu, 1 Oct 2026 | Komedia Bath | West-wales |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Toffler | Rotterdam |
@@ -35,4 +36,4 @@ Locky is a house and tech house artist based in United Kingdom, tracked on sound
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

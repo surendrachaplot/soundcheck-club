@@ -1,6 +1,6 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Tristan Arp is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Tristan Arp is a bass and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Austin and Bali and 15 more. Often billed alongside DJ DEADNAME, Daigos and E.O.U. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Tristan Arp is a bass and techno artist based in United States of America, track
 
 DJ DEADNAME, Daigos, E.O.U
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

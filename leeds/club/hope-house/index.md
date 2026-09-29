@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Club Copine Sapphic Discothèque" on Sat, 3 Oct 2026.
+Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Club Copine Sapphic Discothèque" on Sat, 3 Oct 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including 2QUID, Benny Bysouth, Carl H and CasuallyClued and 2 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -21,4 +21,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

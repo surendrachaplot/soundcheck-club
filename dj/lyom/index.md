@@ -1,14 +1,15 @@
 # LYOM
 
-LYOM is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at clubasia, Tokyo on Fri, 9 Oct 2026.
+LYOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at clubasia, Tokyo on Fri, 9 Oct 2026.
 
-LYOM is a techno and gabber artist based in Japan, tracked on soundcheck, with 10 sets logged across Seoul and Tokyo. Often billed alongside EMILIO, STRATAH and Calavera. Next up: clubasia, Tokyo on Fri 9 Oct.
+LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 11 sets logged across Seoul and Tokyo. Often billed alongside EMILIO, Calavera and STRATAH. Next up: clubasia, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | clubasia | Tokyo |
+| Fri, 16 Oct 2026 | Ruby Room | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LYOM is a techno and gabber artist based in Japan, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-EMILIO (3), STRATAH, Calavera
+EMILIO (3), Calavera, STRATAH
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

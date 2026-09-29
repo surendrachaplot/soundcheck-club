@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
 
 Paolo Ferrara is a techno and hardcore artist based in Italy, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Lorenzo Raganzini, BIIA and Alignment. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Paolo Ferrara is a techno and hardcore artist based in Italy, tracked on soundch
 
 Lorenzo Raganzini, BIIA, Alignment
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

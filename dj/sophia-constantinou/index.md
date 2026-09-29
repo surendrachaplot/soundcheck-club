@@ -1,6 +1,6 @@
 # Sophia Constantinou
 
-Sophia Constantinou is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Phonox, London on Thu, 8 Oct 2026.
+Sophia Constantinou is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Phonox, London on Thu, 8 Oct 2026.
 
 Sophia Constantinou is a house and bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside DJelley, LUX (uk) and Ned Spencer. Next up: Phonox, London on Thu 8 Oct.
 
@@ -15,4 +15,4 @@ Sophia Constantinou is a house and bass artist based in United Kingdom, tracked 
 
 DJelley, LUX (uk), Ned Spencer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*

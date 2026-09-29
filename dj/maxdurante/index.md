@@ -1,6 +1,6 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Luka, Seoul on Fri, 2 Oct 2026.
+MAX DURANTE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Luka, Seoul on Fri, 2 Oct 2026.
 
 MAX DURANTE is a techno and industrial artist based in Italy, tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: Luka, Seoul on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ MAX DURANTE is a techno and industrial artist based in Italy, tracked on soundch
 
 Yu Kawabata, Dave Clarke, Stephanie Sykes
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*

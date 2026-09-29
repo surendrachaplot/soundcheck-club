@@ -1,6 +1,6 @@
 # Inja
 
-Inja is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Inja is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Inja is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Antwerp, Auckland, Bangkok and Berlin and 14 more. Often billed alongside Bladerunner, Kings of the Rollers and Carasel. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Inja is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Bladerunner, Kings of the Rollers, Carasel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*

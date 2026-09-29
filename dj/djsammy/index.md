@@ -1,6 +1,6 @@
 # DJ Sammy
 
-DJ Sammy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+DJ Sammy is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 DJ Sammy is an electronic artist tracked on soundcheck, with 4 sets logged across Cologne, Ibiza, London and Manchester. Often billed alongside Billy Gillies, DJ Falk and Da Hool. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ DJ Sammy is an electronic artist tracked on soundcheck, with 4 sets logged acros
 
 Billy Gillies, DJ Falk, Da Hool
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsammy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsammy/)*

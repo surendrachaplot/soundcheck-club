@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sub.mission Electronic Tuesdays: D:Form" on Tue, 29 Sept 2026.
+The Black Box is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Sub.mission Electronic Tuesdays: D:Form" on Tue, 29 Sept 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming gigs, with line-ups including Etch, Monty, Plastician and Poisonfrog and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -21,4 +21,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming gigs, 
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

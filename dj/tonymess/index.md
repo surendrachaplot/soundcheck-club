@@ -1,6 +1,6 @@
 # Tony Mess
 
-Tony Mess is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nachtflug & Starz, Cologne on Sun, 4 Oct 2026.
+Tony Mess is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Nachtflug & Starz, Cologne on Sun, 4 Oct 2026.
 
 Tony Mess is a tech house and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne and Düsseldorf. Often billed alongside Juliet Sikora, Tube & Berger and Chris Di Perri. Next up: Nachtflug & Starz, Cologne on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ Tony Mess is a tech house and house artist based in Germany, tracked on soundche
 
 Juliet Sikora, Tube & Berger, Chris Di Perri
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonymess/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonymess/)*

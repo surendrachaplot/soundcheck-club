@@ -1,6 +1,6 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Club Zero Vol.14" on Sat, 3 Oct 2026.
+Ääniwalli is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Club Zero Vol.14" on Sat, 3 Oct 2026.
 
 Ääniwalli is a music venue in Helsinki listed on soundcheck. 6 upcoming gigs, with line-ups including ALLFIVE, amil raja, Cara Elizabeth and Conntex and 2 more. Browse upcoming dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
@@ -19,4 +19,4 @@
 
 Pälkäneentie 13, 00510 Helsinki, Finland, Helsinki
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*

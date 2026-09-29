@@ -1,6 +1,6 @@
 # Man With No Shadow
 
-Man With No Shadow is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Man With No Shadow is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
 Man With No Shadow is a techno and electronica artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside TheKoosy, AELVA K and Alex Micca. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Man With No Shadow is a techno and electronica artist tracked on soundcheck, wit
 
 TheKoosy, AELVA K, Alex Micca
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themanwithnoshadow/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themanwithnoshadow/)*

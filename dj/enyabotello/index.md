@@ -1,6 +1,6 @@
 # Enya Botello
 
-Enya Botello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+Enya Botello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
 Enya Botello is a techno and house artist based in Mexico, tracked on soundcheck, with 200 sets logged across Mexico City, Seattle, Tokyo and Vancouver. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Enya Botello is a techno and house artist based in Mexico, tracked on soundcheck
 
 Eliel Capa, Deejay Energy, Magnolia Coronado
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*

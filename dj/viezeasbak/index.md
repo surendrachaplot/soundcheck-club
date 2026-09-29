@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 20 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
+Vieze Asbak is a Techno and Hardcore artist with 20 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
 
 Vieze Asbak is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: E1, London on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, tracked on sou
 
 KLOFAMA, KRUELTY, Restricted
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

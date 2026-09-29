@@ -1,6 +1,6 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - The Barn Sacramento, California on Sun, 11 Oct 2026.
+Zack Fox is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - The Barn Sacramento, California on Sun, 11 Oct 2026.
 
 Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Austin and Berlin and 23 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: TBA - The Barn Sacramento, California on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 
 DJ Bone, JEWELSSEA, BAE BAE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

@@ -1,6 +1,6 @@
 # Pash (US)
 
-Pash (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sat, 24 Oct 2026.
+Pash (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sat, 24 Oct 2026.
 
 Pash (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Los Angeles. Often billed alongside TIMEKUBE, Frida Henson and Luna Michelle. Next up: TBA - Los Angeles, Los Angeles on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Pash (US) is a techno and house artist based in United States of America, tracke
 
 TIMEKUBE, Frida Henson, Luna Michelle
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pashus/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pashus/)*

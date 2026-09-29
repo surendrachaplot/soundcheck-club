@@ -1,13 +1,14 @@
 # puffclouds
 
-puffclouds is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
+puffclouds is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - The Den, Tokyo on Wed, 14 Oct 2026.
 
-puffclouds is a techno and house artist based in France, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ALLY, Ayana Pattra and Doom Tempo. Next up: Aoyama Hachi, Tokyo on Sun 18 Oct.
+puffclouds is a techno and house artist based in France, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside ALLY, Doom Tempo and TECSTONE. Next up: TBA - The Den, Tokyo on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | TBA - The Den | Tokyo |
 | Sun, 18 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -16,6 +17,6 @@ puffclouds is a techno and house artist based in France, tracked on soundcheck, 
 
 ## Shares bills with
 
-ALLY, Ayana Pattra, Doom Tempo
+ALLY, Doom Tempo, TECSTONE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*

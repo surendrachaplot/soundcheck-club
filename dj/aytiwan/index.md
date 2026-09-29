@@ -1,6 +1,6 @@
 # Aytiwan
 
-Aytiwan is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Scène Bar, Brussels on Fri, 2 Oct 2026.
+Aytiwan is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Scène Bar, Brussels on Fri, 2 Oct 2026.
 
 Aytiwan is an afro house and house artist tracked on soundcheck, with 8 sets logged across Brussels and Ibiza. Often billed alongside Belben, AMARE and Davina Moss. Next up: Scène Bar, Brussels on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Aytiwan is an afro house and house artist tracked on soundcheck, with 8 sets log
 
 Belben, AMARE, Davina Moss
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aytiwan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aytiwan/)*

@@ -1,6 +1,6 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Parra for Cuva" on Sat, 31 Oct 2026.
+The Bellwether is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Parra for Cuva" on Sat, 31 Oct 2026.
 
 The Bellwether is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Parra for Cuva and Wuki. Browse upcoming dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
@@ -17,4 +17,4 @@ The Bellwether is a music venue in Los Angeles listed on soundcheck. 4 upcoming 
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

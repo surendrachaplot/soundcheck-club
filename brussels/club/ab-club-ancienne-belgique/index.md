@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SIZZLEPROOF x AB Club: One Year Anniversary" on Sat, 10 Oct 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "SIZZLEPROOF x AB Club: One Year Anniversary" on Sat, 10 Oct 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including corto.alto, Das Firmament, Hysope and JEKKAMAÏ. Browse upcoming dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -16,4 +16,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

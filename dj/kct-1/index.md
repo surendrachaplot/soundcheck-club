@@ -1,6 +1,6 @@
 # KCT (1)
 
-KCT (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Numm, Tokyo on Mon, 19 Oct 2026.
+KCT (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Numm, Tokyo on Mon, 19 Oct 2026.
 
 KCT is a techno and bass artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside AMIDAdrive, Mykey and Rt3mis. Next up: Numm, Tokyo on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ KCT is a techno and bass artist based in Japan, tracked on soundcheck, with 18 s
 
 AMIDAdrive, Mykey (2), Rt3mis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*

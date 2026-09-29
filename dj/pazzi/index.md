@@ -1,6 +1,6 @@
 # Pazzi
 
-Pazzi is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
+Pazzi is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
 Pazzi is a house artist based in Cyprus, tracked on soundcheck, with 3 sets logged across Cyprus and Warsaw. Often billed alongside AWEN, Adam Beyer and Adiel. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Pazzi is a house artist based in Cyprus, tracked on soundcheck, with 3 sets logg
 
 AWEN, Adam Beyer, Adiel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*

@@ -1,6 +1,6 @@
 # Karmakiddo
 
-Karmakiddo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 21 Nov 2026.
+Karmakiddo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 21 Nov 2026.
 
 Karmakiddo is a techno and tech house artist based in France, tracked on soundcheck, with 15 sets logged across Paris. Often billed alongside Ben Manson, Acid Oslo and Aubry. Next up: La Rotonde Stalingrad, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Karmakiddo is a techno and tech house artist based in France, tracked on soundch
 
 Ben Manson, Acid Oslo, Aubry
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karmakiddo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karmakiddo/)*

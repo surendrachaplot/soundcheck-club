@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
+NewTone is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
 
 NewTone is a house and techno artist based in Netherlands, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: La Terrrazza, Barcelona on Thu 1 Oct.
 
@@ -33,4 +33,4 @@ NewTone is a house and techno artist based in Netherlands, tracked on soundcheck
 
 Boris Coelman, TINS, DART
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

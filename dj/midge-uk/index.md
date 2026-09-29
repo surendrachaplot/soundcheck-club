@@ -1,6 +1,6 @@
 # Midge (UK)
 
-Midge (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
+Midge (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
 
 Midge (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Clive From Accounts and Hifi Sean. Next up: Notting Hill Arts Club, London on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Midge (UK) is a deep house and house artist based in United Kingdom, tracked on 
 
 Clive From Accounts, Hifi Sean
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midge-uk/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midge-uk/)*

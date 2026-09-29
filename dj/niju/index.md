@@ -1,6 +1,6 @@
 # Niju
 
-Niju is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beate Uwe, Berlin on Thu, 22 Oct 2026.
+Niju is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beate Uwe, Berlin on Thu, 22 Oct 2026.
 
 Niju is an electronica and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Basel, Berlin, Hamburg and Lisbon. Often billed alongside Ninze, doob and Khalil Suleman. Next up: Beate Uwe, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Niju is an electronica and techno artist based in Germany, tracked on soundcheck
 
 Ninze, doob, Khalil Suleman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niju/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niju/)*

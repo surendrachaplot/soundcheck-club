@@ -1,6 +1,6 @@
 # Yukari BB
 
-Yukari BB is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Area51 / 17map Minami, Osaka on Sun, 11 Oct 2026.
+Yukari BB is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Area51 / 17map Minami, Osaka on Sun, 11 Oct 2026.
 
 Yukari BB is a house and jazz artist based in Japan, tracked on soundcheck, with 36 sets logged across Amsterdam, Kyoto, London and Osaka and 1 more. Often billed alongside Masaki Tamura, Kyoto Jazz Massive and Midori Aoyama. Next up: Area51 / 17map Minami, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Yukari BB is a house and jazz artist based in Japan, tracked on soundcheck, with
 
 Masaki Tamura, Kyoto Jazz Massive, Midori Aoyama
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukaribb/)*

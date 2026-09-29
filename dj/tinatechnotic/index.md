@@ -1,6 +1,6 @@
 # Tina Technotic
 
-Tina Technotic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Araña Club, Madrid on Thu, 1 Oct 2026.
+Tina Technotic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Araña Club, Madrid on Thu, 1 Oct 2026.
 
 Tina Technotic is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, London, Madrid and Vienna. Often billed alongside Yukari, Kazuki Takahashi and Emilion Dollar Baby. Next up: Araña Club, Madrid on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Tina Technotic is a house and techno artist based in United Kingdom, tracked on 
 
 Yukari, Kazuki Takahashi, Emilion Dollar Baby
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatechnotic/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatechnotic/)*

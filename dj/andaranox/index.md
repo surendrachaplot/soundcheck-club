@@ -1,6 +1,6 @@
 # Andara Nox
 
-Andara Nox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Andara Nox is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Andara Nox is a techno and trance artist based in Venezuela, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Anna Hoeber, April the pink and Bambii. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Andara Nox is a techno and trance artist based in Venezuela, tracked on soundche
 
 Anna Hoeber, April the pink, Bambii
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andaranox/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andaranox/)*

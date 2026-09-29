@@ -1,6 +1,6 @@
 # Kuriozum
 
-Kuriozum is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Prozak 2.0, Krakow on Fri, 30 Oct 2026.
+Kuriozum is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Prozak 2.0, Krakow on Fri, 30 Oct 2026.
 
 Kuriozum is a trance and techno artist based in Poland, tracked on soundcheck, with 82 sets logged across Krakow, Poland, Warsaw and Wroclaw. Often billed alongside Meg (PL), naked relaxing and DJ POLKOMTEL. Next up: Prozak 2.0, Krakow on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Kuriozum is a trance and techno artist based in Poland, tracked on soundcheck, w
 
 Meg (PL), naked relaxing, DJ POLKOMTEL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriozum/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriozum/)*

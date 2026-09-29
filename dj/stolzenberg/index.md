@@ -1,6 +1,6 @@
 # Stolzenberg
 
-Stolzenberg is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
+Stolzenberg is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ritter Butzke, Berlin on Fri, 16 Oct 2026.
 
 Stolzenberg is a techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Amorelie, DERICE and DJ Bude. Next up: Ritter Butzke, Berlin on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ Stolzenberg is a techno artist tracked on soundcheck, with 2 sets logged across 
 
 Amorelie, DERICE, DJ Bude
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stolzenberg/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stolzenberg/)*

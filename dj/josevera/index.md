@@ -1,6 +1,6 @@
 # Jose Vera
 
-Jose Vera is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cadavra, Madrid on Sat, 3 Oct 2026.
+Jose Vera is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cadavra, Madrid on Sat, 3 Oct 2026.
 
 Jose Vera is an electronica and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Posada, Lucien and Rony Finkel. Next up: Cadavra, Madrid on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Jose Vera is an electronica and house artist based in United States of America, 
 
 Posada, Lucien (3), Rony Finkel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josevera/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josevera/)*

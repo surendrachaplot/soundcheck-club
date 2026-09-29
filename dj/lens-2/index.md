@@ -1,6 +1,6 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
 
 Lens is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Barcelona, Birmingham, Brighton and Brisbane and 17 more. Often billed alongside Mozey, Oppidan and Benwal. Next up: The Crypt (New Orleans), New Orleans on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, tracked on sou
 
 Mozey, Oppidan, Benwal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

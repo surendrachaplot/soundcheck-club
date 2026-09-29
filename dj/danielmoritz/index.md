@@ -1,6 +1,6 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+Daniel Moritz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
 
 Daniel Moritz is a house and techno artist based in Hungary, tracked on soundcheck, with 111 sets logged across Budapest, Helsinki and Malta. Often billed alongside Sobek, Rovizz and CRB. Next up: Turbina, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Daniel Moritz is a house and techno artist based in Hungary, tracked on soundche
 
 Sobek, Rovizz, CRB
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*

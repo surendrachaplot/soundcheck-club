@@ -1,6 +1,6 @@
 # Kult
 
-Kult is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "KULT pres. KENNY LARKIN" on Sat, 14 Nov 2026.
+Kult is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "KULT pres. KENNY LARKIN" on Sat, 14 Nov 2026.
 
 Kult is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse u
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*

@@ -1,6 +1,6 @@
 # The Opera House
 
-The Opera House is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Takuya Nakamura" on Thu, 26 Nov 2026.
+The Opera House is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Takuya Nakamura" on Thu, 26 Nov 2026.
 
 The Opera House is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Takuya Nakamura. Browse upcoming dates, start times and who's playing. 735 Queen St E, Toronto, ON M4M 1H1, Canada.
 
@@ -14,4 +14,4 @@ The Opera House is a music venue in Toronto listed on soundcheck. 1 upcoming gig
 
 735 Queen St E, Toronto, ON M4M 1H1, Canada, Toronto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-opera-house/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-opera-house/)*

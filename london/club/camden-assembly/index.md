@@ -1,17 +1,17 @@
 # Camden Assembly
 
-Camden Assembly is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE) " on Fri, 30 Oct 2026.
+Camden Assembly is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE) " on Fri, 30 Oct 2026.
 
-Camden Assembly is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Die Selektion and Lais Pattak. Browse upcoming dates, start times and who's playing. 49 Chalk Farm Rd London NW1 8AN.
+Camden Assembly is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Die Selektion, Glotzer, Lais Pattak and Mara Mortem. Browse upcoming dates, start times and who's playing. 49 Chalk Farm Rd London NW1 8AN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE)  | Die Selektion, Lais Pattak |
+| Fri, 30 Oct 2026 | Mønster Queen - THE FINAL HALLOWEEN BALL w/ Die Selektion (LIVE)  | Die Selektion, Glotzer, Lais Pattak, Mara Mortem |
 
 ## Address
 
 49 Chalk Farm Rd London NW1 8AN, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-assembly/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-assembly/)*

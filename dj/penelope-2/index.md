@@ -1,8 +1,8 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fuse, Brussels on Fri, 2 Oct 2026.
+Penelope (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fuse, Brussels on Fri, 2 Oct 2026.
 
-Penelope is a house and techno artist based in France, tracked on soundcheck, with 131 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Fuse, Brussels on Fri 2 Oct.
+Penelope is a house and techno artist based in France, tracked on soundcheck, with 132 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Fuse, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Penelope is a house and techno artist based in France, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Fuse | Brussels |
 | Sat, 10 Oct 2026 | The DBA | Manchester |
+| Fri, 23 Oct 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Penelope is a house and techno artist based in France, tracked on soundcheck, wi
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

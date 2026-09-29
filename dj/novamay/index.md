@@ -1,6 +1,6 @@
 # Nova May
 
-Nova May is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at New Cross Inn, London on Thu, 29 Oct 2026.
+Nova May is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at New Cross Inn, London on Thu, 29 Oct 2026.
 
 Nova May is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow, London and Manchester. Often billed alongside Reysha Rami and marimari. Next up: New Cross Inn, London on Thu 29 Oct.
 
@@ -20,4 +20,4 @@ Nova May is an electronica and club artist based in United Kingdom, tracked on s
 
 Reysha Rami, marimari
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novamay/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novamay/)*

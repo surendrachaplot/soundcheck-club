@@ -1,6 +1,6 @@
 # OSHALEY
 
-OSHALEY is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Upsidedown, Osaka on Fri, 2 Oct 2026.
+OSHALEY is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Upsidedown, Osaka on Fri, 2 Oct 2026.
 
 OSHALEY is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 52 sets logged across Osaka and Tokyo. Often billed alongside TENO, HSC and OCCA. Next up: Upsidedown, Osaka on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OSHALEY is a techno and minimal techno artist based in Japan, tracked on soundch
 
 TENO, HSC (1), OCCA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*

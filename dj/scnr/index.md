@@ -1,6 +1,6 @@
 # SCNR
 
-SCNR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at MÄX, Zurich on Sat, 17 Oct 2026.
+SCNR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at MÄX, Zurich on Sat, 17 Oct 2026.
 
 SCNR is a techno and house artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside Jacom (Adroit), Tajara and Thomas Bianco. Next up: MÄX, Zurich on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ SCNR is a techno and house artist based in Switzerland, tracked on soundcheck, w
 
 Jacom (Adroit), Tajara, Thomas Bianco
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*

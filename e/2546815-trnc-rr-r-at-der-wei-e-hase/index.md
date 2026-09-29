@@ -1,6 +1,6 @@
-# TRNC:RR • R at Der Weiße Hase
+# TRNC :RR • R at Der Weiße Hase
 
-TRNC:RR • R at Der Weiße Hase on Fri 9 Oct, Berlin. 4 artists on the bill: Der Eggert, Emma, Javier Portilla and TechNovaBader. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRNC :RR • R at Der Weiße Hase on Fri 9 Oct, Berlin. 4 artists on the bill: Der Eggert, Emma, Javier Portilla and TechNovaBader. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

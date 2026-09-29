@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Fine Selection #223 - Season Finale w/Lee Burton" on Thu, 1 Oct 2026.
+A38 is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Fine Selection #223 - Season Finale w/Lee Burton" on Thu, 1 Oct 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Bladerunner, Electric Boutique, Kanine and Lee Burton and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -23,4 +23,4 @@ A38 is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with li
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

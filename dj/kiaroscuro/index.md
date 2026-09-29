@@ -1,6 +1,6 @@
 # Kiar Oscuro
 
-Kiar Oscuro is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
+Kiar Oscuro is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
 
 Kiar Oscuro is a techno and baile funk artist tracked on soundcheck, with 20 sets logged across Berlin, Leipzig, Oslo and Paris. Often billed alongside Or_ion, Butch2Bitch and CLEO. Next up: Point Ephémère, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kiar Oscuro is a techno and baile funk artist tracked on soundcheck, with 20 set
 
 Or_ion, Butch2Bitch, CLEO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiaroscuro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiaroscuro/)*

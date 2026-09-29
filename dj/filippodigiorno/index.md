@@ -1,6 +1,6 @@
 # FilippoDiGiorno
 
-FilippoDiGiorno is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DURO, Milan on Fri, 16 Oct 2026.
+FilippoDiGiorno is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DURO, Milan on Fri, 16 Oct 2026.
 
 FilippoDiGiorno is a house and electro artist based in Italy, tracked on soundcheck, with 3 sets logged across Barcelona and Milan. Often billed alongside Carl Craig, Cosmo X and DJ Octopus. Next up: DURO, Milan on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ FilippoDiGiorno is a house and electro artist based in Italy, tracked on soundch
 
 Carl Craig, Cosmo X, DJ Octopus
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippodigiorno/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippodigiorno/)*

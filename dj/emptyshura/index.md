@@ -1,6 +1,6 @@
 # Emptyshura
 
-Emptyshura is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
+Emptyshura is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
 
 Emptyshura is a hardcore and electronica artist based in Russia, tracked on soundcheck, with 2 sets logged across Bangkok. Often billed alongside NEBESNY, POKOLENIE MIKROZAYMOV and REIKS. Next up: Otaqlab Bangkok, Bangkok on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Emptyshura is a hardcore and electronica artist based in Russia, tracked on soun
 
 NEBESNY, POKOLENIE MIKROZAYMOV, REIKS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyshura/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyshura/)*

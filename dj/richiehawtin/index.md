@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Richie Hawtin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Richie Hawtin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, tracked on s
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
@@ -29,4 +30,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, tracked on s
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

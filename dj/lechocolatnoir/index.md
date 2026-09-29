@@ -1,6 +1,6 @@
 # Le Chocolat Noir
 
-Le Chocolat Noir is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
+Le Chocolat Noir is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
 
 Le Chocolat Noir is an acid and electro artist tracked on soundcheck, with 6 sets logged across Bangkok, Belgrade, Berlin and Ljubljana and 2 more. Often billed alongside 030303, Afra and Alessandro Adriani. Next up: Kino Siska, Ljubljana on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Le Chocolat Noir is an acid and electro artist tracked on soundcheck, with 6 set
 
 030303, Afra, Alessandro Adriani
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lechocolatnoir/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lechocolatnoir/)*

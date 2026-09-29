@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Club Vaag invites Faster Horses, Milion & Unregular" on Fri, 2 Oct 2026.
+Club Vaag is a music venue in Antwerp with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Club Vaag invites Faster Horses, Milion & Unregular" on Fri, 2 Oct 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 10 upcoming gigs, with line-ups including BISOUX, BØĘRY, Eran Aviner and Faster Horses and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -23,4 +23,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 10 upcoming gigs, wi
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

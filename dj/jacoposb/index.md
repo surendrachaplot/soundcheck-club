@@ -1,6 +1,6 @@
 # Jacopo Sb
 
-Jacopo Sb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at IT Athens, Athens on Sat, 10 Oct 2026.
+Jacopo Sb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at IT Athens, Athens on Sat, 10 Oct 2026.
 
 Jacopo Sb is a techno and house artist based in Italy, tracked on soundcheck, with 2 sets logged across Athens and New York City. Often billed alongside DJ Cinéma Quartier Latin, No_4mat and Target Demographic. Next up: IT Athens, Athens on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Jacopo Sb is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 DJ Cinéma Quartier Latin, No_4mat, Target Demographic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacoposb/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacoposb/)*

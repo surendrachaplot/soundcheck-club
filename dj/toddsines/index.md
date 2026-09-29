@@ -1,6 +1,6 @@
 # Todd Sines
 
-Todd Sines is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
+Todd Sines is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
 
 Todd Sines is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Athens, Los Angeles and New York City. Often billed alongside Traxx, 5ToK3 and Ben The Glorious Bastard. Next up: The Sultan Room, New York City on Mon 5 Oct.
 
@@ -20,4 +20,4 @@ Todd Sines is a techno and house artist based in United States of America, track
 
 Traxx, 5ToK3, Ben The Glorious Bastard
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddsines/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddsines/)*

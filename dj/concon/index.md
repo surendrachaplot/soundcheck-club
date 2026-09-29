@@ -1,6 +1,6 @@
 # ConCon
 
-ConCon is a Ambient and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Metropolitan Bar, New York City on Fri, 2 Oct 2026.
+ConCon is a Ambient and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Metropolitan Bar, New York City on Fri, 2 Oct 2026.
 
 ConCon is an ambient and pop artist based in United States of America, tracked on soundcheck, with 46 sets logged across Leeds, Munich and New York City. Often billed alongside BABES The DJ, Adam R and Luwan. Next up: Metropolitan Bar, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ConCon is an ambient and pop artist based in United States of America, tracked o
 
 BABES The DJ, Adam R, Luwan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*

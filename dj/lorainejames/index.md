@@ -1,6 +1,6 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
+Loraine James is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
 
 Loraine James is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: Torso Electronics, Copenhagen on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Loraine James is an experimental and ambient artist based in United Kingdom, tra
 
 Valentina Magaletti, Kelman Duran, Lee Gamble
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*

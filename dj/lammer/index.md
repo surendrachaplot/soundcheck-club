@@ -1,8 +1,8 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+LAMMER is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-LAMMER is a techno and trance artist based in Netherlands, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+LAMMER is a techno and trance artist based in Netherlands, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 29 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LAMMER is a techno and trance artist based in Netherlands, tracked on soundcheck
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | fi | Cologne |
+| Fri, 16 Oct 2026 | Complex Maastricht | Netherlands |
 | Sat, 17 Oct 2026 | Club Vaag | Antwerp |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
@@ -18,6 +19,7 @@ LAMMER is a techno and trance artist based in Netherlands, tracked on soundcheck
 | Fri, 6 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Fri, 20 Nov 2026 | Colour Factory | London |
+| Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ LAMMER is a techno and trance artist based in Netherlands, tracked on soundcheck
 
 Lisa Korver, Bella Claxton, Kyle Starkey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

@@ -1,6 +1,6 @@
 # DJ Shimamura
 
-DJ Shimamura is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Shibuya, Tokyo on Sat, 19 Dec 2026.
+DJ Shimamura is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Shibuya, Tokyo on Sat, 19 Dec 2026.
 
 DJ Shimamura is a hardcore and club artist based in Japan, tracked on soundcheck, with 50 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: TBA - Shibuya, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Shimamura is a hardcore and club artist based in Japan, tracked on soundcheck
 
 M-Project, MIDI War, NATSUMI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*

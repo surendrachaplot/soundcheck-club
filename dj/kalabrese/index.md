@@ -1,6 +1,6 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Kalabrese is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Kalabrese is a house and electronica artist based in Switzerland, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: TBA, Central on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Kalabrese is a house and electronica artist based in Switzerland, tracked on sou
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Electric Monday@KitKat " on Mon, 28 Sept 2026.
+KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 30 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alejandro Molinari and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Pornbugs |
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
 | Thu, 1 Oct 2026 | UNITY AT KITKAT CLUB |  |
 | Fri, 2 Oct 2026 | Four Play | Bonnie Ford, Burnhard, Don Andres, Hekuli, Javier Anxiety, Karim Alkhayat, KinoKo, M E I, MagDita, Mati Amoretti, Molly Lollen, Nat SuPrise, Nicorus, Niemand & Keiner, digitalsteak, maniaclina |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, wi
 | Fri, 9 Oct 2026 | PSYCHO Kiss | Ari Denaro, Daora |
 | Fri, 9 Oct 2026 | LIMINAL |  |
 | Sun, 11 Oct 2026 | Nachspiel |  |
+| Mon, 12 Oct 2026 | Electric Monday | Frankie Flowerz, Karina, Local Suicide |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

@@ -1,6 +1,6 @@
 # MRAK
 
-MRAK is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Industry City, New York City on Sat, 10 Oct 2026.
+MRAK is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Industry City, New York City on Sat, 10 Oct 2026.
 
 MRAK is a techno and electronica artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Barcelona and Basel and 15 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Industry City, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ MRAK is a techno and electronica artist based in Germany, tracked on soundcheck,
 
 Tale Of Us, Anyma, Argy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*

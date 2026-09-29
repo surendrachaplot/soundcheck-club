@@ -1,6 +1,6 @@
 # Matilda Tjäder
 
-Matilda Tjäder is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Raleigh Chapel, London on Wed, 21 Oct 2026.
+Matilda Tjäder is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Raleigh Chapel, London on Wed, 21 Oct 2026.
 
 Matilda Tjäder is an experimental and pop artist based in Sweden, tracked on soundcheck, with 4 sets logged across Copenhagen, London and Manchester. Often billed alongside Rat Section and Yem Gel. Next up: Raleigh Chapel, London on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Matilda Tjäder is an experimental and pop artist based in Sweden, tracked on so
 
 Rat Section, Yem Gel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matildatjader/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matildatjader/)*

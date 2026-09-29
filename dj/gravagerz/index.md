@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Gravagerz is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, with 14 sets logged across Amsterdam, Arizona, Boston and Copenhagen and 10 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, wi
 
 James Hype (UK), Tini Gessler, Casey Club
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

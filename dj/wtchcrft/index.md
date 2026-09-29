@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
 
 WTCHCRFT is a techno and club artist based in United States of America, tracked on soundcheck, with 156 sets logged across Austin, Berlin, Boston and Chicago and 16 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Mood Ring, New York City on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ WTCHCRFT is a techno and club artist based in United States of America, tracked 
 
 KYRUH, RITCHRD, estoc
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

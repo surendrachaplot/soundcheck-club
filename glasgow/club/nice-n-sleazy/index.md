@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CTR: House & Garage" on Thu, 1 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "CTR: House & Garage" on Thu, 1 Oct 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Angel Negrin, elcammgguod, ITEM9 and Jordan smith and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -21,4 +21,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs,
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

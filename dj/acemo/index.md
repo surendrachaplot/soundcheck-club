@@ -1,6 +1,6 @@
 # AceMo
 
-AceMo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Barn Radio, Portland on Sat, 3 Oct 2026.
+AceMo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Barn Radio, Portland on Sat, 3 Oct 2026.
 
 AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 134 sets logged across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Barn Radio, Portland on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ AceMo is a house and techno artist based in United States of America, tracked on
 
 DJ SWISHA, MoMA Ready, Kush Jones
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

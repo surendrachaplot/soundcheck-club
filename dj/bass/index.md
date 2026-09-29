@@ -1,14 +1,13 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Bass is a Drum & Bass and Jazz artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 10 Oct 2026.
 
-Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Lccm, London on Mon 28 Sept.
+Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Lccm | London |
 | Sat, 10 Oct 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 | Wed, 14 Oct 2026 | Giri | Berlin |
 | Sat, 17 Oct 2026 | BRUS | Copenhagen |
@@ -20,6 +19,7 @@ Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, wit
 
 ## Recently played
 
+- Lccm, London — Mon, 28 Sept 2026
 - The Button Factory, Auckland — Sat, 26 Sept 2026
 - The Coup by BUNKERBUNKER!!, Singapore — Sat, 19 Sept 2026
 - Fluid510, San Francisco/Oakland — Sat, 12 Sept 2026
@@ -27,10 +27,9 @@ Bass is a drum & bass and jazz artist based in Egypt, tracked on soundcheck, wit
 - Socore Factory, Osaka — Sat, 5 Sept 2026
 - Upstairs Jazz Bar and Grill, Montreal — Fri, 14 Aug 2026
 - Odonien, Cologne — Fri, 7 Aug 2026
-- M-BIA, Berlin — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Jungle (UK), Tekk, A²
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

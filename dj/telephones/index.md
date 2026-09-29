@@ -1,6 +1,6 @@
 # Telephones
 
-Telephones is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Telephones is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Telephones is a house and balearic artist based in Norway, tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Telephones is a house and balearic artist based in Norway, tracked on soundcheck
 
 DJ Fett Burger, Tornado Wallace, DJ Aficionado
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

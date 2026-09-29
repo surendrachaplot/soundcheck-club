@@ -1,6 +1,6 @@
 # tomb (2)
 
-tomb (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+tomb (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
 tomb is a house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Leipzig and London. Often billed alongside Abzocka, B-TUR and Brad P. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ tomb is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Abzocka, B-TUR (2), Brad P
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomb-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomb-2/)*

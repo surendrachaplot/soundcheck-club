@@ -1,6 +1,6 @@
 # MILLA
 
-MILLA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
+MILLA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
 
 MILLA is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Melbourne, Milan, Sydney and Tokyo. Often billed alongside Dave Stuart, Jay McMullen and Andrew Wowk. Next up: Oxford Art Factory, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MILLA is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Dave Stuart, Jay McMullen, Andrew Wowk
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milla/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milla/)*

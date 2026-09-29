@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 10 Oct 2026.
+Marie Montexier is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 10 Oct 2026.
 
 Marie Montexier is a techno and house artist based in Germany, tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: Q35 WAREHOUSE, Turin on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Marie Montexier is a techno and house artist based in Germany, tracked on soundc
 
 DVS1, Ryan Elliott, Anetha
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

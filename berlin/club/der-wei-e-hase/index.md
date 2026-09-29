@@ -1,8 +1,8 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*]" on Tue, 29 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*]" on Tue, 29 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Anubix, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Anubix, August Kind, bbymeister and Benua and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming gig
 | Sat, 3 Oct 2026 | Dämonenball |  |
 | Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DAZA, Tom Marten |
 | Thu, 8 Oct 2026 | STRAFF / Thursday Techno / 5€ until 1 AM ( with Ticket ) | Anubix, MØABEAT |
-| Fri, 9 Oct 2026 | TRNC:RR • R | Der Eggert, Emma (8), Javier Portilla, TechNovaBader |
+| Fri, 9 Oct 2026 | TRNC :RR • R | Der Eggert, Emma (8), Javier Portilla, TechNovaBader |
 | Sat, 10 Oct 2026 | Maschine 24-7 / RAW Techno | Bisk, Jens Schwan, La Boum Fatale, Maschine, Morris Fitch, NIKO INCRAVALLE, NONTOX Rabbits, Tom Marten |
 | Tue, 13 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DJ Keyframe, Klangpusch, ZÖ (1) |
-| Tue, 20 Oct 2026 | Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] | August Kind, Deltapeak, bbymeister |
+| Fri, 16 Oct 2026 | F𝝨HLZ𝝨:T / Fresh Frequencies | Anubix, Benua, Bin Okin, Manrick Stapez, The Kiss |
 
 ## Address
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

@@ -1,6 +1,6 @@
 # DATGRUVEE
 
-DATGRUVEE is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at HWK, London on Fri, 16 Oct 2026.
+DATGRUVEE is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at HWK, London on Fri, 16 Oct 2026.
 
 DATGRUVEE is an afro house and gqom artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside J.Müller, ANGL and Bussa. Next up: HWK, London on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ DATGRUVEE is an afro house and gqom artist tracked on soundcheck, with 5 sets lo
 
 J.Müller, ANGL (2), Bussa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datgruvee/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datgruvee/)*

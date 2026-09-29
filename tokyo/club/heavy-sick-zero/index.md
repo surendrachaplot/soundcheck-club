@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ANGELBREAKS EXTRA vol.1" on Wed, 30 Sept 2026.
+Heavy Sick Zero is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ANGELBREAKS EXTRA vol.1" on Wed, 30 Sept 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ato夢, Samuel Barbier-Ficat, Tetsuya Fukada and Warrego Valles. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -15,4 +15,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs,
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

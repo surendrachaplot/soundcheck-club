@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Heat Takeover (OPEN DECKS)" on Thu, 1 Oct 2026.
+The Chemist is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Heat Takeover (OPEN DECKS)" on Thu, 1 Oct 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Lufer and Medux. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -17,4 +17,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming gigs, wi
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

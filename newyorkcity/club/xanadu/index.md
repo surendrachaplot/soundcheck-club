@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Lettuce Cook Tour (concert)" on Thu, 8 Oct 2026.
+Xanadu is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Lettuce Cook Tour (concert)" on Thu, 8 Oct 2026.
 
 Xanadu is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Dangerous Rose, Andi, Makadsi and Marie Davidson and 1 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 4 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FRESHERS Jungle, 140, Garage, DnB with Hendy and Betsy Mae of Sexy Lady Massive" on Thu, 1 Oct 2026.
+Quarters is a music venue in Brighton with 17 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "FRESHERS Jungle, 140, Garage, DnB with Hendy and Betsy Mae of Sexy Lady Massive" on Thu, 1 Oct 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, with line-ups including 4am Kru, Acid Carbon, Andy C and Basstripper and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, wi
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

@@ -1,6 +1,6 @@
 # PINELOPI
 
-PINELOPI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at John Doe, Amsterdam on Sat, 31 Oct 2026.
+PINELOPI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at John Doe, Amsterdam on Sat, 31 Oct 2026.
 
 PINELOPI is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside S7ZAL, SHDOW and DMS1N3RGY. Next up: John Doe, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PINELOPI is a techno and industrial artist tracked on soundcheck, with 10 sets l
 
 S7ZAL, SHDOW, DMS1N3RGY
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinelopi/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinelopi/)*

@@ -1,6 +1,6 @@
 # Mr. Disco Kid
 
-Mr. Disco Kid is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 11 Nov 2026.
+Mr. Disco Kid is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 11 Nov 2026.
 
 Mr. Disco Kid is a house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 11 Nov.
 
@@ -14,4 +14,4 @@ Mr. Disco Kid is a house artist based in Japan, tracked on soundcheck, with 2 se
 
 - DJ Bar Bridge Shinjuku, Tokyo — Wed, 9 Sept 2026
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.discokid/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.discokid/)*

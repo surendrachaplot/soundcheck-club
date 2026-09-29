@@ -1,6 +1,6 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at CÉ LA VI, Singapore on Sat, 10 Oct 2026.
+Caiiro is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at CÉ LA VI, Singapore on Sat, 10 Oct 2026.
 
 Caiiro is an afro house and house artist based in South Africa, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: CÉ LA VI, Singapore on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Caiiro is an afro house and house artist based in South Africa, tracked on sound
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

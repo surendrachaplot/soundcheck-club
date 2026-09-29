@@ -1,13 +1,14 @@
 # Villem
 
-Villem is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Black Box, Denver on Fri, 23 Oct 2026.
+Villem is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Loso, Richmond on Sat, 17 Oct 2026.
 
-Villem is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Boston, Bristol, Denver and Los Angeles and 5 more. Often billed alongside MC Ridda, BCee and BRAIN. Next up: The Black Box, Denver on Fri 23 Oct.
+Villem is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Boston, Bristol, Denver and Los Angeles and 6 more. Often billed alongside MC Ridda, BCee and BRAIN. Next up: Loso, Richmond on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Loso | Richmond |
 | Fri, 23 Oct 2026 | The Black Box | Denver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Villem is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 MC Ridda, BCee, BRAIN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villem/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villem/)*

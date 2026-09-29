@@ -1,6 +1,6 @@
 # calan
 
-calan is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Crate Brewery, London on Sat, 3 Oct 2026.
+calan is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Crate Brewery, London on Sat, 3 Oct 2026.
 
 calan is a deep house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Grace Sands, Jugin and Manuol Bone. Next up: Crate Brewery, London on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ calan is a deep house and techno artist based in United Kingdom, tracked on soun
 
 Grace Sands, Jugin, Manuol Bone
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calan/)*

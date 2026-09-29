@@ -1,6 +1,6 @@
 # una (1)
 
-una (1) is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
+una (1) is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
 
 una is a trance and progressive house artist based in Finland, tracked on soundcheck, with 12 sets logged across Finland and Helsinki. Often billed alongside Denzel, MFM (FI) and Niko Demus. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ una is a trance and progressive house artist based in Finland, tracked on soundc
 
 Denzel, MFM (FI), Niko Demus
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/una-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/una-1/)*

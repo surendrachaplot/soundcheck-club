@@ -1,14 +1,14 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 28 Sept 2026.
+Paige Tomlinson is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 161 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Mon 28 Sept.
+Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | Digital | Newcastle |
 | Sat, 3 Oct 2026 | The Telegraph Building | Belfast |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -22,6 +22,7 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 28 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 7 Sept 2026
@@ -29,10 +30,9 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on
 - Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
 - Index, Dublin — Sun, 2 Aug 2026
 - Mondo, Madrid — Sat, 1 Aug 2026
-- Silverworks Island, London — Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

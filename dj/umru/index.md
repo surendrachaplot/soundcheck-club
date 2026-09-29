@@ -1,6 +1,6 @@
 # umru
 
-umru is a Club and Pop artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Q Club, Milan on Fri, 2 Oct 2026.
+umru is a Club and Pop artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Q Club, Milan on Fri, 2 Oct 2026.
 
 umru is a club and pop artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 44 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Q Club, Milan on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ umru is a club and pop artist based in United States of America, tracked on soun
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

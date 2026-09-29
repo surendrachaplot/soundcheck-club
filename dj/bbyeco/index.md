@@ -1,13 +1,14 @@
 # Bby Eco
 
-Bby Eco is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spread, Tokyo on Mon, 12 Oct 2026.
+Bby Eco is a Ambient and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Cakeshop, Seoul on Thu, 8 Oct 2026.
 
-Bby Eco is an ambient and experimental artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Ouri, Aaron Dilloway and Actress. Next up: Spread, Tokyo on Mon 12 Oct.
+Bby Eco is an ambient and electronica artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Mount XLR, Ouri and Aaron Dilloway. Next up: Cakeshop, Seoul on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Cakeshop | Seoul |
 | Mon, 12 Oct 2026 | Spread | Tokyo |
 | Wed, 14 Oct 2026 | Forestlimit | Tokyo |
 
@@ -24,6 +25,6 @@ Bby Eco is an ambient and experimental artist tracked on soundcheck, with 19 set
 
 ## Shares bills with
 
-Ouri, Aaron Dilloway, Actress
+Mount XLR, Ouri, Aaron Dilloway
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*

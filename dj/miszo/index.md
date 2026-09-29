@@ -1,14 +1,15 @@
 # miszo
 
-miszo is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sat, 24 Oct 2026.
+miszo is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Paloma, Berlin on Sat, 24 Oct 2026.
 
-miszo is a house and breakbeat artist based in Germany, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Hamburg and Leipzig. Often billed alongside LACATY, Ale Hope and Atréju Mensah. Next up: Paloma, Berlin on Sat 24 Oct.
+miszo is a house and ambient artist based in Germany, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Hamburg and Leipzig. Often billed alongside LACATY, Ale Hope and Atréju Mensah. Next up: Paloma, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Paloma | Berlin |
+| Sun, 6 Dec 2026 | Bogen 43 | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ miszo is a house and breakbeat artist based in Germany, tracked on soundcheck, w
 
 LACATY, Ale Hope, Atréju Mensah
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miszo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miszo/)*

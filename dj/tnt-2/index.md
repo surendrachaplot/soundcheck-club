@@ -1,6 +1,6 @@
 # TNT (2)
 
-TNT (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+TNT (2) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 TNT is a techno and progressive house artist tracked on soundcheck, with 5 sets logged across Berlin, Hannover, London and Nürnberg and 1 more. Often billed alongside Clara Cuvé, Dr. Motte and Somewhen. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ TNT is a techno and progressive house artist tracked on soundcheck, with 5 sets 
 
 Clara Cuvé, Dr. Motte, Somewhen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-2/)*

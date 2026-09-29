@@ -1,6 +1,6 @@
 # MEMP3
 
-MEMP3 is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
+MEMP3 is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
 
 MEMP3 is a dub techno and house artist tracked on soundcheck, with 29 sets logged across Bristol, London and Manchester. Often billed alongside AdomasLP, Tommy Cross and Ruf Dug. Next up: renae, Manchester on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ MEMP3 is a dub techno and house artist tracked on soundcheck, with 29 sets logge
 
 AdomasLP, Tommy Cross, Ruf Dug
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memp3/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memp3/)*

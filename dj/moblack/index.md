@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 10 Oct 2026.
+MoBlack is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Moon Warsaw, Warsaw on Sat, 10 Oct 2026.
 
 MoBlack is an afro house and house artist based in Italy, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: Moon Warsaw, Warsaw on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ MoBlack is an afro house and house artist based in Italy, tracked on soundcheck,
 
 Francis Mercier, Nitefreak, FALYN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

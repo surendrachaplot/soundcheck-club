@@ -1,6 +1,6 @@
 # Kulturbetrieb Zappa
 
-Kulturbetrieb Zappa is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Grandmas Basement" on Sat, 3 Oct 2026.
+Kulturbetrieb Zappa is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Grandmas Basement" on Sat, 3 Oct 2026.
 
 Kulturbetrieb Zappa is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Stuttgarter Str. 3, 73525 Schwäbisch Gmünd, Germany.
 
@@ -15,4 +15,4 @@ Kulturbetrieb Zappa is a music venue in Stuttgart listed on soundcheck. 2 upcomi
 
 Stuttgarter Str. 3, 73525 Schwäbisch Gmünd, Germany, Stuttgart
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kulturbetrieb-zappa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kulturbetrieb-zappa/)*

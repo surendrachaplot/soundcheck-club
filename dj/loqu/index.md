@@ -1,13 +1,14 @@
 # LOQU
 
-LOQU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 88block, Tokyo on Fri, 2 Oct 2026.
+LOQU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 88block, Tokyo on Fri, 2 Oct 2026.
 
-LOQU is a house and techno artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside T.B., Mykey and SAITO. Next up: 88block, Tokyo on Fri 2 Oct.
+LOQU is a house and techno artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside Mykey, T.B. and Acrocanthosaurus. Next up: 88block, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | 88block | Tokyo |
 | Fri, 2 Oct 2026 | 88block | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ LOQU is a house and techno artist based in Japan, tracked on soundcheck, with 15
 
 ## Shares bills with
 
-T.B., Mykey (2), SAITO
+Mykey (2), T.B., Acrocanthosaurus
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loqu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loqu/)*

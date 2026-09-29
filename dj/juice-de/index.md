@@ -1,6 +1,6 @@
 # JUICY (DE)
 
-JUICY (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
+JUICY (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
 
 JUICY (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside SATYS FYRE, FEUCHT & FURIOUS and XIMA. Next up: ÆDEN, Berlin on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ JUICY (DE) is a techno and trance artist based in Germany, tracked on soundcheck
 
 SATYS FYRE, FEUCHT & FURIOUS, XIMA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juice-de/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juice-de/)*

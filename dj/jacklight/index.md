@@ -1,6 +1,6 @@
 # Jack Light
 
-Jack Light is a Breakbeat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
+Jack Light is a Breakbeat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Jack Light is a breakbeat and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Arkyn, Billy Daniel Bunter and DJ Vibes. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Jack Light is a breakbeat and drum & bass artist based in United Kingdom, tracke
 
 Arkyn, Billy Daniel Bunter, DJ Vibes
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklight/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklight/)*

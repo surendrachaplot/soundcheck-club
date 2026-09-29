@@ -1,6 +1,6 @@
 # NØA (DE)
 
-NØA (DE) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+NØA (DE) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
 NØA (DE) is a techno and acid artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Krakow. Often billed alongside TechTonic, Filialleiter and DTEXX. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ NØA (DE) is a techno and acid artist based in Germany, tracked on soundcheck, w
 
 TechTonic, Filialleiter, DTEXX
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noade/)*

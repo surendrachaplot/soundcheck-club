@@ -1,6 +1,6 @@
 # BRUNNÄ
 
-BRUNNÄ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Klunkerkranich, Berlin on Sat, 3 Oct 2026.
+BRUNNÄ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Klunkerkranich, Berlin on Sat, 3 Oct 2026.
 
 BRUNNÄ is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Los Angeles and Mexico City and 2 more. Often billed alongside Brunnä, Ali Mae and Alma Linda. Next up: Klunkerkranich, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BRUNNÄ is a house and techno artist based in United States of America, tracked 
 
 Brunnä, Ali Mae, Alma Linda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunna/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunna/)*

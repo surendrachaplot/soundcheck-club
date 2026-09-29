@@ -1,6 +1,6 @@
 # R3DY
 
-R3DY is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Oddity Club, Athens on Fri, 23 Oct 2026.
+R3DY is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Oddity Club, Athens on Fri, 23 Oct 2026.
 
 R3DY is a techno and acid artist tracked on soundcheck, with 4 sets logged across Athens. Often billed alongside Alisa Murphy, NAAMAA and AMH. Next up: Oddity Club, Athens on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ R3DY is a techno and acid artist tracked on soundcheck, with 4 sets logged acros
 
 Alisa Murphy, NAAMAA, AMH (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3dy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3dy/)*

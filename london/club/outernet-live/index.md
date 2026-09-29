@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DJ Seinfeld presents 'If This Is It' LIVE" on Thu, 1 Oct 2026.
+Outernet Live is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "DJ Seinfeld presents 'If This Is It' LIVE" on Thu, 1 Oct 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

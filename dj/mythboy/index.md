@@ -1,6 +1,6 @@
 # mythboy
 
-mythboy is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 25 Baldwin (Rear Alley), Toronto on Sat, 31 Oct 2026.
+mythboy is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - 25 Baldwin (Rear Alley), Toronto on Sat, 31 Oct 2026.
 
 mythboy is an experimental and electro artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside 25ohms. Next up: TBA - 25 Baldwin (Rear Alley), Toronto on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ mythboy is an experimental and electro artist based in Canada, tracked on soundc
 
 25ohms
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mythboy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mythboy/)*

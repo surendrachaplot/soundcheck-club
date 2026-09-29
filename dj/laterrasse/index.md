@@ -1,6 +1,6 @@
 # La Terrasse
 
-La Terrasse is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
+La Terrasse is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
 
 La Terrasse is a house and disco artist based in France, tracked on soundcheck, with 19 sets logged across Berlin and Paris. Often billed alongside Dino!, Kat_Es and Monsai. Next up: Süss War Gestern, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ La Terrasse is a house and disco artist based in France, tracked on soundcheck, 
 
 Dino!, Kat_Es, Monsai
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laterrasse/)*

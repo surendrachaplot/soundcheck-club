@@ -1,6 +1,6 @@
 # Wedge
 
-Wedge is a Club and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Zum Böhmischen Dorf, Berlin on Fri, 2 Oct 2026.
+Wedge is a Club and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Zum Böhmischen Dorf, Berlin on Fri, 2 Oct 2026.
 
 Wedge is a club and dub artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Adam Winchester, Appleblim and Wrecked Lightship. Next up: Zum Böhmischen Dorf, Berlin on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Wedge is a club and dub artist based in United Kingdom, tracked on soundcheck, w
 
 Adam Winchester, Appleblim, Wrecked Lightship
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wedge/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wedge/)*

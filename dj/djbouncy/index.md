@@ -1,6 +1,6 @@
 # Dj Bouncy
 
-Dj Bouncy is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Riviera Beach Club, Melbourne on Sun, 1 Nov 2026.
+Dj Bouncy is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Riviera Beach Club, Melbourne on Sun, 1 Nov 2026.
 
 Dj Bouncy is an afro house and afro tech artist based in Australia, tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Almared, Etwas and Hugel. Next up: Riviera Beach Club, Melbourne on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Dj Bouncy is an afro house and afro tech artist based in Australia, tracked on s
 
 Almared, Etwas, Hugel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbouncy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbouncy/)*

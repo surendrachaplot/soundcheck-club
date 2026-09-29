@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective" on Fri, 9 Oct 2026.
+The Jama is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective" on Fri, 9 Oct 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Aji, B I P, Blkvirgo and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -16,4 +16,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

@@ -1,6 +1,6 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amigo, Ghent on Fri, 16 Oct 2026.
+Mankiyan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Amigo, Ghent on Fri, 16 Oct 2026.
 
 Mankiyan is a techno and house artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Amigo, Ghent on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mankiyan is a techno and house artist based in Belgium, tracked on soundcheck, w
 
 AliA, Kafim, Casper
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*

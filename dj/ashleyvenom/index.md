@@ -1,6 +1,6 @@
 # Ashley Venom
 
-Ashley Venom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Ashley Venom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Ashley Venom is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami and New York City. Often billed alongside SATURNSARii, SDRV and Winter Wrong. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Ashley Venom is a techno and house artist based in United States of America, tra
 
 SATURNSARii, SDRV, Winter Wrong
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyvenom/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyvenom/)*

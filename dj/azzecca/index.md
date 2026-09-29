@@ -1,6 +1,6 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+Azzecca is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
 Azzecca is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Berlin and Boston and 21 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Azzecca is a house and techno artist based in United States of America, tracked 
 
 Gorgon City, Boys Noize, Chris Lake
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

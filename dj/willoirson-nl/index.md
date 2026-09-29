@@ -1,6 +1,6 @@
 # Will Oirson
 
-Will Oirson is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 013 Poppodium, Netherlands on Sat, 19 Dec 2026.
+Will Oirson is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 013 Poppodium, Netherlands on Sat, 19 Dec 2026.
 
 Will Oirson is an electronic artist tracked on soundcheck, with 3 sets logged across Amsterdam and Netherlands. Often billed alongside Artefakt, Cobahn and .VRIL. Next up: 013 Poppodium, Netherlands on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ Will Oirson is an electronic artist tracked on soundcheck, with 3 sets logged ac
 
 Artefakt, Cobahn, .VRIL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willoirson-nl/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willoirson-nl/)*

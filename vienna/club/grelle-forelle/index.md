@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Purradox presents ØTTA HOTTIES ALBUM TOUR" on Fri, 2 Oct 2026.
+Grelle Forelle is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Purradox presents ØTTA HOTTIES ALBUM TOUR" on Fri, 2 Oct 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including AEND, Afem Syko, Andy Catana and Bambi-S and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -21,4 +21,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

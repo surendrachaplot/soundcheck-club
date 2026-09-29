@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Vera is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Vera is a techno and house artist based in Germany, tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Barcelona and Berlin and 34 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ Vera is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*

@@ -1,6 +1,6 @@
 # Alias33
 
-Alias33 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Alias33 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 Alias33 is a techno and house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Istanbul. Often billed alongside AMARE, AVA Irandoost and African Stevenson. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Alias33 is a techno and house artist tracked on soundcheck, with 2 sets logged a
 
 AMARE, AVA Irandoost, African Stevenson
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alias33/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alias33/)*

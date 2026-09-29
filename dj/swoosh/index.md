@@ -1,6 +1,6 @@
 # Swoosh
 
-Swoosh is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Swoosh is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
 Swoosh is a grime and house artist based in Italy, tracked on soundcheck, with 2 sets logged across London. Often billed alongside N Fostell, Beezo and Bobbi. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Swoosh is a grime and house artist based in Italy, tracked on soundcheck, with 2
 
 N Fostell, Beezo, Bobbi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swoosh/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swoosh/)*

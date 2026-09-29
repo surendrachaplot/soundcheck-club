@@ -1,6 +1,6 @@
 # Marc Spence
 
-Marc Spence is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Rainbow Pub, Birmingham on Fri, 20 Nov 2026.
+Marc Spence is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Rainbow Pub, Birmingham on Fri, 20 Nov 2026.
 
 Marc Spence is a tech house and minimal artist tracked on soundcheck, with 3 sets logged across Birmingham. Often billed alongside JAYDAA, Mini and Mooch. Next up: The Rainbow Pub, Birmingham on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Marc Spence is a tech house and minimal artist tracked on soundcheck, with 3 set
 
 JAYDAA, Mini, Mooch
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcspence/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcspence/)*

@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Alex Dienaar b2b Nathan Alzon, Ellia Jaya" on Fri, 2 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Alex Dienaar b2b Nathan Alzon, Ellia Jaya" on Fri, 2 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 24 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Kaikobad
 
-Kaikobad is a Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Waiting Room, London on Sat, 24 Oct 2026.
+Kaikobad is a Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Waiting Room, London on Sat, 24 Oct 2026.
 
 Kaikobad is a deep house artist based in Australia, tracked on soundcheck, with 3 sets logged across Amsterdam, London and Sydney. Often billed alongside Fouk, Knight One and Kraak & Smaak. Next up: The Waiting Room, London on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Kaikobad is a deep house artist based in Australia, tracked on soundcheck, with 
 
 Fouk, Knight One, Kraak & Smaak
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikobad/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikobad/)*

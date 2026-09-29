@@ -1,6 +1,6 @@
 # DJ Shiver (2)
 
-DJ Shiver (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
+DJ Shiver (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
 
 DJ Shiver is a techno and electro artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and New York City. Often billed alongside Amino, Angel Money and BEIGE. Next up: Club Rawhide, New York City on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ DJ Shiver is a techno and electro artist based in United States of America, trac
 
 Amino, Angel Money, BEIGE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshiver-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshiver-2/)*

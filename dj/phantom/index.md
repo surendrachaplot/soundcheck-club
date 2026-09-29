@@ -1,6 +1,6 @@
 # Phantom
 
-Phantom is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Under The Prom, West-wales on Sat, 3 Oct 2026.
+Phantom is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Under The Prom, West-wales on Sat, 3 Oct 2026.
 
 Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 17 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Under The Prom, West Wales on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundchec
 
 A.M.C., Carasel, BassLayerz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*

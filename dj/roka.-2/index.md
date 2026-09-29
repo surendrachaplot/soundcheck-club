@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Roka is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
 Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 20 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Roka is a tech house and house artist based in Australia, tracked on soundcheck,
 
 Séarlait, Char(k), DJ Possum
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

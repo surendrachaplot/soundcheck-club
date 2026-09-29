@@ -1,6 +1,6 @@
 # Crilli DNB
 
-Crilli DNB is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Limelight, Belfast on Fri, 30 Oct 2026.
+Crilli DNB is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Limelight, Belfast on Fri, 30 Oct 2026.
 
 Crilli DNB is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Belfast. Often billed alongside Takuya Nakamura, 1tbsp and Aika Mal. Next up: The Limelight, Belfast on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Crilli DNB is a house and hip-hop artist based in United Kingdom, tracked on sou
 
 Takuya Nakamura, 1tbsp, Aika Mal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crillidnb/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crillidnb/)*

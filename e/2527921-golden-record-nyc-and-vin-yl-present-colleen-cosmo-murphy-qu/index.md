@@ -1,6 +1,6 @@
 # Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy & Que Sakamoto at Green Room NYC
 
-Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy & Que Sakamoto at Green Room NYC on Fri 9 Oct, New York City. 6 artists on the bill: Colleen 'Cosmo' Murphy, Dawidu, Kiyoshi and Morgan and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy & Que Sakamoto at Green Room NYC on Fri 9 Oct, New York City. 5 artists on the bill: Colleen 'Cosmo' Murphy, Dawidu, Kiyoshi and Omer Mil and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy & Que Sakamoto at Gr
 - Colleen 'Cosmo' Murphy
 - Dawidu
 - Kiyoshi
-- Morgan
 - Omer Mil
 - Que Sakamoto
 

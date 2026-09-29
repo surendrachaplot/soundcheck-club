@@ -1,6 +1,6 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Quarry, Liverpool on Sat, 17 Oct 2026.
+Hannah Holland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Quarry, Liverpool on Sat, 17 Oct 2026.
 
 Hannah Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: Quarry, Liverpool on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Hannah Holland is a house and techno artist based in United Kingdom, tracked on 
 
 Josh Caffé, FAFF, Michelle Manetti
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

@@ -1,6 +1,6 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Liquid Room Warehouse, Edinburgh on Mon, 5 Oct 2026.
+Laurence Guy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Liquid Room Warehouse, Edinburgh on Mon, 5 Oct 2026.
 
 Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Bali and Bangkok and 28 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: The Liquid Room Warehouse, Edinburgh on Mon 5 Oct.
 
@@ -27,4 +27,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

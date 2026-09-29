@@ -1,6 +1,6 @@
 # Alex Theoklitou
 
-Alex Theoklitou is a Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Moustache Bar, London on Fri, 9 Oct 2026.
+Alex Theoklitou is a Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Moustache Bar, London on Fri, 9 Oct 2026.
 
 Alex Theoklitou is a pop artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Ryan Lovell, DIGITALSAINT and DJ Doll. Next up: Moustache Bar, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Alex Theoklitou is a pop artist based in United Kingdom, tracked on soundcheck, 
 
 Ryan Lovell, DIGITALSAINT, DJ Doll
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alextheoklitou/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alextheoklitou/)*

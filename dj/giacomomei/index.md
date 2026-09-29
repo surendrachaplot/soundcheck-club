@@ -1,6 +1,6 @@
 # Giacomo Mei
 
-Giacomo Mei is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+Giacomo Mei is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 Giacomo Mei is a minimal techno and electro artist tracked on soundcheck, with 22 sets logged across Amsterdam and London. Often billed alongside Billa Bazz, DEFILE and ACAPULCO. Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Giacomo Mei is a minimal techno and electro artist tracked on soundcheck, with 2
 
 Billa Bazz, DEFILE, ACAPULCO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomomei/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomomei/)*

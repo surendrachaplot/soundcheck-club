@@ -1,6 +1,6 @@
 # MIZAK
 
-MIZAK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Toyroom Malta, Malta on Fri, 30 Oct 2026.
+MIZAK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Toyroom Malta, Malta on Fri, 30 Oct 2026.
 
 MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, with 10 sets logged across Malta. Often billed alongside ANT Mifsud, Carl Bee and Daniel Blade. Next up: Toyroom Malta, Malta on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, w
 
 ANT Mifsud, Carl Bee, Daniel Blade
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizak/)*

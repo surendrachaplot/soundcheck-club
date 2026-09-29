@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Expedition Südpol" on Fri, 2 Oct 2026.
+Südpol is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Expedition Südpol" on Fri, 2 Oct 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Afem Syko, Andreas Henneberg, androosh and Barbara Alvarez and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with 
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

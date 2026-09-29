@@ -1,6 +1,6 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
+Matt Radovich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
 
 Matt Radovich is a techno and house artist based in Australia, tracked on soundcheck, with 81 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Sub Club Melbourne, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Matt Radovich is a techno and house artist based in Australia, tracked on soundc
 
 Craig McWhinney, Mike Callander, Acid Safari
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

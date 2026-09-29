@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Prysm Nightclub, Chicago on Fri, 2 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Prysm Nightclub, Chicago on Fri, 2 Oct 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Prysm Nightclub, Chicago on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, tracke
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

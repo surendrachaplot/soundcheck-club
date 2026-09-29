@@ -1,6 +1,6 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! -" on Sat, 10 Oct 2026.
+Compufunk Records is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Equalize with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Osaka! -" on Sat, 10 Oct 2026.
 
 Compufunk Records is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Marlon Clark and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
@@ -20,4 +20,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 7 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

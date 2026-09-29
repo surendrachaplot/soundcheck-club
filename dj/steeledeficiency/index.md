@@ -1,6 +1,6 @@
 # steele deficiency
 
-steele deficiency is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Jupiter Disco, New York City on Sun, 18 Oct 2026.
+steele deficiency is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Jupiter Disco, New York City on Sun, 18 Oct 2026.
 
 steele deficiency is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City. Often billed alongside 3K LB Marlin, Brooke Steele and DJ ATTENTION. Next up: Jupiter Disco, New York City on Sun 18 Oct.
 
@@ -19,4 +19,4 @@ steele deficiency is a techno and house artist based in United States of America
 
 3K LB Marlin, Brooke Steele, DJ ATTENTION
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steeledeficiency/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steeledeficiency/)*

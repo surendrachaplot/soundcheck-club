@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Dr. Resin Social Club, Barcelona on Thu, 1 Oct 2026.
+Victor Hugo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Dr. Resin Social Club, Barcelona on Thu, 1 Oct 2026.
 
 Victor Hugo is a house and electronica artist based in Mexico, tracked on soundcheck, with 65 sets logged across Barcelona, Ibiza, Madrid and Mexico City. Often billed alongside Eudald Selva, PINI and INOFF. Next up: Dr. Resin Social Club, Barcelona on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Victor Hugo is a house and electronica artist based in Mexico, tracked on soundc
 
 Eudald Selva, PINI, INOFF
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

@@ -1,6 +1,6 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Coflo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 Coflo is a house and deep house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Chicago, Denver and Detroit and 15 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Coflo is a house and deep house artist based in United States of America, tracke
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

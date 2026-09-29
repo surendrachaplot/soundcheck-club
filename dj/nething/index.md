@@ -1,6 +1,6 @@
 # NeTHiNG
 
-NeTHiNG is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 11 Dec 2026.
+NeTHiNG is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 11 Dec 2026.
 
 NeTHiNG is a techno and electro artist tracked on soundcheck, with 3 sets logged across Stuttgart. Often billed alongside TRNKA. Next up: Climax-Institutes, Stuttgart on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ NeTHiNG is a techno and electro artist tracked on soundcheck, with 3 sets logged
 
 TRNKA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nething/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nething/)*

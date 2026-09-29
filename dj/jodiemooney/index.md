@@ -1,19 +1,19 @@
 # Jodie Mooney
 
-Jodie Mooney is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 28 Sept 2026.
+Jodie Mooney is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
 
-Jodie Mooney is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits and RUA DJ. Next up: Sneaky Pete's, Edinburgh on Mon 28 Sept.
+Jodie Mooney is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits and RUA DJ. Next up: Sneaky Pete's, Edinburgh on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 26 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh — Mon, 28 Sept 2026
 - Half-Cut Coffee, Edinburgh — Sat, 8 Aug 2026
 - Sneaky Pete's, Edinburgh — Wed, 22 Jul 2026
 - Sneaky Pete's, Edinburgh — Wed, 22 Apr 2026
@@ -21,10 +21,9 @@ Jodie Mooney is a techno and garage artist based in United Kingdom, tracked on s
 - Sneaky Pete's, Edinburgh — Sun, 9 Nov 2025
 - Sneaky Pete's, Edinburgh — Sun, 24 Aug 2025
 - The Gilded Saloon, Edinburgh — Sat, 16 Aug 2025
-- Sneaky Pete's, Edinburgh — Wed, 23 Jul 2025
 
 ## Shares bills with
 
 LinkCity, Mixfits (2), RUA DJ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*

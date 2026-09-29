@@ -1,6 +1,6 @@
 # Bitzer Maloney
 
-Bitzer Maloney is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 1520, Manchester on Sat, 3 Oct 2026.
+Bitzer Maloney is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 1520, Manchester on Sat, 3 Oct 2026.
 
 Bitzer Maloney is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside Schuttle, Jorg Kuning and Jane Fitz. Next up: 1520, Manchester on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Bitzer Maloney is an acid and techno artist based in United Kingdom, tracked on 
 
 Schuttle, Jorg Kuning, Jane Fitz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitzermaloney/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitzermaloney/)*

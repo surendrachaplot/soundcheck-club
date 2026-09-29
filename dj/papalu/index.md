@@ -1,14 +1,15 @@
 # Papa Lu
 
-Papa Lu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
+Papa Lu is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
 
-Papa Lu is a house and tech house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Los Angeles, New York City, San Diego and San Francisco/Oakland and 1 more. Often billed alongside Jimmy B, Galen and Thee Mike B. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 7 Oct.
+Papa Lu is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across California, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Jimmy B, Galen and Thee Mike B. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Papa Lu is a house and tech house artist based in United States of America, trac
 
 Jimmy B, Galen, Thee Mike B
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papalu/)*

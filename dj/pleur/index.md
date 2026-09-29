@@ -1,6 +1,6 @@
 # PLEUR
 
-PLEUR is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
+PLEUR is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
 
 PLEUR is an experimental and club artist based in France, tracked on soundcheck, with 2 sets logged across Lyon and Paris. Often billed alongside Blood of Aza, Lisa More and amne. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ PLEUR is an experimental and club artist based in France, tracked on soundcheck,
 
 Blood of Aza, Lisa More, amne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pleur/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pleur/)*

@@ -1,6 +1,6 @@
 # Gunz (1)
 
-Gunz (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
+Gunz (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
 
 Gunz is a techno and bass artist tracked on soundcheck, with 2 sets logged across Krakow. Often billed alongside EARGASM GOD, Forest (PL) and Francesca. Next up: Prozak 2.0, Krakow on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Gunz is a techno and bass artist tracked on soundcheck, with 2 sets logged acros
 
 EARGASM GOD, Forest (PL), Francesca
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunz-1/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunz-1/)*

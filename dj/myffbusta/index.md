@@ -1,6 +1,6 @@
 # Myff Busta
 
-Myff Busta is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
+Myff Busta is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
 
 Myff Busta is an electro and breakbeat artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Beaven, PANACEA and Kutchi. Next up: The Glove That Fits, London on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Myff Busta is an electro and breakbeat artist based in United Kingdom, tracked o
 
 Beaven, PANACEA, Kutchi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myffbusta/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myffbusta/)*

@@ -1,6 +1,6 @@
 # The OVO Hydro
 
-The OVO Hydro is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Terminal V Presents : Holy Priest - Holy Sh*t Show" on Fri, 16 Oct 2026.
+The OVO Hydro is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Terminal V Presents : Holy Priest - Holy Sh*t Show" on Fri, 16 Oct 2026.
 
 The OVO Hydro is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Cloudy, Fantasm and Holy Priest. Browse upcoming dates, start times and who's playing. Exhibition Way, Glasgow G3 8YW, Scotland.
 
@@ -16,4 +16,4 @@ The OVO Hydro is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs,
 
 Exhibition Way, Glasgow G3 8YW, Scotland, Glasgow
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*

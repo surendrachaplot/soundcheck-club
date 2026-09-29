@@ -1,6 +1,6 @@
 # Mr. Fruty
 
-Mr. Fruty is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at La Gata del Born, Barcelona on Sat, 10 Oct 2026.
+Mr. Fruty is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Gata del Born, Barcelona on Sat, 10 Oct 2026.
 
 Mr. Fruty is a tech house and progressive house artist based in Ukraine, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside AR7ANIS. Next up: La Gata del Born, Barcelona on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Mr. Fruty is a tech house and progressive house artist based in Ukraine, tracked
 
 AR7ANIS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fruty/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fruty/)*

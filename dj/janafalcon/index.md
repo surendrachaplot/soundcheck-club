@@ -1,6 +1,6 @@
 # Jana Falcon
 
-Jana Falcon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Smolna, Warsaw on Sat, 7 Nov 2026.
+Jana Falcon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Smolna, Warsaw on Sat, 7 Nov 2026.
 
 Jana Falcon is a house and techno artist based in Germany, tracked on soundcheck, with 144 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 11 more. Often billed alongside Flemish.Fetish, Immy and Benedict. Next up: Smolna, Warsaw on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jana Falcon is a house and techno artist based in Germany, tracked on soundcheck
 
 Flemish.Fetish, Immy, Benedict
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*

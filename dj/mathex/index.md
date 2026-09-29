@@ -1,6 +1,6 @@
 # Mat Hex
 
-Mat Hex is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Giri, Berlin on Thu, 8 Oct 2026.
+Mat Hex is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Giri, Berlin on Thu, 8 Oct 2026.
 
 Mat Hex is a techno and jazz artist based in Italy, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Linda shiro, Phreenetic and 7CIRCLE. Next up: Giri, Berlin on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ Mat Hex is a techno and jazz artist based in Italy, tracked on soundcheck, with 
 
 Linda shiro, Phreenetic, 7CIRCLE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathex/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathex/)*

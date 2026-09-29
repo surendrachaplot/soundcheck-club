@@ -1,14 +1,15 @@
 # MATO
 
-MATO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
+MATO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
 
-MATO is a house and techno artist based in Malta, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Luca Cordina, BENGY and Owen Jay. Next up: Tortuga Beach, Malta on Sat 10 Oct.
+MATO is a house and techno artist based in Malta, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Luca Cordina, BENGY and Owen Jay. Next up: Tortuga Beach, Malta on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Tortuga Beach | Malta |
+| Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MATO is a house and techno artist based in Malta, tracked on soundcheck, with 35
 
 Luca Cordina, BENGY, Owen Jay
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mato/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mato/)*

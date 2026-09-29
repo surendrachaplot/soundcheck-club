@@ -1,6 +1,6 @@
 # Ornella
 
-Ornella is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 2 Oct 2026.
+Ornella is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 2 Oct 2026.
 
 Ornella is a techno and industrial artist based in Portugal, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Lehmann Club, Stuttgart on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Ornella is a techno and industrial artist based in Portugal, tracked on soundche
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

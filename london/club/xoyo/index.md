@@ -1,14 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "MOTION Every Monday" on Mon, 28 Sept 2026.
+XOYO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "PARADOX" on Wed, 30 Sept 2026.
 
-XOYO is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Adela, Alex Culross, Alex P and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Adela, Alex Culross, Alex P and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | MOTION Every Monday |  |
 | Wed, 30 Sept 2026 | PARADOX | EDEF, Jamie Payne |
 | Thu, 1 Oct 2026 | Cherry - House & Disco - XOYO | BTAY |
 | Sat, 3 Oct 2026 | NOVAMONDO @ XOYO / Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie | Alex Culross, BTAY, Ejeca, Ryan Arnold, Ryan Nicholls |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 25 upcoming gigs, with lin
 | Thu, 8 Oct 2026 | Cherry - House & Disco - XOYO | BTAY |
 | Sat, 10 Oct 2026 | Cru2 London | Chad Harrison, Mike Delinquent |
 | Mon, 12 Oct 2026 | MOTION Every Monday |  |
+| Wed, 14 Oct 2026 | PARADOX |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

@@ -1,6 +1,6 @@
 # BELIEVE (信) (HOUSE) at Z Maruyama
 
-BELIEVE (信) (HOUSE) at Z Maruyama on Fri 9 Oct, Tokyo. 4 artists on the bill: CARTOON, EIGHT, Koki and Ren Yokoi. House. Preview the line-up and save it on soundcheck.
+BELIEVE (信) (HOUSE) at Z Maruyama on Fri 9 Oct, Tokyo. 5 artists on the bill: CARTOON, EIGHT, Koki and Ren Yokoi and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ BELIEVE (信) (HOUSE) at Z Maruyama on Fri 9 Oct, Tokyo. 4 artists on the bill: 
 - EIGHT
 - Koki
 - Ren Yokoi
+- Yuta Yamada
 
 *Source: [soundcheck](https://soundcheck.club/e/2544710-believe-house-at-z-maruyama/)*

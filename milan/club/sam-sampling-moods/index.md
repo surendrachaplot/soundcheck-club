@@ -1,6 +1,6 @@
 # SAM Sampling Moods
 
-SAM Sampling Moods is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Log Out x Sam - Sampling Moods (Free Entry)" on Sun, 18 Oct 2026.
+SAM Sampling Moods is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Log Out x Sam - Sampling Moods (Free Entry)" on Sun, 18 Oct 2026.
 
 SAM Sampling Moods is a music venue in Milan listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Via Mecenate, 84, 20138 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ SAM Sampling Moods is a music venue in Milan listed on soundcheck. 1 upcoming gi
 
 Via Mecenate, 84, 20138 Milano MI, Italy, Milan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/sam-sampling-moods/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/sam-sampling-moods/)*

@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo" on Wed, 30 Sept 2026.
+Mood Ring is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo" on Wed, 30 Sept 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Ah Dek, AMLA.DHAS, Arielle Lana and AROON and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Ah Dek, AMLA.DHAS, ANTON (ES) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gi
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

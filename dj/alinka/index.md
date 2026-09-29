@@ -1,6 +1,6 @@
 # Alinka
 
-Alinka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - LFO, Madrid on Fri, 9 Oct 2026.
+Alinka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - LFO, Madrid on Fri, 9 Oct 2026.
 
 Alinka is a house and techno artist based in Ukraine, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: TBA - LFO, Madrid on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Alinka is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

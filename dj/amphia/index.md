@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
+Amphia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
 
 Amphia is a techno and house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: TBA - LFO, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Amphia is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 MarcelDune, Gloria Rose, Bailey Ibbs
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

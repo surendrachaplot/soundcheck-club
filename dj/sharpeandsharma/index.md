@@ -1,6 +1,6 @@
 # Sharpe and Sharma
 
-Sharpe and Sharma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Basing House, London on Sat, 28 Nov 2026.
+Sharpe and Sharma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Basing House, London on Sat, 28 Nov 2026.
 
 Sharpe and Sharma are a techno and house duo based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dj-Poppy, ABIDES and Ben the Bee. Next up: Basing House, London on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Sharpe and Sharma are a techno and house duo based in United Kingdom, tracked on
 
 Dj-Poppy, ABIDES, Ben the Bee
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpeandsharma/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpeandsharma/)*

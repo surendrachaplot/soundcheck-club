@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 30 Sept 2026.
+Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 Calussa is a house and afro house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Austin, Barcelona, Buenos Aires and Chicago and 14 more. Often billed alongside BLOND:ISH, Bora Uzer and Max Styler. Next up: Hï Ibiza, Ibiza on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Calussa is a house and afro house artist based in United States of America, trac
 
 BLOND:ISH, Bora Uzer, Max Styler
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

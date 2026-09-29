@@ -1,6 +1,6 @@
 # TIKIS
 
-TIKIS is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+TIKIS is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 TIKIS is an electronic artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens, Berlin and Greece. Often billed alongside STOZ, 22 and Akaj. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ TIKIS is an electronic artist based in Greece, tracked on soundcheck, with 3 set
 
 STOZ, 22 (1), Akaj
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikis/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikis/)*

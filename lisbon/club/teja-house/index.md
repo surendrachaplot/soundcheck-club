@@ -1,6 +1,6 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Open Groove Jam Session" on Tue, 29 Sept 2026.
+Teja House is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Open Groove Jam Session" on Tue, 29 Sept 2026.
 
 Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs. Browse upcoming dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
 
@@ -23,4 +23,4 @@ Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs. Br
 
 Cais do Sodré 5, 1200-450 Lisboa, Lisbon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*

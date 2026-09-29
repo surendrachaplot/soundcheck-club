@@ -1,6 +1,6 @@
 # Light.aka
 
-Light.aka is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon, 12 Oct 2026.
+Light.aka is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon, 12 Oct 2026.
 
 Light.aka is a drum & bass and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Osaka and Tokyo. Often billed alongside KEiTA, ATMK and DADO. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Light.aka is a drum & bass and house artist based in Japan, tracked on soundchec
 
 KEiTA, ATMK, DADO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/light.aka/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/light.aka/)*

@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+livwutang is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
 livwutang is a techno and house artist based in United States of America, tracked on soundcheck, with 196 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 41 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ livwutang is a techno and house artist based in United States of America, tracke
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

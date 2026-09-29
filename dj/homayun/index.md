@@ -1,6 +1,6 @@
 # Homāyun
 
-Homāyun is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Homāyun is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Homāyun is an electronic artist tracked on soundcheck, with 3 sets logged across Armenia and Berlin. Often billed alongside DJ Double Spoon, Dscrd and Errorsmith. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Homāyun is an electronic artist tracked on soundcheck, with 3 sets logged acros
 
 DJ Double Spoon, Dscrd, Errorsmith
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/homayun/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/homayun/)*

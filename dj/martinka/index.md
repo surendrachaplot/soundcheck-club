@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Martin Ka is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Martin Ka is a techno and house artist based in Germany, tracked on soundcheck, 
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "RAZZCLUBS: Mount Kimbie DJ + West Dubai Live + Freebot" on Fri, 2 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "RAZZCLUBS: Mount Kimbie DJ + West Dubai Live + Freebot" on Fri, 2 Oct 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Adame DJ, Akua, Alvva and amil raja and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

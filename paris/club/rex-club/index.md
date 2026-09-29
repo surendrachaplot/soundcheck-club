@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ONESH: APOCALIPSE ALL NIGHT LONG & GUESTS" on Wed, 30 Sept 2026.
+Rex Club is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ONESH: APOCALIPSE ALL NIGHT LONG & GUESTS" on Wed, 30 Sept 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

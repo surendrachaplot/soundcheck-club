@@ -1,6 +1,6 @@
 # Dragana
 
-Dragana is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sonnenraum, Berlin on Sun, 11 Oct 2026.
+Dragana is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sonnenraum, Berlin on Sun, 11 Oct 2026.
 
 Dragana is a house and minimal techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Buenos Aires, Lisbon and London and 4 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Sonnenraum, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Dragana is a house and minimal techno artist based in Germany, tracked on soundc
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*

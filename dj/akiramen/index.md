@@ -1,14 +1,15 @@
 # AKIRAM EN
 
-AKIRAM EN is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at or, Tokyo on Sun, 4 Oct 2026.
+AKIRAM EN is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at or, Tokyo on Sun, 4 Oct 2026.
 
-AKIRAM EN is a techno and experimental artist based in Japan, tracked on soundcheck, with 163 sets logged across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: or, Tokyo on Sun 4 Oct.
+AKIRAM EN is a techno and experimental artist based in Japan, tracked on soundcheck, with 164 sets logged across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: or, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | or | Tokyo |
+| Sat, 10 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 17 Oct 2026 | R Lounge | Tokyo |
 | Fri, 30 Oct 2026 | Open | Tokyo |
 
@@ -27,4 +28,4 @@ AKIRAM EN is a techno and experimental artist based in Japan, tracked on soundch
 
 Ginji, KIMURA, SAITO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akiramen/)*

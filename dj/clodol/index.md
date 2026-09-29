@@ -1,6 +1,6 @@
 # Clodol
 
-Clodol is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Wed, 21 Oct 2026.
+Clodol is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Wed, 21 Oct 2026.
 
 Clodol is a techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside DE//SIRE and SLURPiSS. Next up: Huis van Iemand Anders, Amsterdam on Wed 21 Oct.
 
@@ -18,4 +18,4 @@ Clodol is a techno artist based in Italy, tracked on soundcheck, with 2 sets log
 
 DE//SIRE, SLURPiSS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clodol/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clodol/)*

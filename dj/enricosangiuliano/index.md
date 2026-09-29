@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Enrico Sangiuliano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 Enrico Sangiuliano is a techno and house artist based in Italy, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Enrico Sangiuliano is a techno and house artist based in Italy, tracked on sound
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

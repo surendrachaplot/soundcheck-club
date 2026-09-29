@@ -1,26 +1,26 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 45 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PRIMAL DUB, DJ YAHMAN, ANELA & Yumic0rn" on Mon, 28 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 46 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Toshiyuki Goto & Souta Raw" on Tue, 29 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 45 upcoming gigs, with line-ups including 1-DRINK, BANANA-CHAN, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 46 upcoming gigs, with line-ups including 1-DRINK, AKIRAM EN, BANANA-CHAN and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | PRIMAL DUB, DJ YAHMAN, ANELA & Yumic0rn |  |
 | Tue, 29 Sept 2026 | Toshiyuki Goto & Souta Raw | Toshiyuki Goto |
-| Thu, 1 Oct 2026 | ABE, Wick, HannaH & FLOAT |  |
+| Thu, 1 Oct 2026 | ABE, Wick, MASAKI69 & FLOAT |  |
 | Fri, 2 Oct 2026 | wOrld connection - Idjut Boys - | Idjut Boys |
+| Sat, 3 Oct 2026 | RUKE, MUNÉO, AKARI & Stupid Kozo  | MUNÉO, RUKE, Stupid Kozo |
 | Mon, 5 Oct 2026 | dj yumi-cco & TR | dj yumi-cco |
 | Tue, 6 Oct 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 | Wed, 7 Oct 2026 | 永z遼, JOKI, PInO & Yoshiyuki | JOKI, 永z遼 / Ryo Nagase |
-| Thu, 8 Oct 2026 | Dubyama Jazzo |  |
+| Thu, 8 Oct 2026 | Dubyama Jazzo, THA ZORO & Adaptor |  |
 | Fri, 9 Oct 2026 | HIROSHI KAWANABE & YO.AN | YO.AN |
-| Sun, 11 Oct 2026 | Dazzle Drums, Max Essa, Kenjiro, scrab, Kengo & BANANA-CHAN | BANANA-CHAN, Dazzle Drums, Kengo, Max Essa, scrab |
+| Sat, 10 Oct 2026 | wOrld connection -Creature 1st Anniversary- | AKIRAM EN, Kugel, Masahide Ohno |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

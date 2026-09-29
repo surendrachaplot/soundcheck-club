@@ -1,6 +1,6 @@
 # Anarchotech
 
-Anarchotech is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Anarchotech is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Anarchotech is an industrial and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Chicago, London and Montreal. Often billed alongside DJ Flesh_Bot, Dj Licious and Liebknecht. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Anarchotech is an industrial and techno artist tracked on soundcheck, with 4 set
 
 DJ Flesh_Bot, Dj Licious, Liebknecht
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anarchotech/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anarchotech/)*

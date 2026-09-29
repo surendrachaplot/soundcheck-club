@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "PUMP • Gay - Queer - Open-minded" on Sat, 3 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "PUMP • Gay - Queer - Open-minded" on Sat, 3 Oct 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Denno Matini, Juan Del Chambo, Michael Clash Gottschalk and Nazz and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -20,4 +20,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 7 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Alesso is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Alesso is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bangkok, Brisbane and Buenos Aires and 15 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Alesso is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 The Chainsmokers, Gryffin, Steve Aoki
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

@@ -1,6 +1,6 @@
 # Oskar Offermann
 
-Oskar Offermann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 9 Oct 2026.
+Oskar Offermann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 9 Oct 2026.
 
 Oskar Offermann is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Ryoma Sasaki, Alex Neivel and Arno. Next up: Village Underground Lisboa, Lisbon on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Oskar Offermann is a house and techno artist based in Germany, tracked on soundc
 
 Ryoma Sasaki, Alex Neivel, Arno
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskaroffermann/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskaroffermann/)*

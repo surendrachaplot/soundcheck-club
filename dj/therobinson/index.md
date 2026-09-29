@@ -1,6 +1,6 @@
 # The Robinson
 
-The Robinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DURO, Milan on Fri, 2 Oct 2026.
+The Robinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DURO, Milan on Fri, 2 Oct 2026.
 
 The Robinson is a house and techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Milan and Turin. Often billed alongside DRUMS AND CHANTS, Enrico Vivaldi and Joe Claussell. Next up: DURO, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ The Robinson is a house and techno artist based in Italy, tracked on soundcheck,
 
 DRUMS AND CHANTS, Enrico Vivaldi, Joe Claussell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therobinson/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therobinson/)*

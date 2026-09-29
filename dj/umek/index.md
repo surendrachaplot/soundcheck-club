@@ -1,6 +1,6 @@
 # Umek
 
-Umek is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Umek is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Umek is a techno and electro artist based in Slovenia, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Austin and Barcelona and 27 more. Often billed alongside Sam Wolfe, SKIY and Karla Blum. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Umek is a techno and electro artist based in Slovenia, tracked on soundcheck, wi
 
 Sam Wolfe, SKIY, Karla Blum
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*
+*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*
