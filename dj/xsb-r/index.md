@@ -1,6 +1,6 @@
 # XSB-R
 
-XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Jade, New York City on Thu, 15 Oct 2026.
+XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Jade, New York City on Thu, 15 Oct 2026.
 
 XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: Jade, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ XSB-R is a techno and ebm artist based in United States of America, tracked on s
 
 Moment of Terror, Charity Kill, DJ Flesh_Bot
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*

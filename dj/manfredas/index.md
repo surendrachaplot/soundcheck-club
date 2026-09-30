@@ -1,6 +1,6 @@
 # Manfredas
 
-Manfredas is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Manfredas is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Ivan Smagghe, Dresden and Chez de Milo. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Manfredas is a house and techno artist based in Lithuania, tracked on soundcheck
 
 Ivan Smagghe, Dresden, Chez de Milo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*

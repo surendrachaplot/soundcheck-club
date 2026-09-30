@@ -1,6 +1,6 @@
 # Ysanne
 
-Ysanne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
+Ysanne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
 
 Ysanne is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Michelle Manetti, Jaye Ward and Kmya. Next up: The Glove That Fits, London on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Ysanne is a house and techno artist based in United Kingdom, tracked on soundche
 
 Michelle Manetti, Jaye Ward, Kmya
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*

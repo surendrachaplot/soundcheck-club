@@ -16,7 +16,7 @@ Thick Groovy Fridays at Brixton Radio on Fri 2 Oct, London. 11 artists on the bi
 - DJ 2C
 - djz00p
 - Koma (1)
-- Miss Nik
+- MIZNIK
 - Revlow
 - Sara P
 - SEN (PL)

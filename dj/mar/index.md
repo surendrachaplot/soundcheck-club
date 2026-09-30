@@ -1,6 +1,6 @@
 # M A R
 
-M A R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+M A R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Madrid and Mexico City. Often billed alongside Florian Pas, CHTI and Luca Mariaux. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged a
 
 Florian Pas, CHTI, Luca Mariaux
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*

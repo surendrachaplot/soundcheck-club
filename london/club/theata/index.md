@@ -1,6 +1,6 @@
 # Theata
 
-Theata is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Raffa Guido,SHANEM,GENIE - Deep Reefs" on Sat, 3 Oct 2026.
+Theata is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Raffa Guido,SHANEM,GENIE - Deep Reefs" on Sat, 3 Oct 2026.
 
 Theata is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Maqossa, AOB, ESSNCE and GENIE and 2 more. Browse upcoming dates, start times and who's playing. 8 Victoria Embankment,  London, WC2R 2AB.
 
@@ -16,4 +16,4 @@ Theata is a music venue in London listed on soundcheck. 3 upcoming gigs, with li
 
 8 Victoria Embankment,  London, WC2R 2AB, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*

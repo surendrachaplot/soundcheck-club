@@ -1,6 +1,6 @@
 # Balearic Banana
 
-Balearic Banana is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sameheads, Berlin on Sat, 10 Oct 2026.
+Balearic Banana is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sameheads, Berlin on Sat, 10 Oct 2026.
 
 Balearic Banana is a house and balearic artist tracked on soundcheck, with 33 sets logged across Berlin, Paris, Sao Paulo and Utrecht and 1 more. Often billed alongside Gop Tun DJs, Martha Pinel and Alicia Carrera. Next up: Sameheads, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Balearic Banana is a house and balearic artist tracked on soundcheck, with 33 se
 
 Gop Tun DJs, Martha Pinel, Alicia Carrera
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/balearicbanana/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/balearicbanana/)*

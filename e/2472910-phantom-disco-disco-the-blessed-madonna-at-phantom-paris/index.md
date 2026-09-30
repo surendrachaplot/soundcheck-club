@@ -1,6 +1,6 @@
 # Phantom : Disco Disco / The Blessed Madonna at Phantom, Paris
 
-Phantom : Disco Disco / The Blessed Madonna at Phantom, Paris on Sat 31 Oct, Paris. 1 artist on the bill: The Blessed Madonna. Preview the line-up and save it on soundcheck.
+Phantom : Disco Disco / The Blessed Madonna at Phantom, Paris on Sat 31 Oct, Paris. 2 artists on the bill: Danilo Plessow and The Blessed Madonna. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Phantom : Disco Disco / The Blessed Madonna at Phantom, Paris on Sat 31 Oct, Par
 
 ## Line-up
 
+- Danilo Plessow
 - The Blessed Madonna
 
 *Source: [soundcheck](https://soundcheck.club/e/2472910-phantom-disco-disco-the-blessed-madonna-at-phantom-paris/)*

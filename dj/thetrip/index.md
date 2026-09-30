@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+The Trip is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 The Trip is a house and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ The Trip is a house and techno artist based in United Kingdom, tracked on soundc
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

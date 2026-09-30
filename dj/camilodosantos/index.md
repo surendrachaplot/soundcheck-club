@@ -1,6 +1,6 @@
 # Camilo Do Santos
 
-Camilo Do Santos is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+Camilo Do Santos is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 Camilo Do Santos is a minimal techno and tech house artist based in Colombia, tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside AFM, LOUDER BROS. DEPARTMENT and TWOEF. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Camilo Do Santos is a minimal techno and tech house artist based in Colombia, tr
 
 AFM, LOUDER BROS. DEPARTMENT, TWOEF
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*

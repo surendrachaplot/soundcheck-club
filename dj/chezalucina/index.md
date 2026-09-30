@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Techno and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Electrowerkz, London on Sun, 4 Oct 2026.
+CHEZA LUCINA is a Techno and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Electrowerkz, London on Sun, 4 Oct 2026.
 
 CHEZA LUCINA is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Electrowerkz, London on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ CHEZA LUCINA is a techno and jungle artist based in United Kingdom, tracked on s
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

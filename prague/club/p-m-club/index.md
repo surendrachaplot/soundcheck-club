@@ -1,6 +1,6 @@
 # P.M. Club
 
-P.M. Club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Secrets of Valhalla: UNIFORMS" on Fri, 23 Oct 2026.
+P.M. Club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Secrets of Valhalla: UNIFORMS" on Fri, 23 Oct 2026.
 
 P.M. Club is a music venue in Prague listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ P.M. Club is a music venue in Prague listed on soundcheck. 1 upcoming gig. Brows
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Secrets of Valhalla: UNIFORMS |  |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/p-m-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/p-m-club/)*

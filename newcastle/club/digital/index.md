@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Mr Traumatik tour 2026 ft ELRO" on Fri, 2 Oct 2026.
+Digital is a music venue in Newcastle with 18 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Mr Traumatik tour 2026 ft ELRO" on Fri, 2 Oct 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 18 upcoming gigs, with line-ups including 4am Kru, Kepler, Andy Whitby and Benwal and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 18 upcoming gigs, wi
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

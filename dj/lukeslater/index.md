@@ -1,6 +1,6 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Luke Slater is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
 Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 JakoJako, Rene Wise, Steffi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

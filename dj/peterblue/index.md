@@ -1,8 +1,8 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
+PETERBLUE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
 
-PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: 99 Scott Ave, New York City on Fri 2 Oct.
+PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: 99 Scott Ave, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | 99 Scott Ave | New York City |
 | Sat, 3 Oct 2026 | Radius | Chicago |
+| Wed, 7 Oct 2026 | Club Cultural Lima | Peru |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 5 Mar 2027 | RSO.BERLIN | Berlin |
@@ -29,4 +30,4 @@ PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck
 
 Noise Mafia, Adrian Mills, fumi (DE)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

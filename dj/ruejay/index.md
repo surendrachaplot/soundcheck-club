@@ -1,6 +1,6 @@
 # Rue Jay
 
-Rue Jay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
+Rue Jay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
 Rue Jay is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Birmingham, Ibiza and London. Often billed alongside Altern-8, Armand Van Helden and Bazland. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Rue Jay is a house and tech house artist based in United Kingdom, tracked on sou
 
 Altern-8, Armand Van Helden, Bazland
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*

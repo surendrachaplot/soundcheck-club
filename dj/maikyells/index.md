@@ -1,6 +1,6 @@
 # Maik Yells
 
-Maik Yells is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hoppetosse, Berlin on Fri, 13 Nov 2026.
+Maik Yells is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hoppetosse, Berlin on Fri, 13 Nov 2026.
 
 Maik Yells is a house and minimal artist tracked on soundcheck, with 28 sets logged across Berlin, London, Malaga and Milan. Often billed alongside David Delgado, The Pushamann and Tripmastaz. Next up: Hoppetosse, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Maik Yells is a house and minimal artist tracked on soundcheck, with 28 sets log
 
 David Delgado, The Pushamann, Tripmastaz
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikyells/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikyells/)*

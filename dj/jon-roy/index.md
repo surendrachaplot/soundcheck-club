@@ -1,6 +1,6 @@
 # Jon-roy
 
-Jon-roy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
+Jon-roy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Jon-roy is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Barcelona and Malta. Often billed alongside MC Stormy, VJ Meerkat and Egres. Next up: Village Underground Barcelona, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jon-roy is a drum & bass and jungle artist tracked on soundcheck, with 19 sets l
 
 MC Stormy, VJ Meerkat, Egres
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jon-roy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jon-roy/)*

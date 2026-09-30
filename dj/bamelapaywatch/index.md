@@ -1,14 +1,15 @@
 # Bamela Paywatch
 
-Bamela Paywatch is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Bamela Paywatch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
-Bamela Paywatch is a trance and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Hamburg. Often billed alongside Pavelo Promillo, Lenny Fuck and Multifun. Next up: ://about blank, Berlin on Sat 3 Oct.
+Bamela Paywatch is a techno and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Hamburg. Often billed alongside Pavelo Promillo, Lenny Fuck and Multifun. Next up: ://about blank, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | ://about blank | Berlin |
+| Sat, 3 Oct 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bamela Paywatch is a trance and techno artist based in Germany, tracked on sound
 
 Pavelo Promillo, Lenny Fuck, Multifun
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bamelapaywatch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bamelapaywatch/)*

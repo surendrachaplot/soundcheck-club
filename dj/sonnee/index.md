@@ -1,6 +1,6 @@
 # Sonnee
 
-Sonnee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Yes, Manchester on Fri, 16 Oct 2026.
+Sonnee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Yes, Manchester on Fri, 16 Oct 2026.
 
 Sonnee is a techno and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London and Manchester. Often billed alongside Jumbled, krioso and Keanler. Next up: Yes, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Sonnee is a techno and house artist based in United Kingdom, tracked on soundche
 
 Jumbled, krioso, Keanler
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnee/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnee/)*

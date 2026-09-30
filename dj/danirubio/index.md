@@ -1,6 +1,6 @@
 # DANI RUBIO
 
-DANI RUBIO is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Resume Valencia, Valencia on Fri, 30 Oct 2026.
+DANI RUBIO is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Resume Valencia, Valencia on Fri, 30 Oct 2026.
 
 DANI RUBIO is a tech house and house artist tracked on soundcheck, with 28 sets logged across Barcelona, Brussels, Madrid and Valencia. Often billed alongside Quim Clausell, Blanch and Cesc (ES). Next up: Resume Valencia, Valencia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DANI RUBIO is a tech house and house artist tracked on soundcheck, with 28 sets 
 
 Quim Clausell, Blanch, Cesc (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danirubio/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danirubio/)*

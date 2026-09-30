@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "BLAUES STÜNDCHEN w. fatlip" on Tue, 29 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "WOCHENMITTE w. Pascale Project" on Wed, 30 Sept 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Agem, Anna Lazer, aqwapi and Baerbel and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Agem, Anna Lazer, aqwapi and Baerbel and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | BLAUES STÜNDCHEN w. fatlip |  |
 | Wed, 30 Sept 2026 | WOCHENMITTE w. Pascale Project | Pascale Project |
 | Thu, 1 Oct 2026 | HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem | Agem, Dark Zenith, IZA (6), Ivana, Lola Brennt |
 | Thu, 1 Oct 2026 | DEEBDIBE w. DJ Ipek & R-ZOU | DJ Ipek |
@@ -22,4 +21,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 9 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

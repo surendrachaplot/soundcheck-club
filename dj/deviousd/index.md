@@ -1,6 +1,6 @@
 # Devious D
 
-Devious D is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Cottons Club - Hoxton, London on Sun, 4 Oct 2026.
+Devious D is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Cottons Club - Hoxton, London on Sun, 4 Oct 2026.
 
 Devious D is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver and London. Often billed alongside Nicky Blackmarket, The Ragga Twins and DJ SS. Next up: The Cottons Club - Hoxton, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Devious D is a jungle and drum & bass artist based in United States of America, 
 
 Nicky Blackmarket, The Ragga Twins, DJ SS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*

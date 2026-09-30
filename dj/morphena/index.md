@@ -1,6 +1,6 @@
 # Morphena
 
-Morphena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, Berlin on Fri, 16 Oct 2026.
+Morphena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Monarch, Berlin on Fri, 16 Oct 2026.
 
 Morphena is a house and techno artist based in Argentina, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Narciss, DJ Frank and Michael Lane. Next up: Monarch, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Morphena is a house and techno artist based in Argentina, tracked on soundcheck,
 
 Narciss, DJ Frank, Michael Lane
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morphena/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morphena/)*

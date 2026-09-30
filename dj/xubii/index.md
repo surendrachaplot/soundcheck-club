@@ -1,6 +1,6 @@
 # Xubii
 
-Xubii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Berlin on Sun, 25 Oct 2026.
+Xubii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Berlin on Sun, 25 Oct 2026.
 
 Xubii is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Leipzig. Often billed alongside Traxx Jr, Femdelic and AfroOankali. Next up: TBA, Berlin on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Xubii is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Traxx Jr, Femdelic, AfroOankali
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xubii/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xubii/)*

@@ -1,6 +1,6 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Liam Palmer is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Liam Palmer is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 157 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Liam Palmer is a house and tech house artist based in United Kingdom, tracked on
 
 Elliot Schooling, Locky, L.P. Rhythm
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*

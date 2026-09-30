@@ -1,6 +1,6 @@
 # NTO (3 hours live) at Chicago Social Club
 
-NTO (3 hours live) at Chicago Social Club on Sat 24 Oct, Amsterdam. 4 artists on the bill: Hedda Stenberg, Ninsa, NTO and Susan Right. Electro. Preview the line-up and save it on soundcheck.
+NTO (3 hours live) at Chicago Social Club on Sat 24 Oct, Amsterdam. 5 artists on the bill: Hedda Stenberg, Ninsa, NTO and Susan Right and 1 more. Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ NTO (3 hours live) at Chicago Social Club on Sat 24 Oct, Amsterdam. 4 artists on
 - Ninsa
 - NTO
 - Susan Right
+- Vero (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2510268-nto-3-hours-live-at-chicago-social-club/)*

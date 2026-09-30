@@ -1,6 +1,6 @@
 # Neukila
 
-Neukila is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Versalles 94, Mexico City on Fri, 16 Oct 2026.
+Neukila is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Versalles 94, Mexico City on Fri, 16 Oct 2026.
 
 Neukila is a bass and drum & bass artist based in Mexico, tracked on soundcheck, with 26 sets logged across Mexico City. Often billed alongside Ekcent, Vinil Motion and Sirius Soundz. Next up: Versalles 94, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Neukila is a bass and drum & bass artist based in Mexico, tracked on soundcheck,
 
 Ekcent, Vinil Motion, Sirius Soundz
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neukila/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neukila/)*

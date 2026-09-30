@@ -1,6 +1,6 @@
 # nBlueMoney
 
-nBlueMoney is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+nBlueMoney is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 nBlueMoney is a house artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Valium, 8Kitoo and DANILO (ES). Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ nBlueMoney is a house artist based in Spain, tracked on soundcheck, with 5 sets 
 
 Valium, 8Kitoo, DANILO (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nbluemoney/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nbluemoney/)*

@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
+Monoky (2) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
 
 Monoky is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami and Orlando. Often billed alongside Franky Rizardo, RAJE and Azzecca. Next up: Floyd, Miami on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Monoky is a house and tech house artist based in United States of America, track
 
 Franky Rizardo, RAJE, Azzecca
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

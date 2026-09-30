@@ -1,6 +1,6 @@
 # GQ
 
-GQ is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hootananny Brixton, London on Sat, 3 Oct 2026.
+GQ is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Hootananny Brixton, London on Sat, 3 Oct 2026.
 
 GQ is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 36 sets logged across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Dillinja, SP:MC and Break. Next up: Hootananny Brixton, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ GQ is a drum & bass and jungle artist based in United States of America, tracked
 
 Dillinja, SP:MC, Break
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gq/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gq/)*

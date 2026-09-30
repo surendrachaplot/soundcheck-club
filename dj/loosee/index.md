@@ -1,6 +1,6 @@
 # Loose E
 
-Loose E is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at SWG3, Glasgow on Sat, 3 Oct 2026.
+Loose E is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at SWG3, Glasgow on Sat, 3 Oct 2026.
 
 Loose E is a garage and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: SWG3, Glasgow on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Loose E is a garage and house artist based in United Kingdom, tracked on soundch
 
 3-Lix, Emiliooo, Orla Halligan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loosee/)*

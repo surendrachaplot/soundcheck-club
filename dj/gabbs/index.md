@@ -1,8 +1,8 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Gabbs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 1
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Night Tales Loft | London |
+| Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
 | Sat, 24 Oct 2026 | Under Bron | Stockholm |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
@@ -31,4 +32,4 @@ Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 1
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

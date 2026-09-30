@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
+Gerd Janson is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
 
 Gerd Janson is a house and techno artist based in Germany, tracked on soundcheck, with 308 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Pacha Ibiza, Ibiza on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist based in Germany, tracked on soundcheck
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

@@ -1,6 +1,6 @@
 # Owlshake
 
-Owlshake is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Owlshake is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
 Owlshake is a house and downtempo artist tracked on soundcheck, with 6 sets logged across Paris. Often billed alongside Aï Smash, Donna Gibson and Falafef. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Owlshake is a house and downtempo artist tracked on soundcheck, with 6 sets logg
 
 Aï Smash, Donna Gibson, Falafef
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/owlshake/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/owlshake/)*

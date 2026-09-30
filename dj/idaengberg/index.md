@@ -1,13 +1,14 @@
 # Ida Engberg
 
-Ida Engberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 24 Oct 2026.
+Ida Engberg is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Stereo, Montreal on Fri, 23 Oct 2026.
 
-Ida Engberg is a techno and house artist based in Sweden, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Jolene Downtown Miami, Miami on Sat 24 Oct.
+Ida Engberg is a techno and house artist based in Sweden, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Stereo, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Stereo | Montreal |
 | Sat, 24 Oct 2026 | Jolene Downtown Miami | Miami |
 | Sat, 31 Oct 2026 | Studio 338 | London |
 | Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
@@ -27,4 +28,4 @@ Ida Engberg is a techno and house artist based in Sweden, tracked on soundcheck,
 
 Carl Cox, Kölsch, Indira Paganotto
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*

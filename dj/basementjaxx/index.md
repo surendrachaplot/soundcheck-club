@@ -1,19 +1,20 @@
 # Basement Jaxx
 
-Basement Jaxx is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 29 Sept 2026.
+Basement Jaxx is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
 
-Basement Jaxx is a house and disco artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Auckland, Barcelona, Bristol and Chicago and 13 more. Often billed alongside Melvo Baptiste, DJ Paulette and Eats Everything. Next up: 528 Ibiza, Ibiza on Tue 29 Sept.
+Basement Jaxx is a house and disco artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Auckland, Barcelona, Bristol and Chicago and 13 more. Often billed alongside Melvo Baptiste, DJ Paulette and Eats Everything. Next up: Flushing Meadows Corona Park, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Flushing Meadows Corona Park | New York City |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | OVO Arena Wembley | London |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Tue, 29 Sept 2026
 - Amnesia Ibiza, Ibiza — Fri, 25 Sept 2026
 - DRUMSHEDS, London — Sat, 19 Sept 2026
 - Burgess Park, London — Fri, 31 Jul 2026
@@ -21,10 +22,9 @@ Basement Jaxx is a house and disco artist based in United Kingdom, tracked on so
 - Pygmalion, Dublin — Sat, 2 May 2026
 - Royal Concert Hall, Glasgow — Tue, 31 Mar 2026
 - Meredith Supernatural Ampitheatre, Melbourne — Sat, 7 Mar 2026
-- Document, Bristol — Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Melvo Baptiste, DJ Paulette, Eats Everything
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*

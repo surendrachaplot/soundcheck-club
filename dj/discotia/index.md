@@ -1,6 +1,6 @@
 # discotia
 
-discotia is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
+discotia is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
 
 discotia is a disco and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Edinburgh. Often billed alongside Auntie Flo, Chris Astrojazz and Hobbes. Next up: Sneaky Pete's, Edinburgh on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ discotia is a disco and house artist based in United Kingdom, tracked on soundch
 
 Auntie Flo, Chris Astrojazz, Hobbes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*

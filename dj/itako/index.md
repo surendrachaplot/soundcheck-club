@@ -1,6 +1,6 @@
 # itako
 
-itako is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Karmen Camina, Strasbourg on Thu, 1 Oct 2026.
+itako is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Karmen Camina, Strasbourg on Thu, 1 Oct 2026.
 
 itako is a techno and electro artist tracked on soundcheck, with 20 sets logged across Prague and Strasbourg. Often billed alongside Vod Kasat, wilt and Itaho. Next up: Karmen Camina, Strasbourg on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ itako is a techno and electro artist tracked on soundcheck, with 20 sets logged 
 
 Vod Kasat, wilt, Itaho
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itako/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itako/)*

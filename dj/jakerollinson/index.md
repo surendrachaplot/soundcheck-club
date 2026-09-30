@@ -1,6 +1,6 @@
 # Jake Rollinson
 
-Jake Rollinson is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beaver Works, Leeds on Fri, 6 Nov 2026.
+Jake Rollinson is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Beaver Works, Leeds on Fri, 6 Nov 2026.
 
 Jake Rollinson is a garage and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and Manchester. Often billed alongside Buckley (UK), Kid Charlemagne and Nio-B. Next up: Beaver Works, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jake Rollinson is a garage and house artist based in United Kingdom, tracked on 
 
 Buckley (UK), Kid Charlemagne, Nio-B
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakerollinson/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakerollinson/)*

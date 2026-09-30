@@ -1,6 +1,6 @@
 # Psyberix
 
-Psyberix is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bsmt 254, Toronto on Sun, 11 Oct 2026.
+Psyberix is a Hardcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bsmt 254, Toronto on Sun, 11 Oct 2026.
 
 Psyberix is a hardcore and electronica artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside 'PAVV', 666.pastel and Ard1n. Next up: Bsmt 254, Toronto on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Psyberix is a hardcore and electronica artist based in Canada, tracked on soundc
 
 'PAVV', 666.pastel, Ard1n
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psyberix/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psyberix/)*

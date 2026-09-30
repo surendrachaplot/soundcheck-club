@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "SUBSTRATE: Andy Stott" on Thu, 1 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "SUBSTRATE: Andy Stott" on Thu, 1 Oct 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, Andy Stott and Cadeem LaMarr and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

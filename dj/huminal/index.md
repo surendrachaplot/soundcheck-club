@@ -1,14 +1,15 @@
 # Huminal
 
-Huminal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Huminal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
-Huminal is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Melbourne, Rotterdam and The Hague and 1 more. Often billed alongside Olivier Weiter, Miss Melera and Deeparture. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
+Huminal is a techno and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Melbourne, Rotterdam and The Hague and 1 more. Often billed alongside Olivier Weiter, Miss Melera and Deeparture. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 16 Jan 2027 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Huminal is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 Olivier Weiter, Miss Melera, Deeparture
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huminal/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huminal/)*

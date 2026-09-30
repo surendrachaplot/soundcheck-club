@@ -1,13 +1,14 @@
 # Sherryaeri
 
-Sherryaeri is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Panke, Berlin on Thu, 8 Oct 2026.
+Sherryaeri is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at frachtkante, Berlin on Sat, 3 Oct 2026.
 
-Sherryaeri is a club and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Athens, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Soyklo, ADIRA and AGILY. Next up: Panke, Berlin on Thu 8 Oct.
+Sherryaeri is a club and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Athens, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Soyklo, ADIRA and AGILY. Next up: frachtkante, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | frachtkante | Berlin |
 | Thu, 8 Oct 2026 | Panke | Berlin |
 | Sat, 14 Nov 2026 | Lark | Berlin |
 
@@ -26,4 +27,4 @@ Sherryaeri is a club and techno artist based in Germany, tracked on soundcheck, 
 
 Soyklo, ADIRA, AGILY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*

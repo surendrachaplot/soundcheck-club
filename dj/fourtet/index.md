@@ -1,8 +1,8 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Four Tet is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Skrillex, Floating Points and Ben UFO. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Four Tet is a house and techno artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Sat, 31 Oct 2026 | The Concourse Project | Austin |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
@@ -26,6 +27,6 @@ Four Tet is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Skrillex, Ben UFO, Floating Points
+Skrillex, Floating Points, Ben UFO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

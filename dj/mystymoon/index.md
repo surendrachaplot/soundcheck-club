@@ -1,6 +1,6 @@
 # MystyMoon
 
-MystyMoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 17 Oct 2026.
+MystyMoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 MystyMoon is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across San Francisco/Oakland. Often billed alongside JustJovani, SNAQ and Dean Samaras. Next up: Underground SF, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MystyMoon is a techno and house artist based in United States of America, tracke
 
 JustJovani, SNAQ, Dean Samaras
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystymoon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystymoon/)*

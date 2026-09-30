@@ -1,8 +1,8 @@
-# DJ Dials
+# DIALS
 
-DJ Dials is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
+DIALS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-DJ Dials is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Bristol, Los Angeles and San Francisco/Oakland. Often billed alongside Galen, Adra and Anthony Mansfield. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
+DIALS is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Bristol, Los Angeles and San Francisco/Oakland. Often billed alongside Galen, Adra and Anthony Mansfield. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Dials is a house and techno artist based in United States of America, tracked
 
 Galen, Adra, Anthony Mansfield
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*

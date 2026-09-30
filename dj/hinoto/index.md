@@ -1,6 +1,6 @@
 # HINOTO
 
-HINOTO is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
+HINOTO is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
 
 HINOTO is a techno and bass artist based in Japan, tracked on soundcheck, with 3 sets logged across Kyoto and Tokyo. Often billed alongside Acidclank, Big Animal Theory and Lewo Chyba. Next up: Forestlimit, Tokyo on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ HINOTO is a techno and bass artist based in Japan, tracked on soundcheck, with 3
 
 Acidclank, Big Animal Theory, Lewo Chyba
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinoto/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinoto/)*

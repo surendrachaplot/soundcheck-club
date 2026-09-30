@@ -1,6 +1,6 @@
 # Lorenzo Slider
 
-Lorenzo Slider is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
+Lorenzo Slider is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
 
 Lorenzo Slider is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Ibiza, Mallorca and Munich and 3 more. Often billed alongside Pablo Romero, Charles Wax and Daniel Dutts. Next up: feedbk, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Slider is a house and techno artist tracked on soundcheck, with 18 sets 
 
 Pablo Romero, Charles Wax, Daniel Dutts
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*

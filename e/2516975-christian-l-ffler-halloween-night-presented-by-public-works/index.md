@@ -1,6 +1,6 @@
 # Christian Löffler >< Halloween Night >< presented by Public Works & Safra at Public Works
 
-Christian Löffler >< Halloween Night >< presented by Public Works & Safra on Sat 31 Oct, San Francisco/Oakland. 6 artists on the bill: Alex Oxley, ALMAS, Christian Löffler and DWSM and 2 more. Preview the line-up and save it on soundcheck.
+Christian Löffler >< Halloween Night >< presented by Public Works & Safra on Sat 31 Oct, San Francisco/Oakland. 7 artists on the bill: Alex Oxley, ALMAS, Christian Löffler and DWSM and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Christian Löffler >< Halloween Night >< presented by Public Works & Safra on Sa
 - Christian Löffler
 - DWSM
 - Gru.di
+- Horror Hi-Fi
 - Roxanne Roll
 
 *Source: [soundcheck](https://soundcheck.club/e/2516975-christian-l-ffler-halloween-night-presented-by-public-works/)*

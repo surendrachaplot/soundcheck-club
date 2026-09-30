@@ -1,6 +1,6 @@
 # Chip Shop Brixton
 
-Chip Shop Brixton is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "SADAT X at the CHIP SHOP" on Fri, 23 Oct 2026.
+Chip Shop Brixton is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "SADAT X at the CHIP SHOP" on Fri, 23 Oct 2026.
 
 Chip Shop Brixton is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 378 Coldharbour Lane, London SW9 8LF.
 
@@ -14,4 +14,4 @@ Chip Shop Brixton is a music venue in London listed on soundcheck. 1 upcoming gi
 
 378 Coldharbour Lane, London SW9 8LF, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/chip-shop-brixton/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/chip-shop-brixton/)*

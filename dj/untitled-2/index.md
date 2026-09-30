@@ -1,6 +1,6 @@
 # untitled (2)
 
-untitled (2) is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tola, London on Thu, 1 Oct 2026.
+untitled (2) is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Tola, London on Thu, 1 Oct 2026.
 
 untitled is a club and bass artist based in South Korea, tracked on soundcheck, with 53 sets logged across Hong Kong, London, Seoul and Shenzhen. Often billed alongside Hyejin, Shins and MOONICE. Next up: Tola, London on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ untitled is a club and bass artist based in South Korea, tracked on soundcheck, 
 
 Hyejin, Shins, MOONICE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/untitled-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/untitled-2/)*

@@ -1,6 +1,6 @@
 # Rebuke
 
-Rebuke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Academy LA, Los Angeles on Sat, 3 Oct 2026.
+Rebuke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Academy LA, Los Angeles on Sat, 3 Oct 2026.
 
 Rebuke is a techno and house artist based in Ireland, tracked on soundcheck, with 91 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 37 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Academy LA, Los Angeles on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rebuke is a techno and house artist based in Ireland, tracked on soundcheck, wit
 
 Kevin de Vries, Tale Of Us, Anyma
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*

@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 27 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Official 2026 ACL Fest Nights: The Chainsmokers" on Thu, 1 Oct 2026.
+The Concourse Project is a music venue in Austin with 27 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Official 2026 ACL Fest Nights: The Chainsmokers" on Thu, 1 Oct 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -16,11 +16,11 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcomi
 | Sat, 10 Oct 2026 | Holy Priest (Night 1) | COLOR K!D, Holy Priest |
 | Sun, 11 Oct 2026 | Holy Priest (Night 2) | COLOR K!D, Holy Priest |
 | Thu, 15 Oct 2026 | Funk Tribu | Funk Tribu |
-| Fri, 16 Oct 2026 | Adam Port (KEINEMUSIK) | Adam Port |
+| Fri, 16 Oct 2026 | Adam Port (KEINEMUSIK) (3 Hour Set) at The Concourse Project | Adam Port |
 | Sat, 17 Oct 2026 | MGMT (DJ Set) |  |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

@@ -1,8 +1,8 @@
 # Limoncello
 
-Limoncello is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+Limoncello is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
-Limoncello is a trance and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: Bootshaus, Cologne on Fri 2 Oct.
+Limoncello is a trance and techno artist based in Germany, tracked on soundcheck, with 100 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Limoncello is a trance and techno artist based in Germany, tracked on soundcheck
 | Fri, 2 Oct 2026 | Bootshaus | Cologne |
 | Sat, 10 Oct 2026 | Neue Welle | Leipzig |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
+| Sat, 24 Oct 2026 | KHC Neustrelitz | Mecklenburg-vorpommern |
 | Fri, 30 Oct 2026 | Distillery | Leipzig |
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
@@ -31,4 +32,4 @@ Limoncello is a trance and techno artist based in Germany, tracked on soundcheck
 
 alemiko, bbymeister, DJ Henk
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limoncello/)*

@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Juliana Huxtable is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Juliana Huxtable is a techno and house artist based in United States of America, tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Juliana Huxtable is a techno and house artist based in United States of America,
 
 JASSS, Shyboi, Via App
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

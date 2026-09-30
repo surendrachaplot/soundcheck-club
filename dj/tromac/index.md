@@ -1,14 +1,15 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Tromac is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-Tromac is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 105 sets logged across Austin, Boston, Chicago and Detroit and 8 more. Often billed alongside DJ-SUN, flotussin and Bodegaparty. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+Tromac is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 106 sets logged across Austin, Boston, Chicago and Detroit and 8 more. Often billed alongside DJ-SUN, flotussin and Bodegaparty. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Sun, 4 Oct 2026 | Mothership | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tromac is a club and ghetto tech artist based in United States of America, track
 
 DJ-SUN, flotussin, Bodegaparty
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

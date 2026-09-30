@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
+Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
 Palms Trax is a house and techno artist based in Germany, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Palms Trax is a house and techno artist based in Germany, tracked on soundcheck,
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

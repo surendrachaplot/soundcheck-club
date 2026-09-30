@@ -1,6 +1,6 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Eris Drew is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
 Eris Drew is a house and techno artist based in United States of America, tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Eris Drew is a house and techno artist based in United States of America, tracke
 
 Octo Octa, Mike Servito, CCL
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

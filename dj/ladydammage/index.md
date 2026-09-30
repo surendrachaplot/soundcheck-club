@@ -1,8 +1,8 @@
 # Lady Dammage
 
-Lady Dammage is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
+Lady Dammage is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
-Lady Dammage is a hardcore and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Art of Fighters, Dimitri K and Hysteria. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
+Lady Dammage is a hardcore and techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Art of Fighters, DIDIXX and Dimitri K. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Lady Dammage is a hardcore and techno artist based in Spain, tracked on soundche
 
 ## Shares bills with
 
-Art of Fighters, Dimitri K, Hysteria
+Art of Fighters, DIDIXX, Dimitri K
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydammage/)*

@@ -1,13 +1,14 @@
 # THIRD 2HIFT
 
-THIRD 2HIFT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Turbina, Budapest on Sat, 17 Oct 2026.
+THIRD 2HIFT is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Vektor - The Klub, Budapest on Fri, 16 Oct 2026.
 
-THIRD 2HIFT is a techno and trance artist based in Hungary, tracked on soundcheck, with 98 sets logged across Berlin, Budapest, Krakow and Leipzig and 2 more. Often billed alongside Paralich, Valenthin and CRIME. Next up: Turbina, Budapest on Sat 17 Oct.
+THIRD 2HIFT is a techno and trance artist based in Hungary, tracked on soundcheck, with 99 sets logged across Berlin, Budapest, Krakow and Leipzig and 2 more. Often billed alongside Paralich, Valenthin and CRIME. Next up: Vektor - The Klub, Budapest on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Vektor - The Klub | Budapest |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
 
@@ -26,4 +27,4 @@ THIRD 2HIFT is a techno and trance artist based in Hungary, tracked on soundchec
 
 Paralich, Valenthin, CRIME
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/third2hift/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/third2hift/)*

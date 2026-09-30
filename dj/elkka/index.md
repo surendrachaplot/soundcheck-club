@@ -1,8 +1,8 @@
 # Elkka
 
-Elkka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground, London on Sat, 10 Oct 2026.
+Elkka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Village Underground, London on Sat, 10 Oct 2026.
 
-Elkka is a house and techno artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Village Underground, London on Sat 10 Oct.
+Elkka is a house and techno artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Village Underground, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Elkka is a house and techno artist based in United Kingdom, tracked on soundchec
 | Sat, 17 Oct 2026 | Vittoria Wharf Studio | London |
 | Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
+| Fri, 30 Apr 2027 | Three Pools | West-wales |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Elkka is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Dan Shake, TSHA, Bonobo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*

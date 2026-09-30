@@ -1,6 +1,6 @@
 # Viper
 
-Viper is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Viper is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Viper is a techno and afro house artist based in Mexico, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, London and Mexico City and 1 more. Often billed alongside Eszter, AGNY and Pardis. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Viper is a techno and afro house artist based in Mexico, tracked on soundcheck, 
 
 Eszter, AGNY, Pardis
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*

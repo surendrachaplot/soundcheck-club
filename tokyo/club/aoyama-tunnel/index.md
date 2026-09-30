@@ -1,14 +1,13 @@
 # Aoyama Tunnel
 
-Aoyama Tunnel is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "TUNNEL TUESDAY" on Tue, 29 Sept 2026.
+Aoyama Tunnel is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "TUNNEL WEDNESDAY" on Wed, 30 Sept 2026.
 
-Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Andre McLeod, bungo, CALPISS and dj yumi-cco and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002.
+Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Andre McLeod, bungo, CALPISS and dj yumi-cco and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | TUNNEL TUESDAY |  |
 | Wed, 30 Sept 2026 | TUNNEL WEDNESDAY |  |
 | Thu, 1 Oct 2026 | TUNNEL THURSDAY | Andre McLeod |
 | Fri, 2 Oct 2026 | REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 | DNG (1), Max Essa, RIHO ASAEDA |
@@ -18,4 +17,4 @@ Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, w
 
 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-tunnel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-tunnel/)*

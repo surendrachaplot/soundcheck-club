@@ -1,6 +1,6 @@
 # Prachtwerk Berlin
 
-Prachtwerk Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "MOMO BOYD" on Mon, 2 Nov 2026.
+Prachtwerk Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "MOMO BOYD" on Mon, 2 Nov 2026.
 
 Prachtwerk Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Ganghoferstraße 2, 12043 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Prachtwerk Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gi
 
 Ganghoferstraße 2, 12043 Berlin, Germany, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prachtwerk-berlin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prachtwerk-berlin/)*

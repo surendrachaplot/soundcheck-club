@@ -1,8 +1,8 @@
 # KiNK
 
-KiNK is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
+KiNK is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
 
-KiNK is a techno and house artist based in Bulgaria, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Raredub, FJAAK and Elli Acula. Next up: Dockland, Munster on Sat 3 Oct.
+KiNK is a techno and house artist based in Bulgaria, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Dockland, Munster on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ KiNK is a techno and house artist based in Bulgaria, tracked on soundcheck, with
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
+| Fri, 30 Oct 2026 | D! Club | Lausanne |
 | Sat, 31 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -32,6 +33,6 @@ KiNK is a techno and house artist based in Bulgaria, tracked on soundcheck, with
 
 ## Shares bills with
 
-Raredub, FJAAK, Elli Acula
+Raredub, FJAAK, Ben Klock
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

@@ -1,6 +1,6 @@
 # SAITO
 
-SAITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+SAITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
 SAITO is a techno and house artist based in South Korea, tracked on soundcheck, with 185 sets logged across Amsterdam, Kuala Lumpur, Kyoto and London and 4 more. Often billed alongside Yuoto Saito, RYOHEI and KEiTA. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ SAITO is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 Yuoto Saito, RYOHEI, KEiTA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saito/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saito/)*

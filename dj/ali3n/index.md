@@ -1,6 +1,6 @@
 # ALI3N
 
-ALI3N is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+ALI3N is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 ALI3N is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Athens, Bangkok, Basel and Belgrade and 17 more. Often billed alongside Nina Farrina, Carmen Electro and MCR-T. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ALI3N is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Nina Farrina, Carmen Electro, MCR-T
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*

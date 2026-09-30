@@ -1,6 +1,6 @@
 # Seanni B
 
-Seanni B is a Club and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
+Seanni B is a Club and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
 
 Seanni B is a club and breakcore artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago, Detroit and Philadelphia. Often billed alongside Kuuma, Obi-Wan Shinobi and madeofants. Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Seanni B is a club and breakcore artist based in United States of America, track
 
 Kuuma, Obi-Wan Shinobi, madeofants
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*

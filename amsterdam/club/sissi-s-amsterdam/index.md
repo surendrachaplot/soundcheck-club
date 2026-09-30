@@ -1,15 +1,15 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Sissi's Friday with SWAY, Mowgli & Ays" on Fri, 2 Oct 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Sissi's Friday with SWAY, Mowgli & Ays" on Fri, 2 Oct 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Sissi's Friday with SWAY, Mowgli & Ays | Ays (NL), Mowgli (NL) |
-| Sat, 3 Oct 2026 | Sissi's Saturday: Boris Coelman invites SUCHI | Boris Coelman, SUCHI |
+| Sat, 3 Oct 2026 | Sissi's Saturday: Boris Coelman invites SUCHI & Connection art invites Sawt of Soul | Boris Coelman, Polli Panda, SUCHI |
 | Sat, 3 Oct 2026 | Connection invites Sawt of Soul | Polli Panda |
 | Sat, 3 Oct 2026 | Connection art invites Sawt of Soul | Polli Panda |
 | Fri, 9 Oct 2026 | Sissi's Friday with OLIVIA LENSEN, SOLIT & Styn b2b DJ Fucci | Dj Fucci, OLIVIA LENSEN, SOLIT, Styn |
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

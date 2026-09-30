@@ -1,6 +1,6 @@
 # LEENI
 
-LEENI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+LEENI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 LEENI is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Austria, Berlin and Cologne and 9 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Pornbugs. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ LEENI is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Danilo Kupfernagel, Mollono.Bass, Pornbugs
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*

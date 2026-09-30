@@ -1,14 +1,15 @@
 # Maschérie
 
-Maschérie is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, Berlin on Fri, 16 Oct 2026.
+Maschérie is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Monarch, Berlin on Fri, 16 Oct 2026.
 
-Maschérie is a trance and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne and Leipzig. Often billed alongside djvonnebenan, Ben Derris and Deltapeak. Next up: Monarch, Berlin on Fri 16 Oct.
+Maschérie is a trance and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne and Leipzig. Often billed alongside djvonnebenan, Ben Derris and Deltapeak. Next up: Monarch, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Monarch | Berlin |
+| Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Maschérie is a trance and house artist based in Germany, tracked on soundcheck,
 
 djvonnebenan, Ben Derris, Deltapeak
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*

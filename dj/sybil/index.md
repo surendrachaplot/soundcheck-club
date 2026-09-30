@@ -1,8 +1,8 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Sybil is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
-Sybil is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside .VRIL, Kia (AU) and Konduku. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
+Sybil is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside .VRIL, Kia (AU) and Konduku. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sybil is a techno and trance artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Sat, 24 Oct 2026 | Gaffe | London |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
@@ -29,4 +30,4 @@ Sybil is a techno and trance artist based in United Kingdom, tracked on soundche
 
 .VRIL, Kia (AU), Konduku
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

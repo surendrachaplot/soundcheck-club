@@ -1,6 +1,6 @@
 # Yamagucci (2)
 
-Yamagucci (2) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Society, Brussels on Fri, 2 Oct 2026.
+Yamagucci (2) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Society, Brussels on Fri, 2 Oct 2026.
 
 Yamagucci is a house and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Brussels, Los Angeles and New York City and 3 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: Society, Brussels on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Yamagucci is a house and electronica artist based in United States of America, t
 
 Adam Ten, Antdot, Bedouin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci-2/)*

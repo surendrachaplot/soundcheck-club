@@ -1,6 +1,6 @@
 # Trinitron
 
-Trinitron is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
+Trinitron is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
 
 Trinitron is a deep house and downtempo artist based in United States of America, tracked on soundcheck, with 45 sets logged across Seattle. Often billed alongside Julie Herrera, Christine Michelle and Copeland. Next up: TBA, Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Trinitron is a deep house and downtempo artist based in United States of America
 
 Julie Herrera, Christine Michelle, Copeland
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinitron/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinitron/)*

@@ -1,6 +1,6 @@
 # Ora
 
-Ora is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "BT" on Sat, 21 Nov 2026.
+Ora is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "BT" on Sat, 21 Nov 2026.
 
 Ora is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with line-ups including BT. Browse upcoming dates, start times and who's playing. 2330 1st Avenue, Seattle, WA 98121, USA.
 
@@ -15,4 +15,4 @@ Ora is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with line
 
 2330 1st Avenue, Seattle, WA 98121, USA, Seattle
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*

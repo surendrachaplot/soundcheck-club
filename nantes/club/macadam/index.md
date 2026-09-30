@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam" on Fri, 2 Oct 2026.
+Macadam is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam" on Fri, 2 Oct 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including Akira Yamagata, basic chanel, Bella Sarris and Budino and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

@@ -1,6 +1,6 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Mau P - BADDEST BEHAVIOUR" on Wed, 30 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Mau P - BADDEST BEHAVIOUR" on Wed, 30 Sept 2026.
 
 Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adriatique, Alle Farben, Breakbot and Busy P and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
@@ -22,4 +22,4 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, wit
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

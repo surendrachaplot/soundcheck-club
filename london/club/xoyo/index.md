@@ -1,8 +1,8 @@
 # XOYO
 
-XOYO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "PARADOX" on Wed, 30 Sept 2026.
+XOYO is a music venue in London with 26 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "PARADOX" on Wed, 30 Sept 2026.
 
-XOYO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Adela, Alex Culross, Alex P and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including Adela, Alex Culross, Alex P and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 24 upcoming gigs, with lin
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

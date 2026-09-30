@@ -1,6 +1,6 @@
 # Thaistick
 
-Thaistick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Culture Cafe, Bangkok on Thu, 1 Oct 2026.
+Thaistick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Culture Cafe, Bangkok on Thu, 1 Oct 2026.
 
 Thaistick is a house and techno artist tracked on soundcheck, with 62 sets logged across Bangkok. Often billed alongside Tetez, Krit Su and 4STAR. Next up: Culture Cafe, Bangkok on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Thaistick is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 Tetez, Krit Su, 4STAR
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thaistick/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thaistick/)*

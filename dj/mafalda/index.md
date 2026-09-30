@@ -1,6 +1,6 @@
 # Mafalda
 
-Mafalda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Mafalda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Mafalda is a disco and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Seiji Ono, Theo Terev and Red Greg. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mafalda is a disco and house artist tracked on soundcheck, with 86 sets logged a
 
 Seiji Ono, Theo Terev, Red Greg
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*

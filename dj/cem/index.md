@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at C12, Brussels on Sat, 3 Oct 2026.
+CEM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at C12, Brussels on Sat, 3 Oct 2026.
 
 CEM is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: C12, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 2
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

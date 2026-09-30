@@ -1,6 +1,6 @@
 # VJ Meerkat
 
-VJ Meerkat is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
+VJ Meerkat is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 VJ Meerkat is a drum & bass and garage artist tracked on soundcheck, with 19 sets logged across Barcelona. Often billed alongside MC Stormy, Jon-roy and Egres. Next up: Village Underground Barcelona, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VJ Meerkat is a drum & bass and garage artist tracked on soundcheck, with 19 set
 
 MC Stormy, Jon-roy, Egres
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vjmeerkat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vjmeerkat/)*

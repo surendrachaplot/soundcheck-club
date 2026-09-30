@@ -1,6 +1,6 @@
 # Lafayette Anticipations
 
-Lafayette Anticipations is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Dagmar Zuniga + Yasuaki Shimizu" on Tue, 3 Nov 2026.
+Lafayette Anticipations is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Dagmar Zuniga + Yasuaki Shimizu" on Tue, 3 Nov 2026.
 
 Lafayette Anticipations is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 9 rue du Plâtre, 75004 Paris.
 
@@ -14,4 +14,4 @@ Lafayette Anticipations is a music venue in Paris listed on soundcheck. 1 upcomi
 
 9 rue du Plâtre, 75004 Paris, Paris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/lafayette-anticipations/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/lafayette-anticipations/)*

@@ -1,13 +1,14 @@
 # Dukesmith
 
-Dukesmith is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tola, London on Sat, 7 Nov 2026.
+Dukesmith is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Dalston Den, London on Fri, 9 Oct 2026.
 
-Dukesmith is a house and afro house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Breezy, DJ FUNGHOUL and Badly Drawn Banana. Next up: Tola, London on Sat 7 Nov.
+Dukesmith is a house and breakbeat artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Breezy, DJ FUNGHOUL and Edge <3. Next up: Dalston Den, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Dalston Den | London |
 | Sat, 7 Nov 2026 | Tola | London |
 
 ## Recently played
@@ -21,6 +22,6 @@ Dukesmith is a house and afro house artist tracked on soundcheck, with 7 sets lo
 
 ## Shares bills with
 
-Breezy (2), DJ FUNGHOUL, Badly Drawn Banana
+Breezy (2), DJ FUNGHOUL, Edge <3
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukesmith/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukesmith/)*

@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Soul Goodman Birthday Bash • Selector vs Selector" on Sat, 3 Oct 2026.
+TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Soul Goodman Birthday Bash • Selector vs Selector" on Sat, 3 Oct 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Aboudi Issa, Al Ester, Ashton Swinton and Ataxia and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -19,4 +19,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

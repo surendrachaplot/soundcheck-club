@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "mixclub: electro with Blaze, Elo, Another Place & Leany" on Thu, 1 Oct 2026.
+Movers is a music venue in Nottingham with 24 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "mixclub: electro with Blaze, Elo, Another Place & Leany" on Thu, 1 Oct 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -10,8 +10,8 @@ Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, wi
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | mixclub: electro with Blaze, Elo, Another Place & Leany |  |
 | Thu, 1 Oct 2026 | UMS: First Social of The Year - House / Garage |  |
-| Fri, 2 Oct 2026 | disko kix 2: disco, funk, house, soul & leftfield |  |
-| Sat, 3 Oct 2026 | Swing Dash: Felix Dickinson, rPal & Gail [2am Party in Atrium] | Felix Dickinson, rPal |
+| Fri, 2 Oct 2026 | disko kix: a disco party |  |
+| Sat, 3 Oct 2026 | Swing Dash with Felix Dickinson | Felix Dickinson, rPal |
 | Thu, 8 Oct 2026 | foundation.fm presents Drop Pin x Gyals In Notts - Nottingham | G33 (UK), RINGERS |
 | Sat, 10 Oct 2026 | Control. x Movers: Radioactive Man, Aaron Dynamic b2b Dennis Roswell & dj sneaze | Aaron Dynamic, Radioactive Man, dj sneaze |
 | Thu, 15 Oct 2026 | Pool Table Launch: Pool, Board Games & Cocktails |  |
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 24 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

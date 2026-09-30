@@ -1,6 +1,6 @@
 # Flavio (CH)
 
-Flavio (CH) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Supermarket, Zurich on Sat, 24 Oct 2026.
+Flavio (CH) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Supermarket, Zurich on Sat, 24 Oct 2026.
 
 Flavio (CH) is a minimal and house artist based in Switzerland, tracked on soundcheck, with 37 sets logged across Bucharest, Istanbul, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Aline (CH), Aron (CH) and Alci. Next up: Supermarket, Zurich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Flavio (CH) is a minimal and house artist based in Switzerland, tracked on sound
 
 Aline (CH), Aron (CH), Alci
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavio-ch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavio-ch/)*

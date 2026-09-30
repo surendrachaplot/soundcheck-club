@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Ignez is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Yanamaste, Inox Traxx, Rødhåd
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

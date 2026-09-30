@@ -1,14 +1,15 @@
 # Labyrinthine
 
-Labyrinthine is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BAR Inc, Osaka on Thu, 1 Oct 2026.
+Labyrinthine is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at BAR Inc, Osaka on Thu, 1 Oct 2026.
 
-Labyrinthine is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Buenos Aires and London and 4 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: BAR Inc, Osaka on Thu 1 Oct.
+Labyrinthine is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: BAR Inc, Osaka on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | BAR Inc | Osaka |
+| Sun, 4 Oct 2026 | TBA - 강원도 화천 | South-korea |
 | Wed, 7 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ Labyrinthine is a techno and ambient artist based in United Kingdom, tracked on 
 
 Jamie de Rooy, Harknee, Concrete Gold
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*

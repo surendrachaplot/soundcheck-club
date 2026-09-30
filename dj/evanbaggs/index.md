@@ -1,8 +1,8 @@
 # Evan Baggs
 
-Evan Baggs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ticcle, Hobart on Sun, 25 Oct 2026.
+Evan Baggs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Ticcle, Hobart on Sun, 25 Oct 2026.
 
-Evan Baggs is a house and techno artist based in United States of America, tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside DJ Masda, Binh and Andy Luff. Next up: Ticcle, Hobart on Sun 25 Oct.
+Evan Baggs is a house and techno artist based in United States of America, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Bali and 45 more. Often billed alongside DJ Masda, Binh and Andy Luff. Next up: Ticcle, Hobart on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Evan Baggs is a house and techno artist based in United States of America, track
 | Sun, 25 Oct 2026 | Ticcle | Hobart |
 | Sat, 14 Nov 2026 | Gaffe | London |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Evan Baggs is a house and techno artist based in United States of America, track
 
 DJ Masda, Binh, Andy Luff
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanbaggs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evanbaggs/)*

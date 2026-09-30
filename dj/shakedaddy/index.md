@@ -1,6 +1,6 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
+Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
 Shake Daddy is a techno and trance artist based in Australia, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside GEN97, SATYS FYRE and ANDATA. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Shake Daddy is a techno and trance artist based in Australia, tracked on soundch
 
 GEN97, SATYS FYRE, ANDATA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

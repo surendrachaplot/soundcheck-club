@@ -1,6 +1,6 @@
 # Tall Paul
 
-Tall Paul is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Palm House, Liverpool on Fri, 27 Nov 2026.
+Tall Paul is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Palm House, Liverpool on Fri, 27 Nov 2026.
 
 Tall Paul is a house and trance artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Auckland, Birmingham, Glasgow and Ibiza and 6 more. Often billed alongside Seb Fontaine, Mauro Picotto and Ratpack. Next up: Palm House, Liverpool on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Tall Paul is a house and trance artist based in United Kingdom, tracked on sound
 
 Seb Fontaine, Mauro Picotto, Ratpack
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*

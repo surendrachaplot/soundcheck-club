@@ -1,6 +1,6 @@
 # GEN97
 
-GEN97 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+GEN97 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 GEN97 is a techno and trance artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Leipzig, London and Munich and 3 more. Often billed alongside LARSUS, MCR-T and ZELIA. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ GEN97 is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 LARSUS, MCR-T, ZELIA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen97/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen97/)*

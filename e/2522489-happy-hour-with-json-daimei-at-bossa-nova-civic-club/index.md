@@ -1,11 +1,15 @@
 # happy hour with .json & daimei at Bossa Nova Civic Club
 
-happy hour with .json & daimei at Bossa Nova Civic Club on Wed 14 Oct, New York City. House and Minimal. Preview the line-up and save it on soundcheck.
+happy hour with .json & daimei at Bossa Nova Civic Club on Wed 14 Oct, New York City. 1 artist on the bill: .json. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Wed, 14 Oct 2026 |
 | Venue | Bossa Nova Civic Club |
 | City | New York City |
+
+## Line-up
+
+- .json
 
 *Source: [soundcheck](https://soundcheck.club/e/2522489-happy-hour-with-json-daimei-at-bossa-nova-civic-club/)*

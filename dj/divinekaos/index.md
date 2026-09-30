@@ -1,0 +1,25 @@
+# Divine Kaos
+
+Divine Kaos is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Effenaar, Eindhoven on Sat, 5 Dec 2026.
+
+Divine Kaos is a house and tech house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, Divine and Kim Kaos. Next up: Effenaar, Eindhoven on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Effenaar | Eindhoven |
+
+## Recently played
+
+- Madam, Amsterdam — Fri, 14 Aug 2026
+- Madam, Amsterdam — Fri, 14 Aug 2026
+- Maarsseveense Plassen, Utrecht — Sat, 11 Jul 2026
+- Madam, Amsterdam — Fri, 23 Jan 2026
+- Now&Wow, Rotterdam — Sat, 27 Dec 2025
+
+## Shares bills with
+
+Benny Rodrigues, Divine, Kim Kaos
+
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divinekaos/)*

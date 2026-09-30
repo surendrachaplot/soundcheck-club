@@ -1,6 +1,6 @@
 # Patision65
 
-Patision65 is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Occult Practices Chapter I" on Sat, 31 Oct 2026.
+Patision65 is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Occult Practices Chapter I" on Sat, 31 Oct 2026.
 
 Patision65 is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Anatolian Weapons, Eleusinia Mysteria and Re/Act. Browse upcoming dates, start times and who's playing. 28is Oktovriou 65, Athina 104 33, Greece.
 
@@ -14,4 +14,4 @@ Patision65 is a music venue in Athens listed on soundcheck. 1 upcoming gig, with
 
 28is Oktovriou 65, Athina 104 33, Greece, Athens
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/patision65/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/patision65/)*

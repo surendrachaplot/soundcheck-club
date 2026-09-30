@@ -1,13 +1,14 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Voice Actor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Klub Żak, Gdansk on Sat, 10 Oct 2026.
 
-Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Bristol, Brussels and Copenhagen and 16 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: Botanique, Brussels on Sat 28 Nov.
+Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Berlin, Bristol, Brussels and Copenhagen and 17 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: Klub Żak, Gdansk on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Klub Żak | Gdansk |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 
 Nosedrip, James Massiah, Smerz
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

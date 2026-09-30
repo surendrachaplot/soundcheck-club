@@ -1,6 +1,6 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
+Crossy is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
 Crossy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Disrupta and Kanine. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Crossy is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Carasel, Disrupta, Kanine
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

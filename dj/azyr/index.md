@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+Azyr is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
+Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
+| Fri, 13 Nov 2026 | Club Cultural Lima | Peru |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
-| Sat, 21 Nov 2026 | The Garage | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 LESSSS, blk., Charlie Sparks
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

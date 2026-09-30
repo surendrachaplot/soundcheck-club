@@ -1,8 +1,8 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Beltran is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Boston and Buenos Aires and 25 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Boston and Buenos Aires and 25 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Beltran is a house and tech house artist based in United States of America, trac
 | Sat, 17 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
+| Wed, 2 Dec 2026 | Club Space Miami | Miami |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
@@ -31,4 +32,4 @@ Beltran is a house and tech house artist based in United States of America, trac
 
 Ben Sterling, ChaseWest, KinAhau
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

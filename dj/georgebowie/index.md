@@ -1,6 +1,6 @@
 # George Bowie
 
-George Bowie is a Trance and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Charlies Loft, Glasgow on Fri, 2 Oct 2026.
+George Bowie is a Trance and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Charlies Loft, Glasgow on Fri, 2 Oct 2026.
 
 George Bowie is a trance and disco artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Macca and Michael Paterson. Next up: Charlies Loft, Glasgow on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ George Bowie is a trance and disco artist based in United Kingdom, tracked on so
 
 Joe Deacon, Macca (2), Michael Paterson
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*

@@ -1,6 +1,6 @@
 # Kooscha
 
-Kooscha is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Subterra, The Hague on Sat, 3 Oct 2026.
+Kooscha is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Subterra, The Hague on Sat, 3 Oct 2026.
 
 Kooscha is a techno and ambient artist based in Australia, tracked on soundcheck, with 4 sets logged across Sydney and The Hague. Often billed alongside Ulia, Alec Sander and Alison Belle. Next up: TBA - Subterra, The Hague on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Kooscha is a techno and ambient artist based in Australia, tracked on soundcheck
 
 Ulia, Alec Sander, Alison Belle
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kooscha/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kooscha/)*

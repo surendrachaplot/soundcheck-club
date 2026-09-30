@@ -1,6 +1,6 @@
 # Danni Gato
 
-Danni Gato is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
+Danni Gato is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
 
 Danni Gato is an afro house and afro tech artist based in Portugal, tracked on soundcheck, with 18 sets logged across Amsterdam, Basel, Berlin and Lisbon and 7 more. Often billed alongside Alex Clap, Alma Negra and CASSIMM. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Danni Gato is an afro house and afro tech artist based in Portugal, tracked on s
 
 Alex Clap, Alma Negra, CASSIMM
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannigato/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannigato/)*

@@ -1,13 +1,14 @@
 # Von Bikräv
 
-Von Bikräv is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Fri, 30 Oct 2026.
+Von Bikräv is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Auxerrexpo, Central on Sat, 3 Oct 2026.
 
-Von Bikräv is a techno and hardcore artist based in France, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Lolalita, Paul Seul and Claude Murder. Next up: OST, Berlin on Fri 30 Oct.
+Von Bikräv is a techno and hardcore artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Lolalita, Paul Seul and Claude Murder. Next up: Auxerrexpo, Central on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Auxerrexpo | Central |
 | Fri, 30 Oct 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Von Bikräv is a techno and hardcore artist based in France, tracked on soundche
 
 Lolalita, Paul Seul, Claude Murder
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*

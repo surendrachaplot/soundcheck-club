@@ -1,14 +1,15 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+shanty mane is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
-shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
+shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Secret Location  | Mexico City |
+| Sat, 17 Oct 2026 | Green Room NYC | New-york-city |
 | Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | Outer Heaven | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
@@ -28,4 +29,4 @@ shanty mane is a house and techno artist based in United States of America, trac
 
 EREZ.JPG, Willy Gorgon, Gill (US)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

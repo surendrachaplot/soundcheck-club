@@ -1,15 +1,15 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
+Boss Priester is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Boss Priester is a house and tech house artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Cova Santa, Ibiza on Tue 29 Sept.
+Boss Priester is a house and tech house artist based in Netherlands, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: 528 Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
@@ -18,11 +18,12 @@ Boss Priester is a house and tech house artist based in Netherlands, tracked on 
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
+| Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
-| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Tue, 29 Sept 2026
 - Thuishaven, Amsterdam — Sun, 27 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
@@ -30,10 +31,9 @@ Boss Priester is a house and tech house artist based in Netherlands, tracked on 
 - The Loft, Manchester — Sat, 5 Sept 2026
 - 528 Ibiza, Ibiza — Fri, 4 Sept 2026
 - The Nest, Nottingham — Sun, 30 Aug 2026
-- Steelyard Kelham, Sheffield — Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

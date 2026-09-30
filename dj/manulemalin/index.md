@@ -1,0 +1,28 @@
+# Manu Le Malin
+
+Manu Le Malin is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Auxerrexpo, Central on Sat, 3 Oct 2026.
+
+Manu Le Malin is a techno and hardcore artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Thrasher, KRTM and Krista Bourgeois. Next up: Auxerrexpo, Central on Sat 3 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 3 Oct 2026 | Auxerrexpo | Central |
+
+## Recently played
+
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 18 Jul 2026
+- Le Sucre, Lyon — Sat, 27 Jun 2026
+- Mia Mao, Paris — Fri, 26 Jun 2026
+- Mia Mao, Paris — Fri, 8 May 2026
+- Karmen Camina, Strasbourg — Fri, 24 Apr 2026
+- Kilomètre25, Paris — Fri, 3 Apr 2026
+- Mia Mao, Paris — Fri, 13 Mar 2026
+- Mia Mao, Paris — Fri, 21 Nov 2025
+
+## Shares bills with
+
+Thrasher, KRTM, Krista Bourgeois
+
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manulemalin/)*

@@ -1,6 +1,6 @@
 # GEN (4)
 
-GEN (4) is a Pop and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at PRST, Vienna on Thu, 8 Oct 2026.
+GEN (4) is a Pop and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at PRST, Vienna on Thu, 8 Oct 2026.
 
 GEN is a pop and bass artist based in Japan, tracked on soundcheck, with 6 sets logged across Munich, Nantes, Paris and Tokyo and 1 more. Often billed alongside &more, Canblaster and Celestino. Next up: PRST, Vienna on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ GEN is a pop and bass artist based in Japan, tracked on soundcheck, with 6 sets 
 
 &more, Canblaster, Celestino
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen-4/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gen-4/)*

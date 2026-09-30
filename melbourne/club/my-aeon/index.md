@@ -1,6 +1,6 @@
 # My Aeon
 
-My Aeon is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Lost Signal My Aeon" on Fri, 16 Oct 2026.
+My Aeon is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Lost Signal My Aeon" on Fri, 16 Oct 2026.
 
 My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including cuznmatt, DJ JNETT, HAUSWiFE and Mothafunk and 2 more. Browse upcoming dates, start times and who's playing. 791 Sydney Rd; Brunswick VIC 3056; Australia.
 
@@ -17,4 +17,4 @@ My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, wit
 
 791 Sydney Rd; Brunswick VIC 3056; Australia, Melbourne
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*

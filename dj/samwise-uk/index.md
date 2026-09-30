@@ -1,6 +1,6 @@
 # Sam Wise
 
-Sam Wise is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Old Blue Last, London on Sat, 31 Oct 2026.
+Sam Wise is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Old Blue Last, London on Sat, 31 Oct 2026.
 
 Sam Wise is a house and club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Austin, Iceland, London and Los Angeles. Often billed alongside 10cust, 1tbsp and ATRIP. Next up: The Old Blue Last, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Sam Wise is a house and club artist based in United Kingdom, tracked on soundche
 
 10cust, 1tbsp, ATRIP
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*

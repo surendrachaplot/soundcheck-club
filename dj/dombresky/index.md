@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Space Miami, Miami on Fri, 2 Oct 2026.
+Dombresky is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Club Space Miami, Miami on Fri, 2 Oct 2026.
 
 Dombresky is a house and tech house artist based in France, tracked on soundcheck, with 146 sets logged across Arizona, Austin, Bali and Barcelona and 33 more. Often billed alongside Jaded (UK), Tini Gessler and Purple Disco Machine. Next up: Club Space Miami, Miami on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Dombresky is a house and tech house artist based in France, tracked on soundchec
 
 Jaded (UK), Tini Gessler, Purple Disco Machine
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

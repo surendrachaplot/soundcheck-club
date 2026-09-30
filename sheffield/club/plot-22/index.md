@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "LOCAL with LOOPS" on Fri, 2 Oct 2026.
+Plot 22 is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "LOCAL with LOOPS" on Fri, 2 Oct 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Earl Grey, Kid Lib, mark andrew and Soul Mass Transit System and 1 more. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -17,4 +17,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, wit
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

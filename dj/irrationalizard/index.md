@@ -1,6 +1,6 @@
 # irrationalizard
 
-irrationalizard is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
+irrationalizard is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
 
 irrationalizard is a bass and dubstep artist tracked on soundcheck, with 6 sets logged across Tbilisi. Often billed alongside Goka, The Machete Boyz and RafDog. Next up: TBA - Spaceroom, Tbilisi on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ irrationalizard is a bass and dubstep artist tracked on soundcheck, with 6 sets 
 
 Goka, The Machete Boyz, RafDog
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irrationalizard/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irrationalizard/)*

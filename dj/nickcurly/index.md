@@ -1,24 +1,25 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Nick Curly is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Nick Curly is a house and tech house artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Auckland and Bali and 39 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
+Nick Curly is a house and tech house artist based in Germany, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 31 Oct 2026 | Studio 338 | London |
+| Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
 | Sat, 12 Dec 2026 | The Ivy | Sydney |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 29 Sept 2026
 - Studio Club Malaga, Malaga — Sat, 26 Sept 2026
 - Night Tales, London — Fri, 11 Sept 2026
 - Audio Club, Geneva — Sat, 5 Sept 2026
@@ -26,10 +27,9 @@ Nick Curly is a house and tech house artist based in Germany, tracked on soundch
 - Gewölbe, Cologne — Sat, 15 Aug 2026
 - Playa Soleil & Bora Bora, Ibiza — Fri, 14 Aug 2026
 - Superior Ingredients, New York City — Sun, 2 Aug 2026
-- Flash, Washington DC — Sat, 1 Aug 2026
 
 ## Shares bills with
 
-Easttown, Reboot, Andrew Azara
+Easttown, Reboot, Sam Divine
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

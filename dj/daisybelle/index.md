@@ -1,8 +1,8 @@
 # Daisybelle
 
-Daisybelle is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Daisybelle is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Daisybelle is a house and disco artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Carly Foxx, MiNNA and STEWPOT. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Daisybelle is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Carly Foxx, MiNNA and Eats Everything. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Daisybelle is a house and disco artist based in United Kingdom, tracked on sound
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
 | Sat, 21 Nov 2026 | Sacré | Paris |
+| Sat, 5 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -29,6 +30,6 @@ Daisybelle is a house and disco artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Carly Foxx, MiNNA, STEWPOT
+Carly Foxx, MiNNA, Eats Everything
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*

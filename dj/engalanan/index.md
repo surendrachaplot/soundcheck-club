@@ -1,6 +1,6 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
+ENGALANAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
 
 ENGALANAN is a techno and house artist based in Spain, tracked on soundcheck, with 70 sets logged across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Twang. Next up: Nitsa Club, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ENGALANAN is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 softchaos, M8NSE, Twang
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*

@@ -1,6 +1,6 @@
 # GRETA (2)
 
-GRETA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
+GRETA (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
 
 GRETA is a house and techno artist based in Italy, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Brussels and London and 3 more. Often billed alongside ki:ke, Ramî and Julian Feierabend. Next up: Starlane Pizza Bar, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ GRETA is a house and techno artist based in Italy, tracked on soundcheck, with 6
 
 ki:ke, Ramî, Julian Feierabend
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*

@@ -1,6 +1,6 @@
 # LAEXI
 
-LAEXI is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Berlin on Fri, 16 Oct 2026.
+LAEXI is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Berlin on Fri, 16 Oct 2026.
 
 LAEXI is a techno and progressive house artist based in France, tracked on soundcheck, with 4 sets logged across Berlin and Prague. Often billed alongside Agata (PL), Alek Sis and CLEO. Next up: TBA, Berlin on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ LAEXI is a techno and progressive house artist based in France, tracked on sound
 
 Agata (PL), Alek Sis, CLEO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laexi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laexi/)*

@@ -1,6 +1,6 @@
 # Chinelo
 
-Chinelo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sound Machine, Toronto on Fri, 9 Oct 2026.
+Chinelo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sound Machine, Toronto on Fri, 9 Oct 2026.
 
 Chinelo is a club and techno artist based in Canada, tracked on soundcheck, with 72 sets logged across New York City, Toronto and Vancouver. Often billed alongside HVN, Ard1n and Litney. Next up: Sound Machine, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Chinelo is a club and techno artist based in Canada, tracked on soundcheck, with
 
 HVN (1), Ard1n, Litney
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*

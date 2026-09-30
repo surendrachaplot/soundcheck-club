@@ -1,6 +1,6 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
+YELLOWUHURU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
 
 YELLOWUHURU is a house and techno artist based in Japan, tracked on soundcheck, with 200 sets logged across Bangkok, Berlin, Hong Kong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: RASA, Singapore on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ YELLOWUHURU is a house and techno artist based in Japan, tracked on soundcheck, 
 
 suimin, YAMARCHY, bungo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*

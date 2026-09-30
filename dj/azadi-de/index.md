@@ -1,6 +1,6 @@
 # AZADÎ
 
-AZADÎ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+AZADÎ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 AZADÎ is a techno and house artist based in Denmark, tracked on soundcheck, with 20 sets logged across Berlin and Copenhagen. Often billed alongside Midele, Evvolita and Johannes Astrup. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ AZADÎ is a techno and house artist based in Denmark, tracked on soundcheck, wit
 
 Midele, Evvolita, Johannes Astrup
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi-de/)*

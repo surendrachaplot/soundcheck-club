@@ -1,6 +1,6 @@
 # Nila
 
-Nila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
+Nila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
 
 Nila is a house and techno artist based in New Zealand, tracked on soundcheck, with 15 sets logged across Auckland, Barcelona, Madrid and Paris. Often billed alongside PethbUri, Yosef (ES) and DJ2D2. Next up: Razzmatazz, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nila is a house and techno artist based in New Zealand, tracked on soundcheck, w
 
 PethbUri, Yosef (ES), DJ2D2
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*

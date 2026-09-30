@@ -1,6 +1,6 @@
 # Etane
 
-Etane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at fi, Cologne on Sat, 31 Oct 2026.
+Etane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at fi, Cologne on Sat, 31 Oct 2026.
 
 Etane is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Cologne and Düsseldorf. Often billed alongside Voltmar, BORGBORG and Frankie Flowerz. Next up: fi, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Etane is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 
 Voltmar, BORGBORG, Frankie Flowerz
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etane/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etane/)*

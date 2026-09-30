@@ -1,14 +1,16 @@
 # Dave Seaman
 
-Dave Seaman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Dave Seaman is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Dave Seaman is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Bali and 28 more. Often billed alongside Anthony Pappa, Steve Parry and Danny Howells. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
+Dave Seaman is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Auckland and Bali and 29 more. Often billed alongside Anthony Pappa, Steve Parry and Danny Howells. Next up: Pikes Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Pikes Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
+| Sun, 25 Oct 2026 | Guaba Beach Bar | Cyprus |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Dave Seaman is a progressive house and house artist based in United Kingdom, tra
 
 Anthony Pappa, Steve Parry, Danny Howells
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveseaman/)*

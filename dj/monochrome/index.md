@@ -1,6 +1,6 @@
 # Monochrome
 
-Monochrome is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at WOMB, Tokyo on Wed, 7 Oct 2026.
+Monochrome is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at WOMB, Tokyo on Wed, 7 Oct 2026.
 
 Monochrome is a techno artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside JURI HOSHINO, AY and Argy. Next up: WOMB, Tokyo on Wed 7 Oct.
 
@@ -20,4 +20,4 @@ Monochrome is a techno artist tracked on soundcheck, with 4 sets logged across T
 
 JURI HOSHINO, AY (10), Argy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome/)*

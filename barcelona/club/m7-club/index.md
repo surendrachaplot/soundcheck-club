@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HARD BOUNCE [Güti & Marc Fx]" on Thu, 1 Oct 2026.
+M7 Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "HARD BOUNCE [Güti & Marc Fx]" on Thu, 1 Oct 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and DAISY and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -21,4 +21,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, wit
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 32 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Night Tales: JACK MARLOW, SHUFFA & Sophia Violet " on Fri, 2 Oct 2026.
+Night Tales is a music venue in London with 35 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Night Tales: JACK MARLOW, SHUFFA & Sophia Violet " on Fri, 2 Oct 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 1-800 GIRLS, Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including 1-800 GIRLS, Paula Tape, Alex Neri and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 32 upcoming gigs, w
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

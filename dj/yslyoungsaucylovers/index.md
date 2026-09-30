@@ -1,13 +1,14 @@
 # YSL (Young Saucy Lovers)
 
-YSL (Young Saucy Lovers) is a Minimal and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Fri, 11 Dec 2026.
+YSL (Young Saucy Lovers) is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Strange Brew, Bristol on Fri, 6 Nov 2026.
 
-YSL (Young Saucy Lovers) is a minimal and ghetto tech artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, Bristol, London and Newcastle. Often billed alongside ABSOLUTE., ACP. and Addison Groove. Next up: The Glove That Fits, London on Fri 11 Dec.
+YSL (Young Saucy Lovers) is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam, Bristol, London and Newcastle. Often billed alongside ABSOLUTE., ACP. and Addison Groove. Next up: Strange Brew, Bristol on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Strange Brew | Bristol |
 | Fri, 11 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -24,4 +25,4 @@ YSL (Young Saucy Lovers) is a minimal and ghetto tech artist based in United Kin
 
 ABSOLUTE., ACP., Addison Groove
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*

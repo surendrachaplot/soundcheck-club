@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Guy Gerber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
 Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, 
 
 Noncitizens, Saraga, Annicka
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

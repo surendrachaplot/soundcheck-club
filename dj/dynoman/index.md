@@ -1,6 +1,6 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Dynoman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
 Dynoman is a techno and club artist tracked on soundcheck, with 60 sets logged across New York City and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Mood Ring, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dynoman is a techno and club artist tracked on soundcheck, with 60 sets logged a
 
 Zara Dekho, Arianna Danae, JIALING
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*

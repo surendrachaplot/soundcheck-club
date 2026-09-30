@@ -1,6 +1,6 @@
 # Evil Nine
 
-Evil Nine is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Evil Nine is a House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Evil Nine is a house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton, Budapest, London and Prague and 1 more. Often billed alongside Stanton Warriors, A.N.I. and C-System. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Evil Nine is a house and breakbeat artist based in United Kingdom, tracked on so
 
 Stanton Warriors, A.N.I., C-System
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evilnine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evilnine/)*

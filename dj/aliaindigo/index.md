@@ -1,6 +1,6 @@
 # alia indigo
 
-alia indigo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at control, Bucharest on Fri, 9 Oct 2026.
+alia indigo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at control, Bucharest on Fri, 9 Oct 2026.
 
 alia indigo is a techno and electro artist tracked on soundcheck, with 9 sets logged across Bucharest and London. Often billed alongside sEmoa, Nikizi and Pas2problemes. Next up: control, Bucharest on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ alia indigo is a techno and electro artist tracked on soundcheck, with 9 sets lo
 
 sEmoa, Nikizi, Pas2problemes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliaindigo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliaindigo/)*

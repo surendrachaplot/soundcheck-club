@@ -1,6 +1,6 @@
 # James Glover
 
-James Glover is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+James Glover is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 James Glover is a disco and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Ibiza and Manchester. Often billed alongside Colleen 'Cosmo' Murphy, Fleetmac Wood and Kirollus. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ James Glover is a disco and house artist based in United Kingdom, tracked on sou
 
 Colleen 'Cosmo' Murphy, Fleetmac Wood, Kirollus
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesglover/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesglover/)*

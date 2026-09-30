@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at World Headquarters, Newcastle on Fri, 2 Oct 2026.
+DXNBY is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at World Headquarters, Newcastle on Fri, 2 Oct 2026.
 
 DXNBY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: World Headquarters, Newcastle on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ DXNBY is a house and tech house artist based in United Kingdom, tracked on sound
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

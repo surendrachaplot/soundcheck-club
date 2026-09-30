@@ -1,6 +1,6 @@
 # Umut
 
-Umut is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Melbourne on Fri, 30 Oct 2026.
+Umut is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Melbourne on Fri, 30 Oct 2026.
 
 Umut is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Istanbul, Melbourne and Warsaw. Often billed alongside Adriana, Alignment and Babycino. Next up: TBA, Melbourne on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Umut is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Adriana (1), Alignment, Babycino
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umut/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umut/)*

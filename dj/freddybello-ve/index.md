@@ -1,6 +1,6 @@
 # Freddy Bello
 
-Freddy Bello is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at NIX Barcelon, Barcelona on Fri, 16 Oct 2026.
+Freddy Bello is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at NIX Barcelon, Barcelona on Fri, 16 Oct 2026.
 
 Freddy Bello is a tech house and house artist tracked on soundcheck, with 36 sets logged across Barcelona, Boston, Ibiza and Madrid and 1 more. Often billed alongside HANIE, Rubenus and Rafa Aleman. Next up: NIX Barcelon, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Freddy Bello is a tech house and house artist tracked on soundcheck, with 36 set
 
 HANIE, Rubenus, Rafa Aleman
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddybello-ve/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddybello-ve/)*

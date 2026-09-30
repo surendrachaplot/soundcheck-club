@@ -1,6 +1,6 @@
 # David Moreira (2)
 
-David Moreira (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
+David Moreira (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
 
 David Moreira is a house and techno artist tracked on soundcheck, with 36 sets logged across Lisbon and Porto. Often billed alongside Diana Oliveira, Tiago Carvalho and Rui Vargas. Next up: Lux Fragil, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ David Moreira is a house and techno artist tracked on soundcheck, with 36 sets l
 
 Diana Oliveira, Tiago Carvalho, Rui Vargas
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmoreira-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmoreira-2/)*

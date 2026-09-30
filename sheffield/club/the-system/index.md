@@ -1,8 +1,8 @@
 # The System
 
-The System is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "GRASSROOTS 018 - Steel Rocker Solo Session" on Fri, 2 Oct 2026.
+The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "GRASSROOTS 018 - Steel Rocker Solo Session" on Fri, 2 Oct 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Ashley Holmes, Berwick, Esmé and Joi L.F and 2 more. Browse upcoming dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs, with line-ups including Ashley Holmes, Berwick, DAISY and Esmé and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs,
 | Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F, Ol.G |
 | Fri, 20 Nov 2026 | Attention to Detail 002 | JustElliot |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

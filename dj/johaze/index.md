@@ -1,6 +1,6 @@
 # Johaze
 
-Johaze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+Johaze is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
 Johaze is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Ghent and London and 2 more. Often billed alongside NOVAH, .Cheka and ALT8. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Johaze is a techno and industrial artist tracked on soundcheck, with 10 sets log
 
 NOVAH, .Cheka, ALT8
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johaze/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johaze/)*

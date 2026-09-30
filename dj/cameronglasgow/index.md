@@ -1,6 +1,6 @@
 # Cameron Glasgow
 
-Cameron Glasgow is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Octave Rooftop Lounge & Bar, Bangkok on Sat, 31 Oct 2026.
+Cameron Glasgow is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Octave Rooftop Lounge & Bar, Bangkok on Sat, 31 Oct 2026.
 
 Cameron Glasgow is a techno and afro house artist tracked on soundcheck, with 11 sets logged across Bangkok, Dublin, Edinburgh and Ibiza and 2 more. Often billed alongside BYAS, JNJS and Acid James. Next up: Octave Rooftop Lounge & Bar, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cameron Glasgow is a techno and afro house artist tracked on soundcheck, with 11
 
 BYAS, JNJS, Acid James
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronglasgow/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronglasgow/)*

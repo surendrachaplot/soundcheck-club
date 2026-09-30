@@ -1,8 +1,8 @@
 # Larry Cadge
 
-Larry Cadge is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Colour Factory, London on Sat, 17 Oct 2026.
+Larry Cadge is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Colour Factory, London on Sat, 17 Oct 2026.
 
-Larry Cadge is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Willow. Next up: Colour Factory, London on Sat 17 Oct.
+Larry Cadge is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Grittrip. Next up: Colour Factory, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,11 @@ Larry Cadge is a house and minimal artist based in United Kingdom, tracked on so
 | Sun, 8 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 19 Dec 2026 | Colour Factory | London |
+| Sat, 16 Jan 2027 | Colour Factory | London |
+| Sat, 13 Feb 2027 | Colour Factory | London |
+| Sat, 13 Mar 2027 | Colour Factory | London |
+| Sat, 17 Apr 2027 | Colour Factory | London |
+| Sat, 15 May 2027 | Colour Factory | London |
 
 ## Recently played
 
@@ -26,6 +31,6 @@ Larry Cadge is a house and minimal artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Andrea Giudice, Irren, Willow
+Andrea Giudice, Irren, Grittrip
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*

@@ -1,6 +1,6 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Kevin Saunderson is a techno and house artist based in United States of America, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -35,4 +35,4 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 
 The Saunderson Brothers, Carl Craig, DJ Holographic
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

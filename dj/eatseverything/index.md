@@ -1,8 +1,8 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Eats Everything is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Eats Everything is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside EATS, Sam Divine and Melé. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Eats Everything is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 179 sets logged across Amsterdam, Bali, Barcelona and Belfast and 33 more. Often billed alongside EATS, Sam Divine and Melé. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Eats Everything is a house and tech house artist based in United Kingdom, tracke
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Sat, 5 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, tracke
 
 EATS, Sam Divine, Melé
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

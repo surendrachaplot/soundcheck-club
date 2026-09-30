@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+Philippa Pacho is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
 Philippa Pacho is a techno and house artist based in Sweden, tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 59 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Fuse, Brussels on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Philippa Pacho is a techno and house artist based in Sweden, tracked on soundche
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

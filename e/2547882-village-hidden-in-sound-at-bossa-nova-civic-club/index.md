@@ -1,6 +1,6 @@
 # Village Hidden in Sound at Bossa Nova Civic Club
 
-Village Hidden in Sound at Bossa Nova Civic Club on Tue 10 Nov, New York City. 6 artists on the bill: ABEILLE, Amado, ceviché and idvs and 2 more. Preview the line-up and save it on soundcheck.
+Village Hidden in Sound at Bossa Nova Civic Club on Tue 10 Nov, New York City. 6 artists on the bill: ABEILLE, Amado, ceviché and idvs and 2 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

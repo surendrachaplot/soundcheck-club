@@ -1,6 +1,6 @@
 # AETHER
 
-AETHER is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Bulldog Palace, Amsterdam on Sun, 25 Oct 2026.
+AETHER is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Bulldog Palace, Amsterdam on Sun, 25 Oct 2026.
 
 AETHER is an electro and acid artist tracked on soundcheck, with 6 sets logged across Amsterdam, Ghent and New York City. Often billed alongside ALGORYX, Anatolian Weapons and DJ ATHOME. Next up: The Bulldog Palace, Amsterdam on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ AETHER is an electro and acid artist tracked on soundcheck, with 6 sets logged a
 
 ALGORYX, Anatolian Weapons, DJ ATHOME
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aether-us/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aether-us/)*

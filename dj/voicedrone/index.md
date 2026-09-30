@@ -1,15 +1,17 @@
 # Voicedrone
 
-Voicedrone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Voicedrone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
-Voicedrone is a techno and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: FOLD, London on Sat 3 Oct.
+Voicedrone is a techno and house artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: FOLD, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | FOLD | London |
+| Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Fri, 27 Nov 2026 | 宀 Club | Hong Kong |
+| Sat, 12 Dec 2026 | Palais | London |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Voicedrone is a techno and house artist based in United Kingdom, tracked on soun
 
 James Newmarch, Anabel Arroyo, Alba Heidari
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*

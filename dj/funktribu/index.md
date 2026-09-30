@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Factory Town, Miami on Sat, 10 Oct 2026.
+Funk Tribu is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Factory Town, Miami on Sat, 10 Oct 2026.
 
 Funk Tribu is a techno and trance artist based in Colombia, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Factory Town, Miami on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ Funk Tribu is a techno and trance artist based in Colombia, tracked on soundchec
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

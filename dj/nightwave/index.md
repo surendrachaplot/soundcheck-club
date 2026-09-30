@@ -1,6 +1,6 @@
 # Nightwave
 
-Nightwave is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
+Nightwave is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
 
 Nightwave is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Birmingham, Edinburgh, Glasgow and London and 2 more. Often billed alongside Posthuman, Slam and Luke Vibert. Next up: The Golden Lion, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nightwave is a techno and acid artist based in United Kingdom, tracked on soundc
 
 Posthuman, Slam, Luke Vibert
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*

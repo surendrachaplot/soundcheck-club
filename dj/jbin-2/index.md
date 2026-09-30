@@ -1,6 +1,6 @@
 # J.bin (2)
 
-J.bin (2) is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Volnost, Seoul on Thu, 8 Oct 2026.
+J.bin (2) is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Volnost, Seoul on Thu, 8 Oct 2026.
 
 J.bin is a minimal and techno artist based in South Korea, tracked on soundcheck, with 30 sets logged across Seoul. Often billed alongside Aidin (KR), Beat Tekniks and PAIK. Next up: Volnost, Seoul on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ J.bin is a minimal and techno artist based in South Korea, tracked on soundcheck
 
 Aidin (KR), Beat Tekniks, PAIK
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbin-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbin-2/)*

@@ -1,6 +1,6 @@
 # Ricky Tenaglia
 
-Ricky Tenaglia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Focà London, London on Sat, 3 Oct 2026.
+Ricky Tenaglia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Focà London, London on Sat, 3 Oct 2026.
 
 Ricky Tenaglia is a house and disco artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Colaps, Gefra and Parallel G. Next up: TBA - Focà London, London on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Ricky Tenaglia is a house and disco artist tracked on soundcheck, with 5 sets lo
 
 Colaps, Gefra, Parallel G
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickytenaglia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickytenaglia/)*

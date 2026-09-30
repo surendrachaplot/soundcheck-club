@@ -1,6 +1,6 @@
 # Early Morning
 
-Early Morning is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 88block, Tokyo on Wed, 30 Sept 2026.
+Early Morning is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at 88block, Tokyo on Wed, 30 Sept 2026.
 
 Early Morning is a bass and dub artist based in Italy, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside CRAZY-T. Next up: 88block, Tokyo on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ Early Morning is a bass and dub artist based in Italy, tracked on soundcheck, wi
 
 CRAZY-T
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earlymorning/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earlymorning/)*

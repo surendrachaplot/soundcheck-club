@@ -1,6 +1,6 @@
 # Onda Listening Bar
 
-Onda Listening Bar is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "AW LAB & PUMA Frequency Soft Club" on Sat, 3 Oct 2026.
+Onda Listening Bar is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "AW LAB & PUMA Frequency Soft Club" on Sat, 3 Oct 2026.
 
 Onda Listening Bar is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Krystal Kostee and Luwei. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Onda Listening Bar is a music venue in Milan listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | AW LAB & PUMA Frequency Soft Club | Krystal Kostee, Luwei |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/onda-listening-bar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/onda-listening-bar/)*

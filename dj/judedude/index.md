@@ -1,6 +1,6 @@
 # Jude Dude
 
-Jude Dude is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
+Jude Dude is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
 
 Jude Dude is a downtempo and house artist tracked on soundcheck, with 23 sets logged across Belfast, Leeds and London. Often billed alongside CCP, Cooke and ByPhil. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jude Dude is a downtempo and house artist tracked on soundcheck, with 23 sets lo
 
 CCP, Cooke, ByPhil
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judedude/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judedude/)*

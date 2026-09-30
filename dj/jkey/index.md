@@ -1,6 +1,6 @@
 # J Key
 
-J Key is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bridge 48, Barcelona on Thu, 8 Oct 2026.
+J Key is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bridge 48, Barcelona on Thu, 8 Oct 2026.
 
 J Key is a house and disco artist based in United States of America, tracked on soundcheck, with 14 sets logged across Barcelona, Miami and San Francisco/Oakland. Often billed alongside LEDET, Soulfunky and Brunch Life. Next up: Bridge 48, Barcelona on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ J Key is a house and disco artist based in United States of America, tracked on 
 
 LEDET, Soulfunky, Brunch Life
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkey/)*

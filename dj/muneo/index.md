@@ -1,6 +1,6 @@
 # MUNÉO
 
-MUNÉO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 3 Oct 2026.
+MUNÉO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 3 Oct 2026.
 
 MUNÉO is a techno and electronica artist tracked on soundcheck, with 143 sets logged across Bangkok, Melbourne, Osaka and Seattle and 2 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MUNÉO is a techno and electronica artist tracked on soundcheck, with 143 sets l
 
 RUKE, INAE, MELEETIME
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*

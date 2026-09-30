@@ -1,6 +1,6 @@
 # 7e
 
-7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bonobo, Tokyo on Thu, 1 Oct 2026.
+7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bonobo, Tokyo on Thu, 1 Oct 2026.
 
 7e is a techno and house artist based in Japan, tracked on soundcheck, with 174 sets logged across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Bonobo, Tokyo on Thu 1 Oct.
 
@@ -26,4 +26,4 @@
 
 Mari Sakurai, suimin, TEI TEI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*

@@ -1,8 +1,8 @@
 # Alyhas
 
-Alyhas is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 42 Marches, Paris on Sun, 4 Oct 2026.
+Alyhas is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at 42 Marches, Paris on Sun, 4 Oct 2026.
 
-Alyhas is a house and electro artist based in France, tracked on soundcheck, with 67 sets logged across Brussels, Marseille, Milan and Paris and 2 more. Often billed alongside Blanco, Taieb Chékir and IAMBP. Next up: 42 Marches, Paris on Sun 4 Oct.
+Alyhas is a house and electro artist based in France, tracked on soundcheck, with 68 sets logged across Brussels, Marseille, Milan and Paris and 2 more. Often billed alongside Blanco, Taieb Chékir and IAMBP. Next up: 42 Marches, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alyhas is a house and electro artist based in France, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | 42 Marches | Paris |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Sat, 31 Oct 2026 | TBA - 75013 | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Alyhas is a house and electro artist based in France, tracked on soundcheck, wit
 
 Blanco, Taieb Chékir, IAMBP
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*

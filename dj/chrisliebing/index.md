@@ -1,8 +1,8 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 1 Oct 2026.
+Chris Liebing is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 1 Oct 2026.
 
-Chris Liebing is a techno and house artist based in Germany, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Les Enfants Brillants, Barcelona on Thu 1 Oct.
+Chris Liebing is a techno and house artist based in Germany, tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Les Enfants Brillants, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Chris Liebing is a techno and house artist based in Germany, tracked on soundche
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | What Is Happening Here Gallery | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 31 Oct 2026 | Cali Colombia | Cali |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | TBA - DTLA | Los Angeles |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
-| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Chris Liebing is a techno and house artist based in Germany, tracked on soundche
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

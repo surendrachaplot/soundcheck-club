@@ -1,6 +1,6 @@
 # Feroui
 
-Feroui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Unité.22, Marseille on Fri, 23 Oct 2026.
+Feroui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Unité.22, Marseille on Fri, 23 Oct 2026.
 
 Feroui is a techno and house artist tracked on soundcheck, with 14 sets logged across Marseille and Paris. Often billed alongside Hunkut, 42L and Bonnie Spacey. Next up: Unité.22, Marseille on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Feroui is a techno and house artist tracked on soundcheck, with 14 sets logged a
 
 Hunkut, 42L (1), Bonnie Spacey
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feroui/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feroui/)*

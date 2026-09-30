@@ -1,14 +1,13 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Malesa Release Party" on Tue, 29 Sept 2026.
+Point Ephémère is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Paris Electronic Week (FLINTA EDITION) - Pass mercredi" on Wed, 30 Sept 2026.
 
-Point Ephémère is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Butch2Bitch, Carré, Cleo (AU) and Dangermami and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
+Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Butch2Bitch, Carré, Cleo (AU) and Dangermami and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Malesa Release Party |  |
 | Wed, 30 Sept 2026 | Paris Electronic Week (FLINTA EDITION) - Pass mercredi |  |
 | Wed, 30 Sept 2026 | Paris Electronic Week (FLINTA EDITION) - Pass mercredi | Carré, Dangermami, MZA (FR), rRoxymore |
 | Wed, 30 Sept 2026 | Paris Electronic Week x Femme Bass Mafia | Carré, Dangermami, Mama Lior, Ponyo |
@@ -20,4 +19,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 7 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

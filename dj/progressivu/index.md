@@ -1,6 +1,6 @@
 # Progressivu
 
-Progressivu is a Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Thu, 29 Oct 2026.
+Progressivu is a Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Thu, 29 Oct 2026.
 
 Progressivu is an afrobeat artist tracked on soundcheck, with 16 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Blaya, Von Di and Arthi. Next up: Lux Fragil, Lisbon on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Progressivu is an afrobeat artist tracked on soundcheck, with 16 sets logged acr
 
 Blaya, Von Di, Arthi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/progressivu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/progressivu/)*

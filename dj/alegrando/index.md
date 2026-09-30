@@ -1,6 +1,6 @@
 # Alegrando
 
-Alegrando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
+Alegrando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
 
 Alegrando is a techno and house artist based in Denmark, tracked on soundcheck, with 23 sets logged across Berlin and Copenhagen. Often billed alongside DJ John Key, Britney Speed and Liad Krispin. Next up: Den Anden Side, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Alegrando is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 DJ John Key, Britney Speed, Liad Krispin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrando/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrando/)*

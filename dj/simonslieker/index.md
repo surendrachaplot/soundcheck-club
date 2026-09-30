@@ -1,6 +1,6 @@
 # Simon Slieker
 
-Simon Slieker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at My Aeon, Melbourne on Sat, 31 Oct 2026.
+Simon Slieker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
 Simon Slieker is a techno and house artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Ranjit Nijjer, cuznmatt and Andrew Till. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Simon Slieker is a techno and house artist based in Australia, tracked on soundc
 
 Ranjit Nijjer, cuznmatt, Andrew Till
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonslieker/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonslieker/)*

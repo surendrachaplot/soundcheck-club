@@ -1,6 +1,6 @@
 # Jaw Jones
 
-Jaw Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bambi's, Toronto on Fri, 16 Oct 2026.
+Jaw Jones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bambi's, Toronto on Fri, 16 Oct 2026.
 
 Jaw Jones is a techno and house artist based in Canada, tracked on soundcheck, with 48 sets logged across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: Bambi's, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jaw Jones is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Marnigurl, Zellers, Kajaka
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjones/)*

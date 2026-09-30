@@ -1,8 +1,8 @@
 # SIMMS
 
-SIMMS is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hidden, Manchester on Thu, 29 Oct 2026.
+SIMMS is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Hidden, Manchester on Thu, 29 Oct 2026.
 
-SIMMS is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: Hidden, Manchester on Thu 29 Oct.
+SIMMS is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: Hidden, Manchester on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SIMMS is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Hidden | Manchester |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ SIMMS is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 
 CITIZEN, BOLOJOEY, Blue Ringed Baby
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simms/)*

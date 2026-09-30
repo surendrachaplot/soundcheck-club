@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "The Hood Needs House: Dantiez Saunderson b2b Pinto, Kweku Saunderson, TMPR, DJ RaQuel & More" on Fri, 2 Oct 2026.
+Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "The Hood Needs House: Dantiez Saunderson b2b Pinto, Kweku Saunderson, TMPR, DJ RaQuel & More" on Fri, 2 Oct 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including MORENXXX, Amarji King, Ashley Venom and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

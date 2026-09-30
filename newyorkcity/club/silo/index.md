@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Open Decks with ceviché & LIFE AFTER TRANCE" on Tue, 29 Sept 2026.
+SILO is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Open Decks with ceviché, Tunnel Studios, and Party Right Here" on Wed, 30 Sept 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including Amiti, Anthony Romano, Bag Raiders and Bella Hex and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -8,7 +8,6 @@ SILO is a music venue in New York City listed on soundcheck. 31 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Open Decks with ceviché & LIFE AFTER TRANCE | ceviché |
 | Wed, 30 Sept 2026 | Open Decks with ceviché, Tunnel Studios, and Party Right Here | ceviché |
 | Tue, 6 Oct 2026 | Open Decks with STEEN & Solarsonic Soundsystem | STEEN |
 | Wed, 7 Oct 2026 | Open Decks with STEEN - 3 YEAR ANNIVERSARY [Full Venue Edition] | STEEN |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 31 upcoming gigs, w
 | Wed, 14 Oct 2026 | Open Decks with STEEN and Monkey Wrench Techno | STEEN |
 | Thu, 15 Oct 2026 | TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP) | C4, cassandrah |
 | Fri, 16 Oct 2026 | Morgan Seatree | Morgan Seatree |
+| Sat, 17 Oct 2026 | Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti | Amiti, David Lindmer, EZE RAMIREZ, Oscar L |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

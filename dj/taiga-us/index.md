@@ -1,14 +1,14 @@
 # Taiga
 
-Taiga is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at feedbk, New York City on Thu, 1 Oct 2026.
+Taiga is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at feedbk, New York City on Fri, 2 Oct 2026.
 
-Taiga is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Auckland, Manchester, New York City and Paris and 3 more. Often billed alongside Hugo (US), Lucho and Mazko A. Next up: feedbk, New York City on Thu 1 Oct.
+Taiga is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Auckland, Manchester, New York City and Paris and 3 more. Often billed alongside Hugo (US), Lucho and Mazko A. Next up: feedbk, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | feedbk | New York City |
+| Fri, 2 Oct 2026 | feedbk | New York City |
 | Sat, 3 Oct 2026 | feedbk | New York City |
 | Sun, 25 Oct 2026 | feedbk | New York City |
 
@@ -27,4 +27,4 @@ Taiga is a house and techno artist based in United States of America, tracked on
 
 Hugo (US), Lucho (1), Mazko A
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*

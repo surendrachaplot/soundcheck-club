@@ -1,6 +1,6 @@
 # cuznmatt
 
-cuznmatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at My Aeon, Melbourne on Sat, 31 Oct 2026.
+cuznmatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
 cuznmatt is a house and techno artist based in Australia, tracked on soundcheck, with 15 sets logged across Melbourne. Often billed alongside Simon Slieker, Tahl and Jasmine Speers. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ cuznmatt is a house and techno artist based in Australia, tracked on soundcheck,
 
 Simon Slieker, Tahl, Jasmine Speers
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuznmatt/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuznmatt/)*

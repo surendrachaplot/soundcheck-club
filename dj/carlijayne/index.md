@@ -1,6 +1,6 @@
 # Carli Jayne
 
-Carli Jayne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Distrikt, Leeds on Fri, 9 Oct 2026.
+Carli Jayne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Distrikt, Leeds on Fri, 9 Oct 2026.
 
 Carli Jayne is a house and techno artist tracked on soundcheck, with 14 sets logged across Barcelona, Leeds, Manchester and Sheffield. Often billed alongside Nick Spencer, Ben Hemsley and Finn Eden. Next up: Distrikt, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Carli Jayne is a house and techno artist tracked on soundcheck, with 14 sets log
 
 Nick Spencer, Ben Hemsley, Finn Eden
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlijayne/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlijayne/)*

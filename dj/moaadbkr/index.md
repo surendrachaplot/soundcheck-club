@@ -1,6 +1,6 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Montreal on Sat, 3 Oct 2026.
+Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Montreal on Sat, 3 Oct 2026.
 
 Moaad BKR is a house and techno artist based in Canada, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside Metizo, CPR Annie and Daura. Next up: TBA, Montreal on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Moaad BKR is a house and techno artist based in Canada, tracked on soundcheck, w
 
 Metizo, CPR Annie, Daura
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moaadbkr/)*

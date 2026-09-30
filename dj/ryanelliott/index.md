@@ -1,13 +1,14 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Ryan Elliott is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Wibar, Netherlands on Fri, 2 Oct 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, tracked on soundcheck, with 252 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 58 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Ryan Elliott is a house and techno artist based in United States of America, tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Wibar, Netherlands on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Wibar | Netherlands |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | TBA - Santa Maria della Pietà | Rome |
 | Sat, 3 Oct 2026 | Forte Antenne | Rome |
@@ -19,7 +20,6 @@ Ryan Elliott is a house and techno artist based in United States of America, tra
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
-| Sat, 31 Oct 2026 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist based in United States of America, tra
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

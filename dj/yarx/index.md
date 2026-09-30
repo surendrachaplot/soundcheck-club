@@ -1,14 +1,15 @@
 # yarx
 
-yarx is a Jungle and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
+yarx is a Jungle and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Flex, Vienna on Sat, 3 Oct 2026.
 
-yarx is a jungle and pop artist based in Turkey, tracked on soundcheck, with 18 sets logged across Hamburg and Vienna. Often billed alongside neon.kotze, Antonia XM and Peter Puenktlich. Next up: Flex, Vienna on Sat 3 Oct.
+yarx is a jungle and pop artist based in Turkey, tracked on soundcheck, with 19 sets logged across Austria, Hamburg and Vienna. Often billed alongside neon.kotze, Antonia XM and Peter Puenktlich. Next up: Flex, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Flex | Vienna |
+| Thu, 15 Oct 2026 | TBA - Various Locations in Innsbruck | Austria |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ yarx is a jungle and pop artist based in Turkey, tracked on soundcheck, with 18 
 
 neon.kotze, Antonia XM, Peter Puenktlich (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*

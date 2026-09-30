@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+OK EG is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 OK EG is a techno and electronica artist based in Australia, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ OK EG is a techno and electronica artist based in Australia, tracked on soundche
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

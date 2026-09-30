@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BAR Inc, Osaka on Sun, 4 Oct 2026.
+Deejay Energy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at BAR Inc, Osaka on Sun, 4 Oct 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Berlin and Boston and 5 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: BAR Inc, Osaka on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Deejay Energy is a techno and house artist based in Mexico, tracked on soundchec
 
 Enya Botello, Bluecommand, Phanta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

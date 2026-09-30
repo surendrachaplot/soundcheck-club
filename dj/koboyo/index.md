@@ -1,6 +1,6 @@
 # Koboyo
 
-Koboyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Koboyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
 
 Koboyo is a techno and trance artist based in France, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 22 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Koboyo is a techno and trance artist based in France, tracked on soundcheck, wit
 
 Amelie Lens, Ahl Iver, KUSS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*

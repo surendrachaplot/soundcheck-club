@@ -1,6 +1,6 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
+Frankie Elyse is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
 
 Frankie Elyse is a house and electro artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Frankie Elyse is a house and electro artist based in United Kingdom, tracked on 
 
 Jozette, Corran, Neoma
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieelyse/)*

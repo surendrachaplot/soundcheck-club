@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Złom with Space Candy, Void Response, jb glazer, Ailish, osmo" on Fri, 16 Oct 2026.
+Spanners is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Złom with Space Candy, Void Response, jb glazer, Ailish, osmo" on Fri, 16 Oct 2026.
 
 Spanners is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Ailish, Joe Hart, Scott Fraser and Space Candy. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -15,4 +15,4 @@ Spanners is a music venue in London listed on soundcheck. 2 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

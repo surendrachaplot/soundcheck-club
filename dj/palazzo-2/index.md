@@ -1,6 +1,6 @@
 # Palazzo (2)
 
-Palazzo (2) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+Palazzo (2) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
 Palazzo is a house and balearic artist tracked on soundcheck, with 8 sets logged across Lisbon, Melbourne and Sydney. Often billed alongside Elsie, Tina Disco and Zafiro. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Palazzo is a house and balearic artist tracked on soundcheck, with 8 sets logged
 
 Elsie, Tina Disco, Zafiro
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palazzo-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palazzo-2/)*

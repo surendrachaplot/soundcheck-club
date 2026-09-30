@@ -1,14 +1,15 @@
 # Jessica Nightlife
 
-Jessica Nightlife is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 9 Oct 2026.
+Jessica Nightlife is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 9 Oct 2026.
 
-Jessica Nightlife is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside puppy, Aaron Blau and 131bpm. Next up: Bulbul Berlin, Berlin on Fri 9 Oct.
+Jessica Nightlife is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside puppy, Aaron Blau and DJ AYA. Next up: Bulbul Berlin, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bulbul Berlin | Berlin |
+| Sat, 31 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jessica Nightlife is a house and techno artist based in Germany, tracked on soun
 
 ## Shares bills with
 
-puppy, Aaron Blau, 131bpm
+puppy, Aaron Blau, DJ AYA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*

@@ -1,14 +1,14 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "BIUSSDOWN" on Thu, 1 Oct 2026.
+Eastern Bloc Records is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "BUSSDOWN" on Thu, 1 Oct 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Allius, Artilect, Balrog and Connor Southerland and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Allius, Amy Amor, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | BIUSSDOWN |  |
+| Thu, 1 Oct 2026 | BUSSDOWN |  |
 | Fri, 2 Oct 2026 | KRNK Collective |  |
 | Sat, 3 Oct 2026 | Krysko B2B Greg Lord All Night Long | Greg Lord, Krysko |
 | Wed, 7 Oct 2026 | Liv East: Live & Signing |  |
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

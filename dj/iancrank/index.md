@@ -1,6 +1,6 @@
 # Ian Crank
 
-Ian Crank is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Favela, Munster on Sat, 21 Nov 2026.
+Ian Crank is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club Favela, Munster on Sat, 21 Nov 2026.
 
 Ian Crank is a techno and progressive house artist tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 1 more. Often billed alongside Bolster, Fr.Reichert and Just a Name. Next up: Club Favela, Munster on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ian Crank is a techno and progressive house artist tracked on soundcheck, with 1
 
 Bolster, Fr.Reichert, Just a Name
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrank/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrank/)*

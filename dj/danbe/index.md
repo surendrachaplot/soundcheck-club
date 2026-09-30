@@ -1,6 +1,6 @@
 # DanBe
 
-DanBe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at radial, London on Sat, 3 Oct 2026.
+DanBe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at radial, London on Sat, 3 Oct 2026.
 
 DanBe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside 2CUTE2CUE, Ac1d Vicious and Alicia (UK). Next up: radial, London on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ DanBe is a house and techno artist based in United Kingdom, tracked on soundchec
 
 2CUTE2CUE, Ac1d Vicious, Alicia (UK)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe/)*

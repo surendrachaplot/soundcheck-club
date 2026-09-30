@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "CODED Thursdays 10.01.26 w/ LOFTUS, Ben Wagner" on Thu, 1 Oct 2026.
+Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "CODED Thursdays 10.01.26 w/ LOFTUS, Ben Wagner" on Thu, 1 Oct 2026.
 
 Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Wagner, DJ Shiver, Dj Warning and Johnny Dynell and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
@@ -21,4 +21,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

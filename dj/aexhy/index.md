@@ -1,6 +1,6 @@
 # Aexhy
 
-Aexhy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
+Aexhy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
 Aexhy is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside SACID, 1luu and Trancemaster Krause. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Aexhy is a techno and trance artist tracked on soundcheck, with 107 sets logged 
 
 SACID, 1luu, Trancemaster Krause
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*

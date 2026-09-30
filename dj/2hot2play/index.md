@@ -1,8 +1,8 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+2HOT2PLAY is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
-2HOT2PLAY is a techno and trance artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 26 more. Often billed alongside Mika Heggemann, L.zwo and Cara Elizabeth. Next up: Bootshaus, Cologne on Fri 2 Oct.
+2HOT2PLAY is a techno and trance artist based in Germany, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside L.zwo, Mika Heggemann and Cara Elizabeth. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@
 | Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 12 Dec 2026 | WDM | Hannover |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
@@ -31,6 +32,6 @@
 
 ## Shares bills with
 
-Mika Heggemann, L.zwo, Cara Elizabeth
+L.zwo, Mika Heggemann, Cara Elizabeth
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

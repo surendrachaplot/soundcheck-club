@@ -1,13 +1,14 @@
 # Briela Veneno
 
-Briela Veneno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA -  SECRET LOCATION , Boston on Fri, 30 Oct 2026.
+Briela Veneno is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Refuge, New-york-city on Fri, 9 Oct 2026.
 
-Briela Veneno is a techno and trance artist based in Colombia, tracked on soundcheck, with 12 sets logged across Berlin, Boston, Mexico City and Miami and 1 more. Often billed alongside Concrete Husband, KXAH and Sánchez Jr.. Next up: TBA -  SECRET LOCATION , Boston on Fri 30 Oct.
+Briela Veneno is a techno and trance artist based in Colombia, tracked on soundcheck, with 13 sets logged across Berlin, Boston, Mexico City and Miami and 1 more. Often billed alongside Concrete Husband, KXAH and Sánchez Jr.. Next up: Refuge, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Refuge | New-york-city |
 | Fri, 30 Oct 2026 | TBA -  SECRET LOCATION  | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Briela Veneno is a techno and trance artist based in Colombia, tracked on soundc
 
 Concrete Husband, KXAH, Sánchez Jr.
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brielaveneno/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brielaveneno/)*

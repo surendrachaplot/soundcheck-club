@@ -1,6 +1,6 @@
 # MARADOCA
 
-MARADOCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+MARADOCA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 MARADOCA is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Leipzig. Often billed alongside OLEA, knete and mp.ulle. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MARADOCA is a techno and house artist based in Germany, tracked on soundcheck, w
 
 OLEA, knete, mp.ulle
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maradoca/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maradoca/)*

@@ -1,6 +1,6 @@
 # Artful Dodger
 
-Artful Dodger is a Garage and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Artful Dodger is a Garage and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Artful Dodger is a garage and club artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Birmingham, Brighton and Brisbane and 6 more. Often billed alongside DJ Luck & MC Neat, Lisa Maffia and MC Kie. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Artful Dodger is a garage and club artist based in United Kingdom, tracked on so
 
 DJ Luck & MC Neat, Lisa Maffia, MC Kie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artfuldodger/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artfuldodger/)*

@@ -1,6 +1,6 @@
 # Tailor Jae
 
-Tailor Jae is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
+Tailor Jae is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
 
 Tailor Jae is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Bakey, Commodo and Conducta. Next up: fabric, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tailor Jae is a garage and jungle artist based in United Kingdom, tracked on sou
 
 Bakey, Commodo, Conducta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailorjae/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailorjae/)*

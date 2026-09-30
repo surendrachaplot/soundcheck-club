@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+KT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
 KT is a house and techno artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Barcelona, Berlin, Brighton and Bristol and 23 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: The Cause, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ KT is a house and techno artist based in United Kingdom, tracked on soundcheck, 
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

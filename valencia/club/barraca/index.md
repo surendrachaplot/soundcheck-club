@@ -1,20 +1,22 @@
 # Barraca
 
-Barraca is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Palmeres Festival 22ºEdition" on Sat, 3 Oct 2026.
+Barraca is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "presentación YPUNX! - DJSETS + POPUP + RUNWAY" on Fri, 2 Oct 2026.
 
-Barraca is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including Brenda Serna, Cristian Varela, Dj Pepo and Domen and 2 more. Browse upcoming dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
+Barraca is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with line-ups including ANTU, Ari (ES), Brenda Serna and Carlos Pérez and 2 more. Browse upcoming dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | presentación YPUNX! - DJSETS + POPUP + RUNWAY | @n3opapi, ANTU, Ari (ES), FAG HAG, Hanten, Kai Landre, URSU L1NA |
 | Sat, 3 Oct 2026 | Palmeres Festival 22ºEdition | Domen, Lucas Cabello, Planetary Assault Systems, Sou Allen, relajadita |
 | Sat, 24 Oct 2026 | Barraca x Vertigo | Brenda Serna (2), Domen, Lilly Palmer, Lucas Cabello, Rafa Siles, Sou Allen |
 | Sat, 31 Oct 2026 | Barraca x TheBasement (Halloween) | Domen, HearThug, Lucas Cabello, Perc, Sou Allen |
 | Sat, 14 Nov 2026 | Technology | Cristian Varela, Dj Pepo, Domen, Lucas Cabello, Sou Allen |
+| Sat, 23 Jan 2027 | Carlitos y Kasty - Todo el rato | Carlos Pérez, Domen, K-Style, Lucas Cabello, Sou Allen |
 
 ## Address
 
 Avd San Roc s/n, Sueca, 46410 Valencia, Spain, Valencia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*

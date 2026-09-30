@@ -1,6 +1,6 @@
 # AOKI takamasa
 
-AOKI takamasa is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Red Bar, Tokyo on Sat, 3 Oct 2026.
+AOKI takamasa is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Red Bar, Tokyo on Sat, 3 Oct 2026.
 
 AOKI takamasa is a techno and minimal artist based in Japan, tracked on soundcheck, with 114 sets logged across Bali, Berlin, Bucharest and Kyoto and 3 more. Often billed alongside Kohei, Loe (JP) and Endurance. Next up: Red Bar, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ AOKI takamasa is a techno and minimal artist based in Japan, tracked on soundche
 
 Kohei, Loe (JP), Endurance
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*

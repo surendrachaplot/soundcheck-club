@@ -1,6 +1,6 @@
 # Nunonunonuno
 
-Nunonunonuno is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hoxton Cabin, London on Sat, 17 Oct 2026.
+Nunonunonuno is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hoxton Cabin, London on Sat, 17 Oct 2026.
 
 Nunonunonuno is a house and balearic artist based in Portugal, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Calypso High, Cristian Sirica and NOYB. Next up: Hoxton Cabin, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nunonunonuno is a house and balearic artist based in Portugal, tracked on soundc
 
 Calypso High, Cristian Sirica, NOYB
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunonunonuno/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunonunonuno/)*

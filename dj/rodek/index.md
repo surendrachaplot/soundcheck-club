@@ -1,6 +1,6 @@
 # Rodèk
 
-Rodèk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Rodèk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 Rodèk is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Leipzig. Often billed alongside knete, Rn86 and Friedrich Gegner. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rodèk is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 knete, Rn86, Friedrich Gegner
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodek/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodek/)*

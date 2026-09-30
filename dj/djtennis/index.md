@@ -1,6 +1,6 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
+DJ Tennis is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
 
 DJ Tennis is a house and techno artist based in Italy, tracked on soundcheck, with 307 sets logged across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Dockland, Munster on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ DJ Tennis is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

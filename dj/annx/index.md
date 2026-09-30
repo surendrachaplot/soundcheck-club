@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sauna Social Club, London on Sun, 4 Oct 2026.
+ANNX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sauna Social Club, London on Sun, 4 Oct 2026.
 
 ANNX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Bangkok, Berlin, Bristol and Brussels and 11 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Sauna Social Club, London on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ ANNX is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

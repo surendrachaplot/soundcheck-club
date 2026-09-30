@@ -1,6 +1,6 @@
 # Jam In A Jar
 
-Jam In A Jar is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Green Lanes Sunday Service" on Sun, 4 Oct 2026.
+Jam In A Jar is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Green Lanes Sunday Service" on Sun, 4 Oct 2026.
 
 Jam In A Jar is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 599A Green Lanes, Harringay, London N8 0RE, United Kingdom.
 
@@ -14,4 +14,4 @@ Jam In A Jar is a music venue in London listed on soundcheck. 1 upcoming gig. Br
 
 599A Green Lanes, Harringay, London N8 0RE, United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jam-in-a-jar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jam-in-a-jar/)*

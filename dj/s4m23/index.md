@@ -1,6 +1,6 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+S4M23 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 S4M23 is a techno and house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: Green Room NYC, New York City on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ S4M23 is a techno and house artist based in United States of America, tracked on
 
 Mike Servito, Miss Parker, Lauren Flax
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

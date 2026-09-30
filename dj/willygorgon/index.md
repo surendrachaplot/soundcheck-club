@@ -1,8 +1,8 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+Willy Gorgon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
-Willy Gorgon is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside shanty mane, Jeny Michelle and EREZ.JPG. Next up: House of Yes, New York City on Sat 3 Oct.
+Willy Gorgon is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across New York City. Often billed alongside shanty mane, Jeny Michelle and EREZ.JPG. Next up: House of Yes, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Willy Gorgon is a house and techno artist based in United States of America, tra
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | House of Yes | New York City |
 | Sun, 11 Oct 2026 | Outer Heaven | New York City |
+| Sat, 17 Oct 2026 | Green Room NYC | New-york-city |
 | Thu, 5 Nov 2026 | Outer Heaven | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Willy Gorgon is a house and techno artist based in United States of America, tra
 
 shanty mane, Jeny Michelle, EREZ.JPG
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Ohrwurm presents Xiorro (Planet Rhythm, DE)" on Sat, 3 Oct 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Ohrwurm presents Xiorro (Planet Rhythm, DE)" on Sat, 3 Oct 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 4 upcoming gigs, with line-ups including ÆTHELGON, Alam, EFTPOS MINIMUM and Notion A and 1 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -17,4 +17,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 4 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

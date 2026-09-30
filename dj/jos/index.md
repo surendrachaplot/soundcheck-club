@@ -1,14 +1,15 @@
 # Jos
 
-Jos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Masada, Milan on Sat, 10 Oct 2026.
+Jos is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Masada, Milan on Sat, 10 Oct 2026.
 
-Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: Masada, Milan on Sat 10 Oct.
+Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: Masada, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Masada | Milan |
+| Sat, 17 Oct 2026 | 5A | Lisbon |
 | Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Jos is a techno and house artist based in United Kingdom, tracked on soundcheck,
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

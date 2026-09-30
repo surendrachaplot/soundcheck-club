@@ -1,6 +1,6 @@
 # Luska
 
-Luska is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+Luska is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 Luska is a techno and electro artist based in Spain, tracked on soundcheck, with 63 sets logged across Barcelona, Madrid, Malaga and Valencia. Often billed alongside OXNA, HCOR and Nurias. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Luska is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 OXNA, HCOR, Nurias
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*

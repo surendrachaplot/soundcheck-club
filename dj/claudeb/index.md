@@ -1,6 +1,6 @@
 # Claude B
 
-Claude B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+Claude B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
 
 Claude B is a techno and house artist based in France, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Montreal and Paris. Often billed alongside 2727, Erna (FR) and Jeune Louve. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Claude B is a techno and house artist based in France, tracked on soundcheck, wi
 
 2727, Erna (FR), Jeune Louve
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudeb/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudeb/)*

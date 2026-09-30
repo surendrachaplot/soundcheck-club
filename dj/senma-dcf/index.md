@@ -1,6 +1,6 @@
 # Senma (DCF）
 
-Senma (DCF） is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
+Senma (DCF） is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
 Senma (DCF） is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Shunpei (Beebar), ecec and George Bolton. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Senma (DCF） is a house and techno artist based in Japan, tracked on soundcheck
 
 Shunpei (Beebar), ecec, George Bolton
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senma-dcf/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/senma-dcf/)*

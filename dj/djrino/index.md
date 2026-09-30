@@ -1,8 +1,8 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Brussels, Brussels on Fri, 2 Oct 2026.
+DJ Rino is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Brussels, Brussels on Fri, 2 Oct 2026.
 
-DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: TBA - Brussels, Brussels on Fri 2 Oct.
+DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Kuba'97 and Dana Kuehr. Next up: TBA - Brussels, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, wi
 | Sat, 17 Oct 2026 | TBA - 75013 | Paris |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
+| Wed, 4 Nov 2026 | Crevette Records | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -28,6 +29,6 @@ DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Walrus, Dana Kuehr, Kuba'97
+Walrus, Kuba'97, Dana Kuehr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*

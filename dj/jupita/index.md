@@ -1,6 +1,6 @@
 # JUPiTA
 
-JUPiTA is a Reggaeton and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+JUPiTA is a Reggaeton and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 JUPiTA is a reggaeton and bass artist based in Australia, tracked on soundcheck, with 29 sets logged across London, Melbourne, Sydney and Victoria. Often billed alongside bbsanii, Crybaby and Stev Zar. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ JUPiTA is a reggaeton and bass artist based in Australia, tracked on soundcheck,
 
 bbsanii, Crybaby, Stev Zar
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupita/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupita/)*

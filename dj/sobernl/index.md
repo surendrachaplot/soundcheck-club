@@ -1,13 +1,14 @@
 # SOBER (NL)
 
-SOBER (NL) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at BASIS, Utrecht on Fri, 13 Nov 2026.
+SOBER (NL) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Vittoria Wharf Studio, London on Thu, 29 Oct 2026.
 
-SOBER (NL) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Berlin, Budapest, Dublin and Madrid and 5 more. Often billed alongside A2XBY, Amy Rymes and BELCEBÚ. Next up: BASIS, Utrecht on Fri 13 Nov.
+SOBER (NL) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Berlin, Budapest, Dublin and London and 6 more. Often billed alongside A2XBY, Amy Rymes and BELCEBÚ. Next up: Vittoria Wharf Studio, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Vittoria Wharf Studio | London |
 | Fri, 13 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
@@ -25,4 +26,4 @@ SOBER (NL) is a techno and industrial artist based in Netherlands, tracked on so
 
 A2XBY, Amy Rymes, BELCEBÚ
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sobernl/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sobernl/)*

@@ -1,6 +1,6 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+Tinlicker is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Tinlicker is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, tra
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

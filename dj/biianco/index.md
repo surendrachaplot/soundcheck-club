@@ -1,8 +1,8 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
+BIIANCO is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Ankara, Antwerp and Basel and 35 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
+BIIANCO is a techno and trance artist based in United States of America, tracked on soundcheck, with 101 sets logged across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,9 +10,12 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Schwuz | Berlin |
 | Sat, 3 Oct 2026 | TBA | Ankara |
+| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
+| Sat, 10 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 16 Oct 2026 | BASIS | Utrecht |
+| Sat, 17 Oct 2026 | Liquid Club | Malta |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | E1 | London |
@@ -33,4 +36,4 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

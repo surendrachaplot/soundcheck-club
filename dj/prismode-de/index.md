@@ -1,8 +1,8 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
+Prismode is a Techno and Progressive House artist with 14 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
 
-Prismode is a techno and progressive house artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Docks, Hamburg on Fri 9 Oct.
+Prismode is a techno and progressive house artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 17 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Docks, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Prismode is a techno and progressive house artist based in Germany, tracked on s
 | Fri, 13 Nov 2026 | Live Music Hall | Cologne |
 | Sat, 14 Nov 2026 | O der Klub | Vienna |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
+| Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -35,4 +36,4 @@ Prismode is a techno and progressive house artist based in Germany, tracked on s
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

@@ -1,6 +1,6 @@
 # Room13 Club
 
-Room13 Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "НАЗАД в 90е и 00е - ВАРШАВА" on Sat, 3 Oct 2026.
+Room13 Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "НАЗАД в 90е и 00е - ВАРШАВА" on Sat, 3 Oct 2026.
 
 Room13 Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Mazowiecka 13, 00-052 Warszawa.
 
@@ -14,4 +14,4 @@ Room13 Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. Bro
 
 Mazowiecka 13, 00-052 Warszawa, Warsaw
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/room13-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/room13-club/)*

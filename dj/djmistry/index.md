@@ -1,6 +1,6 @@
 # Dj Mistry
 
-Dj Mistry is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Sydney on Sat, 3 Oct 2026.
+Dj Mistry is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Sydney on Sat, 3 Oct 2026.
 
 Dj Mistry is a bass and techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne and Sydney. Often billed alongside Deepa, Paramat and D-Grade. Next up: TBA, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dj Mistry is a bass and techno artist based in Australia, tracked on soundcheck,
 
 Deepa, Paramat, D-Grade
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmistry/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmistry/)*

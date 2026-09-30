@@ -1,6 +1,6 @@
 # Miss Nat-H-Lee
 
-Miss Nat-H-Lee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Glazart, Paris on Sun, 4 Oct 2026.
+Miss Nat-H-Lee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Glazart, Paris on Sun, 4 Oct 2026.
 
 Miss Nat-H-Lee is a techno and electro artist tracked on soundcheck, with 4 sets logged across Amsterdam, Paris and Strasbourg. Often billed alongside Miss Oana, 6-nal and Bimol. Next up: Glazart, Paris on Sun 4 Oct.
 
@@ -20,4 +20,4 @@ Miss Nat-H-Lee is a techno and electro artist tracked on soundcheck, with 4 sets
 
 Miss Oana, 6-nal, Bimol
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missnat-h-lee-us/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missnat-h-lee-us/)*

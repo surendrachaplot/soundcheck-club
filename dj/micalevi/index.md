@@ -1,6 +1,6 @@
 # Mica Levi
 
-Mica Levi is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Mica Levi is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Mica Levi is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Buenos Aires and Krakow and 7 more. Often billed alongside 2K88, Arca and ojoo. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mica Levi is an experimental and electronica artist based in United Kingdom, tra
 
 2K88, Arca, ojoo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micalevi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micalevi/)*

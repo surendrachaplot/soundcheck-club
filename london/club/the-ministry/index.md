@@ -1,6 +1,6 @@
 # The Ministry
 
-The Ministry is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Cue Drops: Colin Dale & guests" on Sun, 4 Oct 2026.
+The Ministry is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Cue Drops: Colin Dale Interview + 5hr Club Set with guests" on Sun, 4 Oct 2026.
 
 The Ministry is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Colin Dale, HEAVEN-LEE and KABBAGE. Browse upcoming dates, start times and who's playing. 79-81 Borough Rd, London SE1 1DN.
 
@@ -8,10 +8,10 @@ The Ministry is a music venue in London listed on soundcheck. 1 upcoming gig, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cue Drops: Colin Dale & guests | Colin Dale, HEAVEN-LEE, KABBAGE |
+| Sun, 4 Oct 2026 | Cue Drops: Colin Dale Interview + 5hr Club Set with guests | Colin Dale, HEAVEN-LEE, KABBAGE |
 
 ## Address
 
 79-81 Borough Rd, London SE1 1DN, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ministry/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ministry/)*

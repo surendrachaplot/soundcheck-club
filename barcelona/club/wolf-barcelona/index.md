@@ -1,6 +1,6 @@
 # WOLF Barcelona
 
-WOLF Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Then Jerico" on Wed, 7 Oct 2026.
+WOLF Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Then Jerico" on Wed, 7 Oct 2026.
 
 WOLF Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Curses. Browse upcoming dates, start times and who's playing. C/ dels Almogàvers, 88, 08018 Barcelona.
 
@@ -15,4 +15,4 @@ WOLF Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gi
 
 C/ dels Almogàvers, 88, 08018 Barcelona, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/wolf-barcelona/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/wolf-barcelona/)*

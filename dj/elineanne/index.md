@@ -1,6 +1,6 @@
 # Eline (BE)
 
-Eline (BE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Midnight Tokyo, Bali on Sat, 10 Oct 2026.
+Eline (BE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Midnight Tokyo, Bali on Sat, 10 Oct 2026.
 
 Eline (BE) is a house and techno artist based in Belgium, tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Bali and Berlin and 3 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: Midnight Tokyo, Bali on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Eline (BE) is a house and techno artist based in Belgium, tracked on soundcheck,
 
 Courtesy, Lola Haro, r.omy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*

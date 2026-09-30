@@ -1,6 +1,6 @@
 # Sinner
 
-Sinner is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Vibes Glasgow, Glasgow on Fri, 2 Oct 2026.
+Sinner is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Vibes Glasgow, Glasgow on Fri, 2 Oct 2026.
 
 Sinner is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Buenos Aires, Glasgow and Liverpool and 2 more. Often billed alongside Illegible, AA/XX and ALIVEMAEX. Next up: Vibes Glasgow, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sinner is a techno and progressive house artist based in United Kingdom, tracked
 
 Illegible, AA/XX, ALIVEMAEX
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*

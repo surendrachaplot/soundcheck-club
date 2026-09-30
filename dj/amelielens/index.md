@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
+Amelie Lens is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
 
 Amelie Lens is a techno and house artist based in Belgium, tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Uber Eats Music Hall, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Amelie Lens is a techno and house artist based in Belgium, tracked on soundcheck
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

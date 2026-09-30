@@ -1,14 +1,16 @@
 # Galen
 
-Galen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Galen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
-Galen is a house and disco artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Los Angeles, New York City and San Francisco/Oakland and 2 more. Often billed alongside Solar, Anthony Mansfield and DJ M3. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
+Galen is a house and disco artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, California, Los Angeles and New York City and 4 more. Often billed alongside Solar, DJ M3 and Anthony Mansfield. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | San Francisco Belle Hornblower | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA | Sacramento |
+| Sat, 31 Oct 2026 | Laguna Lab | California |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Galen is a house and disco artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Solar, Anthony Mansfield, DJ M3
+Solar, DJ M3, Anthony Mansfield
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galen/)*

@@ -1,6 +1,6 @@
 # Maves
 
-Maves is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Boogie, Toronto on Thu, 1 Oct 2026.
+Maves is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Boogie, Toronto on Thu, 1 Oct 2026.
 
 Maves is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Leeds, Liverpool, London and Toronto. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: Boogie, Toronto on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Maves is a house and tech house artist based in United Kingdom, tracked on sound
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maves/)*

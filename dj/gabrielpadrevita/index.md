@@ -1,6 +1,6 @@
 # Gabriel Padrevita
 
-Gabriel Padrevita is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club 69, Glasgow on Fri, 9 Oct 2026.
+Gabriel Padrevita is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club 69, Glasgow on Fri, 9 Oct 2026.
 
 Gabriel Padrevita is a techno and industrial artist based in Germany, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Brussels and Budapest and 18 more. Often billed alongside AnGy KoRe, DeGuzman and Dominique Lamee. Next up: Club 69, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gabriel Padrevita is a techno and industrial artist based in Germany, tracked on
 
 AnGy KoRe, DeGuzman, Dominique Lamee
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielpadrevita/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielpadrevita/)*

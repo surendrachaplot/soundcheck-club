@@ -1,13 +1,14 @@
 # AMBAM
 
-AMBAM is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Sam's, Bielefeld on Sat, 17 Oct 2026.
+AMBAM is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
 
-AMBAM is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Bielefeld and Cologne and 12 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Club Sam's, Bielefeld on Sat 17 Oct.
+AMBAM is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Augsburg, Barcelona, Berlin and Bielefeld and 13 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Kesselhaus Augsburg, Augsburg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 17 Oct 2026 | Club Sam's | Bielefeld |
 | Fri, 30 Oct 2026 | Tanzhaus West | Frankfurt |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
@@ -28,4 +29,4 @@ AMBAM is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 DeGuzman, Kacy, PENELOPE (DE)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*

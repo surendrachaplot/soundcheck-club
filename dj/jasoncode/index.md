@@ -1,13 +1,14 @@
 # Jason Code
 
-Jason Code is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Nectar Lounge, Seattle on Sat, 5 Dec 2026.
+Jason Code is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Sonder Bar, Portland on Fri, 16 Oct 2026.
 
-Jason Code is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, JENN GREEN and N SO. Next up: Nectar Lounge, Seattle on Sat 5 Dec.
+Jason Code is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, JENN GREEN and N SO. Next up: The Sonder Bar, Portland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | The Sonder Bar | Portland |
 | Sat, 5 Dec 2026 | Nectar Lounge | Seattle |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jason Code is a techno and house artist based in United States of America, track
 
 Ross Lowder, JENN GREEN, N SO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*

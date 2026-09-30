@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "REEK0 (All Night Long)" on Fri, 2 Oct 2026.
+Last Arch is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "REEK0 (All Night Long)" on Fri, 2 Oct 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, Constratti and DASHY and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, Calla and Constratti and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 12 upcoming gigs, wit
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

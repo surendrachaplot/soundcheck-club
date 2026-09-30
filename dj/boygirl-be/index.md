@@ -1,6 +1,6 @@
 # BOY&GIRL
 
-BOY&GIRL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
+BOY&GIRL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
 BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside L.zwo, 2HOT2PLAY and Dj Schnake. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, 
 
 L.zwo, 2HOT2PLAY, Dj Schnake
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*

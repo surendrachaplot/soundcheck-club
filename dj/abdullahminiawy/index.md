@@ -1,6 +1,6 @@
 # Abdullah Miniawy
 
-Abdullah Miniawy is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at EartH, London on Sat, 28 Nov 2026.
+Abdullah Miniawy is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at EartH, London on Sat, 28 Nov 2026.
 
 Abdullah Miniawy is an experimental and techno artist based in Egypt, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Simo Cell, Loto Retina and Moin. Next up: EartH, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Abdullah Miniawy is an experimental and techno artist based in Egypt, tracked on
 
 Simo Cell, Loto Retina, Moin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*

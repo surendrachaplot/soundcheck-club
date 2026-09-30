@@ -1,8 +1,8 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+KLOUD is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-KLOUD is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 38 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+KLOUD is a techno and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KLOUD is a techno and house artist based in United States of America, tracked on
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | Smolna | Warsaw |
 | Fri, 9 Oct 2026 | OST | Berlin |
+| Fri, 9 Oct 2026 | Elastica | Vilnius |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
@@ -19,7 +20,6 @@ KLOUD is a techno and house artist based in United States of America, tracked on
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Distrikt | Prague |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KLOUD is a techno and house artist based in United States of America, tracked on
 
 Lola Cerise, Kander, DJ Heartstring
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

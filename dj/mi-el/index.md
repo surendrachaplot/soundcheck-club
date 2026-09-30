@@ -1,6 +1,6 @@
 # mi-el
 
-mi-el is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The White Hotel, Manchester on Fri, 9 Oct 2026.
+mi-el is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The White Hotel, Manchester on Fri, 9 Oct 2026.
 
 mi-el is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Batu, Bitter Babe and re:ni. Next up: The White Hotel, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ mi-el is a bass and techno artist based in United Kingdom, tracked on soundcheck
 
 Batu, Bitter Babe, re:ni
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

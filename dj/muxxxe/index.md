@@ -1,6 +1,6 @@
 # MUXXXE
 
-MUXXXE is a Neo Perreo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kaiku, Helsinki on Fri, 23 Oct 2026.
+MUXXXE is a Neo Perreo and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Kaiku, Helsinki on Fri, 23 Oct 2026.
 
 MUXXXE is a neo perreo and electronica artist tracked on soundcheck, with 8 sets logged across Berlin, Helsinki, Los Angeles and Mexico City and 3 more. Often billed alongside APRIL IS BLUE, Cardopusher and Chico Sonido. Next up: Kaiku, Helsinki on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ MUXXXE is a neo perreo and electronica artist tracked on soundcheck, with 8 sets
 
 APRIL IS BLUE, Cardopusher, Chico Sonido
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muxxxe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muxxxe/)*

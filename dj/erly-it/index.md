@@ -1,6 +1,6 @@
 # Erly Tepshi
 
-Erly Tepshi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Upper East, London on Sat, 28 Nov 2026.
+Erly Tepshi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Upper East, London on Sat, 28 Nov 2026.
 
 Erly Tepshi is a techno and minimal techno artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Ghent and London and 4 more. Often billed alongside Alex Sharp, Daniel Blade and Ivan Masa. Next up: Upper East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Erly Tepshi is a techno and minimal techno artist tracked on soundcheck, with 11
 
 Alex Sharp, Daniel Blade, Ivan Masa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erly-it/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erly-it/)*

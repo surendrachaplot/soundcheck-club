@@ -1,8 +1,8 @@
 # Kabeaushé
 
-Kabeaushé is a Pop and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Maroquinerie, Paris on Tue, 27 Oct 2026.
+Kabeaushé is a Pop and Experimental artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Maroquinerie, Paris on Tue, 27 Oct 2026.
 
-Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: La Maroquinerie, Paris on Tue 27 Oct.
+Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: La Maroquinerie, Paris on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,10 @@ Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundchec
 | Tue, 27 Oct 2026 | La Maroquinerie | Paris |
 | Wed, 28 Oct 2026 | Rotown | Rotterdam |
 | Thu, 29 Oct 2026 | Paradiso | Amsterdam |
+| Sat, 31 Oct 2026 | La Lune des Pirates | North |
 | Thu, 19 Nov 2026 | Café Berlín | Madrid |
+| Fri, 22 Jan 2027 | TBA | Berlin |
+| Sun, 24 Jan 2027 | Haus der Visionäre | Berlin |
 
 ## Recently played
 
@@ -28,4 +31,4 @@ Kabeaushé is a pop and experimental artist based in Kenya, tracked on soundchec
 
 HAAi, TAAHLIAH, Adrian Sherwood
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*

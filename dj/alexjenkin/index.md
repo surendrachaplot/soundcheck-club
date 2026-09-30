@@ -1,6 +1,6 @@
 # Alex Jenkin
 
-Alex Jenkin is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Alex Jenkin is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Alex Jenkin is an ambient and experimental artist based in Chile, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside CuCiCuCi, Kyle Toole and Lb Honne. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Alex Jenkin is an ambient and experimental artist based in Chile, tracked on sou
 
 CuCiCuCi, Kyle Toole, Lb Honne
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjenkin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjenkin/)*

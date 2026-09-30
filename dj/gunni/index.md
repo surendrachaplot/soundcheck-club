@@ -1,14 +1,15 @@
 # Gunni
 
-Gunni is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Jazz Cafe, London on Fri, 9 Oct 2026.
+Gunni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Jazz Cafe, London on Fri, 9 Oct 2026.
 
-Gunni is a house and techno artist based in Belgium, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Cologne and London. Often billed alongside AliA, Lola Haro and Ben Kamal. Next up: The Jazz Cafe, London on Fri 9 Oct.
+Gunni is a techno and house artist based in Belgium, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Cologne and London. Often billed alongside AliA, DJ Rino and EliseThere. Next up: The Jazz Cafe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Jazz Cafe | London |
+| Wed, 4 Nov 2026 | Crevette Records | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gunni is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 ## Shares bills with
 
-AliA, Lola Haro, Ben Kamal
+AliA, DJ Rino, EliseThere
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*

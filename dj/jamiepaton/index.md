@@ -1,6 +1,6 @@
 # Jamie Paton
 
-Jamie Paton is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, West-wales on Sat, 31 Oct 2026.
+Jamie Paton is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, West-wales on Sat, 31 Oct 2026.
 
 Jamie Paton is a house and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bangkok, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Chez de Milo, Ana K Miller and DJ Zombie. Next up: TBA, West Wales on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jamie Paton is a house and acid artist based in United Kingdom, tracked on sound
 
 Chez de Milo, Ana K Miller, DJ Zombie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepaton/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepaton/)*

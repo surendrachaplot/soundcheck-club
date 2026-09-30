@@ -1,6 +1,6 @@
 # JHNSSN
 
-JHNSSN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
+JHNSSN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
 
 JHNSSN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Eubo, Johnny Greig and LAZLO. Next up: La Cheetah Club, Glasgow on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ JHNSSN is a techno and house artist based in United Kingdom, tracked on soundche
 
 Eubo, Johnny Greig, LAZLO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhnssn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhnssn/)*

@@ -1,6 +1,6 @@
 # SWAG DO COMPLEXO
 
-SWAG DO COMPLEXO is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Badehaus Berlin, Berlin on Fri, 2 Oct 2026.
+SWAG DO COMPLEXO is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Badehaus Berlin, Berlin on Fri, 2 Oct 2026.
 
 SWAG DO COMPLEXO is a baile funk and afrobeats artist based in Brazil, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Paris and Porto. Often billed alongside CLYTA, Caan Dun and JADA MORAES. Next up: Badehaus Berlin, Berlin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ SWAG DO COMPLEXO is a baile funk and afrobeats artist based in Brazil, tracked o
 
 CLYTA, Caan Dun, JADA MORAES
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swagdocomplexo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swagdocomplexo/)*

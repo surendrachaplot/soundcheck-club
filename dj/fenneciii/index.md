@@ -1,6 +1,6 @@
 # Fennec III
 
-Fennec III is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+Fennec III is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
 
 Fennec III is an electronic artist based in Italy, tracked on soundcheck, with 12 sets logged across Milan and Rome. Often billed alongside MA\E, Blunderr and Collider. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Fennec III is an electronic artist based in Italy, tracked on soundcheck, with 1
 
 MA\E, Blunderr, Collider
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenneciii/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenneciii/)*

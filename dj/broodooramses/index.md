@@ -1,6 +1,6 @@
 # Broodoo Ramses
 
-Broodoo Ramses is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+Broodoo Ramses is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
 Broodoo Ramses is a club and bass artist based in France, tracked on soundcheck, with 56 sets logged across Belgrade, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Bamao Yendé, Crystallmess and Missy Da Kunt. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Broodoo Ramses is a club and bass artist based in France, tracked on soundcheck,
 
 Bamao Yendé, Crystallmess, Missy Da Kunt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broodooramses/)*

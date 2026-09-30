@@ -1,8 +1,8 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Moodroom By Day" on Sat, 3 Oct 2026.
+Fitzroy is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Moodroom By Day" on Sat, 3 Oct 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including AGILY, Akua, Atavi and Carly Zeng and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Adri Alibi, AGILY, Akua and Atavi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with l
 | Sun, 11 Oct 2026 | PV REUNION VOL 2 | DJ AYA, DJ Strawberry, HICCUP, ZANNT |
 | Sun, 18 Oct 2026 | Dissident x Miss Dreamz | Akua, Carly Zeng, Lixi, Ojos de miel, Schacke, Sub Sahara, TAUREAN (2), VRTL, Yazzus |
 | Thu, 22 Oct 2026 | Hüft & Beinbruch |  |
+| Fri, 23 Oct 2026 | Chain Reaction | Adri Alibi, Dj handbag, Drama Hexe, Posture |
 | Fri, 30 Oct 2026 | SLANG with Shy One, IG Culture & NothingDoing | IG Culture, NothingDoing, Shy One |
 | Sun, 15 Nov 2026 | Essential Delights | Atavi, Elsia, Hasvat Informant, ISA (ES) |
 
@@ -20,4 +21,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

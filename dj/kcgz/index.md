@@ -1,14 +1,15 @@
 # KCGZ
 
-KCGZ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+KCGZ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
 
-KCGZ is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Amsterdam, Ankara, Istanbul and Osaka. Often billed alongside Redein, Yagi(1) and Adrian Mills. Next up: TBA, Ankara on Sat 3 Oct.
+KCGZ is a techno and hardcore artist tracked on soundcheck, with 6 sets logged across Amsterdam, Ankara, Istanbul and Osaka. Often billed alongside Yagi(1), Afem Syko and BIIANCO. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Ankara |
+| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ KCGZ is a techno and hardcore artist tracked on soundcheck, with 5 sets logged a
 
 ## Shares bills with
 
-Redein, Yagi(1), Adrian Mills
+Yagi(1), Afem Syko, BIIANCO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kcgz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kcgz/)*

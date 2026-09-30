@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
+Francesco Del Garda is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 Francesco Del Garda is a house and techno artist based in Italy, tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Francesco Del Garda is a house and techno artist based in Italy, tracked on soun
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

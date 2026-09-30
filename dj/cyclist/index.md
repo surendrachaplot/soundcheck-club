@@ -1,6 +1,6 @@
 # Cyclist
 
-Cyclist is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Piston, Toronto on Sun, 25 Oct 2026.
+Cyclist is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Piston, Toronto on Sun, 25 Oct 2026.
 
 Cyclist is a disco and funk / soul artist tracked on soundcheck, with 75 sets logged across Toronto. Often billed alongside Alto and Bili, The Robotic Kid and Aleksandra. Next up: The Piston, Toronto on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Cyclist is a disco and funk / soul artist tracked on soundcheck, with 75 sets lo
 
 Alto and Bili, The Robotic Kid, Aleksandra
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclist/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclist/)*

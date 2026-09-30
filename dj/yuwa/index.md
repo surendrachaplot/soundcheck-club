@@ -1,6 +1,6 @@
 # YuWa
 
-YuWa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+YuWa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
 YuWa is a techno and trance artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside Yui (JP), tnseei and Lynta. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ YuWa is a techno and trance artist based in Japan, tracked on soundcheck, with 3
 
 Yui (JP), tnseei, Lynta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuwa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuwa/)*

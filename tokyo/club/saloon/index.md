@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "解体新書 KTSNS x Primal x Synvision Sounds presents" on Fri, 2 Oct 2026.
+Saloon is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "解体新書 KTSNS x Primal x Synvision Sounds presents" on Fri, 2 Oct 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including 478, Akie, Albino Sound and arpxp and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -22,4 +22,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with lin
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

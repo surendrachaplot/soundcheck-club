@@ -1,6 +1,6 @@
 # Geck-O
 
-Geck-O is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at De Helling, Utrecht on Sat, 10 Oct 2026.
+Geck-O is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at De Helling, Utrecht on Sat, 10 Oct 2026.
 
 Geck-O is a bass and drum & bass artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Prague and Utrecht. Often billed alongside Da Mouth of Madness, Pavo and Ruffian. Next up: De Helling, Utrecht on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Geck-O is a bass and drum & bass artist based in Netherlands, tracked on soundch
 
 Da Mouth of Madness, Pavo, Ruffian
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geck-o/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geck-o/)*

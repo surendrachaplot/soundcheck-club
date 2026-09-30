@@ -1,6 +1,6 @@
 # WEMI
 
-WEMI is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
+WEMI is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
 
 WEMI is an afro house and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Miami and New York City. Often billed alongside Khalil, AQ and AQUTIE. Next up: Koukla Espresso Bar, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ WEMI is an afro house and house artist based in United States of America, tracke
 
 Khalil, AQ, AQUTIE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wemi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wemi/)*

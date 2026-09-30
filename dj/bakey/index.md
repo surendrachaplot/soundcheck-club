@@ -1,6 +1,6 @@
 # Bakey
 
-Bakey is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NUMBER 90 LONDON, London on Thu, 1 Oct 2026.
+Bakey is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at NUMBER 90 LONDON, London on Thu, 1 Oct 2026.
 
 Bakey is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 30 more. Often billed alongside Capo Lee, Breaka and Dr Dubplate. Next up: NUMBER 90 LONDON, London on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ Bakey is a garage and bass artist based in United Kingdom, tracked on soundcheck
 
 Capo Lee, Breaka, Dr Dubplate
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakey/)*

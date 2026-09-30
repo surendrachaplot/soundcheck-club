@@ -1,6 +1,6 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Deaf Institute, Manchester on Wed, 30 Sept 2026.
+Janaway is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Deaf Institute, Manchester on Wed, 30 Sept 2026.
 
 Janaway is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: The Deaf Institute, Manchester on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Janaway is a jungle and hardcore artist based in United Kingdom, tracked on soun
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

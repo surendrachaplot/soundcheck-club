@@ -1,15 +1,15 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bordello Aperitivo, Amsterdam on Sat, 3 Oct 2026.
+Ben Kaczor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
-Ben Kaczor is a techno and house artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Bordello Aperitivo, Amsterdam on Sat 3 Oct.
+Ben Kaczor is a techno and house artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Bangkok, Basel and Berlin and 16 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: TBA, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bordello Aperitivo | Amsterdam |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
+| Sat, 24 Oct 2026 | Bordello Aperitivo | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Ben Kaczor is a techno and house artist based in Switzerland, tracked on soundch
 
 Lb Honne, boaksi, matsssiii
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*

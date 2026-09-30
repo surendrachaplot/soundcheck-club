@@ -1,6 +1,6 @@
 # More Gain
 
-More Gain is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 24 Oct 2026.
+More Gain is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 24 Oct 2026.
 
 More Gain is a techno and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Belfast. Often billed alongside Matheson, Reger and Mount Palomar. Next up: The Ulster Sports Club, Belfast on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ More Gain is a techno and house artist based in United Kingdom, tracked on sound
 
 Matheson, Reger, Mount Palomar
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moregain/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moregain/)*

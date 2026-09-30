@@ -1,6 +1,6 @@
 # MARCHANTE
 
-MARCHANTE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 9 Oct 2026.
+MARCHANTE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at El Rio, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 MARCHANTE is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 7 sets logged across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DJ Kita, Pretty R1cky and Banoffee. Next up: El Rio, San Francisco/Oakland on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ MARCHANTE is a club and hip-hop artist based in United States of America, tracke
 
 DJ Kita, Pretty R1cky, Banoffee
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*

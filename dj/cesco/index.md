@@ -1,6 +1,6 @@
 # Cesco
 
-Cesco is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Cesco is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Cesco is a drum & bass and bass artist based in Italy, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Birmingham and Brighton and 24 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: The Regency Ballroom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cesco is a drum & bass and bass artist based in Italy, tracked on soundcheck, wi
 
 SP:MC, Alix Perez, Monty
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*

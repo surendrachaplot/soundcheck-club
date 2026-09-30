@@ -1,6 +1,6 @@
 # Robbie Lowe
 
-Robbie Lowe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
+Robbie Lowe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
 
 Robbie Lowe is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Sydney. Often billed alongside Jimmy Galvin, Ben Nott and Simon Caldwell. Next up: White Bay Power Station, Sydney on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ Robbie Lowe is a house and techno artist based in Australia, tracked on soundche
 
 Jimmy Galvin, Ben Nott, Simon Caldwell
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielowe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbielowe/)*

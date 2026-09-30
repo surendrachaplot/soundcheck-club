@@ -1,6 +1,6 @@
 # Asha Franco
 
-Asha Franco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
+Asha Franco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
 
 Asha Franco is a house and disco artist tracked on soundcheck, with 22 sets logged across Brisbane and Melbourne. Often billed alongside Mark Moon, Zjoso and AceMo. Next up: Black Bear Lodge, Brisbane on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Asha Franco is a house and disco artist tracked on soundcheck, with 22 sets logg
 
 Mark Moon, Zjoso, AceMo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*

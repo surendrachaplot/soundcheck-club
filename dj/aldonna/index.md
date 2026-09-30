@@ -1,13 +1,14 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Aldonna is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at e.dh.e, Kosovo on Fri, 2 Oct 2026.
 
-Aldonna is a house and techno artist based in Australia, tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
+Aldonna is a house and techno artist based in Australia, tracked on soundcheck, with 137 sets logged across Amsterdam, Bali, Berlin and Brisbane and 27 more. Often billed alongside Tjade, D Stone and DAWS. Next up: e.dh.e, Kosovo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | e.dh.e | Kosovo |
 | Sat, 3 Oct 2026 | La Rotonde Stalingrad | Paris |
 | Sat, 10 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 16 Oct 2026 | Radio Radio | Amsterdam |
@@ -32,4 +33,4 @@ Aldonna is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Tjade, D Stone, DAWS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

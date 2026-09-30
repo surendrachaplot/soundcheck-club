@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
+Stef Mendesidis is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside DAX J, SHDW and Nastia. Next up: Q35 WAREHOUSE, Turin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, tracked on so
 
 DAX J, SHDW, Nastia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

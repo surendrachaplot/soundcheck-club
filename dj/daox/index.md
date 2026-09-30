@@ -1,14 +1,15 @@
 # Daox
 
-Daox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Daox is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Daox is a house and deep house artist based in Morocco, tracked on soundcheck, with 24 sets logged across Bangkok, Barcelona, Berlin and Central and 4 more. Often billed alongside Penelope, Caruan and DJ Tennis. Next up: TBA, Central on Fri 2 Oct.
+Daox is a house and deep house artist based in Morocco, tracked on soundcheck, with 25 sets logged across Bangkok, Barcelona, Berlin and Central and 5 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Central |
+| Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Daox is a house and deep house artist based in Morocco, tracked on soundcheck, w
 
 ## Shares bills with
 
-Penelope (2), Caruan, DJ Tennis
+Penelope (2), Aline Umber, Caruan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*

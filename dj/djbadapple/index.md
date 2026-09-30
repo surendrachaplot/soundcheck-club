@@ -1,6 +1,6 @@
 # DJ BAD APPLE
 
-DJ BAD APPLE is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
+DJ BAD APPLE is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
 
 DJ BAD APPLE is a house and club artist based in United States of America, tracked on soundcheck, with 107 sets logged across Austin. Often billed alongside MAJESTYOFDIVINITY, Al V Dam and Hip Stir. Next up: Xuxa, Austin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ BAD APPLE is a house and club artist based in United States of America, track
 
 MAJESTYOFDIVINITY, Al V Dam, Hip Stir
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadapple/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbadapple/)*

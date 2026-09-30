@@ -1,6 +1,6 @@
 # Robin Hastings
 
-Robin Hastings is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at John Doe, Amsterdam on Wed, 30 Sept 2026.
+Robin Hastings is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at John Doe, Amsterdam on Wed, 30 Sept 2026.
 
 Robin Hastings is a techno and gabber artist based in Chile, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside NAD (NL), Paroxyzm and Kento. Next up: John Doe, Amsterdam on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Robin Hastings is a techno and gabber artist based in Chile, tracked on soundche
 
 NAD (NL), Paroxyzm, Kento
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhastings/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhastings/)*

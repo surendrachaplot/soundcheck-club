@@ -1,6 +1,6 @@
 # Junior Buzz
 
-Junior Buzz is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at M.O.T, London on Sat, 10 Oct 2026.
+Junior Buzz is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at M.O.T, London on Sat, 10 Oct 2026.
 
 Junior Buzz is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Rhi Spect, Hughesee and Louise Plus One. Next up: M.O.T, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Junior Buzz is a hardcore and jungle artist based in United Kingdom, tracked on 
 
 Rhi Spect, Hughesee, Louise Plus One
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*

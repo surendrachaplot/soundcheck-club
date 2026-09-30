@@ -1,6 +1,6 @@
 # Sonia Lagoon (2)
 
-Sonia Lagoon (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
+Sonia Lagoon (2) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
 
 Sonia Lagoon is a techno and hardcore artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona and Tokyo. Often billed alongside egomania, EMILIO and KANON. Next up: Razzmatazz, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Sonia Lagoon is a techno and hardcore artist based in Spain, tracked on soundche
 
 egomania, EMILIO (3), KANON (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonialagoon-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonialagoon-2/)*

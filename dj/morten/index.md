@@ -1,13 +1,14 @@
 # Morten
 
-Morten is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Morten is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Lion Super Club, Seoul on Fri, 16 Oct 2026.
 
-Morten is a house and progressive house artist based in Denmark, tracked on soundcheck, with 33 sets logged across Athens, Barcelona, Budapest and Buenos Aires and 14 more. Often billed alongside David Guetta, Adam Ten and Artbat. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Morten is a house and progressive house artist based in Denmark, tracked on soundcheck, with 34 sets logged across Athens, Barcelona, Budapest and Buenos Aires and 15 more. Often billed alongside David Guetta, Adam Ten and Artbat. Next up: Lion Super Club, Seoul on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Lion Super Club | Seoul |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | Academy LA | Los Angeles |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
@@ -28,4 +29,4 @@ Morten is a house and progressive house artist based in Denmark, tracked on soun
 
 David Guetta, Adam Ten, Artbat
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*

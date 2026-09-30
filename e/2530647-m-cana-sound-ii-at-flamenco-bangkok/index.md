@@ -1,10 +1,10 @@
 # MŌCANA SOUND II at Flamenco Bangkok
 
-MŌCANA SOUND II at Flamenco Bangkok on Sat 26 Sept, Bangkok. Techno and House. Preview the line-up and save it on soundcheck.
+MŌCANA SOUND II at Flamenco Bangkok on Sat 3 Oct, Bangkok. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Sat, 3 Oct 2026 |
 | Venue | Flamenco Bangkok |
 | City | Bangkok |
 

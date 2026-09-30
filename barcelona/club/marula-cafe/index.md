@@ -1,6 +1,6 @@
 # Marula Cafe
 
-Marula Cafe is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "MUV — Live Music, Jam & Afterparty" on Mon, 5 Oct 2026.
+Marula Cafe is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "MUV — Live Music, Jam & Afterparty" on Mon, 5 Oct 2026.
 
 Marula Cafe is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Brian Alt and YULIE. Browse upcoming dates, start times and who's playing. Carrer dels Escudellers, 49, 08002 Barcelona, España.
 
@@ -18,4 +18,4 @@ Marula Cafe is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs,
 
 Carrer dels Escudellers, 49, 08002 Barcelona, España, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/marula-cafe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/marula-cafe/)*

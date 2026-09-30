@@ -1,13 +1,14 @@
 # Orphx
 
-Orphx is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Orphx is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Hamilton on Fri, 2 Oct 2026.
 
-Orphx is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 15 more. Often billed alongside Adam X, Ancient Methods and Regis. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Orphx is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 16 more. Often billed alongside Adam X, Ancient Methods and Regis. Next up: TBA, Hamilton on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA | Hamilton |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Orphx is a techno and industrial artist tracked on soundcheck, with 33 sets logg
 
 Adam X, Ancient Methods, Regis
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*

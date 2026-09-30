@@ -1,6 +1,6 @@
 # Fabian Laute
 
-Fabian Laute is a Techno and Psytrance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Under The Palmo, Tokyo on Sun, 4 Oct 2026.
+Fabian Laute is a Techno and Psytrance artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Under The Palmo, Tokyo on Sun, 4 Oct 2026.
 
 Fabian Laute is a techno and psytrance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Hamburg and Tokyo. Often billed alongside TECSTONE, ALLY and A.B.U.. Next up: Under The Palmo, Tokyo on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Fabian Laute is a techno and psytrance artist based in Germany, tracked on sound
 
 TECSTONE, ALLY, A.B.U.
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianlaute/)*

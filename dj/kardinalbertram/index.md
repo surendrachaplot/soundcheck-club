@@ -1,6 +1,6 @@
 # Kardinal Bertram
 
-Kardinal Bertram is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hangaren, Copenhagen on Sat, 7 Nov 2026.
+Kardinal Bertram is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hangaren, Copenhagen on Sat, 7 Nov 2026.
 
 Kardinal Bertram is a techno and house artist based in Denmark, tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Copenhagen and London and 1 more. Often billed alongside Anna Logic, LMN and Jannik Sundø. Next up: Hangaren, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kardinal Bertram is a techno and house artist based in Denmark, tracked on sound
 
 Anna Logic, LMN (1), Jannik Sundø
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kardinalbertram/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kardinalbertram/)*

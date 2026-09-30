@@ -1,6 +1,6 @@
 # Lorenzo Donato
 
-Lorenzo Donato is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
+Lorenzo Donato is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
 
 Lorenzo Donato is a techno and electronica artist based in Italy, tracked on soundcheck, with 12 sets logged across Amsterdam, Hong Kong, Shenzhen and Turin. Often billed alongside 100%WONG, Boston 168 and PERAMORE. Next up: TBA - Secret Warehouse Location, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Donato is a techno and electronica artist based in Italy, tracked on sou
 
 100%WONG, Boston 168, PERAMORE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*

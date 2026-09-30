@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Aeromix & Ponez Club: Elias Mazian, Poppy & More" on Fri, 2 Oct 2026.
+La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Aeromix & Ponez Club: Elias Mazian, Poppy & More" on Fri, 2 Oct 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Bailey Ibbs, Chinau, Die Klar and Egna and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -21,4 +21,4 @@ La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with li
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

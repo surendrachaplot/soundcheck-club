@@ -1,8 +1,8 @@
 # NAYGOD
 
-NAYGOD is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Baby Battista @ Nico's, Los Angeles on Sat, 3 Oct 2026.
+NAYGOD is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Baby Battista @ Nico's, Los Angeles on Sat, 3 Oct 2026.
 
-NAYGOD is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Detroit, Los Angeles and New York City. Often billed alongside Miracles, Colored Craig and Terrell Brooke. Next up: Baby Battista @ Nico's, Los Angeles on Sat 3 Oct.
+NAYGOD is a house and techno artist based in United States of America, tracked on soundcheck, with 44 sets logged across Detroit, Los Angeles and New York City. Often billed alongside Miracles, Terrell Brooke and Colored Craig. Next up: Baby Battista @ Nico's, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NAYGOD is a house and techno artist based in United States of America, tracked o
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Baby Battista @ Nico's | Los Angeles |
 | Sat, 10 Oct 2026 | public records | New York City |
+| Sun, 18 Oct 2026 | Bar Franca | Los Angeles |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ NAYGOD is a house and techno artist based in United States of America, tracked o
 
 ## Shares bills with
 
-Miracles, Colored Craig, Terrell Brooke
+Miracles, Terrell Brooke, Colored Craig
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*

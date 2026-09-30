@@ -1,6 +1,6 @@
 # Giancarlino
 
-Giancarlino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
+Giancarlino is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
 
 Giancarlino is a techno and electro artist based in Italy, tracked on soundcheck, with 14 sets logged across Naples and Rome. Often billed alongside IRIDE, GNMR and Marcolino. Next up: Hotel Butterfly, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Giancarlino is a techno and electro artist based in Italy, tracked on soundcheck
 
 IRIDE, GNMR, Marcolino
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giancarlino/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giancarlino/)*

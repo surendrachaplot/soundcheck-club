@@ -1,14 +1,14 @@
 # Hicham (FR)
 
-Hicham (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
+Hicham (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 10 Oct 2026.
 
-Hicham (FR) is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Walrus, Tomas Station and Arto. Next up: TBA, Barcelona on Fri 2 Oct.
+Hicham (FR) is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Walrus, Tomas Station and Arto. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Barcelona |
+| Sat, 10 Oct 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Hicham (FR) is a house and techno artist tracked on soundcheck, with 60 sets log
 
 Walrus, Tomas Station, Arto
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*

@@ -1,6 +1,6 @@
 # Anton Gerden
 
-Anton Gerden is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Anton Gerden is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 Anton Gerden is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Leipzig. Often billed alongside ALBA, DJ Luiser and Josi Miller. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Anton Gerden is a house and techno artist based in Germany, tracked on soundchec
 
 ALBA (3), DJ Luiser, Josi Miller (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antongerden/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antongerden/)*

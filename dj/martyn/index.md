@@ -1,8 +1,8 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bimhuis, Amsterdam on Wed, 21 Oct 2026.
+Martyn is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bimhuis, Amsterdam on Wed, 21 Oct 2026.
 
-Martyn is a techno and bass artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside CCL, EMA and Batu. Next up: Bimhuis, Amsterdam on Wed 21 Oct.
+Martyn is a techno and bass artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside CCL, Darwin and EMA. Next up: Bimhuis, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Martyn is a techno and bass artist based in United States of America, tracked on
 | Fri, 6 Nov 2026 | H0L0 | New York City |
 | Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
 | Fri, 27 Nov 2026 | Caixaforum | Barcelona |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Martyn is a techno and bass artist based in United States of America, tracked on
 
 ## Shares bills with
 
-CCL, EMA (1), Batu
+CCL, Darwin, EMA (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

@@ -1,6 +1,6 @@
 # Arsonist
 
-Arsonist is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Red Rattler, Sydney on Sat, 10 Oct 2026.
+Arsonist is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Red Rattler, Sydney on Sat, 10 Oct 2026.
 
 Arsonist is a bass and experimental artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne and Sydney. Often billed alongside Parcae, Autogenesis and Bastafino. Next up: The Red Rattler, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Arsonist is a bass and experimental artist based in Australia, tracked on soundc
 
 Parcae, Autogenesis, Bastafino
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*

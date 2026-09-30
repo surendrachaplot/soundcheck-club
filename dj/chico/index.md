@@ -1,6 +1,6 @@
 # Chico
 
-Chico is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Roxy, Los Angeles on Sat, 3 Oct 2026.
+Chico is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Roxy, Los Angeles on Sat, 3 Oct 2026.
 
 Chico is a hip-hop and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Chicago, Dundee and Glasgow and 3 more. Often billed alongside Lbert, Nova Caza and Aetha. Next up: The Roxy, Los Angeles on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Chico is a hip-hop and techno artist based in Germany, tracked on soundcheck, wi
 
 Lbert, Nova Caza, Aetha
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*

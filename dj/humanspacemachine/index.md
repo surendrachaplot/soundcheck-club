@@ -1,6 +1,6 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Fri, 2 Oct 2026.
+Human Space Machine is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Fri, 2 Oct 2026.
 
 Human Space Machine is a techno and dub techno artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Eversines, Kaap and Konduku. Next up: Lux Fragil, Lisbon on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Human Space Machine is a techno and dub techno artist based in Netherlands, trac
 
 Eversines, Kaap, Konduku
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

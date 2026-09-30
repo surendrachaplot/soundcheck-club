@@ -1,14 +1,16 @@
 # Warum
 
-Warum is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
+Warum is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
 
-Warum is a techno and acid artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Lyon, Marseille and Milan and 4 more. Often billed alongside Tushen Raï, Cornelius Doctor and LB aka LABAT. Next up: Virage, Paris on Fri 2 Oct.
+Warum is a techno and acid artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, Lyon, Marseille and Milan and 4 more. Often billed alongside Tushen Raï, Cornelius Doctor and Patxi. Next up: Virage, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Virage | Paris |
+| Fri, 30 Oct 2026 | Le Sucre | Lyon |
+| Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Warum is a techno and acid artist based in France, tracked on soundcheck, with 3
 
 ## Shares bills with
 
-Tushen Raï, Cornelius Doctor, LB aka LABAT
+Tushen Raï, Cornelius Doctor, Patxi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warum/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warum/)*

@@ -1,8 +1,8 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 33 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
+Mika Heggemann is a techno and trance artist based in Germany, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,11 @@ Mika Heggemann is a techno and trance artist based in Germany, tracked on soundc
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 17 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Fri, 30 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
+| Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
@@ -34,4 +36,4 @@ Mika Heggemann is a techno and trance artist based in Germany, tracked on soundc
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

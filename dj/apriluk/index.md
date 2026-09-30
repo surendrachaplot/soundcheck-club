@@ -1,6 +1,6 @@
 # April (UK)
 
-April (UK) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+April (UK) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
 April (UK) is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ April (UK) is a techno and electro artist based in United Kingdom, tracked on so
 
 Esmé, Alex Milo, Practical
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

@@ -1,6 +1,6 @@
 # Coolrnch
 
-Coolrnch is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
+Coolrnch is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
 
 Coolrnch is a disco and house artist based in South Korea, tracked on soundcheck, with 93 sets logged across Berlin, Seoul and Tokyo. Often billed alongside Cozyhoon, Inés and Jaezae. Next up: Stoked&stoned, Seoul on Mon 28 Sept.
 
@@ -26,4 +26,4 @@ Coolrnch is a disco and house artist based in South Korea, tracked on soundcheck
 
 Cozyhoon, Inés, Jaezae
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*

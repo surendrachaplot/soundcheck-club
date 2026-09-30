@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ECLIPSE" on Fri, 2 Oct 2026.
+Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "ECLIPSE" on Fri, 2 Oct 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Andrés Mokk, Brigado Crew, Fellino and Freska and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -9,7 +9,7 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | ECLIPSE |  |
-| Fri, 2 Oct 2026 | X |  |
+| Fri, 2 Oct 2026 | TARDEO SOMA  |  |
 | Sat, 3 Oct 2026 | DIAPHANE | Andrés Mokk, REDIG |
 | Sat, 3 Oct 2026 | DROPS |  |
 | Sat, 10 Oct 2026 | More Than Sound | JHONSON. |
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

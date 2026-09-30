@@ -1,6 +1,6 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Ben Sterling is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Ben Sterling is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Ben Sterling is a tech house and house artist based in United Kingdom, tracked o
 
 Marco Carola, Max Dean, Ms. Mada
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

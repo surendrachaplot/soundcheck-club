@@ -1,6 +1,6 @@
 # Valentino
 
-Valentino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Valentino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Valentino is a house and techno artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Barcelona, Hamburg, Ibiza and Istanbul and 2 more. Often billed alongside Indira Paganotto, CamelPhat and pasci. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Valentino is a house and techno artist based in Switzerland, tracked on soundche
 
 Indira Paganotto, CamelPhat, pasci
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentino/)*

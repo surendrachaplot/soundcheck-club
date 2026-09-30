@@ -1,13 +1,14 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Toffler, Rotterdam on Fri, 9 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Love Inn, Bristol on Thu, 1 Oct 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Toffler, Rotterdam on Fri 9 Oct.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: The Love Inn, Bristol on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | The Love Inn | Bristol |
 | Fri, 9 Oct 2026 | Toffler | Rotterdam |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
 | Sat, 17 Oct 2026 | The Loft | Manchester |
@@ -18,8 +19,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, t
 | Tue, 3 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 6 Nov 2026 | Plot 22 | Sheffield |
 | Fri, 13 Nov 2026 | La Cheetah Club | Glasgow |
-| Fri, 4 Dec 2026 | Digital | Newcastle |
-| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Sat, 14 Nov 2026 | Kapsule | Liverpool |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, t
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

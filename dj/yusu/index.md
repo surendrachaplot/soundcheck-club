@@ -1,8 +1,8 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+Yu Su is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
-Yu Su is a house and techno artist based in China, tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Open Ground, Wuppertal on Sat 3 Oct.
+Yu Su is a house and techno artist based in China, tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Yu Su is a house and techno artist based in China, tracked on soundcheck, with 1
 | Fri, 9 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 17 Oct 2026 | Fidelity Studio | Dublin |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
+| Sat, 24 Oct 2026 | Jaeger | Oslo |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
@@ -32,4 +33,4 @@ Yu Su is a house and techno artist based in China, tracked on soundcheck, with 1
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

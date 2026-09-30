@@ -1,8 +1,8 @@
 # THISO
 
-THISO is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Sound House, Dublin on Sat, 3 Oct 2026.
+THISO is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Sound House, Dublin on Sat, 3 Oct 2026.
 
-THISO is a techno and trance artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Niotech, 3LEEZA and AREA ØNE. Next up: The Sound House, Dublin on Sat 3 Oct.
+THISO is a techno and trance artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 10 more. Often billed alongside Niotech, 3LEEZA and AREA ØNE. Next up: The Sound House, Dublin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ THISO is a techno and trance artist based in Netherlands, tracked on soundcheck,
 | Fri, 30 Oct 2026 | Kilomètre25 | Paris |
 | Fri, 6 Nov 2026 | BASIS | Utrecht |
 | Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
+| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ THISO is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 Niotech, 3LEEZA, AREA ØNE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

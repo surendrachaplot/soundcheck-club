@@ -1,6 +1,6 @@
 # Jeska
 
-Jeska is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
+Jeska is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
 
 Jeska is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Montreal and Toronto. Often billed alongside STLKR, FlowHer and Crimewave. Next up: TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jeska is a drum & bass and bass artist tracked on soundcheck, with 21 sets logge
 
 STLKR, FlowHer, Crimewave
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*

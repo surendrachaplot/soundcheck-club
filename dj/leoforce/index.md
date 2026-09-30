@@ -1,6 +1,6 @@
 # Leo Force
 
-Leo Force is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Leo Force is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 Leo Force is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Amsterdam, Buenos Aires and Santiago. Often billed alongside Schvartz Man, 6EJOU and 999999999. Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Leo Force is a techno and hardcore artist tracked on soundcheck, with 5 sets log
 
 Schvartz Man, 6EJOU, 999999999
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoforce/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoforce/)*

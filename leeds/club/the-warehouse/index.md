@@ -1,14 +1,13 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "♦️ DVOTION ♦️" on Tue, 29 Sept 2026.
+The Warehouse is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Teletech Leeds" on Sat, 3 Oct 2026.
 
-The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including ATRIP, Charlotte Ord, Clouds and Culture Shock and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
+The Warehouse is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including ATRIP, Charlotte Ord, Clouds and Culture Shock and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | ♦️ DVOTION ♦️ |  |
 | Sat, 3 Oct 2026 | Teletech Leeds | Clouds, Faster Horses, Juicy Romance, Vivace (UK) |
 | Fri, 9 Oct 2026 | Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TUX | Et Al (1), Josi Devil, Main Phase, Osmosis Jones, TUX (2) |
 | Fri, 30 Oct 2026 | Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La | Hidde van Wee, Jamie Fielding, Mad.Again (2) |
@@ -22,4 +21,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

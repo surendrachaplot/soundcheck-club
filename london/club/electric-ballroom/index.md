@@ -1,6 +1,6 @@
 # Electric Ballroom
 
-Electric Ballroom is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Loop every Saturday" on Sat, 3 Oct 2026.
+Electric Ballroom is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "LOOP LAUNCH PARTY // £4 DRINKS" on Sat, 3 Oct 2026.
 
 Electric Ballroom is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom.
 
@@ -8,7 +8,7 @@ Electric Ballroom is a music venue in London listed on soundcheck. 13 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Loop every Saturday |  |
+| Sat, 3 Oct 2026 | LOOP LAUNCH PARTY // £4 DRINKS |  |
 | Sun, 4 Oct 2026 | The Freshers Ball 2026 |  |
 | Sat, 10 Oct 2026 | Loop every Saturday | TBA |
 | Sat, 17 Oct 2026 | Loop every Saturday | TBA |
@@ -23,4 +23,4 @@ Electric Ballroom is a music venue in London listed on soundcheck. 13 upcoming g
 
 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*

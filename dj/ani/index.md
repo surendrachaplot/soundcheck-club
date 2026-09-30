@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
+A.N.I. is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
 
-A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
+A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, wi
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
+| Sat, 31 Oct 2026 | Afrobar | Sicily |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
-| Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
-| Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 11 Dec 2026 | TBA | Bremen |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

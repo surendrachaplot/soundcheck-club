@@ -1,8 +1,8 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Ezequiel Arias is a progressive house and deep house artist based in Argentina, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Budapest and Buenos Aires and 21 more. Often billed alongside Jody Wisternoff, Romain Garcia and Amadori. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Ezequiel Arias is a progressive house and deep house artist based in Argentina, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Budapest and Buenos Aires and 22 more. Often billed alongside Jody Wisternoff, Romain Garcia and Amadori. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 10 Oct 2026 | Bikini Club | Barcelona |
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |
+| Sat, 24 Oct 2026 | Oceandiva Original | Netherlands |
 | Sun, 8 Nov 2026 | TBA - Chacra El Descanso, La Plata | Buenos Aires |
 | Fri, 20 Nov 2026 | NUMBER 90 LONDON | London |
 | Sat, 21 Nov 2026 | NOWHERE | Manchester |
@@ -30,4 +31,4 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 Jody Wisternoff, Romain Garcia, Amadori
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

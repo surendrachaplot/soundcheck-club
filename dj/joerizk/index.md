@@ -1,6 +1,6 @@
 # Joe Rizk
 
-Joe Rizk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
+Joe Rizk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
 
 Joe Rizk is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Boston. Often billed alongside Chaouki Alba, Rasaaq and Katya C. Next up: TBA - Secret Warehouse Location, Boston on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joe Rizk is a house and techno artist based in United States of America, tracked
 
 Chaouki Alba, Rasaaq, Katya C
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerizk/)*

@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo" on Wed, 30 Sept 2026.
+Mood Ring is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Monroemami, DJ Thank You, Herzen, Summ3rschool, Lo" on Wed, 30 Sept 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Ah Dek, AMLA.DHAS, ANTON (ES) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Ah Dek, AMLA.DHAS, ANTON (ES) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Mood Ring is a music venue in New York City listed on soundcheck. 19 upcoming gi
 | Sat, 3 Oct 2026 | asfffff with Samuelx, Cuteboys, Tasheff | Samuelx, Tasheff, cute boys |
 | Wed, 7 Oct 2026 | PLAY THAT EDIT | Petal, benny sun, jo_sway |
 | Thu, 8 Oct 2026 | RENDERS_002 | Bella Hex, JOHNNY O, Remniqe, elle xxo, entity_A |
+| Thu, 8 Oct 2026 | DIZZY mini | Cure2, Samuelx |
 | Fri, 9 Oct 2026 | SINCERELY: WILDKAT | Kai the Black Angel, MikeQ, zzzzach |
-| Fri, 9 Oct 2026 | Rani's Room Happy Hour | rahuvia |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

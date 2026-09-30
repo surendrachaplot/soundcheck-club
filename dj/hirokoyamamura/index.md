@@ -1,8 +1,8 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Hiroko Yamamura is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Hiroko Yamamura is a techno and house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Hiroko Yamamura is a techno and house artist based in United States of America, tracked on soundcheck, with 156 sets logged across Amsterdam, Arkansas, Austin and Bali and 35 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
+| Fri, 6 Nov 2026 | The Momentary | Arkansas |
+| Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -27,4 +29,4 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

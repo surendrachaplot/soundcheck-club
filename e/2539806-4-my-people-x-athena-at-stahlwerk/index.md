@@ -1,6 +1,6 @@
 # 4 My People X Athena at Stahlwerk
 
-4 My People X Athena at Stahlwerk on Fri 16 Oct, Düsseldorf. 5 artists on the bill: CAIVA, Mila Black, NEGITIV and STELLA BOSSI and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+4 My People X Athena at Stahlwerk on Fri 16 Oct, Düsseldorf. 6 artists on the bill: CAIVA, Cera Khin, Mila Black and NEGITIV and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - CAIVA
+- Cera Khin
 - Mila Black
 - NEGITIV
 - STELLA BOSSI

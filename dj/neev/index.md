@@ -1,8 +1,8 @@
 # Neev
 
-Neev is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+Neev is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
 
-Neev is a house and techno artist tracked on soundcheck, with 41 sets logged across Bristol, Edinburgh, Glasgow and London and 1 more. Often billed alongside Kyle McGuigan, Bateman and Frankie Elyse. Next up: Gaffe, London on Fri 2 Oct.
+Neev is a house and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Bristol, Edinburgh, Glasgow and London and 1 more. Often billed alongside Kyle McGuigan, Bateman and Frankie Elyse. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Neev is a house and techno artist tracked on soundcheck, with 41 sets logged acr
 
 Kyle McGuigan, Bateman, Frankie Elyse
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neev/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neev/)*

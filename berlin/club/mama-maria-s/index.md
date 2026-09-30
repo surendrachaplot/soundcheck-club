@@ -1,6 +1,6 @@
 # Mama Maria's
 
-Mama Maria's is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Casa Groove-Berlin" on Fri, 2 Oct 2026.
+Mama Maria's is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Casa Groove-Berlin" on Fri, 2 Oct 2026.
 
 Mama Maria's is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mama Maria's is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Br
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Casa Groove-Berlin |  |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mama-maria-s/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mama-maria-s/)*

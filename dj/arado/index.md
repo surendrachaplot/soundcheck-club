@@ -1,6 +1,6 @@
 # Arado
 
-Arado is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Fri, 16 Oct 2026.
+Arado is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bootshaus, Cologne on Fri, 16 Oct 2026.
 
 Arado is a tech house and techno artist tracked on soundcheck, with 14 sets logged across Cologne, Frankfurt and Zurich. Often billed alongside ARODES, Alessio da Silva and And Hazel. Next up: Bootshaus, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Arado is a tech house and techno artist tracked on soundcheck, with 14 sets logg
 
 ARODES, Alessio da Silva, And Hazel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arado/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arado/)*

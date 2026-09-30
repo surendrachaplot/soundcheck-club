@@ -1,6 +1,6 @@
 # PARAPHER
 
-PARAPHER is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+PARAPHER is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 PARAPHER is a techno and industrial artist based in Greece, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside MMCCCXCIX, Sørenga and D|K|OXY. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ PARAPHER is a techno and industrial artist based in Greece, tracked on soundchec
 
 MMCCCXCIX, Sørenga, D|K|OXY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*

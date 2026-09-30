@@ -1,6 +1,6 @@
 # saylem celeste
 
-saylem celeste is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Strays, Detroit on Fri, 9 Oct 2026.
+saylem celeste is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Strays, Detroit on Fri, 9 Oct 2026.
 
 saylem celeste is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Detroit and New York City. Often billed alongside Shigeto, Kenjiro and Turtle Bugg. Next up: The Strays, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ saylem celeste is a techno and house artist based in United States of America, t
 
 Shigeto, Kenjiro, Turtle Bugg
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*

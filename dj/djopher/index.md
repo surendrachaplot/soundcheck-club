@@ -1,6 +1,6 @@
 # DJ Opher
 
-DJ Opher is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at radial, London on Sat, 3 Oct 2026.
+DJ Opher is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at radial, London on Sat, 3 Oct 2026.
 
 DJ Opher is a techno and bass artist tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside Inness Hallam, Alicia (UK) and Arabesque. Next up: radial, London on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ DJ Opher is a techno and bass artist tracked on soundcheck, with 6 sets logged a
 
 Inness Hallam, Alicia (UK), Arabesque
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djopher/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djopher/)*

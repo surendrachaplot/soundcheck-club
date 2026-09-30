@@ -1,14 +1,15 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+Kø:lab is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
 
-Kø:lab is a techno and trance artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Ankara, Barcelona and Berlin and 21 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: TBA, Ankara on Sat 3 Oct.
+Kø:lab is a techno and trance artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Ankara, Barcelona and Berlin and 21 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Ankara |
+| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
@@ -29,4 +30,4 @@ Kø:lab is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 SEKTOR69, Cara Elizabeth, Dominique Lamee
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*

@@ -1,6 +1,6 @@
 # Marek Hemmann
 
-Marek Hemmann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Marek Hemmann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 Marek Hemmann is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Geneva and Leipzig and 3 more. Often billed alongside Prismode, Super Flu and Bebetta. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Marek Hemmann is a techno and house artist tracked on soundcheck, with 18 sets l
 
 Prismode, Super Flu, Bebetta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marekhemmann/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marekhemmann/)*

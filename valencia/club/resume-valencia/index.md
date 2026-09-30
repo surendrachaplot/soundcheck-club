@@ -1,15 +1,15 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Caballeri B2B IKO, MIRNA KALOUT" on Fri, 2 Oct 2026.
+Resume Valencia is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Caballeri B2B IKO, MIRNA KALOUT" on Fri, 2 Oct 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including AVAL, Blanch, Caballeri and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Arval, Blanch, Caballeri and Cesare vs Disorder and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Caballeri B2B IKO, MIRNA KALOUT | Caballeri |
-| Sat, 3 Oct 2026 | CESARE, AVAL | AVAL, Cesare vs Disorder |
+| Sat, 3 Oct 2026 | Cesare vs Disorder + Arval and pls Serialism Records 20 años | Arval, Cesare vs Disorder |
 | Sat, 3 Oct 2026 | Ruben Solar, Andres llatas |  |
 | Fri, 9 Oct 2026 | CARLOS GROOVE, Pol R |  |
 | Sat, 10 Oct 2026 | MIKE SHANON, Blanch B2B DONKY, | Blanch, Mike Shannon |
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 10 upcoming g
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

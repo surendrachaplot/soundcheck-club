@@ -1,6 +1,6 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at [UNVRS], Ibiza on Thu, 1 Oct 2026.
+Black Coffee is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at [UNVRS], Ibiza on Thu, 1 Oct 2026.
 
 Black Coffee is an afro house and house artist based in South Africa, tracked on soundcheck, with 281 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: [UNVRS], Ibiza on Thu 1 Oct.
 
@@ -31,4 +31,4 @@ Black Coffee is an afro house and house artist based in South Africa, tracked on
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

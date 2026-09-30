@@ -1,6 +1,6 @@
 # DLR (nyc)
 
-DLR (nyc) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
+DLR (nyc) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
 
 DLR (nyc) is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across New York City. Often billed alongside Armii1n, Choukroun and Kenia. Next up: Jolene Sound Room Brooklyn, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DLR (nyc) is a house and techno artist based in United States of America, tracke
 
 Armii1n, Choukroun, Kenia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*

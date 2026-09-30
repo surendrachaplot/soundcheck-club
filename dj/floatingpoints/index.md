@@ -1,8 +1,8 @@
 # Floating Points
 
-Floating Points is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Floating Points is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Floating Points is a techno and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Palms Trax and Daphni. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Floating Points is a techno and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Floating Points is a techno and house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 17 Oct 2026 | Club Space Miami | Miami |
+| Sat, 24 Oct 2026 | Refuge | New York City |
 | Sun, 25 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -25,6 +27,6 @@ Floating Points is a techno and house artist based in United Kingdom, tracked on
 
 ## Shares bills with
 
-Four Tet, Palms Trax, Daphni
+Four Tet, Daphni, Palms Trax
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*

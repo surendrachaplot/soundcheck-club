@@ -1,6 +1,6 @@
 # charli/e
 
-charli/e is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hošek Contemporary, Berlin on Sat, 3 Oct 2026.
+charli/e is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Hošek Contemporary, Berlin on Sat, 3 Oct 2026.
 
 charli/e is a house and tech house artist tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Leipzig and Munster and 1 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Hošek Contemporary, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ charli/e is a house and tech house artist tracked on soundcheck, with 29 sets lo
 
 Beqqi, Aimé You, ALKARLINE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*

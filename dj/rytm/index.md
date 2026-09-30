@@ -1,6 +1,6 @@
 # Rytm
 
-Rytm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Q35 WAREHOUSE, Turin on Sun, 18 Oct 2026.
+Rytm is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Q35 WAREHOUSE, Turin on Sun, 18 Oct 2026.
 
 Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 24 sets logged across New York City and Turin. Often billed alongside Aberra, Mike Esse and THEGOD01. Next up: Q35 WAREHOUSE, Turin on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 24
 
 Aberra, Mike Esse, THEGOD01
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*

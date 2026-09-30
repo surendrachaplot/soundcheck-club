@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Kyle Starkey is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Kyle Starkey is a techno and house artist based in United Kingdom, tracked on so
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
+| Fri, 16 Oct 2026 | Unit 51 | Aberdeen |
 | Sat, 17 Oct 2026 | The Liquid Room | Edinburgh |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, tracked on so
 
 DART, Benwal, Faster Horses
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

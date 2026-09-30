@@ -1,14 +1,15 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Jeneva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
-Jeneva is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Varanasi. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
+Jeneva is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
+| Fri, 13 Nov 2026 | FOLD | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jeneva is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 ## Shares bills with
 
-Greg Brockmann, LO-LOW, Varanasi
+Greg Brockmann, LO-LOW, Mar/us
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

@@ -1,6 +1,6 @@
 # ramón.ting
 
-ramón.ting is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+ramón.ting is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
 ramón.ting is a techno and trance artist tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside Preacher's Daughter, ceviché and DISGRACE. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ ramón.ting is a techno and trance artist tracked on soundcheck, with 10 sets lo
 
 Preacher's Daughter, ceviché, DISGRACE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon.ting/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon.ting/)*

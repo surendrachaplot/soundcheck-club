@@ -1,6 +1,6 @@
 # Chapeau Rouge
 
-Chapeau Rouge is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Neighbourhood x Raverzz with Radosť Showcase & Inner Sphere | House, Techno & Psytrance" on Fri, 9 Oct 2026.
+Chapeau Rouge is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Neighbourhood x Raverzz with Radosť Showcase & Inner Sphere | House, Techno & Psytrance" on Fri, 9 Oct 2026.
 
 Chapeau Rouge is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Daniel Neighbour, Hasky (SK), Makepeace and Telly Savalas. Browse upcoming dates, start times and who's playing. Jakubska 2, 110 00 Praha 1, Czech Republic.
 
@@ -16,4 +16,4 @@ Chapeau Rouge is a music venue in Prague listed on soundcheck. 3 upcoming gigs, 
 
 Jakubska 2, 110 00 Praha 1, Czech Republic, Prague
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*

@@ -1,8 +1,8 @@
 # Chiara B
 
-Chiara B is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sala Apolo, Barcelona on Sat, 17 Oct 2026.
+Chiara B is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sala Apolo, Barcelona on Sat, 17 Oct 2026.
 
-Chiara B is a tech house and house artist tracked on soundcheck, with 14 sets logged across Barcelona, Buenos Aires, London and Milan and 4 more. Often billed alongside Di Chiara Brothers, Fontana (ES) and Alessio da Silva. Next up: Sala Apolo, Barcelona on Sat 17 Oct.
+Chiara B is a tech house and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, Buenos Aires, London and Milan and 4 more. Often billed alongside Di Chiara Brothers, Fontana (ES) and Alessio da Silva. Next up: Sala Apolo, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chiara B is a tech house and house artist tracked on soundcheck, with 14 sets lo
 
 Di Chiara Brothers, Fontana (ES), Alessio da Silva
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarab/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarab/)*

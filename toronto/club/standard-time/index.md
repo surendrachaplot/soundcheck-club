@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "CANCELLED - MYRNE (3 Hour Set) at Standard Time" on Thu, 1 Oct 2026.
+Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "CANCELLED - MYRNE (3 Hour Set) at Standard Time" on Thu, 1 Oct 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), CCL and Chiara and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

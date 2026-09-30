@@ -1,6 +1,6 @@
 # MEJMI
 
-MEJMI is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Savoy, Cork on Fri, 23 Oct 2026.
+MEJMI is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Savoy, Cork on Fri, 23 Oct 2026.
 
 MEJMI is a techno and electro artist tracked on soundcheck, with 48 sets logged across Berlin, Cork, Dublin and Galway and 1 more. Often billed alongside Hooligan, Jamie Behan and Ashes. Next up: Savoy, Cork on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ MEJMI is a techno and electro artist tracked on soundcheck, with 48 sets logged 
 
 Hooligan, Jamie Behan, Ashes (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mejmi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mejmi/)*

@@ -1,13 +1,14 @@
 # Rama (2)
 
-Rama (2) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+Rama (2) is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
 
-Rama is an experimental and bass artist based in Egypt, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: Bike Jesus, Prague on Fri 30 Oct.
+Rama is an experimental and bass artist based in Egypt, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: Het Burgerweeshuis, Netherlands on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Het Burgerweeshuis | Netherlands |
 | Fri, 30 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rama is an experimental and bass artist based in Egypt, tracked on soundcheck, w
 
 ZULI, Assyouti, Bungalovv
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rama-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rama-2/)*

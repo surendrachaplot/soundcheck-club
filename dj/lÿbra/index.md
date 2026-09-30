@@ -1,6 +1,6 @@
 # LŸBRA
 
-LŸBRA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
+LŸBRA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
 LŸBRA is a techno and trance artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Henk, get no and $EITAN777. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ LŸBRA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DJ Henk, get no, $EITAN777
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lÿbra/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lÿbra/)*

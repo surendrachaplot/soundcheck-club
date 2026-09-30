@@ -1,6 +1,6 @@
 # Dani Savant
 
-Dani Savant is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
+Dani Savant is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 Dani Savant is a techno and house artist based in Japan, tracked on soundcheck, with 54 sets logged across Kyoto, Osaka, Rome and Tokyo. Often billed alongside Drunken Kong, DANA NADA and DANDAN. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Dani Savant is a techno and house artist based in Japan, tracked on soundcheck, 
 
 Drunken Kong, DANA NADA, DANDAN
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danisavant/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danisavant/)*

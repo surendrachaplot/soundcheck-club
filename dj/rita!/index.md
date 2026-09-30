@@ -1,6 +1,6 @@
 # Rita!
 
-Rita! is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
+Rita! is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
 
 Rita! is a breakbeat and bass artist tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside MOHOHOMO, HAGY and bojvck. Next up: Bolero, Seoul on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Rita! is a breakbeat and bass artist tracked on soundcheck, with 7 sets logged a
 
 MOHOHOMO, HAGY, bojvck
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*

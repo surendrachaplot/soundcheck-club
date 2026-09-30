@@ -1,6 +1,6 @@
 # Miss Evoice
 
-Miss Evoice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Miss Evoice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Miss Evoice is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Munich and Stuttgart. Often billed alongside DIEGÖ, Marius Lehnert and Dejago. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Miss Evoice is a house and techno artist based in Germany, tracked on soundcheck
 
 DIEGÖ, Marius Lehnert, Dejago
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missevoice/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missevoice/)*

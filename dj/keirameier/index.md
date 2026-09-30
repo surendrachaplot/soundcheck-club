@@ -1,6 +1,6 @@
 # Keira Meier
 
-Keira Meier is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 24 Oct 2026.
+Keira Meier is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 24 Oct 2026.
 
 Keira Meier is an electronic artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin and Milan. Often billed alongside Industrial Romantico, Dolce Potente and Futuro Tropicale. Next up: Tempio del Futuro Perduto, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Keira Meier is an electronic artist based in Italy, tracked on soundcheck, with 
 
 Industrial Romantico, Dolce Potente, Futuro Tropicale
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keirameier/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keirameier/)*

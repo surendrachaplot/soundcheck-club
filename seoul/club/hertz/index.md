@@ -1,6 +1,6 @@
 # Hertz
 
-Hertz is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Hertz 헤르츠 Selectors: J.U.N.E Jucid Oldshoes" on Fri, 2 Oct 2026.
+Hertz is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Hertz 헤르츠 Selectors: J.U.N.E Jucid Oldshoes" on Fri, 2 Oct 2026.
 
 Hertz is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Acidwork, Francesco Carvetta, Hakim. and J.U.N.E and 2 more. Browse upcoming dates, start times and who's playing. 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Hertz is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line
 
 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*

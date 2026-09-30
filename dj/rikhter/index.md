@@ -1,8 +1,8 @@
 # RIKHTER
 
-RIKHTER is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Bassement, Madrid on Thu, 15 Oct 2026.
+RIKHTER is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Bassement, Madrid on Thu, 15 Oct 2026.
 
-RIKHTER is a techno and industrial artist based in Spain, tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: The Bassement, Madrid on Thu 15 Oct.
+RIKHTER is a techno and industrial artist based in Spain, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: The Bassement, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ RIKHTER is a techno and industrial artist based in Spain, tracked on soundcheck,
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | The Bassement | Madrid |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
+| Sat, 24 Oct 2026 | Kloster Anrode | Thuringia |
+| Fri, 6 Nov 2026 | Selva Club | East |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ RIKHTER is a techno and industrial artist based in Spain, tracked on soundcheck,
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

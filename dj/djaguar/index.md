@@ -1,6 +1,6 @@
 # D Jaguar
 
-D Jaguar is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
+D Jaguar is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
 
 D Jaguar is an electronic artist tracked on soundcheck, with 6 sets logged across Barcelona, Belgrade, Berlin and Medellin. Often billed alongside Marko Nastic, Wareika and BASS SIDE. Next up: Rama Soundgarden, Medellin on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ D Jaguar is an electronic artist tracked on soundcheck, with 6 sets logged acros
 
 Marko Nastic, Wareika, BASS SIDE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*

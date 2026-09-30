@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Outernet Live, London on Thu, 1 Oct 2026.
+DJ Seinfeld is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Outernet Live, London on Thu, 1 Oct 2026.
 
 DJ Seinfeld is a house and techno artist based in Sweden, tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Outernet Live, London on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ DJ Seinfeld is a house and techno artist based in Sweden, tracked on soundcheck,
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

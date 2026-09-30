@@ -1,18 +1,19 @@
 # Faded Society
 
-Faded Society is a Bass and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Makossa, London on Sat, 10 Oct 2026.
+Faded Society is a Bass and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Munster Munch, London on Thu, 8 Oct 2026.
 
-Faded Society is a bass and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Club Makossa, London on Sat 10 Oct.
+Faded Society is a bass and house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Munster Munch, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Munster Munch | London |
 | Sat, 10 Oct 2026 | Club Makossa | London |
 | Thu, 15 Oct 2026 | Lab.Club | London |
-| Thu, 15 Oct 2026 | Munster Munch | London |
 | Wed, 11 Nov 2026 | Bread & Butter Arch | London |
 | Thu, 12 Nov 2026 | Lab.Club | London |
+| Wed, 18 Nov 2026 | London Sound Academy | London |
 | Thu, 10 Dec 2026 | Lab.Club | London |
 
 ## Recently played
@@ -30,4 +31,4 @@ Faded Society is a bass and house artist based in United Kingdom, tracked on sou
 
 Venxm, Adela, Kitsch
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*

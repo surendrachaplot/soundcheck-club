@@ -1,6 +1,6 @@
 # Anthony Parasole
 
-Anthony Parasole is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
+Anthony Parasole is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
 
 Anthony Parasole is a techno and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Berlin and Boston and 12 more. Often billed alongside Samuel Fish, KYRUH and DJ Hyperactive. Next up: DJ Bar Bridge, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Anthony Parasole is a techno and house artist based in United States of America,
 
 Samuel Fish, KYRUH, DJ Hyperactive
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyparasole/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyparasole/)*

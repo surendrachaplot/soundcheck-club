@@ -1,8 +1,8 @@
 # Argia
 
-Argia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Argia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
-Argia is a house and techno artist based in Spain, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
+Argia is a house and techno artist based in Spain, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Argia is a house and techno artist based in Spain, tracked on soundcheck, with 7
 | Fri, 23 Oct 2026 | Generator | Amsterdam |
 | Fri, 13 Nov 2026 | KOKO | London |
 | Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 19 Dec 2026 | Mason Bar | Cyprus |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Argia is a house and techno artist based in Spain, tracked on soundcheck, with 7
 
 Alican, Murat Uncuoglu, Âme
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

@@ -1,6 +1,6 @@
 # Rick Wilhite
 
-Rick Wilhite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Standard Time, Toronto on Sat, 24 Oct 2026.
+Rick Wilhite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Standard Time, Toronto on Sat, 24 Oct 2026.
 
 Rick Wilhite is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Chicago, Detroit and Melbourne and 4 more. Often billed alongside Delano Smith, Bruce Bailey and Jesse Cory. Next up: Standard Time, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rick Wilhite is a house and techno artist based in United States of America, tra
 
 Delano Smith, Bruce Bailey, Jesse Cory
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwilhite/)*

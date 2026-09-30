@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Ashibah is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Ashibah is a house and tech house artist based in Egypt, tracked on soundcheck, with 16 sets logged across Amsterdam, Copenhagen, Ibiza and London and 5 more. Often billed alongside Lane 8, Sultan + Shepard and Colyn. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ashibah is a house and tech house artist based in Egypt, tracked on soundcheck, 
 
 Lane 8, Sultan + Shepard, Colyn
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

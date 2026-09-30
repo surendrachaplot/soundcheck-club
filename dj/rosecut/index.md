@@ -1,6 +1,6 @@
 # Rosecut
 
-Rosecut is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Rosecut is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 Rosecut is an electronic artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside DJ KETAFLUSH, Speare and Avril. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Rosecut is an electronic artist tracked on soundcheck, with 6 sets logged across
 
 DJ KETAFLUSH, Speare, Avril
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosecut/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosecut/)*

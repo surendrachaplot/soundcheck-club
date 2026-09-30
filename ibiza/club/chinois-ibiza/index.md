@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Trip: Traumer, Margaret Dygas, Maher Daniel, Mau BB" on Wed, 30 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 12 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Trip: Traumer, Margaret Dygas, Maher Daniel, Mau BB" on Wed, 30 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 12 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 12 upcoming gigs, 
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

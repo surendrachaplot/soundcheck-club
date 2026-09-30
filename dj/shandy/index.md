@@ -1,6 +1,6 @@
 # Shandy
 
-Shandy is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Odonien, Cologne on Wed, 30 Sept 2026.
+Shandy is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Odonien, Cologne on Wed, 30 Sept 2026.
 
 Shandy is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Cologne and London. Often billed alongside 50CAL, Deselecta and Enaly. Next up: Odonien, Cologne on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ Shandy is a techno and drum & bass artist based in United Kingdom, tracked on so
 
 50CAL, Deselecta, Enaly
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shandy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shandy/)*

@@ -1,6 +1,6 @@
 # Soul Side Vinyl
 
-Soul Side Vinyl is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Gradiente October Programme: Soul Side Vinyl" on Thu, 8 Oct 2026.
+Soul Side Vinyl is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Gradiente October Programme: Soul Side Vinyl" on Thu, 8 Oct 2026.
 
 Soul Side Vinyl is a music venue in San Diego listed on soundcheck. 1 upcoming gig, with line-ups including astrosof and Memo. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Soul Side Vinyl is a music venue in San Diego listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Gradiente October Programme: Soul Side Vinyl | Memo, astrosof |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/soul-side-vinyl/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/soul-side-vinyl/)*

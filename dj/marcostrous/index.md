@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 1 Oct 2026.
+Marco Strous is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 1 Oct 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, tracked on soundcheck, with 42 sets logged across Austin, Boston, Chicago and Houston and 14 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Noto Philadelphia, Philadelphia on Thu 1 Oct.
 
@@ -33,4 +33,4 @@ Marco Strous is a tech house and house artist based in Portugal, tracked on soun
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

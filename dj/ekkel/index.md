@@ -1,8 +1,8 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
+Ekkel is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
-Ekkel is a trance and techno artist based in Norway, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Nelly (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
+Ekkel is a trance and techno artist based in Norway, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Marius Bø, Mikkel Rev and Nelly (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ekkel is a trance and techno artist based in Norway, tracked on soundcheck, with
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Eiger Studios | Leeds |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
+| Sat, 24 Oct 2026 | Gaffe | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ekkel is a trance and techno artist based in Norway, tracked on soundcheck, with
 
 Marius Bø, Mikkel Rev, Nelly (NL)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

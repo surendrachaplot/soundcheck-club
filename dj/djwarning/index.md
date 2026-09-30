@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Rawhide, New York City on Fri, 2 Oct 2026.
+Dj Warning is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Club Rawhide, New York City on Fri, 2 Oct 2026.
 
 Dj Warning is a techno and house artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Club Rawhide, New York City on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Dj Warning is a techno and house artist based in United States of America, track
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

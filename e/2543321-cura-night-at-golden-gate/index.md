@@ -1,6 +1,6 @@
 # CURA NIGHT at Golden Gate
 
-CURA NIGHT at Golden Gate on Thu 1 Oct, Berlin. 2 artists on the bill: Nathan Homan and Thor Rixon. Preview the line-up and save it on soundcheck.
+CURA NIGHT at Golden Gate on Thu 1 Oct, Berlin. 4 artists on the bill: Anaté, Nathan Homan, Shira Kela and Thor Rixon. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ CURA NIGHT at Golden Gate on Thu 1 Oct, Berlin. 2 artists on the bill: Nathan Ho
 
 ## Line-up
 
+- Anaté
 - Nathan Homan
+- Shira Kela
 - Thor Rixon
 
 *Source: [soundcheck](https://soundcheck.club/e/2543321-cura-night-at-golden-gate/)*

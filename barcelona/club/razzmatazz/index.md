@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "RAZZCLUBS: Mount Kimbie DJ + West Dubai Live + Freebot" on Fri, 2 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "RAZZCLUBS: Mount Kimbie DJ + West Dubai Live + Freebot" on Fri, 2 Oct 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Adame DJ, Akua, Alvva and amil raja and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -17,10 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 | Sat, 17 Oct 2026 | RAZZCLUBS: Mainline Club + MARRØN (All night long) + Source Experience Live | DAVID LOST, Ed Warner, MARRØN, Sylvia (ES), Twelve Seven |
 | Fri, 23 Oct 2026 | RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU | Adame DJ, BZZHOUND, Bulma, Dj Rankng, Kanti, Linapary, OTO (NY), RUXI, Suicide Club, Virtual Flavor |
 | Sat, 24 Oct 2026 | RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech | Bas Mooy, DJ Godfather, DJ KETAFLUSH, David Elimelech, Elwood, Kaiser (K S R), Miramizu, NAUAL, Natural Language, Rosecut, Speare, Spiderwrap |
-| Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
+| Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

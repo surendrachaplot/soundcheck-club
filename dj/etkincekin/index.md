@@ -1,6 +1,6 @@
 # Etkin Cekin
 
-Etkin Cekin is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
+Etkin Cekin is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
 
 Etkin Cekin is a downtempo and ambient artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Kalozin, Rafush and 2001 Space Odyssey. Next up: Giri, Berlin on Thu 1 Oct.
 
@@ -20,4 +20,4 @@ Etkin Cekin is a downtempo and ambient artist based in Germany, tracked on sound
 
 Kalozin, Rafush, 2001 Space Odyssey
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etkincekin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etkincekin/)*

@@ -1,14 +1,15 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Telegraph Building, Belfast on Sat, 10 Oct 2026.
+KRUELTY is a Techno and Hardcore artist with 18 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Telegraph Building, Belfast on Sat, 10 Oct 2026.
 
-KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: The Telegraph Building, Belfast on Sat 10 Oct.
+KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: The Telegraph Building, Belfast on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Telegraph Building | Belfast |
+| Sun, 11 Oct 2026 | TBA - Espacio Zity, Zaragoza | North |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
@@ -16,10 +17,9 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 14 Nov 2026 | Now&Wow | Rotterdam |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Fri, 27 Nov 2026 | Kompass Klub | Ghent |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 5 Dec 2026 | Afas Live | Amsterdam |
-| Fri, 11 Dec 2026 | E1 | London |
-| Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

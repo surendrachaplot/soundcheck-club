@@ -1,6 +1,6 @@
 # Mágafas
 
-Mágafas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+Mágafas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 Mágafas is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam and Athens. Often billed alongside Takis DK, Dom K and Gatsio. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mágafas is a techno and house artist tracked on soundcheck, with 31 sets logged
 
 Takis DK, Dom K, Gatsio
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magafas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magafas/)*

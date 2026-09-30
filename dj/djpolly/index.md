@@ -1,6 +1,6 @@
 # DJ POLLY
 
-DJ POLLY is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
+DJ POLLY is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
 
 DJ POLLY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Manchester. Often billed alongside Rich Reason, Fastlove and Girls Don't Sync. Next up: Ramona, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ POLLY is a garage and house artist based in United Kingdom, tracked on soundc
 
 Rich Reason, Fastlove, Girls Don't Sync
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolly/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpolly/)*

@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
+Pangaea is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: BASEMENT, New York City on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Pangaea is a techno and bass artist based in United Kingdom, tracked on soundche
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

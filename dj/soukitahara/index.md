@@ -1,6 +1,6 @@
 # Sou Kitahara
 
-Sou Kitahara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at West Harlem, Kyoto on Fri, 2 Oct 2026.
+Sou Kitahara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at West Harlem, Kyoto on Fri, 2 Oct 2026.
 
 Sou Kitahara is a house and techno artist based in Japan, tracked on soundcheck, with 51 sets logged across Kyoto. Often billed alongside imazutsubasa, Ryogo and kitapon. Next up: West Harlem, Kyoto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sou Kitahara is a house and techno artist based in Japan, tracked on soundcheck,
 
 imazutsubasa, Ryogo, kitapon
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soukitahara/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soukitahara/)*

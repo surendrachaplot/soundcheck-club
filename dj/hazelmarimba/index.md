@@ -1,6 +1,6 @@
 # Hazel Marimba
 
-Hazel Marimba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Hazel Marimba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Hazel Marimba is a techno and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bristol, London and Paris. Often billed alongside AÆE, BIIANCO and Big Kani. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hazel Marimba is a techno and house artist based in United Kingdom, tracked on s
 
 AÆE, BIIANCO, Big Kani
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazelmarimba/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hazelmarimba/)*

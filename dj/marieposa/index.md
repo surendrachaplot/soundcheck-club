@@ -1,6 +1,6 @@
 # Marie Posa
 
-Marie Posa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club M2 Miami, Miami on Sat, 3 Oct 2026.
+Marie Posa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club M2 Miami, Miami on Sat, 3 Oct 2026.
 
 Marie Posa is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Miami, New York City, Rome and San Francisco/Oakland. Often billed alongside IZIK, HIDRA and Syd Gris. Next up: Club M2 Miami, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Marie Posa is a house and deep house artist based in United States of America, t
 
 IZIK, HIDRA, Syd Gris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieposa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieposa/)*

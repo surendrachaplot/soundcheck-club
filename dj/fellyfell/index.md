@@ -1,6 +1,6 @@
 # Felly Fell
 
-Felly Fell is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Felly Fell is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Felly Fell is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 26 sets logged across San Diego and San Francisco/Oakland. Often billed alongside Sam Drank, Adware and Clearcast. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Felly Fell is a techno and breakbeat artist based in United States of America, t
 
 Sam Drank, Adware, Clearcast
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fellyfell/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fellyfell/)*

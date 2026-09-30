@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 2 Oct 2026.
+Isaac Carter is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 2 Oct 2026.
 
-Isaac Carter is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Berlin and Brisbane and 24 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: MONKEY LOVE, Warsaw on Fri 2 Oct.
+Isaac Carter is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: MONKEY LOVE, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,9 @@ Isaac Carter is a house and tech house artist based in United Kingdom, tracked o
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Thu, 29 Oct 2026 | The Loft | Manchester |
+| Sat, 31 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 21 Nov 2026 | Vittoria Wharf Studio | London |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Isaac Carter is a house and tech house artist based in United Kingdom, tracked o
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

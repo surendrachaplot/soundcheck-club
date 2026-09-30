@@ -1,8 +1,8 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Golden Sheaf, Sydney on Sat, 3 Oct 2026.
+RSquared is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Golden Sheaf, Sydney on Sat, 3 Oct 2026.
 
-RSquared is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Birmingham and Brisbane and 17 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Golden Sheaf, Sydney on Sat 3 Oct.
+RSquared is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Birmingham and Brisbane and 18 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Golden Sheaf, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ RSquared is a tech house and house artist based in United Kingdom, tracked on so
 | Sun, 4 Oct 2026 | elsewhere | Brisbane |
 | Thu, 22 Oct 2026 | Oliva | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Casino Rooms | South-east |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ RSquared is a tech house and house artist based in United Kingdom, tracked on so
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

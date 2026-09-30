@@ -1,6 +1,6 @@
 # Superordinary
 
-Superordinary is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Sundown Music Festival" on Sat, 3 Oct 2026.
+Superordinary is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Sundown Music Festival" on Sat, 3 Oct 2026.
 
 Superordinary is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Bella Claxton, Boys Noize, Carla Martinez and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 175 MacArthur Ave, Hamilton QLD 4007.
 
@@ -15,4 +15,4 @@ Superordinary is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs
 
 175 MacArthur Ave, Hamilton QLD 4007, Brisbane
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/superordinary/)*

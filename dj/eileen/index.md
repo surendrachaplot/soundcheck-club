@@ -1,6 +1,6 @@
 # Eileen
 
-Eileen is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Eileen is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Eileen is a house and club artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Cologne and Frankfurt. Often billed alongside AUHAM, Admo and Apua. Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Eileen is a house and club artist based in Germany, tracked on soundcheck, with 
 
 AUHAM, Admo, Apua
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*

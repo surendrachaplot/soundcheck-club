@@ -1,6 +1,6 @@
 # Josephine Wedekind
 
-Josephine Wedekind is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+Josephine Wedekind is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
 Josephine Wedekind is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Hamburg, Leipzig and Stockholm. Often billed alongside Lilian Stark, HypoGeo and Sika Akis. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Josephine Wedekind is a techno and trance artist tracked on soundcheck, with 24 
 
 Lilian Stark, HypoGeo, Sika Akis
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinewedekind/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinewedekind/)*

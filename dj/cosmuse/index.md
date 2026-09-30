@@ -1,6 +1,6 @@
 # COSMUSE
 
-COSMUSE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Seoul Community Radio, Seoul on Thu, 8 Oct 2026.
+COSMUSE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Seoul Community Radio, Seoul on Thu, 8 Oct 2026.
 
 COSMUSE is a house and deep house artist tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside NEOH, YUNHO and HARDNENDZ. Next up: Seoul Community Radio, Seoul on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ COSMUSE is a house and deep house artist tracked on soundcheck, with 6 sets logg
 
 NEOH, YUNHO, HARDNENDZ
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmuse/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmuse/)*

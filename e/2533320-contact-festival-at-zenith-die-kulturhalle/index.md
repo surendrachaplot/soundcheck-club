@@ -1,6 +1,6 @@
 # Contact Festival at Zenith - Die Kulturhalle
 
-Contact Festival at Zenith - Die Kulturhalle on Sat 5 Dec, Munich. 26 artists on the bill: 2HOT2PLAY, A.N.I., Alarico and Ben Techy and 22 more. Techno. Preview the line-up and save it on soundcheck.
+Contact Festival at Zenith - Die Kulturhalle on Sat 5 Dec, Munich. 28 artists on the bill: 2HOT2PLAY, A.N.I., Alarico and Ben Techy and 24 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,12 +15,14 @@ Contact Festival at Zenith - Die Kulturhalle on Sat 5 Dec, Munich. 26 artists on
 - Alarico
 - Ben Techy
 - Charlie Sparks
+- Daria Kolosova
 - DJ DRECKISCH
 - elMefti
 - I Hate Models
 - In Verruf
 - Johannes Schuster
 - KUKO
+- Luciid
 - NEGITIV
 - Nicolas Julian
 - Nikolina

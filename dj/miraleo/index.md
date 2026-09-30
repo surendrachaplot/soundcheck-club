@@ -1,6 +1,6 @@
 # MIRALEO
 
-MIRALEO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ://about blank, Berlin on Sat, 24 Oct 2026.
+MIRALEO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 MIRALEO is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Phillinger, Captain Ahoi and Eliza Minelli. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MIRALEO is a techno and trance artist tracked on soundcheck, with 13 sets logged
 
 Phillinger, Captain Ahoi, Eliza Minelli
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*

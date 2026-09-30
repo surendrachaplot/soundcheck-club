@@ -1,8 +1,8 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Index, Dublin on Sat, 10 Oct 2026.
+Ben Hemsley is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Index, Dublin on Sat, 10 Oct 2026.
 
-Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Index, Dublin on Sat 10 Oct.
+Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Index, Dublin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on so
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
+| Sat, 14 Nov 2026 | Quarters | Brighton |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on so
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

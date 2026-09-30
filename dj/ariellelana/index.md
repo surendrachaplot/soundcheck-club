@@ -1,6 +1,6 @@
 # Arielle Lana
 
-Arielle Lana is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
+Arielle Lana is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
 
 Arielle Lana is a club and footwork artist based in United States of America, tracked on soundcheck, with 39 sets logged across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside JEWELSSEA, Tromac and nextdimensional. Next up: Mood Ring, New York City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Arielle Lana is a club and footwork artist based in United States of America, tr
 
 JEWELSSEA, Tromac, nextdimensional
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellelana/)*

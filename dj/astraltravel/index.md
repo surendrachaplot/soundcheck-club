@@ -1,6 +1,6 @@
 # Astral Travel
 
-Astral Travel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
+Astral Travel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
 
 Astral Travel is a house and minimal artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Anthea, Oshana and Giammarco Orsini. Next up: Karmen Camina, Strasbourg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Astral Travel is a house and minimal artist based in Germany, tracked on soundch
 
 Anthea, Oshana, Giammarco Orsini
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astraltravel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astraltravel/)*

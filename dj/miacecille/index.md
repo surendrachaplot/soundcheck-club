@@ -1,8 +1,8 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
+Mia Cecille is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
+Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mia Cecille is a house and techno artist based in Netherlands, tracked on soundc
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
+| Sat, 28 Nov 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mia Cecille is a house and techno artist based in Netherlands, tracked on soundc
 
 Marie K (1), Daan Donk, 42nd Avenue
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*

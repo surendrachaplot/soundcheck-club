@@ -1,6 +1,6 @@
 # Van Der Laan
 
-Van Der Laan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
+Van Der Laan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
 Van Der Laan is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across New York City. Often billed alongside Atilla Ural, Ksenyeah and Manguito. Next up: McCarren Park, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Van Der Laan is a house and techno artist based in United States of America, tra
 
 Atilla Ural, Ksenyeah, Manguito
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*

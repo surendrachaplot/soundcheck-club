@@ -1,6 +1,6 @@
 # Kabinett
 
-Kabinett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Kabinett is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Bucharest and Colombia and 7 more. Often billed alongside Nuclear Digital Transistor, Intruso and Franz Scala. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kabinett is a house and techno artist based in Colombia, tracked on soundcheck, 
 
 Nuclear Digital Transistor, Intruso, Franz Scala
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*

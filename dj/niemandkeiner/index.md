@@ -1,6 +1,6 @@
 # Niemand & Keiner
 
-Niemand & Keiner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Niemand & Keiner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 Niemand & Keiner are a house and techno duo tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Burnhard, Annett Gapstream and Bonnie Ford. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Niemand & Keiner are a house and techno duo tracked on soundcheck, with 7 sets l
 
 Burnhard, Annett Gapstream, Bonnie Ford
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niemandkeiner/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niemandkeiner/)*

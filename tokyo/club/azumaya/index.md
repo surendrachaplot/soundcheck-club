@@ -1,6 +1,6 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Azumaya -Tuesday-" on Tue, 29 Sept 2026.
+Azumaya is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Azumaya -Wednesday-" on Wed, 30 Sept 2026.
 
 Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including 7e, Aki Dolanikov, BLUEMEW and Dihi and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
@@ -8,7 +8,6 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Azumaya -Tuesday- | kuniii |
 | Wed, 30 Sept 2026 | Azumaya -Wednesday- | SN_Yeah, Shimon Taka |
 | Thu, 1 Oct 2026 | Azumaya -Thursday- | Dihi, Naoki Ikawa, SOGI, Terax |
 | Fri, 2 Oct 2026 | 音乃間 / Oto no Ma | DiscCampForest, Sekitova, discopants |
@@ -17,9 +16,10 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 | Thu, 8 Oct 2026 | Azumaya -Thursday- |  |
 | Sun, 11 Oct 2026 | RESONYX | 7e, BLUEMEW |
 | Thu, 15 Oct 2026 | Azumaya -Thursday- | Aki Dolanikov, Moodman, monielu.h |
+| Fri, 23 Oct 2026 | m.i.d (mind in development) | Nao(rural) |
 
 ## Address
 
 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*

@@ -1,6 +1,6 @@
 # DJ Kemit
 
-DJ Kemit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Statera Cellars, Portland on Fri, 16 Oct 2026.
+DJ Kemit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Statera Cellars, Portland on Fri, 16 Oct 2026.
 
 DJ Kemit is a house and deep house artist tracked on soundcheck, with 16 sets logged across Chicago, Detroit, London and Miami and 4 more. Often billed alongside Kai Alce, Salah Ananse and Dvize. Next up: Statera Cellars, Portland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Kemit is a house and deep house artist tracked on soundcheck, with 16 sets lo
 
 Kai Alce, Salah Ananse, Dvize
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*

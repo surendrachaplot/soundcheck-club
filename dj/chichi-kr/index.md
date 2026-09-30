@@ -1,6 +1,6 @@
 # CHICHI (KR)
 
-CHICHI (KR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Blank Site, Seoul on Sat, 3 Oct 2026.
+CHICHI (KR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Blank Site, Seoul on Sat, 3 Oct 2026.
 
 CHICHI (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 7 sets logged across Hong Kong, Kuala Lumpur and Seoul. Often billed alongside Kim.Qna, Leejunghyuk and CHICHI. Next up: Blank Site, Seoul on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ CHICHI (KR) is a techno and house artist based in South Korea, tracked on soundc
 
 Kim.Qna, Leejunghyuk, CHICHI (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chichi-kr/)*

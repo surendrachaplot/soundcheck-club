@@ -1,6 +1,6 @@
 # Tunnel Signs
 
-Tunnel Signs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
+Tunnel Signs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
 
 Tunnel Signs is a techno and house artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside Mina Tonic, Reenie and Jerk Boy. Next up: White Bay Power Station, Sydney on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ Tunnel Signs is a techno and house artist based in Australia, tracked on soundch
 
 Mina Tonic, Reenie, Jerk Boy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*

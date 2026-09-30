@@ -1,6 +1,6 @@
 # Panke Social
 
-Panke Social is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "One" on Fri, 2 Oct 2026.
+Panke Social is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "One" on Fri, 2 Oct 2026.
 
 Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 16 Exchange street, Sheffield, S25TR.
 
@@ -15,4 +15,4 @@ Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs
 
 16 Exchange street, Sheffield, S25TR, Sheffield
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*

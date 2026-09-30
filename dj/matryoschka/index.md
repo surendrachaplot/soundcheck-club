@@ -1,6 +1,6 @@
 # Matryoschka
 
-Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
 Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Hamburg and Prague. Often billed alongside Eklekt1k, Phauna and Anton Quasi. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on sou
 
 Eklekt1k, Phauna, Anton Quasi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matryoschka/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matryoschka/)*

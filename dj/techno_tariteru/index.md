@@ -1,13 +1,14 @@
 # TECHNO_TARITERU?
 
-TECHNO_TARITERU? is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at HVEN, Tokyo on Fri, 9 Oct 2026.
+TECHNO_TARITERU? is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 2 Oct 2026.
 
-TECHNO_TARITERU? is a techno and tech house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside EMILIO, Kino Carey and LYOM. Next up: HVEN, Tokyo on Fri 9 Oct.
+TECHNO_TARITERU? is a techno and electro artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside Akira, EMILIO and HIMAWARI. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 9 Oct 2026 | HVEN | Tokyo |
 
 ## Recently played
@@ -16,6 +17,6 @@ TECHNO_TARITERU? is a techno and tech house artist based in Japan, tracked on so
 
 ## Shares bills with
 
-EMILIO (3), Kino Carey, LYOM
+Akira, EMILIO (3), HIMAWARI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techno_tariteru/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techno_tariteru/)*

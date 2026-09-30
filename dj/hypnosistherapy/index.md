@@ -1,6 +1,6 @@
 # HYPNOSIS THERAPY
 
-HYPNOSIS THERAPY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at VEGA, Copenhagen on Tue, 13 Oct 2026.
+HYPNOSIS THERAPY is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at VEGA, Copenhagen on Tue, 13 Oct 2026.
 
 HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, tracked on soundcheck, with 19 sets logged across Berlin, Bristol, Copenhagen and Leeds and 5 more. Often billed alongside Closet Yi, DJ Soulscape and Hyejin. Next up: VEGA, Copenhagen on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, tracked o
 
 Closet Yi, DJ Soulscape, Hyejin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*

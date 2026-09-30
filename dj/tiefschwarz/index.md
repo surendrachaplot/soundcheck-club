@@ -1,6 +1,6 @@
 # Tiefschwarz
 
-Tiefschwarz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Weekend, Berlin on Fri, 16 Oct 2026.
+Tiefschwarz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Weekend, Berlin on Fri, 16 Oct 2026.
 
 Tiefschwarz is a house and techno artist tracked on soundcheck, with 29 sets logged across Athens, Bali, Berlin and Kuala Lumpur and 6 more. Often billed alongside Soul Bait, Mømentum and Sascha Braemer. Next up: Weekend, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tiefschwarz is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Soul Bait, Mømentum, Sascha Braemer
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefschwarz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefschwarz/)*

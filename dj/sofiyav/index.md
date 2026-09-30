@@ -1,8 +1,8 @@
 # SOFIYA V
 
-SOFIYA V is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+SOFIYA V is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
-SOFIYA V is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Preacher's Daughter, Lulannie and Tata Soso. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
+SOFIYA V is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Preacher's Daughter, Lulannie and Tata Soso. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SOFIYA V is a techno and house artist based in United States of America, tracked
 
 Preacher's Daughter, Lulannie, Tata Soso
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*

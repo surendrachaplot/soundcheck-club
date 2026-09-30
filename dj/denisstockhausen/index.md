@@ -1,6 +1,6 @@
 # Denis Stockhausen
 
-Denis Stockhausen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gewölbe, Cologne on Fri, 6 Nov 2026.
+Denis Stockhausen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gewölbe, Cologne on Fri, 6 Nov 2026.
 
 Denis Stockhausen is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Cologne and Düsseldorf. Often billed alongside Robag Wruhme, Michael Mayer and Reinhard Voigt. Next up: Gewölbe, Cologne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Denis Stockhausen is a house and techno artist based in Germany, tracked on soun
 
 Robag Wruhme, Michael Mayer, Reinhard Voigt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denisstockhausen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denisstockhausen/)*

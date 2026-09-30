@@ -1,6 +1,6 @@
 # Saunaclub
 
-Saunaclub is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Saunaclub is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 Saunaclub is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Leipzig and Prague. Often billed alongside Mac-Kee, Panik Pop and Filburt. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saunaclub is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Mac-Kee, Panik Pop, Filburt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saunaclub/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saunaclub/)*

@@ -1,8 +1,8 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+DjRUM is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 47 more. Often billed alongside Skee Mask, Objekt and Kia (AU). Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 47 more. Often billed alongside Skee Mask, Objekt and Kia (AU). Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Open Ground | Wuppertal |
 | Sat, 5 Dec 2026 | C115 | Berlin |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Skee Mask, Objekt, Kia (AU)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*

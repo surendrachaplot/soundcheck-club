@@ -1,6 +1,6 @@
 # HamaDeus
 
-HamaDeus is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+HamaDeus is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 HamaDeus is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Central. Often billed alongside ANOTR, AUCO and Alexis Cabrera. Next up: TBA, Central on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ HamaDeus is a techno artist based in Germany, tracked on soundcheck, with 4 sets
 
 ANOTR, AUCO, Alexis Cabrera
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamadeus/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamadeus/)*

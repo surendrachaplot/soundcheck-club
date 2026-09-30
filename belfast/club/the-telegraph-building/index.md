@@ -1,8 +1,8 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "[VENUE UPGRADE] SHINE -- Pegassi + Paige Tomlinson" on Sat, 3 Oct 2026.
+The Telegraph Building is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "[VENUE UPGRADE] SHINE -- Pegassi + Paige Tomlinson" on Sat, 3 Oct 2026.
 
-The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcoming gigs, with line-ups including CIAN__, DIEBYVEG, Duke Dumont and Faster Horses and 2 more. Browse upcoming dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
+The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including CIAN__, DIEBYVEG, Duke Dumont and Faster Horses and 2 more. Browse upcoming dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcom
 | Sat, 14 Nov 2026 | SHINE -- JAZZY | Jazzy (IRL) |
 | Fri, 20 Nov 2026 | Duke Dumont | Duke Dumont |
 | Sat, 5 Dec 2026 | SHINE x INDEX -- Interplanetary Criminal | DIEBYVEG, Faster Horses, Interplanetary Criminal |
+| Sat, 6 Mar 2027 | AREA 10 pres MK | Marc Kinchen |
 
 ## Address
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

@@ -1,6 +1,6 @@
 # Selderv
 
-Selderv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at MODULE, Copenhagen on Fri, 2 Oct 2026.
+Selderv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at MODULE, Copenhagen on Fri, 2 Oct 2026.
 
 Selderv is a techno and house artist tracked on soundcheck, with 21 sets logged across Copenhagen and Istanbul. Often billed alongside Baime, Kipp and SCHAARUP. Next up: MODULE, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Selderv is a techno and house artist tracked on soundcheck, with 21 sets logged 
 
 Baime, Kipp, SCHAARUP
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selderv/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selderv/)*

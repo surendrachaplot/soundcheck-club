@@ -1,14 +1,15 @@
 # Rob Mello
 
-Rob Mello is a Deep House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Ramona, Manchester on Sat, 3 Oct 2026.
+Rob Mello is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Ramona, Manchester on Sat, 3 Oct 2026.
 
-Rob Mello is a deep house and garage artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, Dublin, Ibiza and Leeds and 3 more. Often billed alongside Jonny Rock, Axel Boman and Bifa and The Juice. Next up: Ramona, Manchester on Sat 3 Oct.
+Rob Mello is a disco and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Dublin, Ibiza and Leeds and 3 more. Often billed alongside Jonny Rock, Axel Boman and Bifa and The Juice. Next up: Ramona, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Ramona | Manchester |
+| Fri, 23 Oct 2026 | Secret London Location TBA | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rob Mello is a deep house and garage artist based in United Kingdom, tracked on 
 
 Jonny Rock, Axel Boman, Bifa and The Juice
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robmello/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robmello/)*

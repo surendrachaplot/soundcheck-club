@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Subcero Club, Madrid on Sat, 3 Oct 2026.
+Manu Oubiña is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Subcero Club, Madrid on Sat, 3 Oct 2026.
 
 Manu Oubiña is a house and electro artist based in Argentina, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Edu C. Next up: Subcero Club, Madrid on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Manu Oubiña is a house and electro artist based in Argentina, tracked on soundc
 
 LUKAS (4), Guile, Edu C
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

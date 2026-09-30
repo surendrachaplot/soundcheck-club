@@ -1,6 +1,6 @@
 # Mosam Howieson
 
-Mosam Howieson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Inner North, Melbourne on Sat, 17 Oct 2026.
+Mosam Howieson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Inner North, Melbourne on Sat, 17 Oct 2026.
 
 Mosam Howieson is a techno and house artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Emelyne, Kate Miller and Pjenné. Next up: TBA - Inner North, Melbourne on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Mosam Howieson is a techno and house artist based in Australia, tracked on sound
 
 Emelyne, Kate Miller, Pjenné
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moshowieson/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moshowieson/)*

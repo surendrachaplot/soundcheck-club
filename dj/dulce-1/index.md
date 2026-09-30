@@ -1,14 +1,15 @@
 # Dulce (1)
 
-Dulce (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+Dulce (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
-Dulce is a techno and electronica artist based in Colombia, tracked on soundcheck, with 21 sets logged across Barcelona and Berlin. Often billed alongside EYRA, Dr Humedo and Guilly. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
+Dulce is a techno and house artist based in Colombia, tracked on soundcheck, with 22 sets logged across Barcelona and Berlin. Often billed alongside EYRA, Dr Humedo and Guilly. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 31 Oct 2026 | Konvent de Cal Rosal | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dulce is a techno and electronica artist based in Colombia, tracked on soundchec
 
 EYRA, Dr Humedo, Guilly
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-1/)*

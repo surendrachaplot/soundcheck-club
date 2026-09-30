@@ -1,6 +1,6 @@
 # Passion DEEZ
 
-Passion DEEZ is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Passion DEEZ is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Passion DEEZ is a house and garage artist based in Zimbabwe, tracked on soundcheck, with 96 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Passion DEEZ is a house and garage artist based in Zimbabwe, tracked on soundche
 
 Deez, Cinnaman, Dengdeng
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*

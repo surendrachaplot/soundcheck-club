@@ -1,6 +1,6 @@
 # TOKiMONSTA
 
-TOKiMONSTA is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at HVEN, Tokyo on Fri, 2 Oct 2026.
+TOKiMONSTA is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at HVEN, Tokyo on Fri, 2 Oct 2026.
 
 TOKiMONSTA is a house and electronica artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Berlin and Chicago and 16 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: HVEN, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ TOKiMONSTA is a house and electronica artist based in United States of America, 
 
 Rochelle Jordan, Rozet, Bonobo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*

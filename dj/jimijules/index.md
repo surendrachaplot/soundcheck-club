@@ -1,8 +1,8 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Jimi Jules is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
-Jimi Jules is a house and techno artist based in Switzerland, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Jimi Jules is a house and techno artist based in Switzerland, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Jimi Jules is a house and techno artist based in Switzerland, tracked on soundch
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
+| Sun, 1 Nov 2026 | Club Space Miami | Miami |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played
@@ -31,4 +32,4 @@ Jimi Jules is a house and techno artist based in Switzerland, tracked on soundch
 
 Dixon, Âme, Trikk
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

@@ -1,6 +1,6 @@
-# PILOT/ Upper90 at The Art School
+# PILOT / Upper90 at The Art School
 
-PILOT/ Upper90 at The Art School on Wed 21 Oct, Glasgow. 3 artists on the bill: ALWAYS 8:15, Loose E and Upper90. Trance and House. Preview the line-up and save it on soundcheck.
+PILOT / Upper90 at The Art School on Wed 21 Oct, Glasgow. 3 artists on the bill: ALWAYS 8:15, Loose E and Upper90. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "SLAGADER" on Wed, 30 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "SLAGADER" on Wed, 30 Sept 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, with line-ups including Carmilla Sioux, DJ Bisou, Dj LovePills and DONIA and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -21,4 +21,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 8 upcoming gi
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

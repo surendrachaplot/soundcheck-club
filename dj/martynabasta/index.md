@@ -1,6 +1,6 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Martyna Basta is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Martyna Basta is an experimental and electronica artist based in Poland, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside Heinali, Kitty Sarcasm and Nídia. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Martyna Basta is an experimental and electronica artist based in Poland, tracked
 
 Heinali, Kitty Sarcasm, Nídia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

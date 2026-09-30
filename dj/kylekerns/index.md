@@ -1,6 +1,6 @@
 # Kyle Kerns
 
-Kyle Kerns is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - VOID, Denver on Sat, 31 Oct 2026.
+Kyle Kerns is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - VOID, Denver on Sat, 31 Oct 2026.
 
 Kyle Kerns is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Denver and New York City. Often billed alongside Campdukes, Hermans and Ignez. Next up: TBA - VOID, Denver on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Kyle Kerns is a techno and house artist based in United States of America, track
 
 Campdukes, Hermans, Ignez
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylekerns/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylekerns/)*

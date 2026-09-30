@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HIDDEN BEHIND X TITNS VOL. 23" on Wed, 30 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "HIDDEN BEHIND X TITNS VOL. 23" on Wed, 30 Sept 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -15,10 +15,10 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upco
 | Sun, 4 Oct 2026 | SOIL TRAX SUNDAYS | Charlton, Gabalyn, JELLY |
 | Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
 | Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
-| Sat, 21 Nov 2026 | ITALORATOR | Inez, Italo Brutalo, Marsman, Rimini Express |
+| Sat, 21 Nov 2026 | ITALORATOR | Italo Brutalo, Marsman, Rimini Express |
 
 ## Address
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

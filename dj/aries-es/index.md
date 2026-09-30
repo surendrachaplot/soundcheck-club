@@ -1,13 +1,14 @@
 # Ari (ES)
 
-Ari (ES) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
+Ari (ES) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Barraca, Valencia on Fri, 2 Oct 2026.
 
-Ari (ES) is a techno and house artist based in Spain, tracked on soundcheck, with 3 sets logged across Basel, Berlin and Munich. Often billed alongside Feldberg, mogli and Aries. Next up: TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat 10 Oct.
+Ari (ES) is a trance and techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Basel, Berlin, Munich and Valencia. Often billed alongside Feldberg, mogli and @n3opapi. Next up: Barraca, Valencia on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Barraca | Valencia |
 | Sat, 10 Oct 2026 | TBA - Warerhouse Alioth, 4142 Münchenstein | Basel |
 
 ## Recently played
@@ -17,6 +18,6 @@ Ari (ES) is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Feldberg, mogli (2), Aries
+Feldberg, mogli (2), @n3opapi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-es/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-es/)*

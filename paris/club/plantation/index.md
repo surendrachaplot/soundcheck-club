@@ -1,6 +1,6 @@
 # Plantation
 
-Plantation is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Ribella Rave Society - Rooftop Party" on Fri, 2 Oct 2026.
+Plantation is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Ribella Rave Society - Rooftop Party" on Fri, 2 Oct 2026.
 
 Plantation is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Disco Paese, Eternal Love, LeLeon and Nick V and 2 more. Browse upcoming dates, start times and who's playing. 37 Rue des Cheminots, 75018, Paris.
 
@@ -17,4 +17,4 @@ Plantation is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with
 
 37 Rue des Cheminots, 75018, Paris, Paris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*

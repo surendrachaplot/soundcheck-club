@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "GRAVE BR baile funk vol. IV: DJ SWAG DO COMPLEXO, JADA, N3LYSTAR, SILVASURFER, Letícia²" on Fri, 2 Oct 2026.
+Badehaus Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "GRAVE BR baile funk vol. IV: DJ SWAG DO COMPLEXO, JADA, N3LYSTAR, SILVASURFER, Letícia²" on Fri, 2 Oct 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Anna Æther, JADA MORAES, N3LYSTAR and SILVASURFER and 1 more. Browse upcoming dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

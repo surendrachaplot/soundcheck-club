@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "THE 2026 LONDON FRESHERS CIRCUS" on Wed, 30 Sept 2026.
+The Steel Yard is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "THE 2026 LONDON FRESHERS CIRCUS" on Wed, 30 Sept 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Bassface, Beezo, Crossy and DJ Majesty and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

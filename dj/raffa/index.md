@@ -1,6 +1,6 @@
 # RAFFA
 
-RAFFA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
+RAFFA is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
 RAFFA is a techno and drum & bass artist tracked on soundcheck, with 9 sets logged across Amsterdam, Bangkok, Budapest and Cologne. Often billed alongside LSG, Tristan K and AIRKEY. Next up: Schrotty, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ RAFFA is a techno and drum & bass artist tracked on soundcheck, with 9 sets logg
 
 LSG, Tristan K (1), AIRKEY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*

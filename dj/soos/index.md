@@ -1,6 +1,6 @@
 # Soos
 
-Soos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Massive, Seattle on Fri, 2 Oct 2026.
+Soos is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Massive, Seattle on Fri, 2 Oct 2026.
 
 Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, with 96 sets logged across Barcelona, Berlin, Denver and Lisbon and 14 more. Often billed alongside Rafatel, papa jazz and Palmi. Next up: Massive, Seattle on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, w
 
 Rafatel, papa jazz, Palmi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*

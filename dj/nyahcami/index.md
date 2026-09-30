@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - ?, Atlanta on Thu, 15 Oct 2026.
+Nyah Cami is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - ?, Atlanta on Thu, 15 Oct 2026.
 
 Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 4 sets logged across Atlanta and New York City. Often billed alongside Adelaide, BRATATTACK and CMD+JAZMINE. Next up: TBA - ?, Atlanta on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Nyah Cami is a ghetto tech and club artist tracked on soundcheck, with 4 sets lo
 
 Adelaide (1), BRATATTACK, CMD+JAZMINE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

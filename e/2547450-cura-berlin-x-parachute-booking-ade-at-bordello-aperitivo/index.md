@@ -1,10 +1,10 @@
 # CURA Berlin x Parachute Booking - ADE at Bordello Aperitivo
 
-CURA Berlin x Parachute Booking - ADE at Bordello Aperitivo on Sat 3 Oct, Amsterdam. 2 artists on the bill: Ben Kaczor and MASCHA. House. Preview the line-up and save it on soundcheck.
+CURA Berlin x Parachute Booking - ADE at Bordello Aperitivo on Sat 24 Oct, Amsterdam. 2 artists on the bill: Ben Kaczor and MASCHA. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 3 Oct 2026 |
+| Date | Sat, 24 Oct 2026 |
 | Venue | Bordello Aperitivo |
 | City | Amsterdam |
 

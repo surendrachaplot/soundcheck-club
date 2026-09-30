@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The White Hotel, Manchester on Fri, 2 Oct 2026.
+Helena Hauff is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The White Hotel, Manchester on Fri, 2 Oct 2026.
 
 Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Auckland and 68 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: The White Hotel, Manchester on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 
 DVS1, Job Jobse, Ben UFO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

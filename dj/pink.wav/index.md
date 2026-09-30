@@ -1,6 +1,6 @@
 # pink.wav
 
-pink.wav is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Romantso, Athens on Fri, 2 Oct 2026.
+pink.wav is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Romantso, Athens on Fri, 2 Oct 2026.
 
 pink.wav is a techno and bass artist based in Greece, tracked on soundcheck, with 47 sets logged across Athens, Brussels and Prague. Often billed alongside Andreas Palmer, Poor J’Darr and A. Square. Next up: Romantso, Athens on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ pink.wav is a techno and bass artist based in Greece, tracked on soundcheck, wit
 
 Andreas Palmer, Poor J’Darr, A. Square
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pink.wav/)*

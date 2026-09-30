@@ -1,6 +1,6 @@
 # UNRELEASED pres. The Church - ADE Edition at Hotel Arena
 
-UNRELEASED pres. The Church - ADE Edition at Hotel Arena on Wed 21 Oct, Amsterdam. 1 artist on the bill: ARODES. Techno and House. Preview the line-up and save it on soundcheck.
+UNRELEASED pres. The Church - ADE Edition at Hotel Arena on Wed 21 Oct, Amsterdam. 7 artists on the bill: Antigone, ARODES, Collé and Darque and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ UNRELEASED pres. The Church - ADE Edition at Hotel Arena on Wed 21 Oct, Amsterda
 
 ## Line-up
 
+- Antigone
 - ARODES
+- Collé
+- Darque
+- Martim Rola
+- Rivo
+- Rodriguez Jr.
 
 *Source: [soundcheck](https://soundcheck.club/e/2516863-unreleased-pres-the-church-ade-edition-at-hotel-arena/)*

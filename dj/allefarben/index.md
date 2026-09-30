@@ -1,14 +1,15 @@
 # Alle Farben
 
-Alle Farben is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
+Alle Farben is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Alle Farben is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Basel and Berlin and 8 more. Often billed alongside Noel Holler, LOVRA and Lahos. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
+Alle Farben is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Bangkok, Basel and Berlin and 9 more. Often billed alongside Noel Holler, LOVRA and Lahos. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
+| Fri, 30 Oct 2026 | halle02 | Heidelberg |
 | Sat, 31 Oct 2026 | Astra Kulturhaus | Berlin |
 | Fri, 20 Nov 2026 | Bootshaus | Cologne |
 
@@ -27,4 +28,4 @@ Alle Farben is a house and techno artist based in Germany, tracked on soundcheck
 
 Noel Holler, LOVRA, Lahos
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*

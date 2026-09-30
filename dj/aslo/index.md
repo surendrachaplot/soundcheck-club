@@ -1,8 +1,8 @@
 # ASLO
 
-ASLO is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
+ASLO is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
 
-ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Birmingham, Edinburgh, Glasgow and Istanbul and 4 more. Often billed alongside LAUZ, AISHA and Mark Blair. Next up: Kilomètre25, Paris on Sat 17 Oct.
+ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Birmingham, Brisbane, Edinburgh and Glasgow and 6 more. Often billed alongside LAUZ, Adam Bartas and Boris Brejcha. Next up: Kilomètre25, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
+| Fri, 15 Jan 2027 | Arena Joondalup | Perth |
+| Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
+| Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ ASLO is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 
 ## Shares bills with
 
-LAUZ, AISHA, Mark Blair
+LAUZ, Adam Bartas, Boris Brejcha
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*

@@ -1,8 +1,8 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Halley Space, London on Thu, 1 Oct 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Halley Space, London on Thu, 1 Oct 2026.
 
-SKALAH (UK) is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Saint Ludo and Figs. Next up: The Halley Space, London on Thu 1 Oct.
+SKALAH (UK) is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Saint Ludo and Plastician. Next up: The Halley Space, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ SKALAH (UK) is a dubstep and bass artist based in United Kingdom, tracked on sou
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ SKALAH (UK) is a dubstep and bass artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-JAZ IMSKY, Saint Ludo, Figs
+JAZ IMSKY, Saint Ludo, Plastician
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

@@ -1,6 +1,6 @@
 # Donncha
 
-Donncha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 29 Oct 2026.
+Donncha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 29 Oct 2026.
 
 Donncha is a house and garage artist based in Ireland, tracked on soundcheck, with 6 sets logged across Dublin and Utrecht. Often billed alongside Surferboy, Marie Eli and ADRIANA. Next up: Yamamori Tengu, Dublin on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Donncha is a house and garage artist based in Ireland, tracked on soundcheck, wi
 
 Surferboy, Marie Eli, ADRIANA (4)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donncha/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donncha/)*

@@ -1,13 +1,14 @@
 # Nive
 
-Nive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hidden Sounds, London on Fri, 16 Oct 2026.
+Nive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
-Nive is a techno and house artist based in Switzerland, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Düsseldorf and Geneva and 4 more. Often billed alongside Dominik André, Luka (CH) and Rearte. Next up: Hidden Sounds, London on Fri 16 Oct.
+Nive is a techno and house artist based in Switzerland, tracked on soundcheck, with 39 sets logged across Amsterdam, Austria, Berlin and Düsseldorf and 5 more. Often billed alongside Dominik André, Luka (CH) and Rearte. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | TBA - Various Locations in Innsbruck | Austria |
 | Fri, 16 Oct 2026 | Hidden Sounds | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nive is a techno and house artist based in Switzerland, tracked on soundcheck, w
 
 Dominik André, Luka (CH), Rearte
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nive/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nive/)*

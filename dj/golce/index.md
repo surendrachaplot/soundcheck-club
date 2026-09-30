@@ -1,13 +1,14 @@
 # Golce
 
-Golce is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
+Golce is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
-Golce is a club and experimental artist based in Belgium, tracked on soundcheck, with 20 sets logged across Brussels, Paris and Zurich. Often billed alongside fetva, DJ Music and Lisa More. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
+Golce is a club and experimental artist based in Belgium, tracked on soundcheck, with 21 sets logged across Brussels, Paris and Zurich. Often billed alongside fetva, DJ Music and Lisa More. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 10 Oct 2026 | La Machine Du Moulin Rouge | Paris |
 | Thu, 22 Oct 2026 | La Station - Gare des Mines | Paris |
 
@@ -26,4 +27,4 @@ Golce is a club and experimental artist based in Belgium, tracked on soundcheck,
 
 fetva, DJ Music, Lisa More
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/golce/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/golce/)*

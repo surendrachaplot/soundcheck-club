@@ -1,6 +1,6 @@
 # VIVUS
 
-VIVUS is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at WDM, Hannover on Sat, 3 Oct 2026.
+VIVUS is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at WDM, Hannover on Sat, 3 Oct 2026.
 
 VIVUS is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Hannover. Often billed alongside Melushka, 5euroGoldi and PASSA. Next up: WDM, Hannover on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ VIVUS is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Melushka, 5euroGoldi, PASSA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*

@@ -1,6 +1,6 @@
 # G_ssus
 
-G_ssus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Crackhouse, Gdansk on Sat, 10 Oct 2026.
+G_ssus is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Crackhouse, Gdansk on Sat, 10 Oct 2026.
 
 G_ssus is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Amsterdam, Gdansk, Stockholm and Warsaw. Often billed alongside Ola Teks, Pitti Schmitti and Stroppy Pie. Next up: Crackhouse, Gdansk on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ G_ssus is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Ola Teks, Pitti Schmitti, Stroppy Pie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g_ssus/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g_ssus/)*

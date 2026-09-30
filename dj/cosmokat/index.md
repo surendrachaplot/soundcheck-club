@@ -1,6 +1,6 @@
 # Cosmokat
 
-Cosmokat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 3 Oct 2026.
+Cosmokat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 3 Oct 2026.
 
 Cosmokat is a techno and house artist tracked on soundcheck, with 40 sets logged across Athens, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside DIESEN, DER ALINEA and Gunnar Stiller. Next up: Club Frau Holle, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cosmokat is a techno and house artist tracked on soundcheck, with 40 sets logged
 
 DIESEN, DER ALINEA, Gunnar Stiller
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmokat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmokat/)*

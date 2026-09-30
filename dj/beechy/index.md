@@ -1,28 +1,27 @@
 # Beechy
 
-Beechy is a Disco and Funk / Soul artist with 14 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Freeze HiFi, Liverpool on Tue, 29 Sept 2026.
+Beechy is a Disco and Funk / Soul artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Freeze HiFi, Liverpool on Tue, 6 Oct 2026.
 
-Beechy is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Liverpool and Manchester. Often billed alongside Izaac Moses, Touch Of Funk and AC Groove. Next up: Freeze HiFi, Liverpool on Tue 29 Sept.
+Beechy is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Liverpool and Manchester. Often billed alongside Izaac Moses, Touch Of Funk and AC Groove. Next up: Freeze HiFi, Liverpool on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Freeze HiFi | Liverpool |
 | Tue, 6 Oct 2026 | Freeze HiFi | Liverpool |
 | Tue, 13 Oct 2026 | Freeze HiFi | Liverpool |
-| Tue, 20 Oct 2026 | Freeze HiFi | Liverpool |
 | Tue, 27 Oct 2026 | Freeze HiFi | Liverpool |
 | Sat, 31 Oct 2026 | Frederik's Bar | Liverpool |
 | Tue, 3 Nov 2026 | Freeze HiFi | Liverpool |
-| Tue, 10 Nov 2026 | Freeze HiFi | Liverpool |
 | Tue, 17 Nov 2026 | Freeze HiFi | Liverpool |
-| Tue, 24 Nov 2026 | Freeze HiFi | Liverpool |
 | Tue, 1 Dec 2026 | Freeze HiFi | Liverpool |
 | Tue, 8 Dec 2026 | Freeze HiFi | Liverpool |
+| Tue, 15 Dec 2026 | Freeze HiFi | Liverpool |
+| Tue, 22 Dec 2026 | Freeze HiFi | Liverpool |
 
 ## Recently played
 
+- Freeze HiFi, Liverpool — Tue, 29 Sept 2026
 - Un.Titled Studio, Manchester — Sat, 12 Sept 2026
 - Arts Bar Baltic, Liverpool — Sat, 5 Sept 2026
 - renae, Manchester — Thu, 3 Sept 2026
@@ -34,4 +33,4 @@ Beechy is a disco and funk / soul artist based in United Kingdom, tracked on sou
 
 Izaac Moses, Touch Of Funk, AC Groove
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

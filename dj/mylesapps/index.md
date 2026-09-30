@@ -1,6 +1,6 @@
 # Myles Apps
 
-Myles Apps is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Myles Apps is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Myles Apps is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Rhys Dyer, Aaron Burr and Jude Lenihan. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Myles Apps is a house and tech house artist based in United Kingdom, tracked on 
 
 Rhys Dyer, Aaron Burr (2), Jude Lenihan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*

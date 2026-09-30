@@ -1,14 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
+Yanamaste is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Yanamaste is a techno and house artist based in Georgia, tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
+Yanamaste is a techno and house artist based in Georgia, tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 9 Oct 2026 | Kompass Klub | Ghent |
@@ -20,6 +19,7 @@ Yanamaste is a techno and house artist based in Georgia, tracked on soundcheck, 
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 7 Nov 2026 | FOLD | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist based in Georgia, tracked on soundcheck, 
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Vera Grace is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
 Vera Grace is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: RADION, Amsterdam on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Vera Grace is a techno and industrial artist based in Netherlands, tracked on so
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

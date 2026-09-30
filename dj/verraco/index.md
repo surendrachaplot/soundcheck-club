@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Verraco is a techno and bass artist based in Colombia, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Verraco is a techno and bass artist based in Colombia, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Verraco is a techno and bass artist based in Colombia, tracked on soundcheck, wi
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
 | Sat, 21 Nov 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
+| Thu, 18 Feb 2027 | Bozar | Brussels |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Verraco is a techno and bass artist based in Colombia, tracked on soundcheck, wi
 
 Bitter Babe, CCL, Batu
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

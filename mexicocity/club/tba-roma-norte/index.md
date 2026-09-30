@@ -1,6 +1,6 @@
 # TBA - ROMA NORTE 
 
-TBA - ROMA NORTE  is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Cultura Subterránea Mx" on Fri, 2 Oct 2026.
+TBA - ROMA NORTE  is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Cultura Subterránea Mx" on Fri, 2 Oct 2026.
 
 TBA - ROMA NORTE  is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Max Rite. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ROMA NORTE  is a music venue in Mexico City listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cultura Subterránea Mx | Max Rite |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-roma-norte/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-roma-norte/)*

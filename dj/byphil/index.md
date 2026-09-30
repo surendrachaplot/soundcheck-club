@@ -1,6 +1,6 @@
 # ByPhil
 
-ByPhil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
+ByPhil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
 
 ByPhil is a house and deep house artist tracked on soundcheck, with 33 sets logged across Belfast. Often billed alongside Cooke, Jude Dude and Plain Sailing DJs. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ByPhil is a house and deep house artist tracked on soundcheck, with 33 sets logg
 
 Cooke, Jude Dude, Plain Sailing DJs
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byphil/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byphil/)*

@@ -1,6 +1,6 @@
 # elMefti
 
-elMefti is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 5 Dec 2026.
+elMefti is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 5 Dec 2026.
 
 elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Holy Priest, A.N.I. and Nicolas Julian. Next up: Zenith - Die Kulturhalle, Munich on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Holy Priest, A.N.I., Nicolas Julian
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*

@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0" on Sat, 3 Oct 2026.
+AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0" on Sat, 3 Oct 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _minted, ALAN JOE, Bill Sanders and Charlie. and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 | Sat, 7 Nov 2026 | deep method: QZB, GEST, yungfya & more | GEST (UK), Kenzura, Mc Jamie White, PRTCL, Sammy B - deviate, yungfya |
 | Fri, 13 Nov 2026 | CLASH | ALAN JOE, Bill Sanders, Danny Roach, jardabpm |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

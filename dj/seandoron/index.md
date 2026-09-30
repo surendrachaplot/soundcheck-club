@@ -1,6 +1,6 @@
 # Sean Doron
 
-Sean Doron is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gallagher Square, San Diego on Sat, 28 Nov 2026.
+Sean Doron is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gallagher Square, San Diego on Sat, 28 Nov 2026.
 
 Sean Doron is a house and deep house artist based in Israel, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Brussels and Frankfurt and 15 more. Often billed alongside MAGA, Emanuel Satie and Tim Engelhardt. Next up: Gallagher Square, San Diego on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sean Doron is a house and deep house artist based in Israel, tracked on soundche
 
 MAGA, Emanuel Satie, Tim Engelhardt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seandoron/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seandoron/)*

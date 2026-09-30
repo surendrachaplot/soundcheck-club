@@ -1,6 +1,6 @@
 # CORA
 
-CORA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
+CORA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
 
 CORA is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Berlin, Istanbul, Lisbon and London and 6 more. Often billed alongside Muchooss, Skoden and Dstm. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ CORA is a techno and industrial artist tracked on soundcheck, with 11 sets logge
 
 Muchooss, Skoden, Dstm
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cora/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cora/)*

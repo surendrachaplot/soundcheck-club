@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Electronica and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
+KALI. is a Electronica and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
 
 KALI. is an electronica and baile funk artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside sin serif, dj latinchat and auto_timer. Next up: Lark, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KALI. is an electronica and baile funk artist based in Germany, tracked on sound
 
 sin serif, dj latinchat, auto_timer
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*

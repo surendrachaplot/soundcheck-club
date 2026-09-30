@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Riordan CIRCUS Tokyo" on Thu, 1 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Riordan CIRCUS Tokyo" on Thu, 1 Oct 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including Kaibshr, Ben Sims, Blacky and cirra and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

@@ -1,8 +1,8 @@
 # Dana Kuehr
 
-Dana Kuehr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
+Dana Kuehr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
 
-Dana Kuehr is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 10 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: TBA - Secret Location (Madrid), Madrid on Sat 10 Oct.
+Dana Kuehr is a house and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 11 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: TBA - Secret Location (Madrid), Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dana Kuehr is a house and techno artist based in United States of America, track
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 16 Oct 2026 | Badaboum | Paris |
+| Fri, 27 Nov 2026 | TBA - TBA | North |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dana Kuehr is a house and techno artist based in United States of America, track
 
 Fais Le Beau, DJ Rino, Karla Böhm
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*

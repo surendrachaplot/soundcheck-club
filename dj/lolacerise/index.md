@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
+Lola Cerise is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
 Lola Cerise is a techno and trance artist based in France, tracked on soundcheck, with 53 sets logged across Amsterdam, Basel, Berlin and Bristol and 19 more. Often billed alongside KLOUD, Kander and dasstudach. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Lola Cerise is a techno and trance artist based in France, tracked on soundcheck
 
 KLOUD, Kander, dasstudach
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

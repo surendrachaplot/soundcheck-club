@@ -1,6 +1,6 @@
 # Godero
 
-Godero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
+Godero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
 Godero is a techno and house artist based in Belgium, tracked on soundcheck, with 21 sets logged across Amsterdam, Brussels, Ghent and Lisbon. Often billed alongside DJ Rino, Dana Kuehr and Kuba'97. Next up: Illegaal, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Godero is a techno and house artist based in Belgium, tracked on soundcheck, wit
 
 DJ Rino, Dana Kuehr, Kuba'97
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godero/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godero/)*

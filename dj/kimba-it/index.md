@@ -1,6 +1,6 @@
 # KIMBÄ
 
-KIMBÄ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Chicago on Sat, 3 Oct 2026.
+KIMBÄ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Chicago on Sat, 3 Oct 2026.
 
 KIMBÄ is a techno and industrial artist based in Italy, tracked on soundcheck, with 11 sets logged across Chicago. Often billed alongside Flores Negras, Brenda and dirtymoney. Next up: TBA, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ KIMBÄ is a techno and industrial artist based in Italy, tracked on soundcheck, 
 
 Flores Negras, Brenda, dirtymoney
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimba-it/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimba-it/)*

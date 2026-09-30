@@ -1,6 +1,6 @@
 # The Pushamann
 
-The Pushamann is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kater, Berlin on Fri, 6 Nov 2026.
+The Pushamann is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kater, Berlin on Fri, 6 Nov 2026.
 
 The Pushamann is a house and trance artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin and London. Often billed alongside Maik Yells, Enchanted Rhythms and Mumblah. Next up: Kater, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ The Pushamann is a house and trance artist based in United Kingdom, tracked on s
 
 Maik Yells, Enchanted Rhythms, Mumblah
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thepushamann/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thepushamann/)*

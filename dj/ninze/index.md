@@ -1,6 +1,6 @@
 # Ninze
 
-Ninze is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beate Uwe, Berlin on Thu, 22 Oct 2026.
+Ninze is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Beate Uwe, Berlin on Thu, 22 Oct 2026.
 
 Ninze is a downtempo and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Basel, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Niju, Canson and Britta Arnold. Next up: Beate Uwe, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ninze is a downtempo and techno artist based in Germany, tracked on soundcheck, 
 
 Niju, Canson, Britta Arnold
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninze/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninze/)*

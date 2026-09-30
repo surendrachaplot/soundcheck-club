@@ -1,6 +1,6 @@
 # Paolo Mosca
 
-Paolo Mosca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Paolo Mosca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*

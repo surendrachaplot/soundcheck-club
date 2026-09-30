@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+The Martinez Brothers is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 The Martinez Brothers is a house and tech house artist based in United States of America, tracked on soundcheck, with 188 sets logged across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: TBA, Central on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

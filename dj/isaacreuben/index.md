@@ -1,6 +1,6 @@
 # Isaac Reuben
 
-Isaac Reuben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Low Profile Studios, London on Sat, 7 Nov 2026.
+Isaac Reuben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Low Profile Studios, London on Sat, 7 Nov 2026.
 
 Isaac Reuben is a house and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside Elianne, Roska and A For Alpha. Next up: Low Profile Studios, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Isaac Reuben is a house and techno artist based in United Kingdom, tracked on so
 
 Elianne, Roska, A For Alpha
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacreuben/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacreuben/)*

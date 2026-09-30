@@ -1,6 +1,6 @@
 # RANDALE IM FUNDI at Fundbureau
 
-RANDALE IM FUNDI at Fundbureau on Fri 2 Oct, Hamburg. 3 artists on the bill: Konfusia, Randali and Sophie van Hayden. Trance and Techno. Preview the line-up and save it on soundcheck.
+RANDALE IM FUNDI at Fundbureau on Fri 2 Oct, Hamburg. 4 artists on the bill: JMK, Konfusia, Randali and Sophie van Hayden. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RANDALE IM FUNDI at Fundbureau on Fri 2 Oct, Hamburg. 3 artists on the bill: Kon
 
 ## Line-up
 
+- JMK (1)
 - Konfusia
 - Randali
 - Sophie van Hayden

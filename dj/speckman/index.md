@@ -1,6 +1,6 @@
 # Speckman
 
-Speckman is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+Speckman is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
 Speckman is a house and electronica artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside EliaHaze, Penglord and DJ SOURCE. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Speckman is a house and electronica artist based in Germany, tracked on soundche
 
 EliaHaze, Penglord, DJ SOURCE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*

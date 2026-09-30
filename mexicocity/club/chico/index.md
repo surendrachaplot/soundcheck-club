@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Kush Jones" on Fri, 2 Oct 2026.
+CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Kush Jones" on Fri, 2 Oct 2026.
 
 CHICO is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, with line-ups including Aliien Giirl, Andre VII, Baby Mango and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -9,7 +9,7 @@ CHICO is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kush Jones | Kush Jones |
-| Sat, 3 Oct 2026 | Manifestation Club [Five Years] | Andre VII, Baby Mango, Bluecommand, Dj Bauhaus, Maseriche, Mijo, OBTA, Phanta |
+| Sat, 3 Oct 2026 | Manifestation Club [Five Years] | Andre VII, Baby Mango, Bluecommand, Cybebe, Dj Bauhaus, EM2K, Maseriche, Mijo, OBTA, Phanta |
 | Fri, 23 Oct 2026 | Troniic Giirls vol. 3 | Aliien Giirl, Kitsunee, Laura Coch, Maseriche |
 | Sat, 24 Oct 2026 | Techno Museum & X Tribu Ciudad de México | Fortier, Mr. Increible, Sabina Palma, Villaseñor |
 | Sat, 31 Oct 2026 | Ritual del Kaoz: Halloween | Marvin Marciano, Milothicc |
@@ -19,4 +19,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

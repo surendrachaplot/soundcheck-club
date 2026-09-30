@@ -1,6 +1,6 @@
 # TECHNIKA
 
-TECHNIKA is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+TECHNIKA is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
 TECHNIKA is a techno artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Budapest and Paris and 3 more. Often billed alongside KARAH, Franky-B and KLOFAMA. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TECHNIKA is a techno artist based in Netherlands, tracked on soundcheck, with 25
 
 KARAH, Franky-B, KLOFAMA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technika/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technika/)*

@@ -1,6 +1,6 @@
 # A-440
 
-A-440 is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Fri, 23 Oct 2026.
+A-440 is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Fri, 23 Oct 2026.
 
 A-440 is a house and trance artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, London, Nantes and Paris and 1 more. Often billed alongside Ixpé, Ba-Vic and Julie Desire. Next up: Le Lieu Unique / Nantes, Nantes on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ A-440 is a house and trance artist based in France, tracked on soundcheck, with 
 
 Ixpé, Ba-Vic, Julie Desire
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a-440/)*

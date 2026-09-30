@@ -1,13 +1,14 @@
 # Picep
 
-Picep is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Munster Munch, London on Fri, 9 Oct 2026.
+Picep is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
 
-Picep is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across London. Often billed alongside Dimanté, MEERA (UK) and Aur0m. Next up: Munster Munch, London on Fri 9 Oct.
+Picep is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across London. Often billed alongside Dimanté, MEERA (UK) and Aur0m. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Union Club, Vauxhall | London |
 | Fri, 9 Oct 2026 | Munster Munch | London |
 | Sat, 24 Oct 2026 | Munster Munch | London |
 
@@ -26,4 +27,4 @@ Picep is a tech house and afro house artist based in United Kingdom, tracked on 
 
 Dimanté, MEERA (UK), Aur0m
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

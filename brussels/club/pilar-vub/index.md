@@ -1,14 +1,13 @@
 # Pilar - VUB
 
-Pilar - VUB is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "LEYA" on Tue, 29 Sept 2026.
+Pilar - VUB is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens" on Thu, 1 Oct 2026.
 
-Pilar - VUB is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Zhang Hungtai and LEYA. Browse upcoming dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
+Pilar - VUB is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Zhang Hungtai. Browse upcoming dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | LEYA | LEYA |
 | Thu, 1 Oct 2026 | Alex Zhang Hungtai + Katya Shirshkova + Catharina Evens | Alex Zhang Hungtai |
 | Tue, 27 Oct 2026 | Bitchin Bajas |  |
 | Tue, 10 Nov 2026 | FUJI///////////TA |  |
@@ -18,4 +17,4 @@ Pilar - VUB is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, 
 
 Boulevard de la Plaine 2, 1050 Ixelles, Belgium, Brussels
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*

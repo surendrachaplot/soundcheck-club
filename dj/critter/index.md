@@ -1,14 +1,15 @@
 # Critter
 
-Critter is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - hehehe, Toronto on Fri, 9 Oct 2026.
+Critter is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
-Critter is a house and club artist based in Canada, tracked on soundcheck, with 46 sets logged across Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: TBA - hehehe, Toronto on Fri 9 Oct.
+Critter is a house and club artist based in Canada, tracked on soundcheck, with 47 sets logged across Pennsylvania and Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - hehehe | Toronto |
+| Fri, 9 Oct 2026 | Cafeteria | Toronto |
+| Sat, 10 Oct 2026 | TBA | Pennsylvania |
 | Fri, 16 Oct 2026 | The Jama | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Critter is a house and club artist based in Canada, tracked on soundcheck, with 
 
 Kai (TO), moody.cn.man, DJ CISWOMAN
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*

@@ -1,6 +1,6 @@
 # DENYC
 
-DENYC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Jungle Hollywood, Los Angeles on Wed, 30 Sept 2026.
+DENYC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Jungle Hollywood, Los Angeles on Wed, 30 Sept 2026.
 
 DENYC is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles. Often billed alongside RCKSLVR, Trou and DJ Alden. Next up: Jungle Hollywood, Los Angeles on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ DENYC is a techno and house artist based in United States of America, tracked on
 
 RCKSLVR, Trou, DJ Alden
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*

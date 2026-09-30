@@ -1,6 +1,6 @@
 # NOTMYTYPE (2)
 
-NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Sat, 7 Nov 2026.
+NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at OST, Berlin on Sat, 7 Nov 2026.
 
 NOTMYTYPE is a techno and trance artist tracked on soundcheck, with 52 sets logged across Amsterdam, Basel, Berlin and Brussels and 14 more. Often billed alongside IGDA, Nicolas Julian and A.N.I.. Next up: OST, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NOTMYTYPE is a techno and trance artist tracked on soundcheck, with 52 sets logg
 
 IGDA, Nicolas Julian, A.N.I.
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*

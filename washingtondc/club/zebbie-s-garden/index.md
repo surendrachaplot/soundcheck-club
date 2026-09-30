@@ -1,6 +1,6 @@
 # Zebbie's Garden
 
-Zebbie's Garden is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "GLOW Block Party Afterparty: Westend, IISCO, Ghost" on Sat, 3 Oct 2026.
+Zebbie's Garden is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "GLOW Block Party Afterparty: Westend, IISCO, Ghost" on Sat, 3 Oct 2026.
 
 Zebbie's Garden is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including Gail Force One, Joann Fabrixx, Prince Rose and PWRPUFF and 1 more. Browse upcoming dates, start times and who's playing. 1223 Connecticut Ave NW, Washington, DC 20036.
 
@@ -17,4 +17,4 @@ Zebbie's Garden is a music venue in Washington DC listed on soundcheck. 4 upcomi
 
 1223 Connecticut Ave NW, Washington, DC 20036, Washington DC
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*

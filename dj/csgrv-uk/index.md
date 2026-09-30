@@ -1,6 +1,6 @@
 # CSGRV
 
-CSGRV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Grow, London on Sat, 3 Oct 2026.
+CSGRV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Grow, London on Sat, 3 Oct 2026.
 
 CSGRV is a techno and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lukas Kuhn, Marcia Carr and Norsicaa. Next up: Grow, London on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ CSGRV is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Lukas Kuhn, Marcia Carr, Norsicaa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csgrv-uk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/csgrv-uk/)*

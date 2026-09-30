@@ -1,6 +1,6 @@
 # Noon + Cafe
 
-Noon + Cafe is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "WAVE - Deep House & Visuals" on Fri, 2 Oct 2026.
+Noon + Cafe is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "WAVE - Deep House & Visuals" on Fri, 2 Oct 2026.
 
 Noon + Cafe is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including 5ive, Junki Akutagawa, KAITO. and KONDO Mitsuo and 1 more. Browse upcoming dates, start times and who's playing. 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan.
 
@@ -18,4 +18,4 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, wit
 
 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan, Osaka
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*

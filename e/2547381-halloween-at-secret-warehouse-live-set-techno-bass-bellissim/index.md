@@ -1,6 +1,6 @@
-# [Halloween at Secret Warehouse// Live Set// Techno// Bass] BELLISSIMO at TBA - Secret Warehouse Location
+# [Halloween at Secret Warehouse// Live Set// Techno// Bass] BELLISSIMO <3 at TBA - Secret Warehouse Location
 
-[Halloween at Secret Warehouse// Live Set// Techno// Bass] BELLISSIMO at TBA - Secret Warehouse Location on Sat 31 Oct, Hong Kong. 6 artists on the bill: 100%WONG, Charlieowo, Cheyanne Hudson and KOLAK and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+[Halloween at Secret Warehouse// Live Set// Techno// Bass] BELLISSIMO <3 at TBA - Secret Warehouse Location on Sat 31 Oct, Hong Kong. 6 artists on the bill: 100%WONG, Charlieowo, Cheyanne Hudson and KOLAK and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

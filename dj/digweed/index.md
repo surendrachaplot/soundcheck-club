@@ -1,6 +1,6 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Frontón Bucareli, Mexico City on Fri, 2 Oct 2026.
+John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Frontón Bucareli, Mexico City on Fri, 2 Oct 2026.
 
 John Digweed is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Frontón Bucareli, Mexico City on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ John Digweed is a progressive house and techno artist based in United Kingdom, t
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

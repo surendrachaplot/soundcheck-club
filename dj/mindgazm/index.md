@@ -1,6 +1,6 @@
 # MindGazm
 
-MindGazm is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club M2 Miami, Miami on Sat, 3 Oct 2026.
+MindGazm is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club M2 Miami, Miami on Sat, 3 Oct 2026.
 
 MindGazm is a deep house and progressive house artist tracked on soundcheck, with 34 sets logged across Miami and New York City. Often billed alongside Max White, Alexander Technique and Brandon Morales. Next up: Club M2 Miami, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MindGazm is a deep house and progressive house artist tracked on soundcheck, wit
 
 Max White, Alexander Technique, Brandon Morales
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindgazm/)*

@@ -1,6 +1,6 @@
 # Kompass Traxx
 
-Kompass Traxx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
+Kompass Traxx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
 Kompass Traxx is a techno and trance artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Jane Muss, Azra Tekuma and Maharti. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kompass Traxx is a techno and trance artist tracked on soundcheck, with 19 sets 
 
 Jane Muss, Azra Tekuma, Maharti
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kompasstraxx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kompasstraxx/)*

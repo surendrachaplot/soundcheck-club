@@ -1,6 +1,6 @@
 # buuo
 
-buuo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kade, Munich on Fri, 2 Oct 2026.
+buuo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kade, Munich on Fri, 2 Oct 2026.
 
 buuo is a house and tech house artist based in Spain, tracked on soundcheck, with 6 sets logged across Munich and Valencia. Often billed alongside Kongusto, Chet Rubbs and Melchiorr. Next up: Kade, Munich on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ buuo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Kongusto, Chet Rubbs, Melchiorr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buuo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buuo/)*

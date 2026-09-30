@@ -1,6 +1,6 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "43 Jahre Airport - Day 1" on Fri, 2 Oct 2026.
+Airport Würzburg is a music venue in Nürnberg with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "43 Jahre Airport - Day 1" on Fri, 2 Oct 2026.
 
 Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 10 upcoming gigs, with line-ups including AMBAM, ANN-LUX, Anuuk and BMG and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
@@ -23,4 +23,4 @@ Airport Würzburg is a music venue in Nürnberg listed on soundcheck. 10 upcomin
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

@@ -1,14 +1,13 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Desa Kitsuné, Indonesia on Tue, 29 Sept 2026.
+Ferreck Dawn is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 24 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: Desa Kitsuné, Indonesia on Tue 29 Sept.
+Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 24 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Desa Kitsuné | Indonesia |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -18,6 +17,7 @@ Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on s
 
 ## Recently played
 
+- Desa Kitsuné, Indonesia — Tue, 29 Sept 2026
 - Inception Boat, Sydney — Sat, 26 Sept 2026
 - Brown Alley, Melbourne — Thu, 24 Sept 2026
 - Chinois Ibiza, Ibiza — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on s
 - Ushuaïa Ibiza, Ibiza — Thu, 13 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 9 Jul 2026
-- O Beach, Ibiza — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Claptone, Sam Divine, Todd Terry
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

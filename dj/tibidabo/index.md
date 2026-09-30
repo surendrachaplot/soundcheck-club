@@ -1,6 +1,6 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Tibi Dabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Liquid Earth and Bass Playah. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 
 Damian Lazarus, Liquid Earth, Bass Playah
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*

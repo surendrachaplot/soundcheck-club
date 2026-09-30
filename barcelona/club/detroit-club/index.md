@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "TechnoZulo pres. HARD RITUAL" on Sat, 3 Oct 2026.
+DETROIT CLUB is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "TechnoZulo pres. HARD RITUAL" on Sat, 3 Oct 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including ALTRAX, CARGO (DE), Casanøva and Cobb Douglas and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -10,7 +10,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gig
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TechnoZulo pres. HARD RITUAL |  |
 | Fri, 9 Oct 2026 | INSIDE 86 at DETROIT CLUB BCN | Eli Ercolani, Guille Gironde (2) |
-| Sat, 10 Oct 2026 | TECHNO - EXTENDED MODULAR LIVE - MINCODE × NICOLAS CETINA | Nicolas Cetina. |
+| Sat, 10 Oct 2026 | TECHNO - SCHRZØ EXTENDED MODULAR LIVE - NICOLAS CETINA | Nicolas Cetina., SCHRZØ |
 | Sat, 17 Oct 2026 | HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO | ALTRAX |
 | Sat, 24 Oct 2026 | ÉLITE EVENTS PRESENTS: MAMBA | Casanøva, JOANNA DARK |
 | Fri, 30 Oct 2026 | Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe | Kabylie Minogue, Katya La Mar, Tympanic |
@@ -23,4 +23,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming gig
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

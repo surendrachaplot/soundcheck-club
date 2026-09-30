@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Danny Tenaglia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Danny Tenaglia is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Barcelona and 26 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Danny Tenaglia is a house and techno artist based in United States of America, t
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

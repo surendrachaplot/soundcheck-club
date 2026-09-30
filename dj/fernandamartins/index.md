@@ -1,6 +1,6 @@
 # Fernanda Martins
 
-Fernanda Martins is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sala Groove, Madrid on Sat, 3 Oct 2026.
+Fernanda Martins is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sala Groove, Madrid on Sat, 3 Oct 2026.
 
 Fernanda Martins is a techno and tech house artist based in Brazil, tracked on soundcheck, with 56 sets logged across Barcelona, Basel, Berlin and Buenos Aires and 17 more. Often billed alongside DJ Lukas, Nuke and Luciid. Next up: Sala Groove, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fernanda Martins is a techno and tech house artist based in Brazil, tracked on s
 
 DJ Lukas, Nuke, Luciid
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*

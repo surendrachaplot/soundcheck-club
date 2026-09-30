@@ -1,6 +1,6 @@
 # Arexibo
 
-Arexibo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bolero, Seoul on Thu, 1 Oct 2026.
+Arexibo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bolero, Seoul on Thu, 1 Oct 2026.
 
 Arexibo is a bass and club artist based in South Korea, tracked on soundcheck, with 75 sets logged across Berlin, Brighton, Hong Kong and London and 2 more. Often billed alongside Yetsuby, dayoung and KISEWA. Next up: Bolero, Seoul on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Arexibo is a bass and club artist based in South Korea, tracked on soundcheck, w
 
 Yetsuby, dayoung, KISEWA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arexibo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arexibo/)*

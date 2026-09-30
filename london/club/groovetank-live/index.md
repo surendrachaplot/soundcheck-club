@@ -1,6 +1,6 @@
 # Groovetank Live
 
-Groovetank Live is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ZOLIKA - RAVE EP 001 Release Party" on Sat, 3 Oct 2026.
+Groovetank Live is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "ZOLIKA - RAVE EP 001 Release Party" on Sat, 3 Oct 2026.
 
 Groovetank Live is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including D LAI, SONI LOBO, Stuck on 33 and ZOLIKA. Browse upcoming dates, start times and who's playing. Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT.
 
@@ -16,4 +16,4 @@ Groovetank Live is a music venue in London listed on soundcheck. 3 upcoming gigs
 
 Unit 67, CONTAINERVILLE STUDIOS, 40 The Oval, London E2 9DT, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/groovetank-live/)*

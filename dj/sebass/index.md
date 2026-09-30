@@ -1,6 +1,6 @@
 # SeBAss
 
-SeBAss is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+SeBAss is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 SeBAss is a breakbeat and bass artist tracked on soundcheck, with 33 sets logged across Barcelona, London, Medellin and Warsaw. Often billed alongside KEVS, Mabu and KoZa. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SeBAss is a breakbeat and bass artist tracked on soundcheck, with 33 sets logged
 
 KEVS, Mabu, KoZa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*

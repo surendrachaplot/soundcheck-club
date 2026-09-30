@@ -1,6 +1,6 @@
 # Boondocks
 
-Boondocks is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Hard Drive" on Sat, 10 Oct 2026.
+Boondocks is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Hard Drive" on Sat, 10 Oct 2026.
 
 Boondocks is a music venue in Houston listed on soundcheck. 1 upcoming gig, with line-ups including Big Ace, HYPERFEMME, kuntress and Shy Margiela. Browse upcoming dates, start times and who's playing. 1417 Westheimer Rd, Houston, TX 77006-2616.
 
@@ -14,4 +14,4 @@ Boondocks is a music venue in Houston listed on soundcheck. 1 upcoming gig, with
 
 1417 Westheimer Rd, Houston, TX 77006-2616, Houston
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*

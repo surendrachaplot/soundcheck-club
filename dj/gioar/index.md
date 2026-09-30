@@ -1,13 +1,14 @@
 # GIO (AR)
 
-GIO (AR) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Althea's Rooftop, New York City on Fri, 2 Oct 2026.
+GIO (AR) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
-GIO (AR) is a house and afro house artist based in Ecuador, tracked on soundcheck, with 13 sets logged across Athens, Berlin, Buenos Aires and New York City and 4 more. Often billed alongside 2cute2destroy, AAT (NL) and AGILY. Next up: Althea's Rooftop, New York City on Fri 2 Oct.
+GIO (AR) is a house and afro house artist based in Ecuador, tracked on soundcheck, with 14 sets logged across Athens, Berlin, Buenos Aires and New York City and 5 more. Often billed alongside 10000 (CN), 2cute2destroy and AAT (NL). Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Heim Shanghai | Shanghai |
 | Fri, 2 Oct 2026 | Althea's Rooftop | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ GIO (AR) is a house and afro house artist based in Ecuador, tracked on soundchec
 
 ## Shares bills with
 
-2cute2destroy, AAT (NL), AGILY
+10000 (CN), 2cute2destroy, AAT (NL)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*

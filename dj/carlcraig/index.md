@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Carl Craig is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Carl Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Carl Craig is a house and techno artist based in United States of America, track
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

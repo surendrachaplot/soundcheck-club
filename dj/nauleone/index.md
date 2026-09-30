@@ -1,6 +1,6 @@
 # Nau Leone
 
-Nau Leone is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cafe La Palma, Madrid on Fri, 30 Oct 2026.
+Nau Leone is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Cafe La Palma, Madrid on Fri, 30 Oct 2026.
 
 Nau Leone is a house and electronica artist based in Spain, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 6 more. Often billed alongside Gleezy, ARVØW and Oxbin. Next up: Cafe La Palma, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nau Leone is a house and electronica artist based in Spain, tracked on soundchec
 
 Gleezy, ARVØW, Oxbin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nauleone/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nauleone/)*

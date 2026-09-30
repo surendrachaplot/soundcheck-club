@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Joseph Capriati presents Metamorfosi Closing Party" on Tue, 29 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "You&Me Closing Party" on Thu, 1 Oct 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including Adrian Mills, Alexandria, ALISHA and Bella Claxton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Adrian Mills, Alexandria, ALISHA and Bella Claxton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Joseph Capriati presents Metamorfosi Closing Party | CHRIS STASSY, DJ Skizzo, Elisa Bee, Freddy K, Jamie Jones, Joseph Capriati, Marco Faraone, Marco Tropeano, Yanamaste |
 | Thu, 1 Oct 2026 | You&Me Closing Party | ALISHA, Alexandria, Enzo Siragusa, Jamie Fielding, Josh Baker, Laidlaw, Local Dub, Marsolo, Max Dean, Moxie, Reeshy, Silva Bumpa, jWave |
 | Fri, 2 Oct 2026 | Glitterbox | Coco & Breezy, Danny Tenaglia, Dave Lee, Denis Sulta, Eats Everything, Jamie Love, Todd Terry |
 | Sun, 4 Oct 2026 | Pyramid Closing Party | Adrian Mills, Franco Cinelli, Luca Donzelli, Mar-T, Nina Kraviz, Raresh, Ricardo Villalobos, Seth Troxler, Shanti Celeste |
@@ -20,4 +19,4 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, w
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

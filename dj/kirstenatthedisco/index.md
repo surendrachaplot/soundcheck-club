@@ -1,6 +1,6 @@
 # Kirsten at the Disco
 
-Kirsten at the Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Kirsten at the Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Kirsten at the Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds, London and Manchester. Often billed alongside CC:DISCO!, Carly Foxx and James Glover. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Kirsten at the Disco is a house and disco artist based in United Kingdom, tracke
 
 CC:DISCO!, Carly Foxx, James Glover
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirstenatthedisco/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirstenatthedisco/)*

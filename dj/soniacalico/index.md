@@ -1,14 +1,15 @@
 # Sonia Calico
 
-Sonia Calico is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
+Sonia Calico is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
 
-Sonia Calico is a techno and breakbeat artist based in Taiwan, tracked on soundcheck, with 11 sets logged across Bangkok, London, Lyon and Madrid and 3 more. Often billed alongside Baalti, Urumi and .VRIL. Next up: Replika Teatro, Madrid on Sat 3 Oct.
+Sonia Calico is a techno and ambient artist based in Taiwan, tracked on soundcheck, with 12 sets logged across Bangkok, Barcelona, London and Lyon and 4 more. Often billed alongside Baalti, Sabiwa and Scintii. Next up: Replika Teatro, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Replika Teatro | Madrid |
+| Fri, 9 Oct 2026 | Paral•lel 62 | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sonia Calico is a techno and breakbeat artist based in Taiwan, tracked on soundc
 
 ## Shares bills with
 
-Baalti, Urumi, .VRIL
+Baalti, Sabiwa, Scintii
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*

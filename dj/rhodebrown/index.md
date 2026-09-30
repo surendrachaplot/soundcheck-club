@@ -1,6 +1,6 @@
 # Rhode & Brown
 
-Rhode & Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Phono Lake, Amsterdam on Fri, 2 Oct 2026.
+Rhode & Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Phono Lake, Amsterdam on Fri, 2 Oct 2026.
 
 Rhode & Brown are a house and disco duo based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Berlin and London and 4 more. Often billed alongside Benjamin Fröhlich, Jeyrototo and Rosa Red. Next up: Phono Lake, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rhode & Brown are a house and disco duo based in Germany, tracked on soundcheck,
 
 Benjamin Fröhlich, Jeyrototo, Rosa Red
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodebrown/)*

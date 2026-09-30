@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Sam Alfred" on Fri, 2 Oct 2026.
+Magic Stick is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Sam Alfred" on Fri, 2 Oct 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Sam Alfred. Browse upcoming dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -15,4 +15,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, w
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

@@ -1,6 +1,6 @@
 # Christopher Tubbs
 
-Christopher Tubbs is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Christopher Tubbs is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Christopher Tubbs is a disco and house artist tracked on soundcheck, with 7 sets logged across Auckland and Melbourne. Often billed alongside AROHA, Bari and Bella Claxton. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -23,4 +23,4 @@ Christopher Tubbs is a disco and house artist tracked on soundcheck, with 7 sets
 
 AROHA, Bari, Bella Claxton
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophertubbs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophertubbs/)*

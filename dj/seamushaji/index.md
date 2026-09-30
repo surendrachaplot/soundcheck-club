@@ -1,6 +1,6 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Seamus Haji is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Seamus Haji is a house and disco artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Seamus Haji is a house and disco artist based in United Kingdom, tracked on soun
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

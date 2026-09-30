@@ -1,6 +1,6 @@
 # Kacy
 
-Kacy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+Kacy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
 Kacy is a techno and trance artist based in Germany, tracked on soundcheck, with 83 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Kacy is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Polytoxic, CiKi, DeGuzman
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*

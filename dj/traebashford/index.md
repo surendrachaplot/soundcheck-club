@@ -1,6 +1,6 @@
 # Trae Bashford
 
-Trae Bashford is a Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Trae Bashford is a Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Trae Bashford is a trance artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne, New South Wales and Sydney. Often billed alongside Aarti Jadu, Bridget Small and CHEAHDX. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Trae Bashford is a trance artist based in Australia, tracked on soundcheck, with
 
 Aarti Jadu, Bridget Small (2), CHEAHDX
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traebashford/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traebashford/)*

@@ -1,6 +1,6 @@
 # Bizz'Art
 
-Bizz'Art is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "TEMPERATURE #5" on Sat, 3 Oct 2026.
+Bizz'Art is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "TEMPERATURE #5" on Sat, 3 Oct 2026.
 
 Bizz'Art is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 167 Quai de Valmy; 75010; Paris; France.
 
@@ -14,4 +14,4 @@ Bizz'Art is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse 
 
 167 Quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bizz-art/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bizz-art/)*

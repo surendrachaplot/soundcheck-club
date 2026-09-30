@@ -1,6 +1,6 @@
 # Lapistar
 
-Lapistar is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
+Lapistar is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
 Lapistar is a house and club artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside HIBI BLISS, DJ POIPOI and DiscCampForest. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Lapistar is a house and club artist based in Japan, tracked on soundcheck, with 
 
 HIBI BLISS, DJ POIPOI, DiscCampForest
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapistar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapistar/)*

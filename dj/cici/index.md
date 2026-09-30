@@ -1,6 +1,6 @@
 # Cici
 
-Cici is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Cici is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Cici is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Boston and 29 more. Often billed alongside Sossa, Skream and Saoirse. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Cici is a house and techno artist tracked on soundcheck, with 75 sets logged acr
 
 Sossa, Skream, Saoirse
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cici/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cici/)*

@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Ethereal" on Tue, 29 Sept 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Namaste" on Wed, 30 Sept 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Ethereal | Clint Lee, Pako S, Words of Niō |
 | Wed, 30 Sept 2026 | Namaste | Defex, IBÁN MENDOZA |
 | Thu, 1 Oct 2026 | Sven Väth - T.R.A.N.C.E | Maurizio Schmitz, Sven Vath |
 | Sat, 3 Oct 2026 | SUPERNOVA x KAMAYA | Bill Hates, CJ Jeff, Igor Marijuan, M.A.N.D.Y. |
@@ -18,9 +17,10 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 1
 | Sat, 10 Oct 2026 | SUPERNOVA | Defex, LAU (6), Mathias Kaden, theia |
 | Sun, 11 Oct 2026 | Nido | Alfonso Ares, John Woods, Julia Sandstorm |
 | Wed, 14 Oct 2026 | Namaste Closing |  |
+| Thu, 15 Oct 2026 | Hernan Cattaneo | Hernan Cattaneo, Kevin Di Serna, Pole Position, Valentin Huedo |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

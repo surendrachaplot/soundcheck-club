@@ -1,8 +1,8 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at New Century Locker, Manchester on Sat, 3 Oct 2026.
+DJ Subaru is a Italo Disco and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at New Century Locker, Manchester on Sat, 3 Oct 2026.
 
-DJ Subaru is an italo disco and disco artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 13 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: New Century Locker, Manchester on Sat 3 Oct.
+DJ Subaru is an italo disco and disco artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: New Century Locker, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,10 @@ DJ Subaru is an italo disco and disco artist based in United Kingdom, tracked on
 | Sat, 3 Oct 2026 | New Century Locker | Manchester |
 | Fri, 16 Oct 2026 | Phonox | London |
 | Sat, 17 Oct 2026 | Hope House | Leeds |
+| Fri, 6 Nov 2026 | TBA | Victoria |
+| Fri, 13 Nov 2026 | Bells Beach Brewing | Victoria |
 | Sat, 14 Nov 2026 | TBA | Melbourne |
+| Sat, 28 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -28,4 +31,4 @@ DJ Subaru is an italo disco and disco artist based in United Kingdom, tracked on
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

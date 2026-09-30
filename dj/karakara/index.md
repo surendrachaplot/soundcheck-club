@@ -1,6 +1,6 @@
 # KaraKara
 
-KaraKara is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+KaraKara is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 KaraKara is a jungle and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Frankfurt, London and Toronto. Often billed alongside Pjiepox, Shifty Rogue and BrokenGear. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KaraKara is a jungle and bass artist based in United States of America, tracked 
 
 Pjiepox, Shifty Rogue, BrokenGear
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara/)*

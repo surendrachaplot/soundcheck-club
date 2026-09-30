@@ -1,6 +1,6 @@
 # Nambeh
 
-Nambeh is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Vertigo, Toronto on Fri, 2 Oct 2026.
+Nambeh is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Vertigo, Toronto on Fri, 2 Oct 2026.
 
 Nambeh is a tech house and house artist based in Canada, tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside RUDEE NIK, Addy and Alley Kay. Next up: Vertigo, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nambeh is a tech house and house artist based in Canada, tracked on soundcheck, 
 
 RUDEE NIK, Addy, Alley Kay
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nambeh/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nambeh/)*

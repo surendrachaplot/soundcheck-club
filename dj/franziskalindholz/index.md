@@ -1,14 +1,15 @@
 # Franziska Lindholz
 
-Franziska Lindholz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at de Koepels, Rotterdam on Sat, 10 Oct 2026.
+Franziska Lindholz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at de Koepels, Rotterdam on Sat, 10 Oct 2026.
 
-Franziska Lindholz is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Rotterdam. Often billed alongside Ben Kaczor, ALKARLINE and Amanda Mussi. Next up: de Koepels, Rotterdam on Sat 10 Oct.
+Franziska Lindholz is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Rotterdam. Often billed alongside Ben Kaczor, ALKARLINE and Amanda Mussi. Next up: de Koepels, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | de Koepels | Rotterdam |
+| Wed, 28 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Franziska Lindholz is a techno and house artist based in Germany, tracked on sou
 
 Ben Kaczor, ALKARLINE, Amanda Mussi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*

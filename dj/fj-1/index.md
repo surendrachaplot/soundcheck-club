@@ -1,6 +1,6 @@
 # FJ (1)
 
-FJ (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Suki10c, Birmingham on Sat, 3 Oct 2026.
+FJ (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Suki10c, Birmingham on Sat, 3 Oct 2026.
 
 FJ is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Birmingham, Dundee and Glasgow. Often billed alongside Jamie Gunn, Robbie and McCart. Next up: Suki10c, Birmingham on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ FJ is a house and electronica artist based in United Kingdom, tracked on soundch
 
 Jamie Gunn, Robbie, McCart
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fj-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fj-1/)*

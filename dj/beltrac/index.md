@@ -1,6 +1,6 @@
 # Beltrac
 
-Beltrac is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Solace, Melbourne on Fri, 2 Oct 2026.
+Beltrac is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Solace, Melbourne on Fri, 2 Oct 2026.
 
 Beltrac is a tech house and progressive house artist tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Miki, Miscmeg and Silki. Next up: Solace, Melbourne on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Beltrac is a tech house and progressive house artist tracked on soundcheck, with
 
 Miki (3), Miscmeg, Silki
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltrac/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltrac/)*

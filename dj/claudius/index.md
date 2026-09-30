@@ -1,6 +1,6 @@
 # Claudius
 
-Claudius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Claudius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Claudius is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Claudius is a techno and house artist based in United States of America, tracked
 
 Calypsis, Danny Daze, Jus Nowhere
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*

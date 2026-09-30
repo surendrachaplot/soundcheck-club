@@ -1,6 +1,6 @@
 # Emre Senol
 
-Emre Senol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Yan Gastro, Istanbul on Fri, 2 Oct 2026.
+Emre Senol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Yan Gastro, Istanbul on Fri, 2 Oct 2026.
 
 Emre Senol is a house and techno artist tracked on soundcheck, with 14 sets logged across Bali and Istanbul. Often billed alongside Eren (Vamonos, IST), Aldebaran and Emirhan Kacar. Next up: Yan Gastro, Istanbul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Emre Senol is a house and techno artist tracked on soundcheck, with 14 sets logg
 
 Eren (Vamonos, IST), Aldebaran, Emirhan Kacar
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emresenol/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emresenol/)*

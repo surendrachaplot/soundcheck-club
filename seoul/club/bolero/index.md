@@ -1,6 +1,6 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Bolero: Neo Chimera Ep.3-2 [Lachesis]" on Thu, 1 Oct 2026.
+Bolero is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Bolero: Neo Chimera Ep.3-2 [Lachesis]" on Thu, 1 Oct 2026.
 
 Bolero is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Arexibo, AUS10, BLUMIN and bojvck and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
@@ -17,4 +17,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

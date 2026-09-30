@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Space Miami, Miami on Sat, 3 Oct 2026.
+Hardt Antoine is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Club Space Miami, Miami on Sat, 3 Oct 2026.
 
 Hardt Antoine is a techno and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Club Space Miami, Miami on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, tracked on s
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

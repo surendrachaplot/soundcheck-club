@@ -1,6 +1,6 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
+Torren Foot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
 
 Torren Foot is a house and tech house artist based in Australia, tracked on soundcheck, with 50 sets logged across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Dom Dolla and Sonny Fodera. Next up: New City Gas, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Torren Foot is a house and tech house artist based in Australia, tracked on soun
 
 Airwolf Paradise, Dom Dolla, Sonny Fodera
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

@@ -1,8 +1,8 @@
 # floor length skirts
 
-floor length skirts is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Unter Deck, Munich on Fri, 9 Oct 2026.
+floor length skirts is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Unter Deck, Munich on Fri, 9 Oct 2026.
 
-floor length skirts is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Leeds, London and Manchester and 4 more. Often billed alongside Off Supply, babyschön and Inner Totality. Next up: Unter Deck, Munich on Fri 9 Oct.
+floor length skirts is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Leeds, London and Manchester and 4 more. Often billed alongside Off Supply, babyschön and DJ Subaru. Next up: Unter Deck, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ floor length skirts is a house and balearic artist based in United Kingdom, trac
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Unter Deck | Munich |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
+| Sat, 28 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ floor length skirts is a house and balearic artist based in United Kingdom, trac
 
 ## Shares bills with
 
-Off Supply, babyschön, Inner Totality
+Off Supply, babyschön, DJ Subaru
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*

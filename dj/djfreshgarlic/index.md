@@ -1,6 +1,6 @@
 # DJ Fresh Garlic
 
-DJ Fresh Garlic is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
+DJ Fresh Garlic is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
 
 DJ Fresh Garlic is a house and garage artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Cheap Coffee, Czech Strings and NicolasNico. Next up: Beate Uwe, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Fresh Garlic is a house and garage artist based in Germany, tracked on soundc
 
 Cheap Coffee, Czech Strings, NicolasNico
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreshgarlic/)*

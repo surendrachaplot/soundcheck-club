@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Funke_93 Collective with Hewan Aman, Tadan" on Sat, 17 Oct 2026.
+Funke is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Funke_93 Collective with Hewan Aman, Tadan" on Sat, 17 Oct 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Ampe, DJ TEETH, Hewan Aman and Tadan and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -15,4 +15,4 @@ Funke is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

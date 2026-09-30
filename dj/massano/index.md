@@ -1,8 +1,8 @@
 # Massano
 
-Massano is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Poolen, Copenhagen on Fri, 2 Oct 2026.
+Massano is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Poolen, Copenhagen on Fri, 2 Oct 2026.
 
-Massano is a techno and house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Poolen, Copenhagen on Fri 2 Oct.
+Massano is a techno and house artist based in United Kingdom, tracked on soundcheck, with 166 sets logged across Amsterdam, Argentina, Athens and Austin and 52 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Poolen, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,11 @@ Massano is a techno and house artist based in United Kingdom, tracked on soundch
 | Sat, 17 Oct 2026 | Luz De Gas | Barcelona |
 | Fri, 23 Oct 2026 | Knockdown Center | New York City |
 | Fri, 30 Oct 2026 | Echostage | Washington DC |
+| Sat, 31 Oct 2026 | TBA - Martina Beach, Playa del Carmen | Yuc-tan |
+| Sat, 31 Oct 2026 | Playa del Carmen | Quintana-roo |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 14 Nov 2026 | Exchange LA | Los Angeles |
+| Sat, 28 Nov 2026 | TBA - La Fabrica, Cordoba | Argentina |
 
 ## Recently played
 
@@ -31,4 +34,4 @@ Massano is a techno and house artist based in United Kingdom, tracked on soundch
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

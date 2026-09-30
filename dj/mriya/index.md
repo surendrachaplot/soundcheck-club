@@ -1,6 +1,6 @@
 # MRIYA
 
-MRIYA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 33/45 Club, Valencia on Wed, 30 Sept 2026.
+MRIYA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at 33/45 Club, Valencia on Wed, 30 Sept 2026.
 
 MRIYA is a techno and tech house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Lino Fuso, Cambric and OXNA. Next up: 33/45 Club, Valencia on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ MRIYA is a techno and tech house artist tracked on soundcheck, with 42 sets logg
 
 Lino Fuso, Cambric, OXNA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mriya/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mriya/)*

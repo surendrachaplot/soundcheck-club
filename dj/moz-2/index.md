@@ -1,6 +1,6 @@
 # mOZ (2)
 
-mOZ (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Teritorija, Riga on Fri, 30 Oct 2026.
+mOZ (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Teritorija, Riga on Fri, 30 Oct 2026.
 
 mOZ is a house and techno artist based in Latvia, tracked on soundcheck, with 75 sets logged across Melbourne, Riga and Tokyo. Often billed alongside Herren Ivo, East Cho and Bogdan Taran. Next up: Teritorija, Riga on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ mOZ is a house and techno artist based in Latvia, tracked on soundcheck, with 75
 
 Herren Ivo, East Cho, Bogdan Taran
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moz-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moz-2/)*

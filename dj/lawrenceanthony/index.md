@@ -1,6 +1,6 @@
 # Lawrence Anthony
 
-Lawrence Anthony is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Planet Wax, London on Sat, 14 Nov 2026.
+Lawrence Anthony is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Planet Wax, London on Sat, 14 Nov 2026.
 
 Lawrence Anthony is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Shane Blitz, DJ Brockie and DJ Perception. Next up: Planet Wax, London on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Lawrence Anthony is a garage and jungle artist based in United Kingdom, tracked 
 
 Shane Blitz, DJ Brockie, DJ Perception
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceanthony/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceanthony/)*

@@ -1,8 +1,8 @@
 # Marina Herlop
 
-Marina Herlop is a Experimental and Pop artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Marina Herlop is a Experimental and Pop artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Marina Herlop is an experimental and pop artist based in Spain, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kode9, James Holden and Bill Kouligas. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Marina Herlop is an experimental and pop artist based in Spain, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kode9, James Holden and Bill Kouligas. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Marina Herlop is an experimental and pop artist based in Spain, tracked on sound
 | Tue, 27 Oct 2026 | EartH | London |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 5 Nov 2026 | Kino Siska | Ljubljana |
+| Fri, 22 Jan 2027 | TBA | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Marina Herlop is an experimental and pop artist based in Spain, tracked on sound
 
 Kode9, James Holden, Bill Kouligas
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*

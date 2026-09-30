@@ -1,6 +1,6 @@
 # Juuno
 
-Juuno is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Grain Haus, Seoul on Sat, 3 Oct 2026.
+Juuno is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Grain Haus, Seoul on Sat, 3 Oct 2026.
 
 Juuno is a club and garage artist based in South Korea, tracked on soundcheck, with 44 sets logged across Seoul. Often billed alongside Shins, SEOL and DJ Co.kr. Next up: Grain Haus, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Juuno is a club and garage artist based in South Korea, tracked on soundcheck, w
 
 Shins, SEOL, DJ Co.kr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juuno/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juuno/)*

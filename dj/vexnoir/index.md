@@ -1,6 +1,6 @@
 # Vex Noir
 
-Vex Noir is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
+Vex Noir is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
 
 Vex Noir is a techno and industrial artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside ANFS, GLASSBASS and Nnamael. Next up: TBA - Secret Location, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Vex Noir is a techno and industrial artist based in Germany, tracked on soundche
 
 ANFS, GLASSBASS, Nnamael
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vexnoir/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vexnoir/)*

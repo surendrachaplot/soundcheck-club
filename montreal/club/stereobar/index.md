@@ -1,0 +1,26 @@
+# StereoBar
+
+StereoBar is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Jay de Lys - Victor Rodriguez" on Fri, 2 Oct 2026.
+
+StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Bodaishin, Crescenzo, Jay de Lys and Julian Prince and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Fri, 2 Oct 2026 | Jay de Lys - Victor Rodriguez | Jay de Lys, VICTOR RODRIGUEZ (CA) |
+| Sat, 3 Oct 2026 | Forgivemetommy! (All Night Long) |  |
+| Sun, 4 Oct 2026 | LBD: VIBRAN (All Night Long) | VIBRAN |
+| Fri, 9 Oct 2026 | Stban - Julian Prince | Julian Prince |
+| Sat, 10 Oct 2026 | YokoO (All Night Long) | YokoO |
+| Sun, 11 Oct 2026 | LBD: Tom Cardeli (All Night Long) |  |
+| Fri, 16 Oct 2026 | Crescenzo (All Night Long) | Crescenzo |
+| Sat, 17 Oct 2026 | Soul Of Zoo b2b Tyler W | Soul Of Zoo |
+| Sun, 18 Oct 2026 | LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna | Bodaishin |
+| Sat, 24 Oct 2026 | Ugo Banchi (All Night Long) | Ugo Banchi |
+
+## Address
+
+856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
+
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

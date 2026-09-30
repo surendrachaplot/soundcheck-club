@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Atmosphérique: JENNGREEN feat. ROCCO" on Fri, 2 Oct 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 9 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Atmosphérique: JENNGREEN feat. ROCCO" on Fri, 2 Oct 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 9 upcoming gigs, with line-ups including 2AT, ACHAMA, Ctrl.mp3 and DJ SWISHA and 2 more. Browse upcoming dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -22,4 +22,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

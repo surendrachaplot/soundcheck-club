@@ -1,6 +1,6 @@
 # Manny (us)
 
-Manny (us) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
+Manny (us) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
 
 Manny (us) is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, New York City and Washington DC. Often billed alongside Max Sprauer, Hugo (US) and Kiyoshi. Next up: feedbk, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Manny (us) is a house and techno artist based in United States of America, track
 
 Max Sprauer, Hugo (US), Kiyoshi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*

@@ -1,14 +1,16 @@
 # Zeyvers
 
-Zeyvers is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at De Sering, Amsterdam on Wed, 21 Oct 2026.
+Zeyvers is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pm93 Essen, Dortmund-essen on Sat, 10 Oct 2026.
 
-Zeyvers is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Malta, Paris and Seoul. Often billed alongside Kuzio, SUKA and AEZARYA. Next up: De Sering, Amsterdam on Wed 21 Oct.
+Zeyvers is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Dortmund Essen, Malta and Paris and 1 more. Often billed alongside Kuzio, SUKA and AEZARYA. Next up: Pm93 Essen, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Pm93 Essen | Dortmund-essen |
 | Wed, 21 Oct 2026 | De Sering | Amsterdam |
+| Wed, 18 Nov 2026 | nachbar | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Zeyvers is a techno and hardcore artist based in Netherlands, tracked on soundch
 
 Kuzio, SUKA, AEZARYA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*

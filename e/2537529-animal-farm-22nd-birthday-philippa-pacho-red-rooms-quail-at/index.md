@@ -1,6 +1,6 @@
 # Animal Farm 22nd Birthday - Philippa Pacho - Red Rooms - Quail at Sub Club
 
-Animal Farm 22nd Birthday - Philippa Pacho - Red Rooms - Quail at Sub Club on Mon 28 Dec, Glasgow. 3 artists on the bill: Philippa Pacho, Quail and Red Rooms. Preview the line-up and save it on soundcheck.
+Animal Farm 22nd Birthday - Philippa Pacho - Red Rooms - Quail at Sub Club on Mon 28 Dec, Glasgow. 3 artists on the bill: Philippa Pacho, Quail and Red Rooms. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

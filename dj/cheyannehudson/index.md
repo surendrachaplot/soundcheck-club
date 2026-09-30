@@ -1,6 +1,6 @@
 # Cheyanne Hudson
 
-Cheyanne Hudson is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
+Cheyanne Hudson is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
 
 Cheyanne Hudson is a techno and hip-hop artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Bristol and Brussels and 3 more. Often billed alongside T.NO, Azu Tiwaline and Brodinski. Next up: TBA - Secret Warehouse Location, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cheyanne Hudson is a techno and hip-hop artist based in Netherlands, tracked on 
 
 T.NO, Azu Tiwaline, Brodinski
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyannehudson/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheyannehudson/)*

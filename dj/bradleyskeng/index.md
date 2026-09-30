@@ -1,6 +1,6 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at UNLOCKED, London on Thu, 15 Oct 2026.
+Bradley Skeng is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at UNLOCKED, London on Thu, 15 Oct 2026.
 
 Bradley Skeng is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and HE.RA. Next up: UNLOCKED, London on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Bradley Skeng is a house and tech house artist based in United Kingdom, tracked 
 
 Joshua James, SYREETA, HE.RA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

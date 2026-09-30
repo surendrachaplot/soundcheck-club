@@ -1,13 +1,14 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at fabric, London on Fri, 30 Oct 2026.
+TOCCORORO is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Silencio, Paris on Sat, 3 Oct 2026.
 
-TOCCORORO is a techno and reggaeton artist based in Spain, tracked on soundcheck, with 135 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: fabric, London on Fri 30 Oct.
+TOCCORORO is a techno and reggaeton artist based in Spain, tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: Silencio, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Silencio | Paris |
 | Fri, 30 Oct 2026 | fabric | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
@@ -26,4 +27,4 @@ TOCCORORO is a techno and reggaeton artist based in Spain, tracked on soundcheck
 
 JASSS, Manuka Honey, SALOME
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

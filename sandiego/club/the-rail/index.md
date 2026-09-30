@@ -1,6 +1,6 @@
 # The Rail
 
-The Rail is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Slaughterhäus: The Sd Cut - San Diego" on Fri, 23 Oct 2026.
+The Rail is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Slaughterhäus: The Sd Cut - San Diego" on Fri, 23 Oct 2026.
 
 The Rail is a music venue in San Diego listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 5th Avenue, San Diego, CA 92103, USA.
 
@@ -16,4 +16,4 @@ The Rail is a music venue in San Diego listed on soundcheck. 3 upcoming gigs. Br
 
 5th Avenue, San Diego, CA 92103, USA, San Diego
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-rail/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-rail/)*

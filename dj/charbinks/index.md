@@ -1,6 +1,6 @@
 # CHARBINKS
 
-CHARBINKS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
+CHARBINKS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
 
 CHARBINKS is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Melbourne. Often billed alongside Andrew88, Andrea Guadalupi and Caleb Jay. Next up: Revolver Upstairs, Melbourne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ CHARBINKS is a house and techno artist based in France, tracked on soundcheck, w
 
 Andrew88, Andrea Guadalupi, Caleb Jay
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*

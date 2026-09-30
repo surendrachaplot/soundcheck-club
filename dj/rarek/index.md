@@ -1,14 +1,15 @@
 # Rarek
 
-Rarek is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
+Rarek is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
 
-Rarek is an electronic artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona, London and The Hague. Often billed alongside Esther Dune, I-F and Miqkael. Next up: Rachdingue, Barcelona on Sat 10 Oct.
+Rarek is an electronic artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona, East, London and The Hague. Often billed alongside Esther Dune, I-F and Miqkael. Next up: Rachdingue, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Rachdingue | Barcelona |
+| Sat, 10 Oct 2026 | Le Rachdingue | East |
 
 ## Recently played
 
@@ -19,4 +20,4 @@ Rarek is an electronic artist based in Spain, tracked on soundcheck, with 3 sets
 
 Esther Dune, I-F, Miqkael
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rarek/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rarek/)*

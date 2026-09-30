@@ -1,13 +1,14 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KOKO, London on Fri, 23 Oct 2026.
+THEMBA is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bohemia Beach Club, Dubai on Sat, 17 Oct 2026.
 
-THEMBA is an afro house and house artist based in South Africa, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: KOKO, London on Fri 23 Oct.
+THEMBA is an afro house and house artist based in South Africa, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: Bohemia Beach Club, Dubai on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Bohemia Beach Club | Dubai |
 | Fri, 23 Oct 2026 | KOKO | London |
 | Thu, 29 Oct 2026 | Bazart | Montreal |
 
@@ -26,4 +27,4 @@ THEMBA is an afro house and house artist based in South Africa, tracked on sound
 
 Black Coffee, Franky Wah, Hugel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

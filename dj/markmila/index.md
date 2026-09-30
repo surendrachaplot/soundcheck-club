@@ -1,6 +1,6 @@
 # MARK MILA
 
-MARK MILA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Z Maruyama, Tokyo on Fri, 30 Oct 2026.
+MARK MILA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Z Maruyama, Tokyo on Fri, 30 Oct 2026.
 
 MARK MILA is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside VALENCIAGA, CLESENT and Daitto. Next up: Z Maruyama, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MARK MILA is a house and techno artist based in Australia, tracked on soundcheck
 
 VALENCIAGA, CLESENT, Daitto
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markmila/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markmila/)*

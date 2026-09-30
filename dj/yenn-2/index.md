@@ -1,6 +1,6 @@
 # YENN (2)
 
-YENN (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Grain Haus, Seoul on Sat, 3 Oct 2026.
+YENN (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Grain Haus, Seoul on Sat, 3 Oct 2026.
 
 YENN is a club and techno artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside Juuno, SEOL and DJ Co.kr. Next up: Grain Haus, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ YENN is a club and techno artist based in South Korea, tracked on soundcheck, wi
 
 Juuno, SEOL, DJ Co.kr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*

@@ -1,6 +1,6 @@
 # Wencel
 
-Wencel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
+Wencel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
 
 Wencel is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, Krakow, Leipzig and Stuttgart and 2 more. Often billed alongside Aetha, Edvvin and MAUER. Next up: Klub Progresja, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wencel is a techno and house artist tracked on soundcheck, with 42 sets logged a
 
 Aetha, Edvvin, MAUER
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wencel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wencel/)*

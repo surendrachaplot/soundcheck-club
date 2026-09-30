@@ -1,6 +1,6 @@
 # Cooke
 
-Cooke is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
+Cooke is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
 
 Cooke is a house and deep house artist tracked on soundcheck, with 13 sets logged across Belfast, Leeds and London. Often billed alongside ByPhil, Jude Dude and Osce. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cooke is a house and deep house artist tracked on soundcheck, with 13 sets logge
 
 ByPhil, Jude Dude, Osce
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooke/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooke/)*

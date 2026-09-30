@@ -1,13 +1,14 @@
 # Queixal
 
-Queixal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Queixal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
-Queixal is a techno and house artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Mod.1, Linkan Ray and AEREA. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
+Queixal is a techno and house artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside Mod.1, Linkan Ray and Tetric. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona) | Barcelona |
 | Sat, 31 Oct 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ Queixal is a techno and house artist based in Spain, tracked on soundcheck, with
 
 ## Shares bills with
 
-Mod.1, Linkan Ray, AEREA
+Mod.1, Linkan Ray, Tetric
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*

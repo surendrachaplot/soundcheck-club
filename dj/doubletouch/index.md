@@ -1,14 +1,15 @@
 # Double Touch
 
-Double Touch is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
+Double Touch is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
 
-Double Touch is a deep house and house artist based in Australia, tracked on soundcheck, with 50 sets logged across Bali, Barcelona, Chicago and Denver and 14 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
+Double Touch is a deep house and house artist based in Australia, tracked on soundcheck, with 51 sets logged across Bali, Barcelona, Byron Bay and Chicago and 15 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |
+| Fri, 20 Nov 2026 | Beach Hotel - Byron Bay | Byron-bay |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
 
@@ -27,4 +28,4 @@ Double Touch is a deep house and house artist based in Australia, tracked on sou
 
 Lee Burridge, Lost Desert, Tim Green
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*

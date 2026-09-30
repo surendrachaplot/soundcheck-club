@@ -1,8 +1,8 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Enrica Falqui is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Enrica Falqui is a techno and house artist based in Italy, tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Enrica Falqui is a techno and house artist based in Italy, tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Enrica Falqui is a techno and house artist based in Italy, tracked on soundcheck
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | TBA | Central |
+| Sun, 4 Oct 2026 | Sofitel Essaouira Mogador | Morocco |
 | Sat, 10 Oct 2026 | The DBA | Manchester |
+| Sat, 17 Oct 2026 | BARDO | Milan |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
 | Sat, 14 Nov 2026 | Kater | Berlin |
 
@@ -29,4 +31,4 @@ Enrica Falqui is a techno and house artist based in Italy, tracked on soundcheck
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

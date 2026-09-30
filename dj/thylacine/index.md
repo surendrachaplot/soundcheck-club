@@ -1,6 +1,6 @@
 # Thylacine
 
-Thylacine is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat, 3 Oct 2026.
+Thylacine is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat, 3 Oct 2026.
 
 Thylacine is an electronica and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 16 more. Often billed alongside il:lo, Parra for Cuva and Cincity. Next up: TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Thylacine is an electronica and techno artist tracked on soundcheck, with 38 set
 
 il:lo, Parra for Cuva, Cincity
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thylacine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thylacine/)*

@@ -1,14 +1,16 @@
 # Lenny Dee
 
-Lenny Dee is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Paragon, New York City on Fri, 16 Oct 2026.
+Lenny Dee is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Auxerrexpo, Central on Sat, 3 Oct 2026.
 
-Lenny Dee is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Cologne and London and 9 more. Often billed alongside DEMEN-TEK, Destro187 and Malke. Next up: Paragon, New York City on Fri 16 Oct.
+Lenny Dee is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Central and Cologne and 10 more. Often billed alongside DEMEN-TEK, Destro187 and Malke. Next up: Auxerrexpo, Central on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Auxerrexpo | Central |
 | Fri, 16 Oct 2026 | Paragon | New York City |
+| Sat, 31 Oct 2026 | 20 Meadow | New York City |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Lenny Dee is a hardcore and techno artist based in United States of America, tra
 
 DEMEN-TEK, Destro187, Malke
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*

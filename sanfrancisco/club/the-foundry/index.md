@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Quit Your Day Job presents: OUT OF OFFICE" on Fri, 2 Oct 2026.
+The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Quit Your Day Job presents: OUT OF OFFICE" on Fri, 2 Oct 2026.
 
 The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, at-at, Jojo Lorenzo and Mesmé and 2 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -18,4 +18,4 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 up
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

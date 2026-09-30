@@ -1,6 +1,6 @@
 # softchaos
 
-softchaos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+softchaos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 softchaos is a techno and house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ softchaos is a techno and house artist based in United States of America, tracke
 
 ENGALANAN, Hanaby, JASSS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*

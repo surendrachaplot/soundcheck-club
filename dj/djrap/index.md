@@ -1,6 +1,6 @@
 # DJ Rap
 
-DJ Rap is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+DJ Rap is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 DJ Rap is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, Ray Keith and DJ Hype. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ DJ Rap is a drum & bass and jungle artist based in United States of America, tra
 
 Nicky Blackmarket, Ray Keith, DJ Hype
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*

@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Benwal is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
 
 Benwal is a techno and house artist based in Netherlands, tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Digital, Newcastle on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

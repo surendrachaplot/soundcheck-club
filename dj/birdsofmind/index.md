@@ -1,6 +1,6 @@
 # Birds of Mind
 
-Birds of Mind is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
+Birds of Mind is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
 
 Birds of Mind is a deep house and house artist based in France, tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Geneva and 16 more. Often billed alongside Parallelle, Bedouin and Colyn. Next up: Pershing Square, Los Angeles on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Birds of Mind is a deep house and house artist based in France, tracked on sound
 
 Parallelle, Bedouin, Colyn
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*

@@ -1,14 +1,15 @@
 # DJ Aleksi
 
-DJ Aleksi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+DJ Aleksi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
-DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, with 56 sets logged across Amsterdam, Copenhagen, Helsinki and Prague and 2 more. Often billed alongside Handshaking, HiToshi and Humanoid Target Practice. Next up: Korjaamo, Helsinki on Wed 30 Sept.
+DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, with 57 sets logged across Amsterdam, Copenhagen, Helsinki and Prague and 2 more. Often billed alongside Handshaking, HiToshi and Hanna Ojanen. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Korjaamo | Helsinki |
+| Fri, 6 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, 
 
 ## Shares bills with
 
-Handshaking, HiToshi, Humanoid Target Practice
+Handshaking, HiToshi, Hanna Ojanen
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*

@@ -1,6 +1,6 @@
 # TRIXIÉ
 
-TRIXIÉ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Forge, Bucharest on Fri, 13 Nov 2026.
+TRIXIÉ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Forge, Bucharest on Fri, 13 Nov 2026.
 
 TRIXIÉ is a techno and industrial artist based in Romania, tracked on soundcheck, with 16 sets logged across Bucharest and New York City. Often billed alongside Sitra Akhra, Clast and FAUST. Next up: Forge, Bucharest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ TRIXIÉ is a techno and industrial artist based in Romania, tracked on soundchec
 
 Sitra Akhra, Clast, FAUST (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-ro/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-ro/)*

@@ -1,6 +1,6 @@
 # Reelworks Denver
 
-Reelworks Denver is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Maceo Plex, Doc Martin - WD10YR" on Fri, 9 Oct 2026.
+Reelworks Denver is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Maceo Plex, Doc Martin - WD10YR" on Fri, 9 Oct 2026.
 
 Reelworks Denver is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Doc Martin and Maceo Plex. Browse upcoming dates, start times and who's playing. 1399 35th St. Denver CO. 80205.
 
@@ -14,4 +14,4 @@ Reelworks Denver is a music venue in Denver listed on soundcheck. 1 upcoming gig
 
 1399 35th St. Denver CO. 80205, Denver
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*

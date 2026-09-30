@@ -1,6 +1,6 @@
 # KinoKo
 
-KinoKo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+KinoKo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 KinoKo is a techno and house artist based in Israel, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Osaka and Prague and 2 more. Often billed alongside Baikamo, Burnhard and Hekuli. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ KinoKo is a techno and house artist based in Israel, tracked on soundcheck, with
 
 Baikamo, Burnhard, Hekuli
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*

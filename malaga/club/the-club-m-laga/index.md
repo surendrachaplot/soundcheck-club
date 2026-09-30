@@ -1,6 +1,6 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HELLO WEEKEND: HOUS & UK GARAGE" on Thu, 1 Oct 2026.
+The Club (Málaga) is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "HELLO WEEKEND: HOUS & UK GARAGE" on Thu, 1 Oct 2026.
 
 The Club (Málaga) is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including Neeiv. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
@@ -22,4 +22,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 9 upcoming g
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

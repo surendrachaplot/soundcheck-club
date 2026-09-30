@@ -1,6 +1,6 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
+Ivan Smagghe is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
 
 Ivan Smagghe is a techno and house artist based in France, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Ivan Smagghe is a techno and house artist based in France, tracked on soundcheck
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

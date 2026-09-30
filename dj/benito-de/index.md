@@ -1,6 +1,6 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+BENITO (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 BENITO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Limoncello, BRTLGR and Bruno Brero. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ BENITO (DE) is a trance and techno artist based in Germany, tracked on soundchec
 
 Limoncello, BRTLGR, Bruno Brero
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

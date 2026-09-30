@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Holocene, Portland on Sat, 3 Oct 2026.
+Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Holocene, Portland on Sat, 3 Oct 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: Holocene, Portland on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Chippy Nonstop is a techno and house artist based in Canada, tracked on soundche
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

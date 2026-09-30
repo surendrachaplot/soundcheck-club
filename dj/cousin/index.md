@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Sydney on Sat, 3 Oct 2026.
+Cousin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Sydney on Sat, 3 Oct 2026.
 
 Cousin is a techno and house artist based in Australia, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Berlin and 19 more. Often billed alongside DJ Fart in the Club, D-Grade and Kia (AU). Next up: TBA, Sydney on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Cousin is a techno and house artist based in Australia, tracked on soundcheck, w
 
 DJ Fart in the Club, D-Grade, Kia (AU)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

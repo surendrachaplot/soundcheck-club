@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 38 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Twinspinsz ⋆˚𖥔 Reformist & Friends " on Thu, 1 Oct 2026.
+M.O.T is a music venue in London with 38 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Twinspinsz ⋆˚𖥔 Reformist & GEMI" on Thu, 1 Oct 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including 1LDK, abs8lute, Agility and Amanda Mussi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -8,7 +8,7 @@ M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | Reformist, TENFOLD |
+| Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & GEMI | Gemi (UK), Reformist, TENFOLD |
 | Thu, 1 Oct 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
 | Sat, 3 Oct 2026 | Don't | Jerome Hill, Peder Mannerfelt, the butcher bird |
 | Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Gloria Rose, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Mona Sage, Panik Attak, SAN.SAN, Sea Ho, TOOTHTAXI, metrologic |
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

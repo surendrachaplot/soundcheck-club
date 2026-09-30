@@ -1,6 +1,6 @@
 # Ligrye
 
-Ligrye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
+Ligrye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
 
 Ligrye is a house and techno artist based in South Africa, tracked on soundcheck, with 139 sets logged across Bangkok, Hong Kong, Seoul and Shenzhen and 1 more. Often billed alongside NET GALA, DJ Co.kr and KING SHE. Next up: Bolero, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ligrye is a house and techno artist based in South Africa, tracked on soundcheck
 
 NET GALA, DJ Co.kr, KING SHE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*

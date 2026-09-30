@@ -1,6 +1,6 @@
 # Elixah
 
-Elixah is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Toronto on Fri, 23 Oct 2026.
+Elixah is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Toronto on Fri, 23 Oct 2026.
 
 Elixah is a drum & bass and garage artist based in Canada, tracked on soundcheck, with 26 sets logged across London and Toronto. Often billed alongside KATIE COOPER, Barroness and Marcus Visionary. Next up: TBA, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Elixah is a drum & bass and garage artist based in Canada, tracked on soundcheck
 
 KATIE COOPER, Barroness, Marcus Visionary
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elixah/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elixah/)*

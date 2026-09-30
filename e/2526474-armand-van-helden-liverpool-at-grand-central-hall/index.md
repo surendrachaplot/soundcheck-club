@@ -1,6 +1,6 @@
 # Armand Van Helden - Liverpool at Grand Central Hall
 
-Armand Van Helden - Liverpool at Grand Central Hall on Fri 27 Nov, Liverpool. 2 artists on the bill: Armand Van Helden and Chapter 47. House and Disco. Preview the line-up and save it on soundcheck.
+Armand Van Helden - Liverpool at Grand Central Hall on Fri 27 Nov, Liverpool. 3 artists on the bill: Armand Van Helden, Chapter 47 and Route 94. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Armand Van Helden - Liverpool at Grand Central Hall on Fri 27 Nov, Liverpool. 2 
 
 - Armand Van Helden
 - Chapter 47
+- Route 94
 
 *Source: [soundcheck](https://soundcheck.club/e/2526474-armand-van-helden-liverpool-at-grand-central-hall/)*

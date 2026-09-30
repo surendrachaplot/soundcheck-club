@@ -1,6 +1,6 @@
 # Febe
 
-Febe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
+Febe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
 
 Febe is a house and deep house artist based in Colombia, tracked on soundcheck, with 17 sets logged across Madrid, Medellin and Mexico City. Often billed alongside Astro, Barreto and Miss Voltaghe. Next up: Rama Soundgarden, Medellin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Febe is a house and deep house artist based in Colombia, tracked on soundcheck, 
 
 Astro, Barreto, Miss Voltaghe
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*

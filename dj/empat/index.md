@@ -1,6 +1,6 @@
 # Empat
 
-Empat is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
+Empat is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
 
 Empat is a minimal techno and minimal artist based in Romania, tracked on soundcheck, with 5 sets logged across Bucharest, Hamburg and Vienna. Often billed alongside Erhardt Schuster, Nacho Carbajal and AKVA. Next up: Forge, Bucharest on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Empat is a minimal techno and minimal artist based in Romania, tracked on soundc
 
 Erhardt Schuster, Nacho Carbajal, AKVA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/empat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/empat/)*

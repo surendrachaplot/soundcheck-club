@@ -1,6 +1,6 @@
 # Stefano Noferini
 
-Stefano Noferini is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Macarena Club, Barcelona on Thu, 8 Oct 2026.
+Stefano Noferini is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Macarena Club, Barcelona on Thu, 8 Oct 2026.
 
 Stefano Noferini is a tech house and techno artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Basel and 22 more. Often billed alongside Dimmish, Joe Vanditti and Late Replies. Next up: Macarena Club, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Stefano Noferini is a tech house and techno artist based in Italy, tracked on so
 
 Dimmish, Joe Vanditti, Late Replies
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*

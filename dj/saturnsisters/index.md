@@ -1,6 +1,6 @@
 # Saturn Sisters
 
-Saturn Sisters is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Outernet Live, London on Thu, 31 Dec 2026.
+Saturn Sisters is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Outernet Live, London on Thu, 31 Dec 2026.
 
 Saturn Sisters is a house and disco artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Charles Green, Jaye Ward and Kmya. Next up: Outernet Live, London on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ Saturn Sisters is a house and disco artist tracked on soundcheck, with 8 sets lo
 
 Charles Green, Jaye Ward, Kmya
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsisters/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsisters/)*

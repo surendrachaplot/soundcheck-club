@@ -1,6 +1,6 @@
 # Jonn
 
-Jonn is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Jonn is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Jonn is a house and minimal artist based in Greece, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Bucharest and Greece and 2 more. Often billed alongside Always Late, Cap and Priku. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Jonn is a house and minimal artist based in Greece, tracked on soundcheck, with 
 
 Always Late, Cap, Priku
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonn/)*

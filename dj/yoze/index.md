@@ -1,14 +1,15 @@
 # YOZÉ
 
-YOZÉ is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+YOZÉ is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
 
-YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with 35 sets logged across Amsterdam, Ankara, Berlin and Copenhagen and 3 more. Often billed alongside Rob Robsen, Førehand and GHOST DE. Next up: TBA, Ankara on Sat 3 Oct.
+YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with 36 sets logged across Amsterdam, Ankara, Berlin and Copenhagen and 3 more. Often billed alongside Rob Robsen, Førehand and GHOST DE. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Ankara |
+| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 9 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 10 Oct 2026 | Culture Box | Copenhagen |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
@@ -29,4 +30,4 @@ YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with
 
 Rob Robsen, Førehand, GHOST DE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*

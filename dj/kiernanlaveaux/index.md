@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Signal, New York City on Fri, 2 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Signal, New York City on Fri, 2 Oct 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Signal, New York City on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

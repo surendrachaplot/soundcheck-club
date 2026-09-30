@@ -1,6 +1,6 @@
 # JNS
 
-JNS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
+JNS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
 
 JNS is a house and techno artist based in South Korea, tracked on soundcheck, with 166 sets logged across Seoul. Often billed alongside Gyusco, Jesse You and Closet Yi. Next up: Stoked&stoned, Seoul on Mon 28 Sept.
 
@@ -26,4 +26,4 @@ JNS is a house and techno artist based in South Korea, tracked on soundcheck, wi
 
 Gyusco, Jesse You, Closet Yi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jns/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jns/)*

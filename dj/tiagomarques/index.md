@@ -1,6 +1,6 @@
 # Tiago Marques
 
-Tiago Marques is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at 5A, Lisbon on Sat, 3 Oct 2026.
+Tiago Marques is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at 5A, Lisbon on Sat, 3 Oct 2026.
 
 Tiago Marques is a house and techno artist based in Portugal, tracked on soundcheck, with 62 sets logged across Athens, Berlin, Brussels and Buenos Aires and 3 more. Often billed alongside Mary B, Cruz (PT) and Kee_ko. Next up: 5A, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tiago Marques is a house and techno artist based in Portugal, tracked on soundch
 
 Mary B (2), Cruz (PT), Kee_ko
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*

@@ -1,6 +1,6 @@
 # berlioz
 
-berlioz is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+berlioz is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 berlioz is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Brussels and Dublin and 11 more. Often billed alongside Anetha, Aroop Roy and Ash Lauryn. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ berlioz is a house and jazz artist based in United Kingdom, tracked on soundchec
 
 Anetha, Aroop Roy, Ash Lauryn
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*

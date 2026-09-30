@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 3 Oct 2026.
+Dee Diggs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 3 Oct 2026.
 
 Dee Diggs is a house and techno artist based in United States of America, tracked on soundcheck, with 214 sets logged across Amsterdam, Bali, Barcelona and Berlin and 38 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Dead Letter No. 9, New York City on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Dee Diggs is a house and techno artist based in United States of America, tracke
 
 Kilopatrah Jones, Avalon Emerson, Octo Octa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

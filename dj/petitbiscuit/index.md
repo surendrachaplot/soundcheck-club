@@ -1,13 +1,14 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 17 Oct 2026.
+Petit Biscuit is a House and Ambient artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Backroom, Indonesia on Thu, 1 Oct 2026.
 
-Petit Biscuit is a house and ambient artist based in France, tracked on soundcheck, with 7 sets logged across Los Angeles, Melbourne, Nantes and San Francisco/Oakland and 1 more. Often billed alongside Forester, Hutcher and Jofes. Next up: Avalon Hollywood, Los Angeles on Sat 17 Oct.
+Petit Biscuit is a house and ambient artist based in France, tracked on soundcheck, with 8 sets logged across Indonesia, Los Angeles, Melbourne and Nantes and 2 more. Often billed alongside Forester, Hutcher and Jofes. Next up: Backroom, Indonesia on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Backroom | Indonesia |
 | Sat, 17 Oct 2026 | Avalon Hollywood | Los Angeles |
 | Sat, 17 Oct 2026 | Avalon Hollywood | Los Angeles |
 | Fri, 23 Oct 2026 | The Foundry | San Francisco/Oakland |
@@ -23,4 +24,4 @@ Petit Biscuit is a house and ambient artist based in France, tracked on soundche
 
 Forester, Hutcher, Jofes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*

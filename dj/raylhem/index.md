@@ -1,6 +1,6 @@
 # Raylhem
 
-Raylhem is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bar Datcha, Montreal on Thu, 22 Oct 2026.
+Raylhem is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bar Datcha, Montreal on Thu, 22 Oct 2026.
 
 Raylhem is a baile funk and afrobeats artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside JEY SYANO, G L O W Z I and MLLE CEE. Next up: Bar Datcha, Montreal on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Raylhem is a baile funk and afrobeats artist based in Canada, tracked on soundch
 
 JEY SYANO, G L O W Z I, MLLE CEE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raylhem/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raylhem/)*

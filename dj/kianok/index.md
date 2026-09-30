@@ -1,6 +1,6 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
+Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
 
 Kian OK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Ghent and London and 5 more. Often billed alongside Picasso, Bowyer and Kyle Toole. Next up: feedbk, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Kian OK is a house and techno artist based in United Kingdom, tracked on soundch
 
 Picasso, Bowyer, Kyle Toole
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

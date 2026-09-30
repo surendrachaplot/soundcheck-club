@@ -1,6 +1,6 @@
 # fka.m4a
 
-fka.m4a is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 2 Oct 2026.
+fka.m4a is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 2 Oct 2026.
 
 fka.m4a is a house and techno artist based in United Kingdom, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: Vittoria Wharf Studio, London on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ fka.m4a is a house and techno artist based in United Kingdom, tracked on soundch
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

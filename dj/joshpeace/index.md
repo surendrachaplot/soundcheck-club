@@ -1,6 +1,6 @@
 # Josh Peace
 
-Josh Peace is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Josh Peace is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Josh Peace is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Los Angeles. Often billed alongside Flabbergast (LA), Colored Craig and Heidi Lawden. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Josh Peace is a house and techno artist based in United States of America, track
 
 Flabbergast (LA), Colored Craig, Heidi Lawden
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshpeace/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshpeace/)*

@@ -1,6 +1,6 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
+Mixfits (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
 
 Mixfits is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Jodie Mooney, TOOKAST and CLEAR UK. Next up: Sneaky Pete's, Edinburgh on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ Mixfits is a house and techno artist based in United Kingdom, tracked on soundch
 
 Jodie Mooney, TOOKAST, CLEAR UK
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

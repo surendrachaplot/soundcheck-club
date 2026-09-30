@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "The Big RnB Quiz" on Sat, 3 Oct 2026.
+Freight Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "The Big RnB Quiz" on Sat, 3 Oct 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including CHÉ WAX, ELSA (UK), Marvin Humes and Mixolis and 1 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -21,4 +21,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

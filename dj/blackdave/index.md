@@ -1,6 +1,6 @@
 # Black Dave
 
-Black Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
+Black Dave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
 
 Black Dave is a techno and house artist based in Australia, tracked on soundcheck, with 69 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Luke Hovey and Mordi. Next up: Sub Club Melbourne, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Black Dave is a techno and house artist based in Australia, tracked on soundchec
 
 Charlotte Rooney, Luke Hovey, Mordi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*

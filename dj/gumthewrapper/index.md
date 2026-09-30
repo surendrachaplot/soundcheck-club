@@ -1,6 +1,6 @@
 # gumthewrapper
 
-gumthewrapper is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+gumthewrapper is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 gumthewrapper is a breakbeat and bass artist based in United States of America, tracked on soundcheck, with 9 sets logged across Miami and New York City. Often billed alongside Xilla, 619! and Sel.6. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ gumthewrapper is a breakbeat and bass artist based in United States of America, 
 
 Xilla, 619!, Sel.6
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gumthewrapper/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gumthewrapper/)*

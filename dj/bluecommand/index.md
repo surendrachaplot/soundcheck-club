@@ -1,6 +1,6 @@
 # Bluecommand
 
-Bluecommand is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
+Bluecommand is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at CHICO, Mexico City on Sat, 3 Oct 2026.
 
 Bluecommand is a techno and electronica artist based in Mexico, tracked on soundcheck, with 131 sets logged across Amsterdam, Berlin, Mexico City and Tbilisi. Often billed alongside Phanta, Ranma Entero and Octoptic. Next up: CHICO, Mexico City on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Bluecommand is a techno and electronica artist based in Mexico, tracked on sound
 
 Phanta, Ranma Entero, Octoptic
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*

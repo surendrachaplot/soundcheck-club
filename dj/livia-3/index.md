@@ -1,6 +1,6 @@
 # LIVIA (3)
 
-LIVIA (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Afas Live, Amsterdam on Thu, 31 Dec 2026.
+LIVIA (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Afas Live, Amsterdam on Thu, 31 Dec 2026.
 
 LIVIA is an electronic artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside NO1ELSE, A.N.I. and DJ Dobrel. Next up: Afas Live, Amsterdam on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ LIVIA is an electronic artist tracked on soundcheck, with 4 sets logged across A
 
 NO1ELSE, A.N.I., DJ Dobrel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livia-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livia-3/)*

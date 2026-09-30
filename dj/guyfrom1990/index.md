@@ -1,6 +1,6 @@
 # Guy from 1990
 
-Guy from 1990 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Miradouro de Baixo, Lisbon on Fri, 2 Oct 2026.
+Guy from 1990 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Miradouro de Baixo, Lisbon on Fri, 2 Oct 2026.
 
 Guy from 1990 is a house and garage artist based in Portugal, tracked on soundcheck, with 54 sets logged across Brussels, Lisbon, Paris and Porto. Often billed alongside Jorge Caiado, Sara Wual and Mayan (PT). Next up: Miradouro de Baixo, Lisbon on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Guy from 1990 is a house and garage artist based in Portugal, tracked on soundch
 
 Jorge Caiado, Sara Wual, Mayan (PT)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfrom1990/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfrom1990/)*

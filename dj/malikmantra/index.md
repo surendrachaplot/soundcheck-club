@@ -1,6 +1,6 @@
 # Malik Mantra
 
-Malik Mantra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bacan Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Malik Mantra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bacan Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Malik Mantra is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam and San Diego. Often billed alongside CJ Posada, Bondar and BRiAN. Next up: Bacan Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Malik Mantra is a house and tech house artist tracked on soundcheck, with 7 sets
 
 CJ Posada, Bondar, BRiAN (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malikmantra/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malikmantra/)*

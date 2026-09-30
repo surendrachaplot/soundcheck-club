@@ -1,14 +1,15 @@
 # Huck Finn
 
-Huck Finn is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Huck Finn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Huck Finn is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam and London. Often billed alongside Solartrak, Wolf Auris and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Huck Finn is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam and London. Often billed alongside Solartrak, Wolf Auris and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
+| Fri, 9 Apr 2027 | TBA | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Huck Finn is a house and tech house artist based in United Kingdom, tracked on s
 
 Solartrak, Wolf Auris, Shady Lady
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huckfinn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huckfinn/)*

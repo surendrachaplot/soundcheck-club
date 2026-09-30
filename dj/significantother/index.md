@@ -1,6 +1,6 @@
 # Significant Other
 
-Significant Other is a Experimental and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Significant Other is a Experimental and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
 Significant Other is an experimental and bass artist tracked on soundcheck, with 54 sets logged across Belgrade, Berlin, Cologne and London and 5 more. Often billed alongside Eleftheria, Jon K and John T. Gast. Next up: public records, New York City on Mon 9 Nov.
 
@@ -27,4 +27,4 @@ Significant Other is an experimental and bass artist tracked on soundcheck, with
 
 Eleftheria, Jon K, John T. Gast
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/significantother/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/significantother/)*

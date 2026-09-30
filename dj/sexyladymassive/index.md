@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at World Headquarters, Newcastle on Sat, 3 Oct 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at World Headquarters, Newcastle on Sat, 3 Oct 2026.
 
 Sexy Lady Massive is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brighton and Bristol and 7 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: World Headquarters, Newcastle on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, tracked
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

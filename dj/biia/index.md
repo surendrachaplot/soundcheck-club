@@ -1,6 +1,6 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BASIS, Utrecht on Sat, 3 Oct 2026.
+BIIA is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at BASIS, Utrecht on Sat, 3 Oct 2026.
 
 BIIA is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: BASIS, Utrecht on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ BIIA is a techno and hardcore artist based in Portugal, tracked on soundcheck, w
 
 Shlømo, Alignment, Basswell
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biia/)*

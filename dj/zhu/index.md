@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Coda, Toronto on Sun, 4 Oct 2026.
+ZHU is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Coda, Toronto on Sun, 4 Oct 2026.
 
 ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Chicago, Denver and Detroit and 11 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: Coda, Toronto on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 Diplo, Azzecca, Biscits
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

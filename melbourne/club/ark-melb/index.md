@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "ark // TWIENA [NL] | Contrast Radio" on Sat, 3 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "ark // TWIENA [NL] | Contrast Radio" on Sat, 3 Oct 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Arktic, Auramatic, Crybaby and Cybernet and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

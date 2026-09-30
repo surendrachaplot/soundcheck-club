@@ -1,14 +1,15 @@
 # Dreems
 
-Dreems is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Dreems is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Dreems is a house and electronica artist based in Armenia, tracked on soundcheck, with 17 sets logged across Berlin, Brisbane, Glasgow and London and 3 more. Often billed alongside DJ Raff, Darcy Justice and Earthly Measures. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Dreems is a house and electronica artist based in Armenia, tracked on soundcheck, with 18 sets logged across Berlin, Brisbane, Glasgow and London and 4 more. Often billed alongside Darcy Justice, Babycino and DJ Raff. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
+| Fri, 6 Nov 2026 | TBA | Victoria |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dreems is a house and electronica artist based in Armenia, tracked on soundcheck
 
 ## Shares bills with
 
-DJ Raff, Darcy Justice, Earthly Measures
+Darcy Justice, Babycino, DJ Raff
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*

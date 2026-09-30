@@ -1,14 +1,14 @@
 # Shiela.
 
-Shiela. is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Waiting Room, London on Fri, 30 Oct 2026.
+Shiela. is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Waiting Room, London on Fri, 6 Nov 2026.
 
-Shiela. is a minimal and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Next up: The Waiting Room, London on Fri 30 Oct.
+Shiela. is a minimal and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Next up: The Waiting Room, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Waiting Room | London |
+| Fri, 6 Nov 2026 | The Waiting Room | London |
 
 ## Recently played
 
@@ -17,4 +17,4 @@ Shiela. is a minimal and techno artist based in United Kingdom, tracked on sound
 - Dalston Den, London — Sat, 8 Nov 2025
 - The Greyhound, London — Fri, 11 Apr 2025
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiela./)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiela./)*

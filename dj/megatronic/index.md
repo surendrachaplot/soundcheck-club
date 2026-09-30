@@ -1,6 +1,6 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Volt Club Milano, Milan on Fri, 9 Oct 2026.
+Megatronic is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Volt Club Milano, Milan on Fri, 9 Oct 2026.
 
 Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Volt Club Milano, Milan on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Megatronic is a house and disco artist based in United Kingdom, tracked on sound
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

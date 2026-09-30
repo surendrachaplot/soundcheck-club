@@ -1,14 +1,15 @@
 # Midnight Magic
 
-Midnight Magic is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at public records, New York City on Thu, 8 Oct 2026.
+Midnight Magic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at public records, New York City on Thu, 8 Oct 2026.
 
-Midnight Magic is a disco and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit, Los Angeles, Mexico City and Nashville and 2 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: public records, New York City on Thu 8 Oct.
+Midnight Magic is a disco and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Detroit, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Andi, COLOURS 87 and Facets. Next up: public records, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | public records | New York City |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Midnight Magic is a disco and house artist based in United States of America, tr
 
 Andi, COLOURS 87, Facets
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightmagic/)*

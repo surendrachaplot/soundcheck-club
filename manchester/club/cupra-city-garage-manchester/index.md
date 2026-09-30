@@ -1,6 +1,6 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Stanton Warriors All Evening Long" on Sat, 17 Oct 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Stanton Warriors All Evening Long" on Sat, 17 Oct 2026.
 
 Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Stanton Warriors and Tim Green. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
@@ -16,4 +16,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

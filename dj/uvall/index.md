@@ -1,6 +1,6 @@
 # Uväll
 
-Uväll is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
+Uväll is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Flux, Istanbul on Sat, 10 Oct 2026.
 
 Uväll is a techno and trance artist based in Georgia, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Düsseldorf and Hamburg and 9 more. Often billed alongside gwän, Script (GE) and WINDFUHR. Next up: Flux, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Uväll is a techno and trance artist based in Georgia, tracked on soundcheck, wi
 
 gwän, Script (GE), WINDFUHR
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*

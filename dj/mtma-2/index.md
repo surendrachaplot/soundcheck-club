@@ -1,6 +1,6 @@
 # MTMA (2)
 
-MTMA (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 3 Oct 2026.
+MTMA (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 3 Oct 2026.
 
 MTMA is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin and Milan. Often billed alongside GIS, ChéRebel and Antikorpo. Next up: Tempio del Futuro Perduto, Milan on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ MTMA is an electronic artist tracked on soundcheck, with 4 sets logged across Be
 
 GIS (2), ChéRebel, Antikorpo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtma-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtma-2/)*

@@ -1,6 +1,6 @@
 # Saia
 
-Saia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
+Saia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
 
 Saia is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Mexico City and New York City. Often billed alongside Arvin T, Markus (US) and Sharlese. Next up: Paragon, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Saia is a house and techno artist based in United States of America, tracked on 
 
 Arvin T, Markus (US), Sharlese
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*

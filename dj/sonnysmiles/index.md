@@ -1,6 +1,6 @@
 # Sonny Smiles
 
-Sonny Smiles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
+Sonny Smiles is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
 Sonny Smiles is a trance and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Aexhy, LŸBRA and SACID. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Sonny Smiles is a trance and techno artist based in Japan, tracked on soundcheck
 
 Aexhy, LŸBRA, SACID
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*

@@ -1,6 +1,6 @@
 # Paul Pahn
 
-Paul Pahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Silbergold, Frankfurt on Sat, 3 Oct 2026.
+Paul Pahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Silbergold, Frankfurt on Sat, 3 Oct 2026.
 
 Paul Pahn is a techno and trance artist tracked on soundcheck, with 38 sets logged across Frankfurt. Often billed alongside Jannis Brinkmann, GERKE and NIKUSH. Next up: Silbergold, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Paul Pahn is a techno and trance artist tracked on soundcheck, with 38 sets logg
 
 Jannis Brinkmann, GERKE, NIKUSH
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpahn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpahn/)*

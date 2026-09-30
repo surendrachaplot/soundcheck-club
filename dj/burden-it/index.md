@@ -1,14 +1,15 @@
 # Burden
 
-Burden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Suki10c, Birmingham on Fri, 9 Oct 2026.
+Burden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Suki10c, Birmingham on Fri, 9 Oct 2026.
 
-Burden is a techno and house artist based in Italy, tracked on soundcheck, with 33 sets logged across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Antonio De Angelis and Mosai. Next up: Suki10c, Birmingham on Fri 9 Oct.
+Burden is a techno and house artist based in Italy, tracked on soundcheck, with 34 sets logged across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Antonio De Angelis and Mosai. Next up: Suki10c, Birmingham on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Suki10c | Birmingham |
+| Sat, 10 Oct 2026 | DURO | Milan |
 | Fri, 6 Nov 2026 | Gaffe | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Burden is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Slumber, Antonio De Angelis, Mosai
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burden-it/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burden-it/)*

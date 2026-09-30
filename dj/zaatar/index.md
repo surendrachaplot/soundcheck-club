@@ -1,6 +1,6 @@
 # Zaatar
 
-Zaatar is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Le Trabendo, Paris on Fri, 16 Oct 2026.
+Zaatar is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Le Trabendo, Paris on Fri, 16 Oct 2026.
 
 Zaatar is an ebm and techno artist based in Morocco, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Le Trabendo, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zaatar is an ebm and techno artist based in Morocco, tracked on soundcheck, with
 
 Jen Cardini, Arabian Panther, Pablo Bozzi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*

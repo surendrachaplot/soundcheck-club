@@ -1,14 +1,15 @@
 # Halo Varga
 
-Halo Varga is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Los Angeles on Fri, 16 Oct 2026.
+Halo Varga is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 16 Oct 2026.
 
-Halo Varga is a house and minimal artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, Detroit, London and Los Angeles and 4 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: TBA, Los Angeles on Fri 16 Oct.
+Halo Varga is a house and minimal artist based in United States of America, tracked on soundcheck, with 40 sets logged across Chicago, Detroit, London and Los Angeles and 5 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: TBA - Los Angeles, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA | Los Angeles |
+| Fri, 16 Oct 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 20 Nov 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Halo Varga is a house and minimal artist based in United States of America, trac
 
 Krane, Adam Rose, Enzo Muro
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*

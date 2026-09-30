@@ -1,6 +1,6 @@
 # JM (3)
 
-JM (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Dr. Dou Social Club, Barcelona on Fri, 2 Oct 2026.
+JM (3) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Dr. Dou Social Club, Barcelona on Fri, 2 Oct 2026.
 
 JM is an electronic artist tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Gola, Parea and Sergio LLamas. Next up: Dr. Dou Social Club, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ JM is an electronic artist tracked on soundcheck, with 20 sets logged across Bar
 
 Gola, Parea, Sergio LLamas
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jm-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jm-3/)*

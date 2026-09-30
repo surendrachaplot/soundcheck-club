@@ -1,6 +1,6 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Mystic Garden" on Sat, 3 Oct 2026.
+Blank Site is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Mystic Garden" on Sat, 3 Oct 2026.
 
 Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including ATISMIA, CHICHI (KR), Destin and h4rdy and 2 more. Browse upcoming dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

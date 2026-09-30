@@ -1,6 +1,6 @@
 # Pierre Locher
 
-Pierre Locher is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Audio Club, Geneva on Sat, 10 Oct 2026.
+Pierre Locher is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Audio Club, Geneva on Sat, 10 Oct 2026.
 
 Pierre Locher is a techno artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Berlin and Geneva. Often billed alongside Caiiro, DJ Reas and Joris Delacroix. Next up: Audio Club, Geneva on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Pierre Locher is a techno artist based in Switzerland, tracked on soundcheck, wi
 
 Caiiro, DJ Reas, Joris Delacroix
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelocher/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelocher/)*

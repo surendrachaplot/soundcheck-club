@@ -1,6 +1,6 @@
 # xacome
 
-xacome is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 2 Oct 2026.
+xacome is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 2 Oct 2026.
 
 xacome is an electronica and techno artist based in Spain, tracked on soundcheck, with 22 sets logged across Madrid. Often billed alongside Sarah Jones, Alliee Fields and Brenda Sayuri. Next up: Rastro Live Studio, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ xacome is an electronica and techno artist based in Spain, tracked on soundcheck
 
 Sarah Jones, Alliee Fields, Brenda Sayuri
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xacome/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xacome/)*

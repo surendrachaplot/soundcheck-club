@@ -1,6 +1,6 @@
 # Ben Bostik
 
-Ben Bostik is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Kaiku, Helsinki on Sat, 3 Oct 2026.
+Ben Bostik is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Kaiku, Helsinki on Sat, 3 Oct 2026.
 
 Ben Bostik is an italo disco and disco artist based in Finland, tracked on soundcheck, with 5 sets logged across Helsinki. Often billed alongside Eric Filipus, Fumiya Tanaka and I-F. Next up: Kaiku, Helsinki on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Ben Bostik is an italo disco and disco artist based in Finland, tracked on sound
 
 Eric Filipus, Fumiya Tanaka, I-F
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbostik/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbostik/)*

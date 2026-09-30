@@ -1,6 +1,6 @@
 # Duskee
 
-Duskee is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Duskee is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Bali and 17 more. Often billed alongside Monrroe, GLXY and Emily Makis. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Monrroe, GLXY, Emily Makis
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*

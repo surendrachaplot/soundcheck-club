@@ -1,6 +1,6 @@
 # ikigai3000
 
-ikigai3000 is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - FORTY, Dundalk , Dublin on Sat, 31 Oct 2026.
+ikigai3000 is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - FORTY, Dundalk , Dublin on Sat, 31 Oct 2026.
 
 ikigai3000 is a minimal techno and acid artist based in Ireland, tracked on soundcheck, with 6 sets logged across Dublin. Often billed alongside VCS1, Claramonte and EMMIE. Next up: TBA - FORTY, Dundalk , Dublin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ ikigai3000 is a minimal techno and acid artist based in Ireland, tracked on soun
 
 VCS1, Claramonte, EMMIE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikigai3000-ie/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikigai3000-ie/)*

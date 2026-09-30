@@ -1,6 +1,6 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at smartbar, Chicago on Sat, 3 Oct 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at smartbar, Chicago on Sat, 3 Oct 2026.
 
 Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Belfast and 27 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: smartbar, Chicago on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, trac
 
 Horse Meat Disco, Francois K, Love Injection
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

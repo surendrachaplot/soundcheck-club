@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lobster (NL), Toscan Haas and Amotik. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lea Occhi is a techno and house artist based in France, tracked on soundcheck, w
 | Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 12 Dec 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Lea Occhi is a techno and house artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Toscan Haas, Amotik, Lobster (NL)
+Lobster (NL), Toscan Haas, Amotik
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

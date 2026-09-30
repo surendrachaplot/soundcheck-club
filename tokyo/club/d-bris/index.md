@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Debris Mood" on Wed, 30 Sept 2026.
+Débris is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Debris Mood" on Wed, 30 Sept 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including cosmolady, fotprt, Jeremy Cheung and KAIKAI and 2 more. Browse upcoming dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -19,4 +19,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with li
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

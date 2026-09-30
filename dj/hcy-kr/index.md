@@ -1,6 +1,6 @@
 # hcy.
 
-hcy. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
+hcy. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
 
 hcy. is a techno and house artist based in South Korea, tracked on soundcheck, with 61 sets logged across Seoul. Often billed alongside Sunghoon, Ve Bogel and Xanexx. Next up: Stoked&stoned, Seoul on Mon 28 Sept.
 
@@ -26,4 +26,4 @@ hcy. is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Sunghoon, Ve Bogel, Xanexx
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*

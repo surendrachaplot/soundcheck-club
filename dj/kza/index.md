@@ -1,6 +1,6 @@
 # KZA
 
-KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Oath, Tokyo on Wed, 30 Sept 2026.
+KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Oath, Tokyo on Wed, 30 Sept 2026.
 
 KZA is a house and techno artist based in Japan, tracked on soundcheck, with 186 sets logged across Bali, Los Angeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and YOSHIROTTEN. Next up: Oath, Tokyo on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ KZA is a house and techno artist based in Japan, tracked on soundcheck, with 186
 
 DJ Emma, Toshiyuki Goto, YOSHIROTTEN
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kza/)*

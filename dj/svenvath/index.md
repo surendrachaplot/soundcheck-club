@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 1 Oct 2026.
+Sven Vath is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 1 Oct 2026.
 
 Sven Vath is a techno and house artist based in Germany, tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 1 Oct.
 
@@ -33,4 +33,4 @@ Sven Vath is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

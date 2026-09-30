@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Abercrombie Hotel, Sydney on Sat, 3 Oct 2026.
+Merve is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Abercrombie Hotel, Sydney on Sat, 3 Oct 2026.
 
 Merve is a house and techno artist based in Australia, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Fastlove, Sansibar and Angel D'lite. Next up: Abercrombie Hotel, Sydney on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Merve is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Fastlove, Sansibar, Angel D'lite
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

@@ -1,6 +1,6 @@
 # Nehir
 
-Nehir is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Boogie, Toronto on Thu, 1 Oct 2026.
+Nehir is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Boogie, Toronto on Thu, 1 Oct 2026.
 
 Nehir is a techno and post-punk artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside A.J. Matos, CAETANO and CRISTI:ANA. Next up: Boogie, Toronto on Thu 1 Oct.
 
@@ -20,4 +20,4 @@ Nehir is a techno and post-punk artist based in Canada, tracked on soundcheck, w
 
 A.J. Matos, CAETANO, CRISTI:ANA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nehir/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nehir/)*

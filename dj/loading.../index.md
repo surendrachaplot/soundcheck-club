@@ -1,6 +1,6 @@
 # Loading...
 
-Loading... is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Temple Bar, Detroit on Sat, 3 Oct 2026.
+Loading... is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Temple Bar, Detroit on Sat, 3 Oct 2026.
 
 Loading... is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Detroit and Miami. Often billed alongside Loading... (US), DJ DARIA and Eddie Fowlkes. Next up: Temple Bar, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Loading... is a house and techno artist based in United States of America, track
 
 Loading... (US), DJ DARIA, Eddie Fowlkes
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*

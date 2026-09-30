@@ -1,6 +1,6 @@
 # AADJA
 
-AADJA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at public records, New York City on Fri, 9 Oct 2026.
+AADJA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at public records, New York City on Fri, 9 Oct 2026.
 
 AADJA is a techno and acid artist based in Canada, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Measure Divide, Richie Hawtin and Ellen Allien. Next up: public records, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ AADJA is a techno and acid artist based in Canada, tracked on soundcheck, with 9
 
 Measure Divide, Richie Hawtin, Ellen Allien
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aadja-ca/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aadja-ca/)*

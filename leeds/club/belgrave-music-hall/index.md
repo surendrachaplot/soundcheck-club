@@ -1,14 +1,13 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 17 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Kylie Wears Berghaus" on Fri, 2 Oct 2026.
+Belgrave Music Hall is a music venue in Leeds with 16 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Anish Kumar" on Sat, 3 Oct 2026.
 
-Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 17 upcoming gigs, with line-ups including Bel Cobain, Elder Island, Kylie Wears Berghaus and O'Flynn and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
+Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 16 upcoming gigs, with line-ups including Bel Cobain, Elder Island, O'Flynn and Romare and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Sat, 3 Oct 2026 | Anish Kumar |  |
 | Sun, 4 Oct 2026 | Kathryn Mohr |  |
 | Sat, 10 Oct 2026 | New North Indie: One-Dayer |  |
@@ -18,9 +17,10 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 17 upcoming 
 | Sat, 24 Oct 2026 | Please Don't Me Go Home |  |
 | Sun, 25 Oct 2026 | Big Fish Little Fish LEEDS Halloween Family Rave! Sun 25th October 1-3pm |  |
 | Thu, 29 Oct 2026 | Romare (Live) | Romare |
+| Fri, 30 Oct 2026 | Elder Island | Elder Island |
 
 ## Address
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

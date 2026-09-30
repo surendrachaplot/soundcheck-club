@@ -1,6 +1,6 @@
 # Sweater On Polo
 
-Sweater On Polo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bambi's, Toronto on Sat, 3 Oct 2026.
+Sweater On Polo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bambi's, Toronto on Sat, 3 Oct 2026.
 
 Sweater On Polo is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Copenhagen and Detroit and 5 more. Often billed alongside Alenaudio, Bookworms and Tony Price. Next up: Bambi's, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sweater On Polo is a house and techno artist based in United States of America, 
 
 Alenaudio, Bookworms, Tony Price
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweateronpolo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweateronpolo/)*

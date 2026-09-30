@@ -1,14 +1,15 @@
 # Tati au Miel
 
-Tati au Miel is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
+Tati au Miel is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
 
-Tati au Miel is an experimental and techno artist based in Canada, tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Berlin and Brussels and 15 more. Often billed alongside Rabit, Total XTC and Daito Manabe. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
+Tati au Miel is an experimental and techno artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Bergen and Berlin and 16 more. Often billed alongside Rabit, Total XTC and Daito Manabe. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
+| Thu, 29 Oct 2026 | Østre | Bergen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tati au Miel is an experimental and techno artist based in Canada, tracked on so
 
 Rabit, Total XTC, Daito Manabe
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*

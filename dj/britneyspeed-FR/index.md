@@ -1,6 +1,6 @@
 # Britney Speed (FR)
 
-Britney Speed (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
+Britney Speed (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
 
 Britney Speed (FR) is a techno and trance artist tracked on soundcheck, with 23 sets logged across Copenhagen, London, Marseille and Nantes and 2 more. Often billed alongside BETÏSES, Etienne Nogues and Enigmatik. Next up: Le Château du Bois Guy, Rennes on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Britney Speed (FR) is a techno and trance artist tracked on soundcheck, with 23 
 
 BETÏSES, Etienne Nogues, Enigmatik
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed-FR/)*

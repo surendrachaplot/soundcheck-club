@@ -1,6 +1,6 @@
 # happysadgirl
 
-happysadgirl is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
+happysadgirl is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
 happysadgirl is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside alemiko, DJ Traytex and H369. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ happysadgirl is a trance and techno artist based in Germany, tracked on soundche
 
 alemiko, DJ Traytex, H369
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/happysadgirl/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/happysadgirl/)*

@@ -1,6 +1,6 @@
 # jwon
 
-jwon is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Montreal on Sat, 24 Oct 2026.
+jwon is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Montreal on Sat, 24 Oct 2026.
 
 jwon is a garage and bass artist tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside In Depth Subject, Nihility and NiUNiU. Next up: TBA, Montreal on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ jwon is a garage and bass artist tracked on soundcheck, with 8 sets logged acros
 
 In Depth Subject, Nihility, NiUNiU
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwon/)*

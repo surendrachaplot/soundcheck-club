@@ -1,8 +1,8 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Leidse, Amsterdam on Fri, 2 Oct 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Club Leidse, Amsterdam on Fri, 2 Oct 2026.
 
-Oscar Osorio is a hip-hop and r&b artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Los Angeles and San Diego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Fri 2 Oct.
+Oscar Osorio is a hip-hop and r&b artist based in United States of America, tracked on soundcheck, with 63 sets logged across Amsterdam, Los Angeles and San Diego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,14 @@ Oscar Osorio is a hip-hop and r&b artist based in United States of America, trac
 | Sat, 3 Oct 2026 | Club Leidse | Amsterdam |
 | Fri, 9 Oct 2026 | Club Leidse | Amsterdam |
 | Sat, 10 Oct 2026 | Club Leidse | Amsterdam |
+| Sat, 17 Oct 2026 | Club Leidse | Amsterdam |
+| Fri, 30 Oct 2026 | Club Leidse | Amsterdam |
+| Sat, 31 Oct 2026 | Club Leidse | Amsterdam |
+| Fri, 6 Nov 2026 | Club Leidse | Amsterdam |
+| Sat, 7 Nov 2026 | Club Leidse | Amsterdam |
+| Fri, 13 Nov 2026 | Club Leidse | Amsterdam |
+| Sat, 14 Nov 2026 | Club Leidse | Amsterdam |
+| Fri, 20 Nov 2026 | Club Leidse | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +36,4 @@ Oscar Osorio is a hip-hop and r&b artist based in United States of America, trac
 
 Rishi Romero, DJ LIGMA, Daff
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

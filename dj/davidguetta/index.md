@@ -1,8 +1,8 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
+David Guetta is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
 
-David Guetta is a house and progressive house artist based in France, tracked on soundcheck, with 151 sets logged across Frankfurt, Geneva, Ibiza and Miami and 2 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Fri 2 Oct.
+David Guetta is a house and progressive house artist based in France, tracked on soundcheck, with 152 sets logged across Frankfurt, Geneva, Ibiza and London and 3 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Guetta is a house and progressive house artist based in France, tracked on
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | [UNVRS] | Ibiza |
 | Mon, 5 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Sat, 5 Jun 2027 | O2 Arena | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ David Guetta is a house and progressive house artist based in France, tracked on
 
 Paul Reynolds, Meduza, James Hype (UK)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*

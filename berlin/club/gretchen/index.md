@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 47 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "MOP MOP ft. ANTHONY JOSEPH *live" on Wed, 30 Sept 2026.
+Gretchen is a music venue in Berlin with 47 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "MOP MOP ft. ANTHONY JOSEPH *live" on Wed, 30 Sept 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 47 upcoming gigs, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 47 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

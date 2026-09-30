@@ -1,6 +1,6 @@
 # Madman
 
-Madman is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Madman is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 Madman is a techno artist tracked on soundcheck, with 15 sets logged across Athens, Bangkok, Berlin and Glasgow and 2 more. Often billed alongside Alex Benz, djcob and Bailey Brown. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Madman is a techno artist tracked on soundcheck, with 15 sets logged across Athe
 
 Alex Benz, djcob, Bailey Brown
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madman/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madman/)*

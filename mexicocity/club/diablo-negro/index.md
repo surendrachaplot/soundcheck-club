@@ -1,6 +1,6 @@
 # Diablo Negro
 
-Diablo Negro is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "BAJO CERO (ROOMIIX X METAMORPHIC EXPERIENCE)" on Fri, 6 Nov 2026.
+Diablo Negro is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "BAJO CERO (ROOMIIX x Metamorphic Experience)" on Fri, 6 Nov 2026.
 
 Diablo Negro is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Monterrey 80, Centro Urbano Pdte. JuÃ¡rez, Roma Nte., CuauhtÃ©moc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -8,10 +8,10 @@ Diablo Negro is a music venue in Mexico City listed on soundcheck. 1 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | BAJO CERO (ROOMIIX X METAMORPHIC EXPERIENCE) |  |
+| Fri, 6 Nov 2026 | BAJO CERO (ROOMIIX x Metamorphic Experience) |  |
 
 ## Address
 
 Monterrey 80, Centro Urbano Pdte. JuÃ¡rez, Roma Nte., CuauhtÃ©moc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/diablo-negro/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/diablo-negro/)*

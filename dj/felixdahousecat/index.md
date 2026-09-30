@@ -1,14 +1,15 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Felix Da Housecat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Felix Da Housecat is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Antwerp, Auckland, Berlin and Bristol and 20 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Felix Da Housecat is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Antwerp, Auckland, Berlin and Bristol and 21 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Sat, 31 Oct 2026 | TBA | Sacramento |
 | Sat, 28 Nov 2026 | House of Yes | New York City |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
@@ -27,4 +28,4 @@ Felix Da Housecat is a house and techno artist based in United States of America
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

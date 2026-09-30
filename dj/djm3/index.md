@@ -1,8 +1,8 @@
 # DJ M3
 
-DJ M3 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
+DJ M3 is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-DJ M3 is a house and disco artist based in United States of America, tracked on soundcheck, with 83 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Carrieondisco and Doc Martin. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
+DJ M3 is a house and disco artist based in United States of America, tracked on soundcheck, with 84 sets logged across Los Angeles, Sacramento and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Carrieondisco and Galen. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ M3 is a house and disco artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Monarch | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA | Sacramento |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DJ M3 is a house and disco artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Anthony Mansfield, Carrieondisco, Doc Martin
+Anthony Mansfield, Carrieondisco, Galen
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djm3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djm3/)*

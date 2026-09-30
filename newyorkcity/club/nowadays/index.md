@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Intro to Ableton Lab: Intro to Mixing, Mastering, and Analog Processing" on Wed, 30 Sept 2026.
+Nowadays is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Intro to Ableton Lab: Intro to Mixing, Mastering, and Analog Processing" on Wed, 30 Sept 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 24 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 24 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

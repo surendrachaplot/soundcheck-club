@@ -1,8 +1,8 @@
 # Clouds
 
-Clouds is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Warehouse, Leeds on Sat, 3 Oct 2026.
+Clouds is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Warehouse, Leeds on Sat, 3 Oct 2026.
 
-Clouds is a techno and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, Bella Claxton and DART. Next up: The Warehouse, Leeds on Sat 3 Oct.
+Clouds is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 93 sets logged across Aberdeen, Amsterdam, Basel and Belfast and 27 more. Often billed alongside Tommy Holohan, X CLUB. and Bella Claxton. Next up: The Warehouse, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Clouds is a techno and house artist based in United Kingdom, tracked on soundche
 | Fri, 9 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 10 Oct 2026 | Le Sucre | Lyon |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Clouds is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Tommy Holohan, Bella Claxton, DART
+Tommy Holohan, X CLUB., Bella Claxton
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouds/)*

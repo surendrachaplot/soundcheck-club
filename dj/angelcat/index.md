@@ -1,6 +1,6 @@
 # Angel Cat
 
-Angel Cat is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Angel Cat is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Angel Cat is a techno and club artist tracked on soundcheck, with 8 sets logged across Berlin, Dublin, Helsinki and London and 1 more. Often billed alongside Small Crab, SOGI and AXT. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Angel Cat is a techno and club artist tracked on soundcheck, with 8 sets logged 
 
 Small Crab (2), SOGI, AXT
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcat/)*

@@ -1,13 +1,14 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
+Altinbas is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 3 Oct 2026.
 
-Altinbas is a techno and house artist based in Belgium, tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Jasna 1, Warsaw on Fri 9 Oct.
+Altinbas is a techno and house artist based in Belgium, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Tokonoma Club, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Tokonoma Club | Frankfurt |
 | Fri, 9 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
@@ -33,4 +34,4 @@ Altinbas is a techno and house artist based in Belgium, tracked on soundcheck, w
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

@@ -1,6 +1,6 @@
 # Chiara Allnutt
 
-Chiara Allnutt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Lucia, Vienna on Fri, 11 Dec 2026.
+Chiara Allnutt is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club Lucia, Vienna on Fri, 11 Dec 2026.
 
 Chiara Allnutt is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside KAROLINA, FX-31 and GEN97. Next up: Club Lucia, Vienna on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Chiara Allnutt is a techno and trance artist based in Germany, tracked on soundc
 
 KAROLINA, FX-31, GEN97
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaraallnutt/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaraallnutt/)*

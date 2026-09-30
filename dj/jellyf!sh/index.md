@@ -1,14 +1,13 @@
 # Jellyf!sh
 
-Jellyf!sh is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at clubasia, Tokyo on Wed, 23 Sept 2026.
+Jellyf!sh is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at clubasia, Tokyo on Wed, 30 Sept 2026.
 
-Jellyf!sh is a house and hip-hop artist based in Japan, tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: clubasia, Tokyo on Wed 23 Sept.
+Jellyf!sh is a house and hip-hop artist based in Japan, tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: clubasia, Tokyo on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | clubasia | Tokyo |
 | Wed, 30 Sept 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jellyf!sh is a house and hip-hop artist based in Japan, tracked on soundcheck, w
 
 FUJI TRILL, misa nakamura, kyuuu
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*

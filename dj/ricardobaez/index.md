@@ -1,6 +1,6 @@
 # Ricardo Baez
 
-Ricardo Baez is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Club Twentyone, Florence on Thu, 8 Oct 2026.
+Ricardo Baez is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Club Twentyone, Florence on Thu, 8 Oct 2026.
 
 Ricardo Baez is a house and electro artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Copenhagen and Florence and 6 more. Often billed alongside Marc Anthony Bowen, Nunzio Borino and Volantis. Next up: Club Twentyone, Florence on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Ricardo Baez is a house and electro artist based in Italy, tracked on soundcheck
 
 Marc Anthony Bowen, Nunzio Borino, Volantis
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*

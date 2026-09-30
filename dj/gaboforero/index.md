@@ -1,6 +1,6 @@
 # Gabo Forero
 
-Gabo Forero is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Gabo Forero is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Gabo Forero is an electronic artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Frankfurt and Medellin and 2 more. Often billed alongside Mao Loading, AISHA and AJ Christou. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Gabo Forero is an electronic artist tracked on soundcheck, with 7 sets logged ac
 
 Mao Loading, AISHA, AJ Christou
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboforero/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboforero/)*

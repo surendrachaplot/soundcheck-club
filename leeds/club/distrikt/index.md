@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "RekTek presents Casnova" on Fri, 2 Oct 2026.
+Distrikt is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "RekTek presents Casnova" on Fri, 2 Oct 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Osifo, Arty, Binyamhn and Cadence and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -21,4 +21,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with l
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

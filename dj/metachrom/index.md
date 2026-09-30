@@ -1,6 +1,6 @@
 # Meta Chrom
 
-Meta Chrom is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
+Meta Chrom is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
 Meta Chrom is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside HØLLE, CARGO (DE) and DJ TIPSTER. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Meta Chrom is a techno and trance artist based in Germany, tracked on soundcheck
 
 HØLLE (2), CARGO (DE), DJ TIPSTER
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metachrom/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metachrom/)*

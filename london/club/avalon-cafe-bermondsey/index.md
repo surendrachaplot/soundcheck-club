@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Thrive Inside #3" on Sat, 3 Oct 2026.
+Avalon Cafe Bermondsey is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Thrive Inside #3" on Sat, 3 Oct 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Iza, B4mba, batgirl and Caroune and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -20,4 +20,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

@@ -1,6 +1,6 @@
 # Lady Maru
 
-Lady Maru is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at AMT, Berlin on Sat, 14 Nov 2026.
+Lady Maru is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at AMT, Berlin on Sat, 14 Nov 2026.
 
 Lady Maru is a techno and acid artist based in Italy, tracked on soundcheck, with 96 sets logged across Berlin, Brussels, Hamburg and Krakow and 8 more. Often billed alongside Samantha Togni, Metaraph and fivequestionmarks. Next up: AMT, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lady Maru is a techno and acid artist based in Italy, tracked on soundcheck, wit
 
 Samantha Togni, Metaraph, fivequestionmarks
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymaru/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymaru/)*

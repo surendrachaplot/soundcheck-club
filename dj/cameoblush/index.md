@@ -1,6 +1,6 @@
 # Cameo Blush
 
-Cameo Blush is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+Cameo Blush is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
 Cameo Blush is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Antwerp, Berlin, Bristol and Dublin and 8 more. Often billed alongside Ross From Friends, Giulia Tess and Helena Hauff. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Cameo Blush is a house and techno artist based in United Kingdom, tracked on sou
 
 Ross From Friends, Giulia Tess, Helena Hauff
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameoblush/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameoblush/)*

@@ -1,6 +1,6 @@
 # Aline (CH)
 
-Aline (CH) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kauz, Zurich on Fri, 2 Oct 2026.
+Aline (CH) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kauz, Zurich on Fri, 2 Oct 2026.
 
 Aline (CH) is a house and minimal artist based in Switzerland, tracked on soundcheck, with 51 sets logged across Barcelona, Basel, Berlin and Brussels and 2 more. Often billed alongside Flavio (CH), Aron (CH) and Ion Ludwig. Next up: Kauz, Zurich on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Aline (CH) is a house and minimal artist based in Switzerland, tracked on soundc
 
 Flavio (CH), Aron (CH), Ion Ludwig
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*

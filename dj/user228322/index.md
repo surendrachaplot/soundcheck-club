@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
+user228322 is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
 
 user228322 is an electro and minimal artist based in Ukraine, tracked on soundcheck, with 56 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Wesola Immersive, Krakow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ user228322 is an electro and minimal artist based in Ukraine, tracked on soundch
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

@@ -1,15 +1,17 @@
 # K-Style
 
-K-Style is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
+K-Style is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - El Jardín de las Artes, Zaragoza, North on Sat, 10 Oct 2026.
 
-K-Style is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Carlos Pérez, Gaston Zani and Basswell. Next up: Fabrik, Madrid on Sat 17 Oct.
+K-Style is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Carlos Pérez, Gaston Zani and Basswell. Next up: TBA - El Jardín de las Artes, Zaragoza, North on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - El Jardín de las Artes, Zaragoza | North |
 | Sat, 17 Oct 2026 | Fabrik | Madrid |
 | Fri, 27 Nov 2026 | E1 | London |
+| Sat, 23 Jan 2027 | Barraca | Valencia |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ K-Style is a techno and minimal techno artist based in Spain, tracked on soundch
 
 Carlos Pérez, Gaston Zani, Basswell
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*

@@ -1,6 +1,6 @@
 # Voce - Triennale
 
-Voce - Triennale is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Consorzio Ambient Italiano" on Thu, 15 Oct 2026.
+Voce - Triennale is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Consorzio Ambient Italiano" on Thu, 15 Oct 2026.
 
 Voce - Triennale is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including JASSS and Valentina Magaletti. Browse upcoming dates, start times and who's playing. Viale Emilio Alemagna, 6, 20121 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ Voce - Triennale is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Viale Emilio Alemagna, 6, 20121 Milano MI, Italy, Milan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/voce-triennale/)*

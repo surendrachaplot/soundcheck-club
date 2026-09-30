@@ -1,6 +1,6 @@
 # AMBRA
 
-AMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lasociaciøn, Madrid on Fri, 16 Oct 2026.
+AMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lasociaciøn, Madrid on Fri, 16 Oct 2026.
 
 AMBRA is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Madrid and Milan. Often billed alongside IKIIR, Lady Goccia and ARMANDO. Next up: Lasociaciøn, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AMBRA is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 IKIIR, Lady Goccia, ARMANDO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambra/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambra/)*

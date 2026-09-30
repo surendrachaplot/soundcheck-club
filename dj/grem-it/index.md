@@ -1,6 +1,6 @@
 # Grem (IT)
 
-Grem (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
+Grem (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at feedbk, New York City on Sat, 3 Oct 2026.
 
 Grem (IT) is a house and techno artist based in Italy, tracked on soundcheck, with 10 sets logged across London, Madrid, Melbourne and Milan and 2 more. Often billed alongside ADREE, AMRED and Antoine Sy. Next up: feedbk, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Grem (IT) is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 ADREE, AMRED, Antoine Sy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grem-it/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grem-it/)*

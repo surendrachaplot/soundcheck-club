@@ -1,14 +1,15 @@
 # BLUMITSU
 
-BLUMITSU is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+BLUMITSU is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
-BLUMITSU is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 13 more. Often billed alongside Bluetoof, Jossy Mitsu and Aletha. Next up: The Cause, London on Sat 31 Oct.
+BLUMITSU is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 13 more. Often billed alongside Bluetoof, Jossy Mitsu and Aletha. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Fri, 6 Nov 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BLUMITSU is a bass and techno artist based in United Kingdom, tracked on soundch
 
 Bluetoof, Jossy Mitsu, Aletha
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*

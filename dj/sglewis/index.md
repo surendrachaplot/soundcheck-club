@@ -1,6 +1,6 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
+SG Lewis is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
 
 SG Lewis is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ SG Lewis is a house and electronica artist based in United Kingdom, tracked on s
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
+Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
 Djooke is a techno and house artist based in Portugal, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 3 more. Often billed alongside ANÍBAL, ENGALANAN and Saint Caboclo. Next up: Escala25, Lisbon on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Djooke is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 ANÍBAL, ENGALANAN, Saint Caboclo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

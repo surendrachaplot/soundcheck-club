@@ -1,6 +1,6 @@
 # Natural Language
 
-Natural Language is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Natural Language is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 Natural Language is an electro and breakbeat artist tracked on soundcheck, with 14 sets logged across Barcelona, Chicago, Madrid and Malaga and 1 more. Often billed alongside 1st Degree, NIX and Texture (ES). Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Natural Language is an electro and breakbeat artist tracked on soundcheck, with 
 
 1st Degree, NIX (3), Texture (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naturallanguage/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naturallanguage/)*

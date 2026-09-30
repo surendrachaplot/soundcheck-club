@@ -1,6 +1,6 @@
 # Feldberg
 
-Feldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
+Feldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat, 10 Oct 2026.
 
 Feldberg is a techno and house artist tracked on soundcheck, with 7 sets logged across Basel, Munich and Zurich. Often billed alongside mogli, Aries and Ari (ES). Next up: TBA - Warerhouse Alioth, 4142 Münchenstein, Basel on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Feldberg is a techno and house artist tracked on soundcheck, with 7 sets logged 
 
 mogli (2), Aries, Ari (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feldberg/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feldberg/)*

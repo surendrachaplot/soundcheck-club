@@ -1,8 +1,8 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Flash, Washington DC on Sun, 4 Oct 2026.
+Xinobi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Flash, Washington DC on Sun, 4 Oct 2026.
 
-Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Flash, Washington DC on Sun 4 Oct.
+Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 23 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Flash, Washington DC on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 | Sun, 4 Oct 2026 | Flash | Washington DC |
 | Fri, 23 Oct 2026 | Culture Box | Copenhagen |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
+| Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

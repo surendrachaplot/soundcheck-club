@@ -1,8 +1,8 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Fantasma 003" on Sat, 3 Oct 2026.
+Hoxton Cabin is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Fantasma 003" on Sat, 3 Oct 2026.
 
-Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Benebe, Calypso High, Chris Liberator and Hudson’s Choice and 2 more. Browse upcoming dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
+Hoxton Cabin is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Steve, Benebe, Calypso High and Chris Liberator and 2 more. Browse upcoming dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
 ## What's on
 
@@ -12,10 +12,12 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 | Fri, 9 Oct 2026 | Hoxton Cabal: sima k, Benebe, Josh Hurst (Vinyl Only) | Benebe, sima k |
 | Sat, 17 Oct 2026 | Lower Ground invites Diana and Hudson's Choice | Calypso High, Hudson’s Choice, Nunonunonuno |
 | Sat, 24 Oct 2026 | Voodoo Projects | Chris Liberator |
-| Fri, 27 Nov 2026 | Mirror Moves #4 [27.11.26] | NOYB |
+| Sat, 31 Oct 2026 | Halloween Wax (Vinyls Only) | Acid Steve, DJ Dimensions, Darc Marc, Rez Alberto Rettore |
+| Fri, 20 Nov 2026 | Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] | Benebe, Kafn |
+| Fri, 27 Nov 2026 | Mirror Moves #4 [27.11.26] | Benebe, Cristian Sirica, Dave the Rave, NOYB, vene.tia |
 
 ## Address
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

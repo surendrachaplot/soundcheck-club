@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Techno Brooklyn presents Samuel Moriero" on Fri, 2 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Techno Brooklyn presents Samuel Moriero" on Fri, 2 Oct 2026.
 
 TBA - Brooklyn is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Annie Lew, Cristobal Pesce, Fadi Mohem and Ignez and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Brooklyn is a music venue in New York City listed on soundcheck. 6 upcomin
 | Sat, 17 Oct 2026 | PLAY ME TECHNO XII |  |
 | Fri, 30 Oct 2026 | MERGE HALLOWEEN | Annie Lew, Fadi Mohem, Ignez, Ne/Re/A, Phase Fatale, Robert Hood, Yonti |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

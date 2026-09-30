@@ -1,14 +1,15 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX" on Wed, 30 Sept 2026.
+nachbar is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX" on Wed, 30 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX | DEVØX |
+| Thu, 1 Oct 2026 | Zen Ten presents: LOU FRE$H, Megan Jane | LOU FRE$H, Megan Jane |
 | Wed, 7 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Wed, 14 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Thu, 22 Oct 2026 | IMPULSE CØNTROL ADE // BENZA, JSPRV35, + MORE | BENZA, Concrete Husband, JSPRV35, Junkfile, Michelle Kay, Ramsey Neville |
@@ -17,10 +18,9 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Freï: Hallow's Eve 2026 | Introspekt, MALLAURY, Miley Serious, bebe bad |
 | Wed, 4 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Wed, 11 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
-| Wed, 18 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

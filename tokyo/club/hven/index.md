@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "HVEN INBOUND: TOKiMONSTA" on Fri, 2 Oct 2026.
+HVEN is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "HVEN INBOUND: TOKiMONSTA" on Fri, 2 Oct 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including AiMii, AKARI, DJason and DJ Healthy and 2 more. Browse upcoming dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -17,4 +17,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

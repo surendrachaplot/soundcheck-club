@@ -1,6 +1,6 @@
 # Hogun
 
-Hogun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Volnost, Seoul on Sat, 3 Oct 2026.
+Hogun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Volnost, Seoul on Sat, 3 Oct 2026.
 
 Hogun is a techno and house artist tracked on soundcheck, with 171 sets logged across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside ccb, DJ SIN and Dextune. Next up: Volnost, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hogun is a techno and house artist tracked on soundcheck, with 171 sets logged a
 
 ccb, DJ SIN, Dextune
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hogun/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hogun/)*

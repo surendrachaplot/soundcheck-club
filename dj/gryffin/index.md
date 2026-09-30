@@ -1,13 +1,14 @@
 # Gryffin
 
-Gryffin is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Gryffin is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Gryffin is a house and bass artist tracked on soundcheck, with 26 sets logged across Austin, Boston, Brisbane and Dallas Fort Worth and 14 more. Often billed alongside The Chainsmokers, Alesso and Chris Lake. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Gryffin is a house and bass artist tracked on soundcheck, with 27 sets logged across Austin, Boston, Brisbane and Dallas Fort Worth and 15 more. Often billed alongside Alesso, The Chainsmokers and KREAM. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
@@ -24,6 +25,6 @@ Gryffin is a house and bass artist tracked on soundcheck, with 26 sets logged ac
 
 ## Shares bills with
 
-The Chainsmokers, Alesso, Chris Lake
+Alesso, The Chainsmokers, KREAM
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*

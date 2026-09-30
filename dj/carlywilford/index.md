@@ -1,6 +1,6 @@
 # Carly Wilford
 
-Carly Wilford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Carly Wilford is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Carly Wilford is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton, Ibiza and Leeds and 2 more. Often billed alongside Alexis Knox, BIIANCO and Chrisy Stebbeds. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Carly Wilford is a house and tech house artist based in United Kingdom, tracked 
 
 Alexis Knox, BIIANCO, Chrisy Stebbeds
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlywilford/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlywilford/)*

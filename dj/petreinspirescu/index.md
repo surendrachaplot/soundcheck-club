@@ -1,6 +1,6 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Doka, Amsterdam on Sat, 3 Oct 2026.
+Petre Inspirescu is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Doka, Amsterdam on Sat, 3 Oct 2026.
 
 Petre Inspirescu is a house and minimal artist based in Romania, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Doka, Amsterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Petre Inspirescu is a house and minimal artist based in Romania, tracked on soun
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

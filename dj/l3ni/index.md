@@ -1,6 +1,6 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+L3Ni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 L3Ni is a house and disco artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Denver, Detroit and Ibiza and 6 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ L3Ni is a house and disco artist based in United States of America, tracked on s
 
 Natasha Diggs, Donis, Melvo Baptiste
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

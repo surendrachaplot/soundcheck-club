@@ -1,14 +1,15 @@
 # Portable
 
-Portable is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Portable is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-Portable is a house and techno artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 8 more. Often billed alongside Map.ache, .VRIL and Edward. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
+Portable is a house and techno artist based in France, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 8 more. Often billed alongside Map.ache, .VRIL and Edward. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Portable is a house and techno artist based in France, tracked on soundcheck, wi
 
 Map.ache, .VRIL, Edward
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/portable/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/portable/)*

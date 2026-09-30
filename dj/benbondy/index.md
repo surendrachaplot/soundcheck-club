@@ -1,6 +1,6 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Ben Bondy is a Ambient and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Ben Bondy is an ambient and bass artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yumi. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ben Bondy is an ambient and bass artist based in United States of America, track
 
 Special Guest DJ, Succubass, Yumi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

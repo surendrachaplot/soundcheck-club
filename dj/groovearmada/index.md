@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+Groove Armada is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
 Groove Armada is a house and disco artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Groove Armada is a house and disco artist based in United Kingdom, tracked on so
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

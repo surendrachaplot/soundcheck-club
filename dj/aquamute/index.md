@@ -1,6 +1,6 @@
 # Aqua Mute
 
-Aqua Mute is a Drone and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Mexico City on Tue, 29 Sept 2026.
+Aqua Mute is a Drone and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Mexico City on Tue, 29 Sept 2026.
 
 Aqua Mute is a drone and electronica artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexico City. Often billed alongside Bluecommand, Phanta and Alo. Next up: TBA, Mexico City on Tue 29 Sept.
 
@@ -12,6 +12,7 @@ Aqua Mute is a drone and electronica artist based in Mexico, tracked on soundche
 
 ## Recently played
 
+- TBA, Mexico City — Tue, 29 Sept 2026
 - Luzy, Mexico City — Sat, 11 Jul 2026
 - TBA - Frontera 88, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City — Fri, 22 May 2026
 - 316centro, Mexico City — Fri, 24 May 2024
@@ -22,4 +23,4 @@ Aqua Mute is a drone and electronica artist based in Mexico, tracked on soundche
 
 Bluecommand, Phanta, Alo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*

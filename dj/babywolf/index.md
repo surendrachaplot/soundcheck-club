@@ -1,6 +1,6 @@
 # Baby Wolf
 
-Baby Wolf is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
+Baby Wolf is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
 
 Baby Wolf is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside LeCamille, Wreckno and Eli Escobar. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Baby Wolf is a bass and dubstep artist based in United States of America, tracke
 
 LeCamille, Wreckno, Eli Escobar
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babywolf/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babywolf/)*

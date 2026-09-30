@@ -1,6 +1,6 @@
 # Fabrice (2)
 
-Fabrice (2) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bootshaus, Cologne on Fri, 16 Oct 2026.
+Fabrice (2) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bootshaus, Cologne on Fri, 16 Oct 2026.
 
 Fabrice is an electronic artist based in Germany, tracked on soundcheck, with 7 sets logged across Austria, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Chelina Manuhutu, PERFECT TIMING and AKA AKA. Next up: Bootshaus, Cologne on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Fabrice is an electronic artist based in Germany, tracked on soundcheck, with 7 
 
 Chelina Manuhutu, PERFECT TIMING, AKA AKA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrice-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrice-2/)*

@@ -1,6 +1,6 @@
 # Gaston Npr
 
-Gaston Npr is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at WE club, Thessaloniki on Sat, 21 Nov 2026.
+Gaston Npr is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at WE club, Thessaloniki on Sat, 21 Nov 2026.
 
 Gaston Npr is an electronic artist tracked on soundcheck, with 4 sets logged across Athens and Thessaloniki. Often billed alongside BMSK, ANNĒ and Impure Secretion. Next up: WE club, Thessaloniki on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Gaston Npr is an electronic artist tracked on soundcheck, with 4 sets logged acr
 
 BMSK, ANNĒ, Impure Secretion
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonnpr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonnpr/)*

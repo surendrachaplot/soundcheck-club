@@ -1,6 +1,6 @@
 # KEKURA
 
-KEKURA is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Volt Club Milano, Milan on Fri, 9 Oct 2026.
+KEKURA is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Volt Club Milano, Milan on Fri, 9 Oct 2026.
 
 KEKURA is a deep house and afro house artist tracked on soundcheck, with 28 sets logged across Berlin, Istanbul, Milan and Zurich. Often billed alongside Ukãi Ndame, REMEN and SHANNIN. Next up: Volt Club Milano, Milan on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ KEKURA is a deep house and afro house artist tracked on soundcheck, with 28 sets
 
 Ukãi Ndame, REMEN, SHANNIN
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekura/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekura/)*

@@ -1,8 +1,8 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Frontón Bucareli, Mexico City on Fri, 2 Oct 2026.
+Sasha is a Progressive House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Frontón Bucareli, Mexico City on Fri, 2 Oct 2026.
 
-Sasha is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Frontón Bucareli, Mexico City on Fri 2 Oct.
+Sasha is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Frontón Bucareli, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sasha is a progressive house and techno artist based in United Kingdom, tracked 
 | Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
+| Sat, 31 Oct 2026 | TBA - Colombo | Sri-lanka |
 | Sat, 21 Nov 2026 | Óbuda Bay | Budapest |
 | Fri, 27 Nov 2026 | SWG3 | Glasgow |
 | Sat, 5 Dec 2026 | The Roundhouse | London |
@@ -29,6 +30,6 @@ Sasha is a progressive house and techno artist based in United Kingdom, tracked 
 
 ## Shares bills with
 
-John Digweed, Franky Wah, Nick Warren
+John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

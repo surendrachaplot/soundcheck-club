@@ -1,6 +1,6 @@
 # 7 Levels
 
-7 Levels is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Chateau Motel, Copenhagen on Sat, 3 Oct 2026.
+7 Levels is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Chateau Motel, Copenhagen on Sat, 3 Oct 2026.
 
 7 Levels is a house and tech house artist based in Denmark, tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside Geroge, Daniel Naad and Fynutzu. Next up: Chateau Motel, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@
 
 Geroge, Daniel Naad, Fynutzu
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7levels/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7levels/)*

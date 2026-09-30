@@ -1,6 +1,6 @@
 # Satom
 
-Satom is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Specka, Madrid on Fri, 23 Oct 2026.
+Satom is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Specka, Madrid on Fri, 23 Oct 2026.
 
 Satom is a techno and electronica artist tracked on soundcheck, with 6 sets logged across Madrid and Sao Paulo. Often billed alongside GRAZI, Grazi Flores and I.S.L.A.. Next up: Specka, Madrid on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Satom is a techno and electronica artist tracked on soundcheck, with 6 sets logg
 
 GRAZI, Grazi Flores, I.S.L.A.
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satom/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satom/)*

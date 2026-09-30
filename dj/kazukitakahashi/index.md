@@ -1,6 +1,6 @@
 # Kazuki Takahashi
 
-Kazuki Takahashi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Prisma, Berlin on Sun, 25 Oct 2026.
+Kazuki Takahashi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Prisma, Berlin on Sun, 25 Oct 2026.
 
 Kazuki Takahashi is a house and techno artist based in Japan, tracked on soundcheck, with 21 sets logged across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: Prisma, Berlin on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Kazuki Takahashi is a house and techno artist based in Japan, tracked on soundch
 
 Emilion Dollar Baby, Yukari, Tina Technotic
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazukitakahashi/)*

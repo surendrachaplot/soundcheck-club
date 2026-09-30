@@ -1,6 +1,6 @@
 # Towicz
 
-Towicz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Towicz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 Towicz is a techno and trance artist tracked on soundcheck, with 25 sets logged across Berlin, Karlsruhe, Munich and Nürnberg. Often billed alongside Dominique Lamee, HNAS and Janky. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Towicz is a techno and trance artist tracked on soundcheck, with 25 sets logged 
 
 Dominique Lamee, HNAS, Janky
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*

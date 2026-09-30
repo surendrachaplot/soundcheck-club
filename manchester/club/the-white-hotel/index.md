@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope" on Wed, 30 Sept 2026.
+The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Grey Lantern presents: Carla dal Forno / The Gabys / soundtracked by Comfortable On A Tightrope" on Wed, 30 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

@@ -1,14 +1,15 @@
 # Jimpong
 
-Jimpong is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Berlin on Sat, 5 Dec 2026.
+Jimpong is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Berlin on Sat, 5 Dec 2026.
 
-Jimpong is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin and London. Often billed alongside Banana Hill and Own World. Next up: TBA, Berlin on Sat 5 Dec.
+Jimpong is an electronic artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin and London. Often billed alongside Banana Hill and Own World. Next up: TBA, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA | Berlin |
+| Fri, 20 Aug 2027 | TBA | London |
 
 ## Recently played
 
@@ -18,4 +19,4 @@ Jimpong is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 Banana Hill, Own World
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpong/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpong/)*

@@ -1,6 +1,6 @@
 # Ryunosuke Urabe
 
-Ryunosuke Urabe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at R Lounge, Tokyo on Sat, 17 Oct 2026.
+Ryunosuke Urabe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at R Lounge, Tokyo on Sat, 17 Oct 2026.
 
 Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundcheck, with 33 sets logged across Seoul and Tokyo. Often billed alongside Lupion, EVE and KOSHIRO. Next up: R Lounge, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundche
 
 Lupion, EVE (1), KOSHIRO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryunosukeurabe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryunosukeurabe/)*

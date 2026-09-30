@@ -1,6 +1,6 @@
 # SIOBHAN.
 
-SIOBHAN. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
+SIOBHAN. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
 
 SIOBHAN. is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Los Angeles. Often billed alongside AAKAARA, New Flesh and TILEBOI. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SIOBHAN. is a techno and experimental artist based in United Kingdom, tracked on
 
 AAKAARA, New Flesh (2), TILEBOI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*

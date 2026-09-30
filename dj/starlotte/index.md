@@ -1,6 +1,6 @@
 # STARLOTTE
 
-STARLOTTE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at SILO, New-york-city on Fri, 8 Jan 2027.
+STARLOTTE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at SILO, New-york-city on Fri, 8 Jan 2027.
 
 STARLOTTE is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Bella Hex, elle xxo and JOHNNY O. Next up: SILO, New York City on Fri 8 Jan.
 
@@ -24,4 +24,4 @@ STARLOTTE is a techno and house artist based in United States of America, tracke
 
 Bella Hex, elle xxo, JOHNNY O
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starlotte/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starlotte/)*

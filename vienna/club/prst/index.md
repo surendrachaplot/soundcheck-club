@@ -1,13 +1,14 @@
 # PRST
 
-PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Crossover pres. FM4 UNLIMITED Club Night" on Fri, 2 Oct 2026.
+PRST is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "DONNERSTRADA" on Thu, 1 Oct 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Freud, Chruzo, David Radi and Demuja and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Chris Freud, Chruzo, David Radi and Demuja and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | DONNERSTRADA | Lilosh, Wonkers |
 | Fri, 2 Oct 2026 | Crossover pres. FM4 UNLIMITED Club Night |  |
 | Sat, 3 Oct 2026 | BLUR with Maher Daniel | Chris Freud, David Radi, Maher Daniel, Matthias Kaiser |
 | Thu, 8 Oct 2026 | PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026 | Demuja, GEN (4), NAMIMI SENSEI |
@@ -18,4 +19,4 @@ PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

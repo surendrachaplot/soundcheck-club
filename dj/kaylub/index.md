@@ -1,6 +1,6 @@
 # Kaylub
 
-Kaylub is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
+Kaylub is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
 
 Kaylub is a techno and tech house artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Angelphroot, Ms. GothicFish and UNCL Mike. Next up: Longboat Hall, Toronto on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Kaylub is a techno and tech house artist based in Canada, tracked on soundcheck,
 
 Angelphroot, Ms. GothicFish, UNCL Mike
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylub/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylub/)*

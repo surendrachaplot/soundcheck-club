@@ -1,14 +1,14 @@
 # J.I.A.
 
-J.I.A. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Boston on Fri, 2 Oct 2026.
+J.I.A. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at 288 Green St, Boston on Fri, 2 Oct 2026.
 
-J.I.A. is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston. Often billed alongside AleBCostantino, Siia and FRANZIV. Next up: TBA, Boston on Fri 2 Oct.
+J.I.A. is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston. Often billed alongside AleBCostantino, Siia and FRANZIV. Next up: 288 Green St, Boston on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Boston |
+| Fri, 2 Oct 2026 | 288 Green St | Boston |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ J.I.A. is a techno and house artist based in United States of America, tracked o
 
 AleBCostantino, Siia, FRANZIV
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.i.a./)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.i.a./)*

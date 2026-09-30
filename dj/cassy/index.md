@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Cassy is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 171 sets logged across Amsterdam, Bali, Barcelona and Berlin and 48 more. Often billed alongside Carlos Valdes, Anja Schneider and Edward. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -35,4 +35,4 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Carlos Valdes, Anja Schneider, Edward
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

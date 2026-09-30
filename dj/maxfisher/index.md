@@ -1,6 +1,6 @@
 # Max Fisher
 
-Max Fisher is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
+Max Fisher is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at radial, London on Sun, 18 Oct 2026.
 
 Max Fisher is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Aaron Burr, ALIX (UK) and Calla. Next up: radial, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Max Fisher is a techno and tech house artist based in United Kingdom, tracked on
 
 Aaron Burr (2), ALIX (UK), Calla
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfisher/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfisher/)*

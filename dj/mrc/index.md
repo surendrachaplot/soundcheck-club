@@ -1,8 +1,8 @@
 # Mr C
 
-Mr C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Mr C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
-Mr C is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Brighton, Edinburgh and Kyoto and 8 more. Often billed alongside Miss C MCDJ, Colin Dale and David Scuba. Next up: The Cambridge Junction, South East on Sat 31 Oct.
+Mr C is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Brighton, Edinburgh and Kyoto and 8 more. Often billed alongside Miss C MCDJ, Colin Dale and David Scuba. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mr C is a house and techno artist tracked on soundcheck, with 33 sets logged acr
 
 Miss C MCDJ, Colin Dale, David Scuba
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc/)*

@@ -1,6 +1,6 @@
 # fi x Dr Banana & avontuur & Kontur at fi
 
-fi x Dr Banana & avontuur & Kontur on Sat 28 Nov, Cologne. 4 artists on the bill: Dr Banana, Kribs, Mariami and Soft Force. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Dr Banana & avontuur & Kontur on Sat 28 Nov, Cologne. 5 artists on the bill: DJ Flatbeat, Dr Banana, Kribs and Mariami and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ fi x Dr Banana & avontuur & Kontur on Sat 28 Nov, Cologne. 4 artists on the bill
 
 ## Line-up
 
+- DJ Flatbeat
 - Dr Banana
 - Kribs
 - Mariami

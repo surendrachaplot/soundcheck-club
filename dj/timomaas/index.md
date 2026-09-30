@@ -1,14 +1,15 @@
 # Timo Maas
 
-Timo Maas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+Timo Maas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
-Timo Maas is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Francesco Mami, Costax and Frankie Flowerz. Next up: Escape, Amsterdam on Wed 21 Oct.
+Timo Maas is a house and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 24 more. Often billed alongside Francesco Mami, Costax and Frankie Flowerz. Next up: Escape, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
+| Sat, 12 Dec 2026 | TBA | Monterrey |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Timo Maas is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Francesco Mami, Costax, Frankie Flowerz
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*

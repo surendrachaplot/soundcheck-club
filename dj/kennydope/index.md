@@ -1,8 +1,8 @@
 # Kenny Dope
 
-Kenny Dope is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Kenny Dope is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Kenny Dope is a house and deep house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
+Kenny Dope is a house and deep house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,9 @@ Kenny Dope is a house and deep house artist based in United States of America, t
 | Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
+| Sun, 28 Feb 2027 | The Greenwood Hotel | Sydney |
+| Fri, 5 Mar 2027 | Port Beach Brewery | Perth |
+| Sun, 7 Mar 2027 | Northcote Theatre | Melbourne |
 | Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
 
 ## Recently played
@@ -30,4 +33,4 @@ Kenny Dope is a house and deep house artist based in United States of America, t
 
 Terry Hunter, Louie Vega, Young Pulse
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*

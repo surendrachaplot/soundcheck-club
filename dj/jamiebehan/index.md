@@ -1,6 +1,6 @@
 # Jamie Behan
 
-Jamie Behan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
+Jamie Behan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
 
 Jamie Behan is a techno and electro artist tracked on soundcheck, with 32 sets logged across Belfast, Berlin, Cork and Dublin and 2 more. Often billed alongside MEJMI, Ashes and Hooligan. Next up: Pawn Shop, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jamie Behan is a techno and electro artist tracked on soundcheck, with 32 sets l
 
 MEJMI, Ashes (2), Hooligan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebehan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebehan/)*

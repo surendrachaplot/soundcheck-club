@@ -1,6 +1,6 @@
 # Francisco Berberan
 
-Francisco Berberan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
+Francisco Berberan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
 Francisco Berberan is a house and techno artist based in Portugal, tracked on soundcheck, with 46 sets logged across Lisbon and Porto. Often billed alongside Thiago Guiselini, Kokeshi and Varela. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Francisco Berberan is a house and techno artist based in Portugal, tracked on so
 
 Thiago Guiselini, Kokeshi, Varela
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoberberan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoberberan/)*

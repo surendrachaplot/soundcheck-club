@@ -1,8 +1,8 @@
 # Talia Dorr
 
-Talia Dorr is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Talia Dorr is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck, with 87 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Carl Bergé, Pauly and DJ Babyblade. Next up: Kater, Berlin on Fri 2 Oct.
+Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck, with 88 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Carl Bergé, Pauly and DJ Babyblade. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck,
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 24 Oct 2026 | Amp | Munster |
 | Sat, 14 Nov 2026 | Golden Pudel Club | Hamburg |
+| Sat, 5 Dec 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck,
 
 Carl Bergé, Pauly, DJ Babyblade
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*

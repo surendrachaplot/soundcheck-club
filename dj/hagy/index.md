@@ -1,6 +1,6 @@
 # HAGY
 
-HAGY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
+HAGY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bolero, Seoul on Sat, 3 Oct 2026.
 
 HAGY is a house and disco artist based in South Korea, tracked on soundcheck, with 94 sets logged across Paris, Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Youngisland and Muyeol. Next up: Bolero, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ HAGY is a house and disco artist based in South Korea, tracked on soundcheck, wi
 
 Cityboy from Seoul, Youngisland, Muyeol
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagy/)*

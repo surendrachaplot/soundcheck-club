@@ -1,6 +1,6 @@
 # CIem
 
-CIem is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at People's Leisure Club, Edinburgh on Thu, 12 Nov 2026.
+CIem is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at People's Leisure Club, Edinburgh on Thu, 12 Nov 2026.
 
 CIem is a house and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh. Often billed alongside Sweeney, Sally Swan and Jardine. Next up: People's Leisure Club, Edinburgh on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ CIem is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Sweeney, Sally Swan, Jardine
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciem/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciem/)*

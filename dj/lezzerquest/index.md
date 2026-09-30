@@ -1,14 +1,15 @@
 # LEZZER QUEST
 
-LEZZER QUEST is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 30 Oct 2026.
+LEZZER QUEST is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 30 Oct 2026.
 
-LEZZER QUEST is a house and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Bonzai Bonner, David Scott and Romy. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 30 Oct.
+LEZZER QUEST is an italo disco and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Bonzai Bonner, David Scott and Romy. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
+| Sat, 31 Oct 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LEZZER QUEST is a house and disco artist based in United Kingdom, tracked on sou
 
 Bonzai Bonner, David Scott, Romy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*

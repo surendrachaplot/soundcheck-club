@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
+Traumer is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist based in France, tracked on soundcheck, wit
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

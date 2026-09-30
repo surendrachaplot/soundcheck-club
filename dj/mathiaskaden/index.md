@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
+Mathias Kaden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 Mathias Kaden is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Austria, Bali and Bangkok and 20 more. Often billed alongside Chris Liebing, Matthias Tanzmann and VNTM. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Mathias Kaden is a techno and house artist based in Germany, tracked on soundche
 
 Chris Liebing, Matthias Tanzmann, VNTM
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

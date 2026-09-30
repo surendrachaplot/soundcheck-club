@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Autechre at Cabaret Aléatoire" on Tue, 13 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Autechre at Cabaret Aléatoire" on Tue, 13 Oct 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including Autechre, Bella Claxton, Grand V and LB aka LABAT and 2 more. Browse upcoming dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -16,4 +16,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 3 upcomi
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

@@ -1,8 +1,8 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
+Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Shimza is an afro house and house artist based in South Africa, tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
+Shimza is an afro house and house artist based in South Africa, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shimza is an afro house and house artist based in South Africa, tracked on sound
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
+| Fri, 1 Jan 2027 | The Ostrich Farm | Cape-town |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Shimza is an afro house and house artist based in South Africa, tracked on sound
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

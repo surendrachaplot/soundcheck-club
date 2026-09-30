@@ -1,6 +1,6 @@
 # E Nick
 
-E Nick is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Elsewhere, Bangkok on Sat, 3 Oct 2026.
+E Nick is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Elsewhere, Bangkok on Sat, 3 Oct 2026.
 
 E Nick is a techno and electro artist tracked on soundcheck, with 25 sets logged across Bangkok. Often billed alongside Gaspray, Tristan Kino and Mishouju. Next up: Elsewhere, Bangkok on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ E Nick is a techno and electro artist tracked on soundcheck, with 25 sets logged
 
 Gaspray, Tristan Kino, Mishouju
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enick/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enick/)*

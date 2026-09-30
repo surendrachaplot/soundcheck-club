@@ -1,8 +1,8 @@
 # Rahbani
 
-Rahbani is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Cross, London on Fri, 30 Oct 2026.
+Rahbani is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Cross, London on Fri, 30 Oct 2026.
 
-Rahbani is a house and afro house artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Daniel Sehnawi, FedUp and OSCAAR. Next up: The Cross, London on Fri 30 Oct.
+Rahbani is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Daniel Sehnawi, FedUp and OSCAAR. Next up: The Cross, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rahbani is a house and afro house artist tracked on soundcheck, with 22 sets log
 
 Daniel Sehnawi, FedUp, OSCAAR
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rahbani/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rahbani/)*

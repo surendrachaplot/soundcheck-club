@@ -1,13 +1,14 @@
 # Ann Clue
 
-Ann Clue is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Ann Clue is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Arena Riga, Latvia on Fri, 23 Oct 2026.
 
-Ann Clue is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Theater Amsterdam, Amsterdam on Sat 24 Oct.
+Ann Clue is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Arena Riga, Latvia on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Arena Riga | Latvia |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ann Clue is a techno and minimal techno artist based in Germany, tracked on soun
 
 Moritz Hofbauer, Boris Brejcha, Deniz Bul
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*

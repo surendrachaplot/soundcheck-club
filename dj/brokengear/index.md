@@ -1,6 +1,6 @@
 # BrokenGear
 
-BrokenGear is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+BrokenGear is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
 BrokenGear is a bass and breakbeat artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside KaraKara, Pjiepox and Hovercat. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ BrokenGear is a bass and breakbeat artist tracked on soundcheck, with 16 sets lo
 
 KaraKara, Pjiepox, Hovercat
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokengear/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokengear/)*

@@ -1,8 +1,8 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+DJ DRECKISCH is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
 
-DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Kacy, 3LEEZA and Paraçek. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
+DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Kacy, 3LEEZA and Paraçek. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundche
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 19 Feb 2027 | Lokschuppen Berlin | Berlin |
+| Sat, 1 May 2027 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Aug 2027 | Sommerbad Neuköln | Berlin |
 
 ## Recently played
@@ -32,4 +33,4 @@ DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundche
 
 Kacy, 3LEEZA, Paraçek
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

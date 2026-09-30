@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Reeload Classics: The Origins of 140" on Fri, 2 Oct 2026.
+93 Feet East is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Reeload Classics: The Origins of 140" on Fri, 2 Oct 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alexandria, Carlos Aries, Dan Cowan and Darren Tate and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -23,4 +23,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

@@ -1,8 +1,8 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Loft Studios, London on Fri, 16 Oct 2026.
+Jonny Rock is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Loft Studios, London on Fri, 16 Oct 2026.
 
-Jonny Rock is a house and techno artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 27 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Loft Studios, London on Fri 16 Oct.
+Jonny Rock is a house and techno artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 27 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Loft Studios, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jonny Rock is a house and techno artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Loft Studios | London |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
+| Sat, 24 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | Studio 508 | Amsterdam |
 | Sat, 31 Oct 2026 | Jaeger | Oslo |
 | Sat, 14 Nov 2026 | Night Tales Loft | London |
@@ -29,4 +30,4 @@ Jonny Rock is a house and techno artist based in United Kingdom, tracked on soun
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

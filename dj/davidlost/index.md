@@ -1,6 +1,6 @@
 # DAVID LOST
 
-DAVID LOST is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
+DAVID LOST is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
 
 DAVID LOST is a techno and electronica artist tracked on soundcheck, with 46 sets logged across Barcelona and Madrid. Often billed alongside Arildo, Deckard and Spacer. Next up: Razzmatazz, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DAVID LOST is a techno and electronica artist tracked on soundcheck, with 46 set
 
 Arildo, Deckard, Spacer
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlost/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlost/)*

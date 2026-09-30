@@ -1,8 +1,8 @@
 # DC Salas
 
-DC Salas is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+DC Salas is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
-DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sara Dziri, Innershades and Bon Public. Next up: Fuse, Brussels on Sat 3 Oct.
+DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sara Dziri, Innershades and Bon Public. Next up: Fuse, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, w
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | FOLD | London |
+| Thu, 19 Nov 2026 | Madre Ria | Ecuador |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Sara Dziri, Innershades, Bon Public
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dcsalas/)*

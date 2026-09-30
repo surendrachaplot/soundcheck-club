@@ -1,6 +1,6 @@
 # Unromantic
 
-Unromantic is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at La Cova, Hamburg on Fri, 9 Oct 2026.
+Unromantic is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Cova, Hamburg on Fri, 9 Oct 2026.
 
 Unromantic is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside TWOFACEDKIMMY, D.GTLE and TMB. Next up: La Cova, Hamburg on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Unromantic is a techno and trance artist based in Germany, tracked on soundcheck
 
 TWOFACEDKIMMY, D.GTLE, TMB (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unromantic/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unromantic/)*

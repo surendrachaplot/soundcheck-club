@@ -1,6 +1,6 @@
 # lex_shockwerk
 
-lex_shockwerk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
+lex_shockwerk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Klub K4, Ljubljana on Fri, 9 Oct 2026.
 
 lex_shockwerk is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside slin, Tino Machauer and MATRIX3K. Next up: Klub K4, Ljubljana on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ lex_shockwerk is a techno and house artist tracked on soundcheck, with 37 sets l
 
 slin, Tino Machauer, MATRIX3K
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lex_shockwerk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lex_shockwerk/)*

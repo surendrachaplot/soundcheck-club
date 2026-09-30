@@ -1,14 +1,15 @@
 # Sega Bodega
 
-Sega Bodega is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fuchs2, Prague on Wed, 30 Sept 2026.
+Sega Bodega is a Electronica and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Fuchs2, Prague on Wed, 30 Sept 2026.
 
-Sega Bodega is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Erika de Casier, Arca and DjRUM. Next up: Fuchs2, Prague on Wed 30 Sept.
+Sega Bodega is an electronica and bass artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Erika de Casier, Arca and DjRUM. Next up: Fuchs2, Prague on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Fuchs2 | Prague |
+| Sun, 15 Nov 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sega Bodega is an electronica and bass artist based in United Kingdom, tracked o
 
 Erika de Casier, Arca, DjRUM
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segabodega/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segabodega/)*

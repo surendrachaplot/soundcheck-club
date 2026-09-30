@@ -1,6 +1,6 @@
 # grunge mum
 
-grunge mum is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
+grunge mum is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
 
 grunge mum is a techno and guaracha artist based in United States of America, tracked on soundcheck, with 15 sets logged across New York City. Often billed alongside DJ ATTENTION, SINKITTY and elle xxo. Next up: Mood Ring, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ grunge mum is a techno and guaracha artist based in United States of America, tr
 
 DJ ATTENTION, SINKITTY, elle xxo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grungemum/)*

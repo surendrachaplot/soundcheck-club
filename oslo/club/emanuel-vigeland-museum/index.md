@@ -1,6 +1,6 @@
 # Emanuel Vigeland Museum
 
-Emanuel Vigeland Museum is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Listening Session: an immersive sound experience" on Thu, 1 Oct 2026.
+Emanuel Vigeland Museum is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Listening Session: an immersive sound experience" on Thu, 1 Oct 2026.
 
 Emanuel Vigeland Museum is a music venue in Oslo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Emanuel Vigeland Museum is a music venue in Oslo listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Listening Session: an immersive sound experience |  |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/emanuel-vigeland-museum/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/emanuel-vigeland-museum/)*

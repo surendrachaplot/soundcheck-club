@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Annex: Accelerate" on Thu, 1 Oct 2026.
+The Mash House is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Annex: Accelerate" on Thu, 1 Oct 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Kok, Chris Astrojazz, CLEAR UK and DJ PLANE-SPOTTER and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -18,4 +18,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

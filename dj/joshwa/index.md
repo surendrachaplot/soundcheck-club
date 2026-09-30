@@ -1,13 +1,14 @@
 # Joshwa (IT)
 
-Joshwa (IT) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Joshwa (IT) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Joshwa (IT) is a house and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Austin, Boston and Chicago and 6 more. Often billed alongside Archie Hamilton, Seven Lions and Alex Mills. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
+Joshwa (IT) is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Boston and Chicago and 7 more. Often billed alongside Archie Hamilton, KREAM and Matroda. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
@@ -24,6 +25,6 @@ Joshwa (IT) is a house and tech house artist tracked on soundcheck, with 23 sets
 
 ## Shares bills with
 
-Archie Hamilton, Seven Lions, Alex Mills
+Archie Hamilton, KREAM, Matroda
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwa/)*

@@ -1,14 +1,15 @@
 # Tíago
 
-Tíago is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Tíago is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Tíago is a techno and house artist based in Portugal, tracked on soundcheck, with 78 sets logged across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Solid-Funk. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Tíago is a techno and house artist based in Portugal, tracked on soundcheck, with 79 sets logged across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Solid-Funk. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
+| Fri, 16 Oct 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tíago is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Helio, Manuel Cotta, Solid-Funk
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*

@@ -1,6 +1,6 @@
 # TABZ
 
-TABZ is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Brickworks, Nottingham on Fri, 30 Oct 2026.
+TABZ is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Brickworks, Nottingham on Fri, 30 Oct 2026.
 
 TABZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Nottingham. Often billed alongside Milzy, T Simm and Cottam. Next up: The Brickworks, Nottingham on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TABZ is a garage and house artist based in United Kingdom, tracked on soundcheck
 
 Milzy, T Simm, Cottam (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tabz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tabz/)*

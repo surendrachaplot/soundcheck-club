@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at 17 Little Portland Street, London on Thu, 1 Oct 2026.
+Harry McCanna is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at 17 Little Portland Street, London on Thu, 1 Oct 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: 17 Little Portland Street, London on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, tracked 
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

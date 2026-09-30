@@ -1,6 +1,6 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Sante Sansone is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Sante Sansone is a tech house and house artist based in Italy, tracked on soundcheck, with 42 sets logged across Austria, Barcelona, Boston and Buenos Aires and 18 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Sante Sansone is a tech house and house artist based in Italy, tracked on soundc
 
 Hector Couto, Pirate Copy, Ammo Avenue
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*

@@ -1,6 +1,6 @@
 # Arianna Danae
 
-Arianna Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
+Arianna Danae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
 
 Arianna Danae is a house and techno artist tracked on soundcheck, with 80 sets logged across Boston, Detroit, Edinburgh and London and 5 more. Often billed alongside MNSA, Fatin and Nadim Maghzal. Next up: Koukla Espresso Bar, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Arianna Danae is a house and techno artist tracked on soundcheck, with 80 sets l
 
 MNSA, Fatin, Nadim Maghzal
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*

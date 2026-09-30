@@ -1,6 +1,6 @@
 # Lixi
 
-Lixi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+Lixi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
 Lixi is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Prague. Often billed alongside VRTL, Sub Sahara and Aunty Nora. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Lixi is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 VRTL, Sub Sahara, Aunty Nora
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*

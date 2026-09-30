@@ -1,8 +1,8 @@
 # VRAXX
 
-VRAXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+VRAXX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
-VRAXX is a techno and trance artist based in Poland, tracked on soundcheck, with 54 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, ERNST (UA) and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
+VRAXX is a techno and trance artist based in Poland, tracked on soundcheck, with 55 sets logged across Krakow, Warsaw and Wroclaw. Often billed alongside Józef Keuner, ERNST (UA) and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VRAXX is a techno and trance artist based in Poland, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
 | Fri, 6 Nov 2026 | Piękno | Warsaw |
+| Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ VRAXX is a techno and trance artist based in Poland, tracked on soundcheck, with
 
 Józef Keuner, ERNST (UA), SCHELLT
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*

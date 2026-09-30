@@ -1,6 +1,6 @@
 # 永z遼 / Ryo Nagase
 
-永z遼 / Ryo Nagase is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 7 Oct 2026.
+永z遼 / Ryo Nagase is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 7 Oct 2026.
 
 永z遼 / Ryo Nagase is a house and techno artist based in Japan, tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside JOKI, Ryota and DJ ISE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 7 Oct.
 
@@ -22,4 +22,4 @@
 
 JOKI, Ryota, DJ ISE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryonagase/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryonagase/)*

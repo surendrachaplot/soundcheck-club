@@ -1,6 +1,6 @@
 # Marc Matter
 
-Marc Matter is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
+Marc Matter is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 Marc Matter is a techno and experimental artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Düsseldorf, Glasgow and Hamburg. Often billed alongside Anna Butter, DON'T DJ and Inken. Next up: EXIT Glasgow, Glasgow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Marc Matter is a techno and experimental artist based in Germany, tracked on sou
 
 Anna Butter, DON'T DJ, Inken
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcmatter/)*

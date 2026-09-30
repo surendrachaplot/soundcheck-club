@@ -1,14 +1,17 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 15 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Index, Dublin on Fri 2 Oct.
+Onlynumbers is a techno and hardcore artist based in France, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Index, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Index | Dublin |
+| Sat, 3 Oct 2026 | Terminal 1 | Central |
+| Fri, 9 Oct 2026 | Film Studios | Gothenburg |
+| Sun, 11 Oct 2026 | TBA - Espacio Zity, Zaragoza | North |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
@@ -17,9 +20,6 @@ Onlynumbers is a techno and hardcore artist based in France, tracked on soundche
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
-| Sat, 19 Dec 2026 | Hallenstadion | Zurich |
-| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
-| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Onlynumbers is a techno and hardcore artist based in France, tracked on soundche
 
 NOVAH, KLOFAMA, Basswell
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

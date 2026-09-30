@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "CROW with Planetary Assault Systems live" on Fri, 2 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "CROW with Planetary Assault Systems live" on Fri, 2 Oct 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Beyer, Claptone, Crusy and Djammin and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

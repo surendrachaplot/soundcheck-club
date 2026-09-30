@@ -1,6 +1,6 @@
 # DJ YARAK
 
-DJ YARAK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Amp, Munster on Fri, 2 Oct 2026.
+DJ YARAK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Amp, Munster on Fri, 2 Oct 2026.
 
 DJ YARAK is a techno and trance artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 15 more. Often billed alongside EliaHaze, Cleopard2000 and EARGASM GOD. Next up: Amp, Munster on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ DJ YARAK is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 EliaHaze, Cleopard2000, EARGASM GOD
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*

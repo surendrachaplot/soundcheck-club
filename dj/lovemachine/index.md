@@ -1,14 +1,15 @@
 # Love Machine
 
-Love Machine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
+Love Machine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
 
-Love Machine is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Liverpool, Manchester and Riga. Often billed alongside Jacinta, AC Groove and Emmett G. Next up: Invisible Wind Factory, Liverpool on Sat 14 Nov.
+Love Machine is a house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Liverpool, Manchester and Riga. Often billed alongside Jacinta, AC Groove and Emmett G. Next up: Invisible Wind Factory, Liverpool on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Invisible Wind Factory | Liverpool |
+| Thu, 31 Dec 2026 | The Merchant | Liverpool |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Love Machine is a house and disco artist based in United Kingdom, tracked on sou
 
 Jacinta, AC Groove, Emmett G
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovemachine/)*

@@ -1,6 +1,6 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
+Maher Daniel is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 Maher Daniel is a house and techno artist based in Palestine, tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 26 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
 
@@ -28,4 +28,4 @@ Maher Daniel is a house and techno artist based in Palestine, tracked on soundch
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

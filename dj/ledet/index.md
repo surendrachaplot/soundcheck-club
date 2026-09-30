@@ -1,6 +1,6 @@
 # LEDET
 
-LEDET is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
+LEDET is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
 
 LEDET is a house and disco artist based in United States of America, tracked on soundcheck, with 14 sets logged across San Francisco/Oakland. Often billed alongside J Key, Soulfunky and DJ M3. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ LEDET is a house and disco artist based in United States of America, tracked on 
 
 J Key, Soulfunky, DJ M3
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ledet/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ledet/)*

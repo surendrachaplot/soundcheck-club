@@ -1,14 +1,15 @@
 # Miki (3)
 
-Miki (3) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Solace, Melbourne on Fri, 2 Oct 2026.
+Miki (3) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Solace, Melbourne on Fri, 2 Oct 2026.
 
-Miki is a tech house and house artist based in Australia, tracked on soundcheck, with 34 sets logged across Melbourne, New York City and Sydney. Often billed alongside Hannah D, Activator (AU) and Ed Kent. Next up: Solace, Melbourne on Fri 2 Oct.
+Miki is a tech house and house artist based in Australia, tracked on soundcheck, with 35 sets logged across Melbourne, New York City and Sydney. Often billed alongside Hannah D, Activator (AU) and Ed Kent. Next up: Solace, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Solace | Melbourne |
+| Sat, 3 Oct 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Miki is a tech house and house artist based in Australia, tracked on soundcheck,
 
 Hannah D, Activator (AU), Ed Kent
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*

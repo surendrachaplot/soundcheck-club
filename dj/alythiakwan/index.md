@@ -1,6 +1,6 @@
 # Alythia Kwan
 
-Alythia Kwan is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at UNLOCKED, London on Sat, 17 Oct 2026.
+Alythia Kwan is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at UNLOCKED, London on Sat, 17 Oct 2026.
 
 Alythia Kwan is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MARIUS SEBASTIAN, Fernweh and MEAKIN. Next up: UNLOCKED, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Alythia Kwan is a progressive house and deep house artist based in United Kingdo
 
 MARIUS SEBASTIAN, Fernweh (2), MEAKIN
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alythiakwan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alythiakwan/)*

@@ -1,8 +1,8 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at OHM, Berlin on Fri, 2 Oct 2026.
+Stella Zekri is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at OHM, Berlin on Fri, 2 Oct 2026.
 
-Stella Zekri is a house and techno artist based in France, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: OHM, Berlin on Fri 2 Oct.
+Stella Zekri is a house and techno artist based in France, tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: OHM, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Stella Zekri is a house and techno artist based in France, tracked on soundcheck
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Sat, 24 Oct 2026 | TBA | Amsterdam |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
@@ -31,4 +32,4 @@ Stella Zekri is a house and techno artist based in France, tracked on soundcheck
 
 Camilla Rae, 131bpm, CCL
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

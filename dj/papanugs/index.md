@@ -1,8 +1,8 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Glamorama, Melbourne on Fri, 2 Oct 2026.
+Papa Nugs is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Glamorama, Melbourne on Fri, 2 Oct 2026.
 
-Papa Nugs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 166 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Glamorama, Melbourne on Fri 2 Oct.
+Papa Nugs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Glamorama, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Papa Nugs is a house and techno artist based in United Kingdom, tracked on sound
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 29 Oct 2026 | Mondo | Madrid |
 | Fri, 30 Oct 2026 | Yamamori Tengu | Dublin |
+| Sat, 31 Oct 2026 | SWG3 | Glasgow |
 | Sat, 31 Oct 2026 | SWG3 | Glasgow |
 | Fri, 20 Nov 2026 | Mint XL | Leeds |
 
@@ -34,4 +35,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, tracked on sound
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

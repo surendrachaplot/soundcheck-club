@@ -1,6 +1,6 @@
 # verdigris
 
-verdigris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
+verdigris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
 
 verdigris is a techno and house artist tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Battygyal, Oscar Nñ and 1OO1O. Next up: Club Rawhide, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ verdigris is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 Battygyal, Oscar Nñ, 1OO1O
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verdigris/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verdigris/)*

@@ -1,6 +1,6 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
+Subb-an is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
 Subb-an is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: BASEMENT, New York City on Fri 9 Oct.
 
@@ -9,7 +9,7 @@ Subb-an is a house and tech house artist based in United Kingdom, tracked on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | BASEMENT | New York City |
-| Fri, 16 Oct 2026 | TBA | Los Angeles |
+| Fri, 16 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 17 Oct 2026 | Smoke & Mirrors | Chicago |
 | Fri, 30 Oct 2026 | Loft Studios | London |
 
@@ -28,4 +28,4 @@ Subb-an is a house and tech house artist based in United Kingdom, tracked on sou
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

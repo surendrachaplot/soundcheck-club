@@ -1,6 +1,6 @@
 # Marta Salogni
 
-Marta Salogni is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+Marta Salogni is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
 Marta Salogni is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Berlin, Milan, Portugal and Turin and 2 more. Often billed alongside 2K88, 3Phaz and Alessandro Cortini. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Marta Salogni is an experimental and electronica artist tracked on soundcheck, w
 
 2K88, 3Phaz, Alessandro Cortini
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martasalogni/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martasalogni/)*

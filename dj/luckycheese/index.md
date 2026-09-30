@@ -1,6 +1,6 @@
 # Lucky Cheese
 
-Lucky Cheese is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
+Lucky Cheese is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
 
 Lucky Cheese is a house and deep house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Seattle. Often billed alongside Dane Garfield, Julie Herrera and Interwave Surfer. Next up: TBA, Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lucky Cheese is a house and deep house artist based in United States of America,
 
 Dane Garfield, Julie Herrera, Interwave Surfer
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckycheese/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckycheese/)*

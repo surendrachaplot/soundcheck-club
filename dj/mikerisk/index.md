@@ -1,6 +1,6 @@
 # Mike Risk
 
-Mike Risk is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
+Mike Risk is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
 
 Mike Risk is a house and deep house artist tracked on soundcheck, with 12 sets logged across Amsterdam and Singapore. Often billed alongside I.M.X, Denz Devarez and Eric de Man. Next up: El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Mike Risk is a house and deep house artist tracked on soundcheck, with 12 sets l
 
 I.M.X, Denz Devarez, Eric de Man
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*

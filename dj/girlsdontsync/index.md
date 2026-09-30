@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
+Girls Don't Sync is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
 
 Girls Don't Sync is a garage and house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Rich Reason. Next up: Garage Klub, Antwerp on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, tracked o
 
 Interplanetary Criminal, Sophia Violet, Rich Reason
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

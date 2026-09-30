@@ -1,6 +1,6 @@
 # Mentalien
 
-Mentalien is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Atno, Budapest on Fri, 18 Dec 2026.
+Mentalien is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Atno, Budapest on Fri, 18 Dec 2026.
 
 Mentalien is a jungle and bass artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest. Often billed alongside Benc, Aikatherina and Marka. Next up: Atno, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mentalien is a jungle and bass artist based in Hungary, tracked on soundcheck, w
 
 Benc, Aikatherina, Marka
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalien/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalien/)*

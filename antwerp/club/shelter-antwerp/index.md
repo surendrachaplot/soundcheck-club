@@ -1,6 +1,6 @@
 # Shelter Antwerp
 
-Shelter Antwerp is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "DONNIE ISSUE 5 / RELEASE PARTY" on Fri, 2 Oct 2026.
+Shelter Antwerp is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "DONNIE ISSUE 5 / RELEASE PARTY" on Fri, 2 Oct 2026.
 
 Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Oude Koornmarkt 42, 2000 Antwerpen, Belgium.
 
@@ -14,4 +14,4 @@ Shelter Antwerp is a music venue in Antwerp listed on soundcheck. 1 upcoming gig
 
 Oude Koornmarkt 42, 2000 Antwerpen, Belgium, Antwerp
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/shelter-antwerp/)*

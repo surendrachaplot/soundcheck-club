@@ -1,13 +1,14 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Miscellania, Melbourne on Sat, 17 Oct 2026.
+Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Abercrombie Hotel, Sydney on Fri, 16 Oct 2026.
 
-Zjoso is a house and deep house artist based in Australia, tracked on soundcheck, with 94 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Ed Kent. Next up: Miscellania, Melbourne on Sat 17 Oct.
+Zjoso is a house and deep house artist based in Australia, tracked on soundcheck, with 95 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Ed Kent. Next up: Abercrombie Hotel, Sydney on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Abercrombie Hotel | Sydney |
 | Sat, 17 Oct 2026 | Miscellania | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zjoso is a house and deep house artist based in Australia, tracked on soundcheck
 
 Zepherin Saint, DJ JNETT, Ed Kent
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*

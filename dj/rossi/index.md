@@ -1,8 +1,8 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 237 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: Amnesia Milano, Milan on Sat 3 Oct.
+Rossi is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 239 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Rossi is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Josh Baker, Enzo Siragusa, Traumer
+Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

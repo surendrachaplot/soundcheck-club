@@ -1,8 +1,8 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Moopie - onesixone" on Fri, 2 Oct 2026.
+OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Moopie - onesixone" on Fri, 2 Oct 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Afrodisiac, Agent 86 and Amber Ferraro and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
@@ -10,13 +10,13 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Moopie - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Moopie, Yarra (2) |
 | Sat, 3 Oct 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Jay Ramon |
-| Sun, 4 Oct 2026 | Breakfast Club #520 (28hr Daylight Savings Edition) |  |
+| Sun, 4 Oct 2026 | Breakfast Club #520 (28hr Daylight Savings Edition) | Afrodisiac, Billus, Cosmo, Jmcee, Nat Wendell, Roka, Séarlait |
 | Fri, 9 Oct 2026 | Hans DC - onesixone | Adam Trace, Jay Ramon, Oliver James |
-| Sat, 10 Oct 2026 | Overtake x Hyperfix present: OneSixOne Rooftop Day Party | EMCD |
+| Sat, 10 Oct 2026 | Overtake x Hyperfix present: Tommy Craig on the rooftop | EMCD |
 | Fri, 16 Oct 2026 | KELLY TEE - onesixone | Adam Trace, Amber Ferraro, Crozier, FRISCO (AUS), KELLY TEE |
 
 ## Address
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

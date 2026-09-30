@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Palladium, Geneva on Fri, 9 Oct 2026.
+2ManyDJs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Palladium, Geneva on Fri, 9 Oct 2026.
 
 2ManyDJs is a house and techno artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: Palladium, Geneva on Fri 9 Oct.
 
@@ -11,6 +11,7 @@
 | Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Thu, 15 Oct 2026 | Rex Club | Paris |
+| Fri, 23 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Sun, 25 Oct 2026 | Vicar Street | Dublin |
 | Fri, 18 Dec 2026 | Are You Affiliated | Newcastle |
@@ -30,4 +31,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

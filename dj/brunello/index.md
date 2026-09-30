@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Brunello is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Franky Rizardo and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -31,4 +31,4 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 VTSS, Franky Rizardo, KI/KI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

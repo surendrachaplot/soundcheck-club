@@ -1,6 +1,6 @@
 # Sandwavv
 
-Sandwavv is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
+Sandwavv is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
 
 Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: Pamenar Café, Toronto on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck,
 
 MXK (LB), ROU-H, Shen (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*

@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Flinders, Sydney on Sat, 10 Oct 2026.
+LeStrange is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Flinders, Sydney on Sat, 10 Oct 2026.
 
 LeStrange is a techno and industrial artist based in Australia, tracked on soundcheck, with 80 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: The Flinders, Sydney on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ LeStrange is a techno and industrial artist based in Australia, tracked on sound
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

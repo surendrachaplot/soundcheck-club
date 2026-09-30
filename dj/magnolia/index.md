@@ -1,6 +1,6 @@
 # Magnolia
 
-Magnolia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
+Magnolia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
 
 Magnolia is a house and techno artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, Chicago and London and 5 more. Often billed alongside Bustin' Loose, Sam Karlson and Tatiana. Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Magnolia is a house and techno artist based in Switzerland, tracked on soundchec
 
 Bustin' Loose, Sam Karlson, Tatiana
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia/)*

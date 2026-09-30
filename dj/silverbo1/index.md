@@ -1,6 +1,6 @@
 # Silverbo1
 
-Silverbo1 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Silverbo1 is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Silverbo1 is a house and bass artist based in Czech Republic, tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside SMB, Meldaboi and Fatty M. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Silverbo1 is a house and bass artist based in Czech Republic, tracked on soundch
 
 SMB (1), Meldaboi, Fatty M
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silverbo1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silverbo1/)*

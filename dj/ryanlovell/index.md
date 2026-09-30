@@ -1,6 +1,6 @@
 # Ryan Lovell
 
-Ryan Lovell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Timber Loft, London on Sun, 18 Oct 2026.
+Ryan Lovell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Timber Loft, London on Sun, 18 Oct 2026.
 
 Ryan Lovell is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Bristol and London and 4 more. Often billed alongside Nadine Noor, Donnie Sunshine and Baby Cocada. Next up: The Timber Loft, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Ryan Lovell is a house and techno artist based in United Kingdom, tracked on sou
 
 Nadine Noor, Donnie Sunshine, Baby Cocada
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*

@@ -1,6 +1,6 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mundos, Rhode-island on Fri, 2 Oct 2026.
+Galcher Lustwerk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Mundos, Rhode-island on Fri, 2 Oct 2026.
 
 Galcher Lustwerk is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Mundos, Rhode Island on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 Devoye, Bill Patrick, DJ Fart in the Club
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

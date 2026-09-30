@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+DJ Harvey is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 DJ Harvey is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Bali and Chicago and 14 more. Often billed alongside Heidi Lawden, Seth Troxler and Natasha Diggs. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ DJ Harvey is a house and techno artist based in United States of America, tracke
 
 Heidi Lawden, Seth Troxler, Natasha Diggs
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

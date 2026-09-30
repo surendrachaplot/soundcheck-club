@@ -1,6 +1,6 @@
 # Deena Abdelwahed
 
-Deena Abdelwahed is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Deena Abdelwahed is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Deena Abdelwahed is an experimental and electronica artist based in Tunisia, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside GLITTER55, Ale Hop and Crystallmess. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Deena Abdelwahed is an experimental and electronica artist based in Tunisia, tra
 
 GLITTER55, Ale Hop, Crystallmess
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*

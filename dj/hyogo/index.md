@@ -1,6 +1,6 @@
 # Hyōgo
 
-Hyōgo is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Process PDX, Portland on Sat, 24 Oct 2026.
+Hyōgo is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Process PDX, Portland on Sat, 24 Oct 2026.
 
 Hyōgo is a trance and progressive house artist tracked on soundcheck, with 12 sets logged across New York City and Portland. Often billed alongside Eklektik_Etnik, MTHR TRSA and Zeigler. Next up: Process PDX, Portland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hyōgo is a trance and progressive house artist tracked on soundcheck, with 12 s
 
 Eklektik_Etnik, MTHR TRSA, Zeigler
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyogo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyogo/)*

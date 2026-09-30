@@ -1,6 +1,6 @@
 # VerySomething
 
-VerySomething is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Wicker Park, Chicago on Sat, 24 Oct 2026.
+VerySomething is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Wicker Park, Chicago on Sat, 24 Oct 2026.
 
 VerySomething is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside Jon McCray, Adorio and Fei-Fei. Next up: Wicker Park, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VerySomething is a techno and house artist based in United States of America, tr
 
 Jon McCray, Adorio, Fei-Fei
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verysomething/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verysomething/)*

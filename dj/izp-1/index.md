@@ -1,6 +1,6 @@
 # IZP (1)
 
-IZP (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 7 Oct 2026.
+IZP (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 7 Oct 2026.
 
 IZP is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Cardiff, Edinburgh and London. Often billed alongside DJBran, Caspar and DJ MOV. Next up: Sneaky Pete's, Edinburgh on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ IZP is a house and techno artist based in United Kingdom, tracked on soundcheck,
 
 DJBran, Caspar, DJ MOV
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*

@@ -1,8 +1,8 @@
 # Mum & Dad (BE)
 
-Mum & Dad (BE) is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Mum & Dad (BE) is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
-Mum & Dad (BE) are a house and minimal techno duo based in Belgium, tracked on soundcheck, with 6 sets logged across Amsterdam, Brussels and London. Often billed alongside Jana Vitiligo, Major K and RELO4D. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
+Mum & Dad (BE) are a house and minimal techno duo based in Belgium, tracked on soundcheck, with 7 sets logged across Amsterdam, Belgium, Brussels and London. Often billed alongside Jana Vitiligo, Major K and RELO4D. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mum & Dad (BE) are a house and minimal techno duo based in Belgium, tracked on s
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 | Thu, 22 Oct 2026 | CREA | Amsterdam |
+| Sun, 15 Nov 2026 | Cercle Royal Gaulois | Belgium |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Mum & Dad (BE) are a house and minimal techno duo based in Belgium, tracked on s
 
 Jana Vitiligo, Major K, RELO4D
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*

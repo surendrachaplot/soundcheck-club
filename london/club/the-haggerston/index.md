@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Base LDN presents FREEBASE - AUTUMN EDITION " on Fri, 2 Oct 2026.
+The Haggerston is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Base LDN presents FREEBASE - AUTUMN EDITION " on Fri, 2 Oct 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Art Dealer, Malur, PHIZ and RIMIX and 1 more. Browse upcoming dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -18,4 +18,4 @@ The Haggerston is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

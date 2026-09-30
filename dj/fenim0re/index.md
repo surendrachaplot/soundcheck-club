@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Sat, 3 Oct 2026.
+FENIM0RE is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Sat, 3 Oct 2026.
 
 FENIM0RE is a techno and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Berlin and 24 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ FENIM0RE is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

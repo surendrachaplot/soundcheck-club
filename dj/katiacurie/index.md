@@ -1,13 +1,14 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Katia Curie is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Home of Plenty, South-australia on Sat, 3 Oct 2026.
 
-Katia Curie is a house and techno artist based in Ukraine, tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Katia Curie is a house and techno artist based in Ukraine, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Home of Plenty, South Australia on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Home of Plenty | South-australia |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
@@ -29,4 +30,4 @@ Katia Curie is a house and techno artist based in Ukraine, tracked on soundcheck
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

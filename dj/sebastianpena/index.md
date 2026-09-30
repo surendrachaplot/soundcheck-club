@@ -1,6 +1,6 @@
 # Sebastián Peña
 
-Sebastián Peña is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
+Sebastián Peña is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
 
 Sebastián Peña is a tech house and minimal artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside DIROS, ALBERTO DIMEO and Ale De Tuglie. Next up: Cocoa Mataró, Barcelona on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Sebastián Peña is a tech house and minimal artist based in Spain, tracked on s
 
 DIROS, ALBERTO DIMEO, Ale De Tuglie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpena/)*

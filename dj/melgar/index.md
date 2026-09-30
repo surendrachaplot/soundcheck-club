@@ -1,6 +1,6 @@
 # Melgar
 
-Melgar is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Resume Valencia, Valencia on Fri, 30 Oct 2026.
+Melgar is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Resume Valencia, Valencia on Fri, 30 Oct 2026.
 
 Melgar is a tech house and minimal artist based in Spain, tracked on soundcheck, with 5 sets logged across Valencia. Often billed alongside Admo, BEQA and Blanch. Next up: Resume Valencia, Valencia on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Melgar is a tech house and minimal artist based in Spain, tracked on soundcheck,
 
 Admo, BEQA, Blanch
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melgar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melgar/)*

@@ -1,8 +1,8 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+DJ Business (2) is a House and Electro artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
-DJ Business is a house and electro artist based in Germany, tracked on soundcheck, with 56 sets logged across Basel, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
+DJ Business is a house and electro artist based in Germany, tracked on soundcheck, with 59 sets logged across Basel, Bavaria, Berlin and Cologne and 9 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,9 @@ DJ Business is a house and electro artist based in Germany, tracked on soundchec
 | Sat, 10 Oct 2026 | Garagen | Cologne |
 | Sat, 17 Oct 2026 | Goldener Reiter | Munich |
 | Thu, 29 Oct 2026 | Paloma | Berlin |
+| Sat, 31 Oct 2026 | Broncos | Hannover |
+| Fri, 6 Nov 2026 | Kurt & Komisch | Bavaria |
+| Fri, 13 Nov 2026 | C2 OST | Karlsruhe |
 | Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |
 | Fri, 4 Dec 2026 | elipamanoke | Leipzig |
 | Fri, 11 Dec 2026 | Goldener Reiter | Munich |
@@ -31,4 +34,4 @@ DJ Business is a house and electro artist based in Germany, tracked on soundchec
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

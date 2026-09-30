@@ -1,14 +1,16 @@
 # SIUL (1)
 
-SIUL (1) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ://about blank, Berlin on Fri, 16 Oct 2026.
+SIUL (1) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at ://about blank, Berlin on Fri, 16 Oct 2026.
 
-SIUL is a techno and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne, Frankfurt and Valencia. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: ://about blank, Berlin on Fri 16 Oct.
+SIUL is a techno and tech house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Frankfurt and Valencia. Often billed alongside Gabrielle (DE), Solvados and DEN!SE. Next up: ://about blank, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ://about blank | Berlin |
+| Fri, 13 Nov 2026 | ://about blank | Berlin |
+| Sat, 12 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ SIUL is a techno and tech house artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Gabrielle (DE), ATR DJ-TEAM, JOTAno
+Gabrielle (DE), Solvados, DEN!SE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siul-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siul-1/)*

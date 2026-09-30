@@ -1,6 +1,6 @@
 # Arktic
 
-Arktic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
+Arktic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
 
 Arktic is a techno and tech house artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside KLIO, CAITY WATSON and ALIEN-A. Next up: QQQ ST. Park, Melbourne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Arktic is a techno and tech house artist based in Australia, tracked on soundche
 
 KLIO, CAITY WATSON, ALIEN-A
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arktic/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arktic/)*

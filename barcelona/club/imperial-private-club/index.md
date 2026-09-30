@@ -1,6 +1,6 @@
 # Imperial Private Club
 
-Imperial Private Club is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Speed Friending for Kinksters - Edition 3" on Wed, 30 Sept 2026.
+Imperial Private Club is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Speed Friending for Kinksters - Edition 3" on Wed, 30 Sept 2026.
 
 Imperial Private Club is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona.
 
@@ -16,4 +16,4 @@ Imperial Private Club is a music venue in Barcelona listed on soundcheck. 3 upco
 
 Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona, Barcelona
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/imperial-private-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/imperial-private-club/)*

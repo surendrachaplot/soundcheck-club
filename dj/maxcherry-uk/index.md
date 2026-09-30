@@ -1,6 +1,6 @@
 # Max Cherry
 
-Max Cherry is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
+Max Cherry is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
 
 Max Cherry is a bass and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Jane Decks, Lily FM and Mincy. Next up: Liberty Hall, Sydney on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Max Cherry is a bass and garage artist based in Australia, tracked on soundcheck
 
 Jane Decks, Lily FM, Mincy
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*

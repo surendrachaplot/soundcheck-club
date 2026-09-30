@@ -1,6 +1,6 @@
 # Tera Kòrá
 
-Tera Kòrá is a Kuduro artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mono, Rotterdam on Fri, 2 Oct 2026.
+Tera Kòrá is a Kuduro artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mono, Rotterdam on Fri, 2 Oct 2026.
 
 Tera Kòrá is a kuduro artist tracked on soundcheck, with 6 sets logged across Amsterdam, Brussels, London and Rotterdam. Often billed alongside Ana Isabela, DJABLÈS and ELLADHC. Next up: Mono, Rotterdam on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Tera Kòrá is a kuduro artist tracked on soundcheck, with 6 sets logged across 
 
 Ana Isabela, DJABLÈS, ELLADHC
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terakòra/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terakòra/)*

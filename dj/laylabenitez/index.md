@@ -1,6 +1,6 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Layla Benitez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 Layla Benitez is a techno and house artist based in United States of America, tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Layla Benitez is a techno and house artist based in United States of America, tr
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

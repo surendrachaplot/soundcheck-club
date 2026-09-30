@@ -1,6 +1,6 @@
 # Doni Kis
 
-Doni Kis is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Thu, 29 Oct 2026.
+Doni Kis is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Thu, 29 Oct 2026.
 
 Doni Kis is a deep house and house artist tracked on soundcheck, with 6 sets logged across Lisbon and Mexico City. Often billed alongside Bonnz!, Clay and DECO (MX). Next up: Lux Fragil, Lisbon on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Doni Kis is a deep house and house artist tracked on soundcheck, with 6 sets log
 
 Bonnz!, Clay, DECO (MX)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donikis/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donikis/)*

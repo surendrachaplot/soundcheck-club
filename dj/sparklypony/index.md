@@ -1,6 +1,6 @@
 # Sparkly Pony
 
-Sparkly Pony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
+Sparkly Pony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
 
 Sparkly Pony is a house and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Dgeral, James Lotion and Khloe. Next up: KREUZWERK, Berlin on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Sparkly Pony is a house and techno artist tracked on soundcheck, with 62 sets lo
 
 Dgeral, James Lotion, Khloe
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklypony/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklypony/)*

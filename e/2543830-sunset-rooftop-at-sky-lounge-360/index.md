@@ -1,6 +1,6 @@
 # Sunset Rooftop at Sky Lounge 360
 
-Sunset Rooftop at Sky Lounge 360 on Sat 3 Oct, Prague. 1 artist on the bill: Hugorieri. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunset Rooftop at Sky Lounge 360 on Sat 3 Oct, Prague. 2 artists on the bill: Hugorieri and Luke Nova. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Sunset Rooftop at Sky Lounge 360 on Sat 3 Oct, Prague. 1 artist on the bill: Hug
 ## Line-up
 
 - Hugorieri
+- Luke Nova
 
 *Source: [soundcheck](https://soundcheck.club/e/2543830-sunset-rooftop-at-sky-lounge-360/)*

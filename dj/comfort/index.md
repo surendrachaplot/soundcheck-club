@@ -1,6 +1,6 @@
 # comfort
 
-comfort is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+comfort is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 comfort is an industrial and techno artist tracked on soundcheck, with 7 sets logged across Bristol, Glasgow, New York City and Tokyo. Often billed alongside Gaul Plus, POiSON GiRL FRiEND and 96 Back. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ comfort is an industrial and techno artist tracked on soundcheck, with 7 sets lo
 
 Gaul Plus, POiSON GiRL FRiEND, 96 Back
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comfort/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comfort/)*

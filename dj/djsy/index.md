@@ -1,6 +1,6 @@
 # DJ Sy
 
-DJ Sy is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+DJ Sy is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 DJ Sy is a house and hardcore artist tracked on soundcheck, with 11 sets logged across Bristol, Leeds, Lisbon and Liverpool and 3 more. Often billed alongside Billy Daniel Bunter, Kenny Ken and Lisa Pinup. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Sy is a house and hardcore artist tracked on soundcheck, with 11 sets logged 
 
 Billy Daniel Bunter, Kenny Ken, Lisa Pinup
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsy/)*

@@ -1,6 +1,6 @@
 # hyanna
 
-hyanna is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at public records, New York City on Sat, 24 Oct 2026.
+hyanna is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at public records, New York City on Sat, 24 Oct 2026.
 
 hyanna is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside Fatik, Love Injection and Baalti. Next up: public records, New York City on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ hyanna is a house and funk / soul artist based in United States of America, trac
 
 Fatik, Love Injection, Baalti
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyanna/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyanna/)*

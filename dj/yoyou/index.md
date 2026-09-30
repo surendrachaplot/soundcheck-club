@@ -1,6 +1,6 @@
 # Yoyou
 
-Yoyou is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Spread, Tokyo on Fri, 9 Oct 2026.
+Yoyou is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Spread, Tokyo on Fri, 9 Oct 2026.
 
 Yoyou is an electronica and club artist based in Japan, tracked on soundcheck, with 45 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside E.O.U, sudden star and Cwondo. Next up: Spread, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Yoyou is an electronica and club artist based in Japan, tracked on soundcheck, w
 
 E.O.U, sudden star, Cwondo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyou/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyou/)*

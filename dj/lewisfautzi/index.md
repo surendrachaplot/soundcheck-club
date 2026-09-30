@@ -1,8 +1,8 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Lewis Fautzi is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundch
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
+| Fri, 9 Oct 2026 | Refuge | New-york-city |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
 | Sat, 17 Oct 2026 | Cosmos Club Sevilla | South |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
@@ -30,4 +31,4 @@ Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundch
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

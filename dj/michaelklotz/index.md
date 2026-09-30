@@ -1,6 +1,6 @@
 # Michael Klotz
 
-Michael Klotz is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Fri, 2 Oct 2026.
+Michael Klotz is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at OST, Berlin on Fri, 2 Oct 2026.
 
 Michael Klotz is a techno and hardcore artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin, Dresden and Frankfurt. Often billed alongside An Chen, Cube and HOTBOI2300. Next up: OST, Berlin on Fri 2 Oct.
 
@@ -16,4 +16,4 @@ Michael Klotz is a techno and hardcore artist based in Germany, tracked on sound
 
 An Chen, Cube, HOTBOI2300
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelklotz/)*

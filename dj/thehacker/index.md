@@ -1,13 +1,14 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+The Hacker is a Techno and Electro artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
 
-The Hacker is a techno and electro artist based in France, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Fvtvr, Paris on Fri 9 Oct.
+The Hacker is a techno and electro artist based in France, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: La Belle Électrique, South East on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | La Belle Électrique | South-east |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Fri, 16 Oct 2026 | fi | Cologne |
@@ -32,4 +33,4 @@ The Hacker is a techno and electro artist based in France, tracked on soundcheck
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

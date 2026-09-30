@@ -1,6 +1,6 @@
 # Spektiv
 
-Spektiv is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
+Spektiv is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
 
 Spektiv is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Rizzle, Geostatic and Halogenix. Next up: The Clock Factory, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Spektiv is a drum & bass and dubstep artist based in United Kingdom, tracked on 
 
 Rizzle, Geostatic, Halogenix
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*

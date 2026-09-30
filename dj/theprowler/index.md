@@ -1,6 +1,6 @@
 # The Prowler
 
-The Prowler is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at nueve cero nueve, Mexico City on Thu, 1 Oct 2026.
+The Prowler is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at nueve cero nueve, Mexico City on Thu, 1 Oct 2026.
 
 The Prowler is a house and minimal artist based in Mexico, tracked on soundcheck, with 19 sets logged across Mexico City. Often billed alongside Itza Chacón, Ernest Duke and EM2K. Next up: nueve cero nueve, Mexico City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ The Prowler is a house and minimal artist based in Mexico, tracked on soundcheck
 
 Itza Chacón, Ernest Duke, EM2K
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theprowler/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theprowler/)*

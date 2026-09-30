@@ -1,8 +1,8 @@
 # Lowris
 
-Lowris is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Lowris is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Lowris is a house and minimal artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Birmingham and Brussels and 10 more. Often billed alongside Adema, Cabanne and Olivier Romero. Next up: One Resort, Tunisia on Thu 5 Nov.
+Lowris is a house and minimal artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Birmingham and Brussels and 10 more. Often billed alongside Olivier Romero, Adema and Cabanne. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Lowris is a house and minimal artist tracked on soundcheck, with 46 sets logged 
 
 ## Shares bills with
 
-Adema, Cabanne, Olivier Romero
+Olivier Romero, Adema, Cabanne
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*

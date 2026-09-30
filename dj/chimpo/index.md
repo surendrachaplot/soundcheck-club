@@ -1,8 +1,8 @@
 # Chimpo
 
-Chimpo is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Chimpo is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
-Chimpo is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and MC Fox. Next up: The Prospect Building, Bristol on Sat 31 Oct.
+Chimpo is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Belfast, Birmingham and Brighton and 13 more. Often billed alongside Rich Reason, Chunky and DJ Flight. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chimpo is a drum & bass and jungle artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Chimpo is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Rich Reason, Chunky, MC Fox
+Rich Reason, Chunky, DJ Flight
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chimpo/)*

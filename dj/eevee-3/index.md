@@ -1,6 +1,6 @@
 # EEVEE (3)
 
-EEVEE (3) is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 3 Oct 2026.
+EEVEE (3) is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Happyfun Hideaway, New York City on Sat, 3 Oct 2026.
 
 EEVEE is a club and ghetto tech artist tracked on soundcheck, with 19 sets logged across New York City. Often billed alongside Petal, CMD+JAZMINE and Fire Aux. Next up: Happyfun Hideaway, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ EEVEE is a club and ghetto tech artist tracked on soundcheck, with 19 sets logge
 
 Petal, CMD+JAZMINE, Fire Aux
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eevee-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eevee-3/)*

@@ -1,6 +1,6 @@
 # 2727
 
-2727 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Elastica, Vilnius on Fri, 2 Oct 2026.
+2727 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Elastica, Vilnius on Fri, 2 Oct 2026.
 
 2727 is a techno and bass artist tracked on soundcheck, with 21 sets logged across Berlin, Krakow and Vilnius. Often billed alongside dOctOr doms, Supergross and 4BLISS#. Next up: Elastica, Vilnius on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 dOctOr doms, Supergross, 4BLISS#
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*

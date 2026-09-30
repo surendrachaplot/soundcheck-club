@@ -1,6 +1,6 @@
 # Cities Aviv
 
-Cities Aviv is a Club and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Cities Aviv is a Club and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Cities Aviv is a club and disco artist based in United States of America, tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Krakow and Montreal and 5 more. Often billed alongside Batu, Blawan and DJ Plead. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cities Aviv is a club and disco artist based in United States of America, tracke
 
 Batu, Blawan, DJ Plead
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citiesaviv/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citiesaviv/)*

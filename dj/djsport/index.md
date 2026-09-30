@@ -1,6 +1,6 @@
 # DjSport
 
-DjSport is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+DjSport is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 DjSport is a techno and breakbeat artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Central and Melbourne and 5 more. Often billed alongside Lanav, Just Claudia and Lucient. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DjSport is a techno and breakbeat artist tracked on soundcheck, with 33 sets log
 
 Lanav, Just Claudia, Lucient
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsport/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsport/)*

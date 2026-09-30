@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Dan Shake is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Eliza Rose, Eats Everything and Folamour. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Dan Shake is a house and disco artist based in United Kingdom, tracked on soundc
 
 Eliza Rose, Eats Everything, Folamour
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

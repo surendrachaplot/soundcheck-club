@@ -1,6 +1,6 @@
 # DJ SUSI
 
-DJ SUSI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 24 Jul 2027.
+DJ SUSI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 24 Jul 2027.
 
 DJ SUSI is a techno and trance artist tracked on soundcheck, with 14 sets logged across Berlin, Munich and Vienna. Often billed alongside Anna Ullrich, Macon and 9LALEY. Next up: DSTRKT Club Berlin, Berlin on Sat 24 Jul.
 
@@ -25,4 +25,4 @@ DJ SUSI is a techno and trance artist tracked on soundcheck, with 14 sets logged
 
 Anna Ullrich, Macon, 9LALEY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsusi/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsusi/)*

@@ -1,6 +1,6 @@
 # Patsy
 
-Patsy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
+Patsy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
 
 Patsy is a techno and house artist tracked on soundcheck, with 19 sets logged across New York City. Often billed alongside DJ Lita, Lou Isn't and PlayPlay. Next up: Bossa Nova Civic Club, New York City on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Patsy is a techno and house artist tracked on soundcheck, with 19 sets logged ac
 
 DJ Lita, Lou Isn't, PlayPlay
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patsy/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patsy/)*

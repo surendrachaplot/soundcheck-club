@@ -1,6 +1,6 @@
 # Frank Wiedemann
 
-Frank Wiedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
+Frank Wiedemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Robert Johnson, Hesse on Sat, 28 Nov 2026.
 
 Frank Wiedemann is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Düsseldorf and Hesse and 3 more. Often billed alongside Âme, Hardt Antoine and Mathew Jonson. Next up: Robert Johnson, Hesse on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Frank Wiedemann is a techno and house artist based in Germany, tracked on soundc
 
 Âme, Hardt Antoine, Mathew Jonson
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankwiedemann/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankwiedemann/)*

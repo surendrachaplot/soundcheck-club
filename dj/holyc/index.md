@@ -1,6 +1,6 @@
 # HOLY C
 
-HOLY C is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
+HOLY C is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
 
 HOLY C is a techno and club artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: The Glove That Fits, London on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ HOLY C is a techno and club artist based in United Kingdom, tracked on soundchec
 
 Toraigh, ASHTREY, Karlie Marx
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*

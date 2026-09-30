@@ -1,6 +1,6 @@
 # Sayuri (1)
 
-Sayuri (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Smolna, Warsaw on Wed, 7 Oct 2026.
+Sayuri (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Smolna, Warsaw on Wed, 7 Oct 2026.
 
 Sayuri is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Mexico City, Stuttgart, Tokyo and Warsaw. Often billed alongside ZuKaRoHi, ALI3N and Alex Ormond. Next up: Smolna, Warsaw on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Sayuri is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ZuKaRoHi, ALI3N, Alex Ormond
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*

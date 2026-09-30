@@ -1,6 +1,6 @@
 # teleopath
 
-teleopath is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri, 6 Nov 2026.
+teleopath is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri, 6 Nov 2026.
 
 teleopath is a disco and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Berlin, London and Sheffield. Often billed alongside Tafkanik, S_STEELE and Liam Parsons. Next up: TBA - Unit 58 Millmead Industrial Estate, Mill Mead Rd, London N17, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ teleopath is a disco and techno artist based in United Kingdom, tracked on sound
 
 Tafkanik, S_STEELE, Liam Parsons
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*

@@ -1,6 +1,6 @@
 # Stefan Goldmann
 
-Stefan Goldmann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Musée des beaux-arts de Montréal, Montreal on Sun, 27 Sept 2026.
+Stefan Goldmann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Musée des beaux-arts de Montréal, Montreal on Sun, 27 Sept 2026.
 
 Stefan Goldmann is a techno and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Athens, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Musée des beaux-arts de Montréal, Montreal on Sun 27 Sept.
 
@@ -31,4 +31,4 @@ Stefan Goldmann is a techno and house artist based in Germany, tracked on soundc
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*

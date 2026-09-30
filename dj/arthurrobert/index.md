@@ -1,13 +1,14 @@
 # Arthur Robert
 
-Arthur Robert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
+Arthur Robert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Antisistema, Bogot on Sat, 3 Oct 2026.
 
-Arthur Robert is a techno and house artist based in Austria, tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Bangkok and Berlin and 28 more. Often billed alongside Pink Concrete, Philippa Pacho and Chami. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
+Arthur Robert is a techno and house artist based in Austria, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Bangkok and Berlin and 29 more. Often billed alongside Pink Concrete, Philippa Pacho and Chami. Next up: Antisistema, Bogot on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Antisistema | Bogot |
 | Fri, 30 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Arthur Robert is a techno and house artist based in Austria, tracked on soundche
 
 Pink Concrete, Philippa Pacho, Chami
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurrobert/)*

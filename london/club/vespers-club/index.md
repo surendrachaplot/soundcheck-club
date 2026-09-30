@@ -1,8 +1,8 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Drum and Babes 2 Babes" on Sat, 3 Oct 2026.
+Vespers Club is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Drum and Babes 2 Babes" on Sat, 3 Oct 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AAKAARA, Cinna Peyghamy, Creep-P and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including AAKAARA, Aircode, Capricorn and Cinna Peyghamy and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Vespers Club is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Drum and Babes 2 Babes |  |
 | Fri, 16 Oct 2026 | Pherotone 5.0 with Mx. Blaire (extended set) | Emilia G, Mx. Blaire |
+| Fri, 23 Oct 2026 | EVOLVER / CHIMERA | Aircode, Capricorn, Josephine Moriko, Lokey, Ssaliva, sean pain |
 | Sat, 24 Oct 2026 | Dead Or Alive |  |
 | Fri, 30 Oct 2026 | Ghouls Club | Creep-P, Desiludildo |
 | Sat, 31 Oct 2026 | Exquisite Corpse 06 | AAKAARA, DELARA, JON KRIEGER, Jane Darke, LIZAZA, NakedAggressionDJ, New Flesh (2), SIOBHAN., TILEBOI |
@@ -22,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

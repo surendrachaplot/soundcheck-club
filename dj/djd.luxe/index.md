@@ -1,8 +1,8 @@
 # DJ D.Luxe
 
-DJ D.Luxe is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DJ D.Luxe is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-DJ D.Luxe is a funk / soul and hip-hop artist based in United States of America, tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside DJ Ray, Duality (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+DJ D.Luxe is a funk / soul and hip-hop artist based in United States of America, tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside DJ Ray, Duality (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ D.Luxe is a funk / soul and hip-hop artist based in United States of America,
 
 ## Recently played
 
+- Dante's HiFi, Miami — Sat, 29 Aug 2026
 - Dante's HiFi, Miami — Wed, 17 Apr 2024
 - Jolene Downtown Miami, Miami — Sat, 13 Apr 2024
 - Over Under, Miami — Fri, 15 Mar 2024
@@ -21,4 +22,4 @@ DJ D.Luxe is a funk / soul and hip-hop artist based in United States of America,
 
 DJ Ray (2), Duality (US), SATURNSARii
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djd.luxe/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djd.luxe/)*

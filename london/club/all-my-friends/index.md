@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Moderno with Wendy" on Sat, 3 Oct 2026.
+All My Friends is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Moderno with Wendy" on Sat, 3 Oct 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including ADMNTi, CRL, Kyle Parsley and Wendy Bkz. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -17,4 +17,4 @@ All My Friends is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

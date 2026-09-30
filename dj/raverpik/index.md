@@ -1,14 +1,15 @@
 # RaverPik
 
-RaverPik is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+RaverPik is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-RaverPik is a trance and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+RaverPik is a trance and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
+| Sun, 4 Oct 2026 | Blue Velvet | Berlin |
 | Thu, 8 Oct 2026 | Zur Klappe | Berlin |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
@@ -28,4 +29,4 @@ RaverPik is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Sabu!, The Jakob Sister, Blame the Booker
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*

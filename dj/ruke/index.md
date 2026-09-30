@@ -1,6 +1,6 @@
 # RUKE
 
-RUKE is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 3 Oct 2026.
+RUKE is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 3 Oct 2026.
 
 RUKE is an amapiano and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Bangkok and Tokyo. Often billed alongside MUNÉO, INAE and DJ POIPOI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ RUKE is an amapiano and house artist based in Japan, tracked on soundcheck, with
 
 MUNÉO, INAE, DJ POIPOI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruke/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruke/)*

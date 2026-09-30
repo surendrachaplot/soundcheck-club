@@ -1,6 +1,6 @@
 # Faktor-X
 
-Faktor-X is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat, 17 Oct 2026.
+Faktor-X is a Trance and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat, 17 Oct 2026.
 
 Faktor-X is a trance and acid artist tracked on soundcheck, with 14 sets logged across Budapest. Often billed alongside Tom_Ato, Kvrk and SLYM. Next up: TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Faktor-X is a trance and acid artist tracked on soundcheck, with 14 sets logged 
 
 Tom_Ato, Kvrk, SLYM
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faktor-x/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faktor-x/)*

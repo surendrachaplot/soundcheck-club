@@ -1,14 +1,15 @@
 # JUST FINN
 
-JUST FINN is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+JUST FINN is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
 
-JUST FINN is a house and progressive house artist tracked on soundcheck, with 5 sets logged across Leeds, London and Newcastle. Often billed alongside Dembinski, Lyde and Adam Chapman. Next up: Gaffe, London on Fri 2 Oct.
+JUST FINN is a house and progressive house artist tracked on soundcheck, with 6 sets logged across Leeds, London and Newcastle. Often billed alongside Lyde, Dembinski and Adam Chapman. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Gaffe | London |
+| Sat, 24 Oct 2026 | NDR2 Red Room | London |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ JUST FINN is a house and progressive house artist tracked on soundcheck, with 5 
 
 ## Shares bills with
 
-Dembinski, Lyde, Adam Chapman
+Lyde, Dembinski, Adam Chapman
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn/)*

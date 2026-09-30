@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Boondocks, Houston on Sat, 10 Oct 2026.
+kuntress is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Boondocks, Houston on Sat, 10 Oct 2026.
 
 kuntress is a club and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Austin, Detroit, Houston and Los Angeles and 3 more. Often billed alongside HYPERFEMME, zzzzach and ALTÉGO. Next up: Boondocks, Houston on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ kuntress is a club and techno artist based in United States of America, tracked 
 
 HYPERFEMME, zzzzach, ALTÉGO
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

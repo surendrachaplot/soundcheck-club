@@ -1,6 +1,6 @@
 # ANTON (ES)
 
-ANTON (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
+ANTON (ES) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
 
 ANTON (ES) is an electronic artist tracked on soundcheck, with 6 sets logged across Barcelona and New York City. Often billed alongside Bailey Leunig, Ethyène and Harry Fletcher. Next up: Mood Ring, New York City on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ ANTON (ES) is an electronic artist tracked on soundcheck, with 6 sets logged acr
 
 Bailey Leunig, Ethyène, Harry Fletcher
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antones/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antones/)*

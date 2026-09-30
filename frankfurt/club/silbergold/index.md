@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "MIXELADA" on Fri, 2 Oct 2026.
+Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "MIXELADA" on Fri, 2 Oct 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Paul Pahn. Browse upcoming dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -15,4 +15,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, 
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

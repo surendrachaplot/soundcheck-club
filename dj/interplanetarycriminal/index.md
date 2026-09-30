@@ -1,8 +1,8 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, tracked on soundcheck, with 260 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 70 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, tracked on soundcheck, with 262 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 71 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, tr
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sun, 18 Oct 2026 | ZeyZey | Miami |
+| Sat, 24 Oct 2026 | The Music Yard | Charlotte |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
-| Sat, 28 Nov 2026 | The Prospect Building | Bristol |
-| Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, tr
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

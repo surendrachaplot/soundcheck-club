@@ -1,6 +1,6 @@
 # sho&tell
 
-sho&tell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Exit Reality, Singapore on Fri, 2 Oct 2026.
+sho&tell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Exit Reality, Singapore on Fri, 2 Oct 2026.
 
 sho&tell is a house and techno artist based in Singapore, tracked on soundcheck, with 114 sets logged across Singapore. Often billed alongside benben, Kevin Sy and VAIBS. Next up: Exit Reality, Singapore on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ sho&tell is a house and techno artist based in Singapore, tracked on soundcheck,
 
 benben, Kevin Sy, VAIBS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shotell/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shotell/)*

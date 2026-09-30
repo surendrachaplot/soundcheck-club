@@ -1,6 +1,6 @@
 # ildec
 
-ildec is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
+ildec is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
 ildec is a house and techno artist based in Spain, tracked on soundcheck, with 91 sets logged across Barcelona, Berlin, Brussels and Cologne and 11 more. Often billed alongside Javier Carballo, LM and Alex (ES). Next up: Cadavra, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ildec is a house and techno artist based in Spain, tracked on soundcheck, with 9
 
 Javier Carballo, LM, Alex (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*

@@ -1,6 +1,6 @@
 # Lais Pattak
 
-Lais Pattak is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Camden Assembly, London on Fri, 30 Oct 2026.
+Lais Pattak is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Camden Assembly, London on Fri, 30 Oct 2026.
 
 Lais Pattak is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Brussels and London. Often billed alongside METALLIC LOVER, Mara Mortem and Nanzhen Yang. Next up: Camden Assembly, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lais Pattak is a techno and ebm artist based in United Kingdom, tracked on sound
 
 METALLIC LOVER, Mara Mortem, Nanzhen Yang
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laispattak/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laispattak/)*

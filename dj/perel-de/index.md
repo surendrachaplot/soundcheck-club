@@ -1,6 +1,6 @@
 # Perel
 
-Perel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
+Perel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
 
 Perel is a house and techno artist based in Germany, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Tiga, Erol Alkan and VTSS. Next up: Lux Fragil, Lisbon on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Perel is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Tiga, Erol Alkan, VTSS
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*

@@ -1,6 +1,6 @@
 # J. Hamilton
 
-J. Hamilton is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
+J. Hamilton is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Koukla Espresso Bar, New York City on Sat, 3 Oct 2026.
 
 J. Hamilton is an afro house and house artist tracked on soundcheck, with 5 sets logged across New York City. Often billed alongside WEMI, Arianna Danae and DJ Q. Next up: Koukla Espresso Bar, New York City on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ J. Hamilton is an afro house and house artist tracked on soundcheck, with 5 sets
 
 WEMI, Arianna Danae, DJ Q
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.hamilton/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.hamilton/)*

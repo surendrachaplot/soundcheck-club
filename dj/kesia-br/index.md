@@ -1,13 +1,14 @@
 # Kesia (BR)
 
-Kesia (BR) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at fabric, London on Sun, 4 Oct 2026.
+Kesia (BR) is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Rocket Club, Milan on Thu, 1 Oct 2026.
 
-Kesia (BR) is a techno and tech house artist based in Brazil, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Chelina Manuhutu, Andrea Oliva and Bassel Darwish. Next up: fabric, London on Sun 4 Oct.
+Kesia (BR) is a tech house and techno artist based in Brazil, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Ibiza and London and 6 more. Often billed alongside Chelina Manuhutu, Andrea Oliva and Bassel Darwish. Next up: The Rocket Club, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | The Rocket Club | Milan |
 | Sun, 4 Oct 2026 | fabric | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kesia (BR) is a techno and tech house artist based in Brazil, tracked on soundch
 
 Chelina Manuhutu, Andrea Oliva, Bassel Darwish
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kesia-br/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kesia-br/)*

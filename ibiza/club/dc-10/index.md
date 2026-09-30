@@ -1,6 +1,6 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Solid Grooves - Closing Party" on Thu, 1 Oct 2026.
+DC-10 is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Solid Grooves - Closing Party" on Thu, 1 Oct 2026.
 
 DC-10 is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
@@ -16,4 +16,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs. Browse up
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

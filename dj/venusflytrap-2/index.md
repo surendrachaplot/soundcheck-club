@@ -1,6 +1,6 @@
 # Venus Flytrap (2)
 
-Venus Flytrap (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Solace, Melbourne on Sat, 10 Oct 2026.
+Venus Flytrap (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Solace, Melbourne on Sat, 10 Oct 2026.
 
 Venus Flytrap is a techno and house artist based in China, tracked on soundcheck, with 35 sets logged across Berlin, Melbourne and Shenzhen. Often billed alongside Paper-Cuts, Hybrid Man and Pjenné. Next up: Solace, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Venus Flytrap is a techno and house artist based in China, tracked on soundcheck
 
 Paper-Cuts, Hybrid Man, Pjenné
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venusflytrap-2/)*

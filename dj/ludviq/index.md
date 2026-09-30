@@ -1,13 +1,14 @@
 # Ludviq
 
-Ludviq is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 8 Oct 2026.
+Ludviq is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Switch Bar, Barcelona on Wed, 30 Sept 2026.
 
-Ludviq is a house and downtempo artist based in Mexico, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Lyon and Madrid and 4 more. Often billed alongside Heinech, sergione and Intruso. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 8 Oct.
+Ludviq is a house and downtempo artist based in Mexico, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Lyon and Madrid and 4 more. Often billed alongside Heinech, sergione and Intruso. Next up: Switch Bar, Barcelona on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Switch Bar | Barcelona |
 | Thu, 8 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | Macarena Club | Barcelona |
 
@@ -26,4 +27,4 @@ Ludviq is a house and downtempo artist based in Mexico, tracked on soundcheck, w
 
 Heinech, sergione, Intruso
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

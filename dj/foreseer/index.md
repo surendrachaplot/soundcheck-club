@@ -1,6 +1,6 @@
 # FORESEER
 
-FORESEER is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+FORESEER is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 FORESEER is a club and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and DJ SABI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ FORESEER is a club and techno artist based in United States of America, tracked 
 
 Racci, Lady Narcisse, DJ SABI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foreseer/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foreseer/)*

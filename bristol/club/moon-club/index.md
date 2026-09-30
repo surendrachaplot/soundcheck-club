@@ -1,8 +1,8 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Caution Dancefloor 2: Moon Club" on Wed, 30 Sept 2026.
+Moon Club is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Caution Dancefloor 2: Moon Club" on Wed, 30 Sept 2026.
 
-Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including BETH, Cristi Cons, DJ Sarah Bonito and ETHICS and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
+Moon Club is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including BETH, Cristi Cons, DJ Sarah Bonito and ETHICS and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, wi
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

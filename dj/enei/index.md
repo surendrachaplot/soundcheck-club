@@ -1,8 +1,8 @@
 # Enei
 
-Enei is a Drum & Bass and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Enei is a Drum & Bass and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
-Enei is a drum & bass and dubstep artist based in Russia, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Boston and Brighton and 21 more. Often billed alongside Kasra, Jakes and Envy. Next up: The Red Room, Vancouver on Sat 3 Oct.
+Enei is a drum & bass and dubstep artist based in Russia, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Boston and Brighton and 22 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Enei is a drum & bass and dubstep artist based in Russia, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Red Room | Vancouver |
 | Sat, 3 Oct 2026 | The Red Room | Vancouver |
+| Fri, 23 Oct 2026 | Le Rex de Toulouse | Toulouse |
 | Fri, 30 Oct 2026 | Hidden | Manchester |
 | Sat, 21 Nov 2026 | E1 | London |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
@@ -27,6 +28,6 @@ Enei is a drum & bass and dubstep artist based in Russia, tracked on soundcheck,
 
 ## Shares bills with
 
-Kasra, Jakes, Envy
+Kasra, Jakes, EN:VY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*

@@ -1,6 +1,6 @@
 # Musée des beaux-arts de Montréal
 
-Musée des beaux-arts de Montréal is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "Chiharu Shiota: The Soul Trembles" on Sun, 27 Sept 2026.
+Musée des beaux-arts de Montréal is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "Chiharu Shiota: The Soul Trembles" on Sun, 27 Sept 2026.
 
 Musée des beaux-arts de Montréal is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Stefan Goldmann. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Musée des beaux-arts de Montréal is a music venue in Montreal listed on soundc
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Chiharu Shiota: The Soul Trembles | Stefan Goldmann |
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mus-e-des-beaux-arts-de-montr-al/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mus-e-des-beaux-arts-de-montr-al/)*

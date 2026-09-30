@@ -1,13 +1,15 @@
 # Grace Kim
 
-Grace Kim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Supperclub Cruise, Amsterdam on Thu, 22 Oct 2026.
+Grace Kim is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
 
-Grace Kim is a house and tech house artist based in South Korea, tracked on soundcheck, with 36 sets logged across Amsterdam, Seoul and Singapore. Often billed alongside Better, Ruta and Liza (KR). Next up: Supperclub Cruise, Amsterdam on Thu 22 Oct.
+Grace Kim is a house and tech house artist based in South Korea, tracked on soundcheck, with 38 sets logged across Amsterdam, Seoul and Singapore. Often billed alongside Better, Ruta and Minji. Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Casa Corona Seoul | Seoul |
+| Sun, 4 Oct 2026 | Casa Corona Seoul | Seoul |
 | Thu, 22 Oct 2026 | Supperclub Cruise | Amsterdam |
 
 ## Recently played
@@ -23,6 +25,6 @@ Grace Kim is a house and tech house artist based in South Korea, tracked on soun
 
 ## Shares bills with
 
-Better, Ruta (2), Liza (KR)
+Better, Ruta (2), Minji
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracekim/)*

@@ -1,6 +1,6 @@
 # DEPA (3)
 
-DEPA (3) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
+DEPA (3) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
 
 DEPA is a techno and psytrance artist based in Italy, tracked on soundcheck, with 12 sets logged across Milan. Often billed alongside TUROTUNZ, ELNA and IANOSH. Next up: Main Club, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DEPA is a techno and psytrance artist based in Italy, tracked on soundcheck, wit
 
 TUROTUNZ, ELNA, IANOSH
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/depa-3/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/depa-3/)*

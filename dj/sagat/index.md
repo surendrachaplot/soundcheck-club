@@ -1,14 +1,15 @@
 # Sagat
 
-Sagat is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at iMAL, Brussels on Sat, 3 Oct 2026.
+Sagat is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at iMAL, Brussels on Sat, 3 Oct 2026.
 
-Sagat is an experimental and ambient artist based in Belgium, tracked on soundcheck, with 16 sets logged across Berlin, Bristol, Brussels and London. Often billed alongside Nosedrip, Basile3 and Ben Bertrand. Next up: iMAL, Brussels on Sat 3 Oct.
+Sagat is an experimental and ambient artist based in Belgium, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Brussels and London. Often billed alongside Nosedrip, Basile3 and Ben Bertrand. Next up: iMAL, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | iMAL | Brussels |
+| Wed, 4 Nov 2026 | Crevette Records | Brussels |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sagat is an experimental and ambient artist based in Belgium, tracked on soundch
 
 Nosedrip, Basile3, Ben Bertrand
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagat/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagat/)*

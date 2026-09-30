@@ -1,8 +1,8 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+In Furcht is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
-In Furcht is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 13 more. Often billed alongside Neon Graveyard, Kander and 7CIRCLE. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
+In Furcht is a techno and trance artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 14 more. Often billed alongside Neon Graveyard, Kander and Noise Not War. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ In Furcht is a techno and trance artist based in Germany, tracked on soundcheck,
 | Fri, 30 Oct 2026 | Sky Club | Leipzig |
 | Sat, 31 Oct 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 31 Oct 2026 | La Machine Du Moulin Rouge | Paris |
+| Sat, 14 Nov 2026 | WDM | Hannover |
 | Sat, 28 Nov 2026 | OST | Berlin |
 
 ## Recently played
@@ -28,6 +29,6 @@ In Furcht is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Neon Graveyard, Kander, 7CIRCLE
+Neon Graveyard, Kander, Noise Not War
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

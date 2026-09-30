@@ -1,6 +1,6 @@
 # Vicks (ES)
 
-Vicks (ES) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at M7 Club, Barcelona on Sat, 3 Oct 2026.
+Vicks (ES) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at M7 Club, Barcelona on Sat, 3 Oct 2026.
 
 Vicks (ES) is a trance and techno artist tracked on soundcheck, with 5 sets logged across Barcelona and Madrid. Often billed alongside 3LEEZA, Adviro and Atrâm. Next up: M7 Club, Barcelona on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Vicks (ES) is a trance and techno artist tracked on soundcheck, with 5 sets logg
 
 3LEEZA, Adviro, Atrâm
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicks-es/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vicks-es/)*

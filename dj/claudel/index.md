@@ -1,6 +1,6 @@
 # Claudel
 
-Claudel is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Le Red Room, Montreal on Sun, 4 Oct 2026.
+Claudel is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Le Red Room, Montreal on Sun, 4 Oct 2026.
 
 Claudel is a tech house and afro house artist based in Canada, tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside Tellūb, InFiltr and Airon. Next up: Le Red Room, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Claudel is a tech house and afro house artist based in Canada, tracked on soundc
 
 Tellūb, InFiltr, Airon
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudel/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudel/)*

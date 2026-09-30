@@ -1,6 +1,6 @@
 # Regent
 
-Regent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Post Bar, Helsinki on Fri, 2 Oct 2026.
+Regent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Post Bar, Helsinki on Fri, 2 Oct 2026.
 
 Regent is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Bali, Berlin and Dortmund Essen and 15 more. Often billed alongside SHDW, Chontane and Hemka. Next up: Post Bar, Helsinki on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Regent is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 SHDW, Chontane, Hemka
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

@@ -1,6 +1,6 @@
 # Carla Martinez
 
-Carla Martinez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Carla Martinez is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Carla Martinez is a house and techno artist tracked on soundcheck, with 12 sets logged across Brisbane, London, Melbourne and Perth and 2 more. Often billed alongside Boys Noize, Club Angel and Faster Horses. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -27,4 +27,4 @@ Carla Martinez is a house and techno artist tracked on soundcheck, with 12 sets 
 
 Boys Noize, Club Angel, Faster Horses
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamartinez/)*

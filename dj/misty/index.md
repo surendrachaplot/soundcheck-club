@@ -1,6 +1,6 @@
 # Misty
 
-Misty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Misty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Misty is a techno and house artist tracked on soundcheck, with 15 sets logged across Auckland, Ghent, Kyoto and Lisbon and 4 more. Often billed alongside Cine, MINERVA and Tetsuo. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Misty is a techno and house artist tracked on soundcheck, with 15 sets logged ac
 
 Cine, MINERVA, Tetsuo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*

@@ -1,6 +1,6 @@
 # lisa tba
 
-lisa tba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OXI, Berlin on Thu, 22 Oct 2026.
+lisa tba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at OXI, Berlin on Thu, 22 Oct 2026.
 
 lisa tba is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: OXI, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ lisa tba is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Bamela Paywatch, Gwen Wayne, AGILY
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*

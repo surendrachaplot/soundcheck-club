@@ -1,6 +1,6 @@
 # Svreca
 
-Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Svreca is a techno and electronica artist based in Spain, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Reeko, CONCEPTUAL and Elisa Batti. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Svreca is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 Reeko, CONCEPTUAL, Elisa Batti
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*

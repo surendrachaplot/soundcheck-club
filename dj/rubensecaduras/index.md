@@ -1,6 +1,6 @@
 # Rubén Secaduras
 
-Rubén Secaduras is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at OST, Berlin on Thu, 31 Dec 2026.
+Rubén Secaduras is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at OST, Berlin on Thu, 31 Dec 2026.
 
 Rubén Secaduras is a techno and house artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside TOM CHIESA, PATTY&SELMA and DISTORT (ES). Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Rubén Secaduras is a techno and house artist based in Spain, tracked on soundch
 
 TOM CHIESA, PATTY&SELMA, DISTORT (ES)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubensecaduras/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubensecaduras/)*

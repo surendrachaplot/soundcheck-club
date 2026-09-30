@@ -1,6 +1,6 @@
 # EDEN BEKELE
 
-EDEN BEKELE is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 10 Oct 2026.
+EDEN BEKELE is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 10 Oct 2026.
 
 EDEN BEKELE is a club and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across New York City and Tokyo. Often billed alongside Teigh, HiTech and Dennis Free. Next up: Bossa Nova Civic Club, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ EDEN BEKELE is a club and house artist based in United States of America, tracke
 
 Teigh, HiTech, Dennis Free
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*

@@ -1,6 +1,6 @@
 # Milian Dolla
 
-Milian Dolla is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Sao Paulo on Sat, 3 Oct 2026.
+Milian Dolla is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Sao Paulo on Sat, 3 Oct 2026.
 
 Milian Dolla is a house and baile funk artist based in Brazil, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Geneva and Helsinki and 8 more. Often billed alongside Delcu, IDLIBRA and Amowia. Next up: TBA, Sao Paulo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Milian Dolla is a house and baile funk artist based in Brazil, tracked on soundc
 
 Delcu, IDLIBRA, Amowia
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*

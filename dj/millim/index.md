@@ -1,6 +1,6 @@
 # Millim
 
-Millim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at teller, Seoul on Sun, 4 Oct 2026.
+Millim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at teller, Seoul on Sun, 4 Oct 2026.
 
 Millim is a house and techno artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside KYVU, Lyumin and FOI (SK). Next up: teller, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Millim is a house and techno artist based in South Korea, tracked on soundcheck,
 
 KYVU, Lyumin, FOI (SK)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*

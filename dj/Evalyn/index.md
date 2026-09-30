@@ -1,6 +1,6 @@
 # Evalyn
 
-Evalyn is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
+Evalyn is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
 
 Evalyn is a club and ambient artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Sióg, Pppainterrr and Ahni. Next up: ciao ciao Bar, Berlin on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Evalyn is a club and ambient artist based in Germany, tracked on soundcheck, wit
 
 Sióg, Pppainterrr, Ahni
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Evalyn/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Evalyn/)*

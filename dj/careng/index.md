@@ -1,6 +1,6 @@
 # Caren G.
 
-Caren G. is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Rolling Stock, London on Sat, 7 Nov 2026.
+Caren G. is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Rolling Stock, London on Sat, 7 Nov 2026.
 
 Caren G. is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside The Snatcha, DJ Black Moses and JD. Next up: Rolling Stock, London on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Caren G. is a tech house and techno artist based in United Kingdom, tracked on s
 
 The Snatcha, DJ Black Moses, JD (3)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/careng/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/careng/)*

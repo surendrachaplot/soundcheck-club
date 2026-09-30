@@ -1,6 +1,6 @@
 # Emma Pea
 
-Emma Pea is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "RAVE NIGHT - embraceOurweird x Aesthetics" on Fri, 2 Oct 2026.
+Emma Pea is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "RAVE NIGHT - embraceOurweird x Aesthetics" on Fri, 2 Oct 2026.
 
 Emma Pea is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Max Nytram and Phat Beat. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Emma Pea is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*

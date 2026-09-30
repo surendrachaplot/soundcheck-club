@@ -1,6 +1,6 @@
 # Saturn Returns
 
-Saturn Returns is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+Saturn Returns is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 Saturn Returns is an experimental and club artist tracked on soundcheck, with 4 sets logged across Cork and Dublin. Often billed alongside polyp, Brian Not Brian and Chord Memory. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Saturn Returns is an experimental and club artist tracked on soundcheck, with 4 
 
 polyp, Brian Not Brian, Chord Memory
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnreturns/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnreturns/)*

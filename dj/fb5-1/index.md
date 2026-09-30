@@ -1,6 +1,6 @@
 # fb5 (1)
 
-fb5 (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at rake?raka?, Osaka on Fri, 2 Oct 2026.
+fb5 (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at rake?raka?, Osaka on Fri, 2 Oct 2026.
 
 fb5 is a house and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Osaka. Often billed alongside Tokumoto, IBAKI and beatman. Next up: rake?raka?, Osaka on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ fb5 is a house and tech house artist based in Japan, tracked on soundcheck, with
 
 Tokumoto, IBAKI, beatman
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fb5-1/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fb5-1/)*

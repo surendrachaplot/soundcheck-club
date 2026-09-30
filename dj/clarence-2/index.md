@@ -1,6 +1,6 @@
 # Clarence (2)
 
-Clarence (2) is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
+Clarence (2) is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
 
 Clarence is a deep house and dub techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Clarence, Doctora Amor and Gabriele Congedo. Next up: Promenaden Eck, Berlin on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Clarence is a deep house and dub techno artist tracked on soundcheck, with 7 set
 
 Clarence, Doctora Amor, Gabriele Congedo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*

@@ -1,8 +1,8 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+KAVARI is a Experimental and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-KAVARI is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Barcelona and 36 more. Often billed alongside Blood of Aza, Blawan and gyrofield. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+KAVARI is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Amsterdam, Auckland, Austin and Austria and 38 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,8 +12,11 @@ KAVARI is an experimental and techno artist based in United Kingdom, tracked on 
 | Sat, 3 Oct 2026 | Tunelowa | Warsaw |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
+| Thu, 15 Oct 2026 | TBA - Various Locations in Innsbruck | Austria |
 | Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
 | Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
+| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 
@@ -30,6 +33,6 @@ KAVARI is an experimental and techno artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Blood of Aza, Blawan, gyrofield
+Blood of Aza, gyrofield, Blawan
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

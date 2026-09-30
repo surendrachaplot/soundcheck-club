@@ -1,13 +1,14 @@
 # Vero (NL)
 
-Vero (NL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Vero (NL) is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
-Vero (NL) is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Ninsa, Darlow and Mitch de Klein. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Vero (NL) is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Ninsa, Darlow and Mitch de Klein. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Chicago Social Club | Amsterdam |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vero (NL) is a techno and hardcore artist based in Netherlands, tracked on sound
 
 Ninsa, Darlow, Mitch de Klein
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero(nl)/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero(nl)/)*

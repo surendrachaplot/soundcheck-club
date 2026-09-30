@@ -1,13 +1,14 @@
 # Dominique.
 
-Dominique. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+Dominique. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sub Club, Glasgow on Thu, 22 Oct 2026.
 
-Dominique. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Dundee and Edinburgh and 7 more. Often billed alongside GUBBY, Robbie and t e s t p r e s s. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
+Dominique. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Dundee and Edinburgh and 7 more. Often billed alongside GUBBY, Robbie and t e s t p r e s s. Next up: Sub Club, Glasgow on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Left Bank Leeds | Leeds |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dominique. is a techno and house artist based in United Kingdom, tracked on soun
 
 GUBBY, Robbie, t e s t p r e s s
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*

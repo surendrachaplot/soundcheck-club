@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Motel ✰ Local Selectors vol.II" on Sat, 3 Oct 2026.
+Motel Campo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Motel ✰ Local Selectors vol.II" on Sat, 3 Oct 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Audrey Danza, Quelza, Runde and SERRATI and 2 more. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -19,4 +19,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, wi
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

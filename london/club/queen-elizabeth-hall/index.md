@@ -1,6 +1,6 @@
 # Queen Elizabeth Hall
 
-Queen Elizabeth Hall is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 29 Sept 2026; the next is "BRIGITTA MUNTENDORF: LAST SHOW" on Sat, 28 Nov 2026.
+Queen Elizabeth Hall is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 30 Sept 2026; the next is "BRIGITTA MUNTENDORF: LAST SHOW" on Sat, 28 Nov 2026.
 
 Queen Elizabeth Hall is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Southbank Centre, Belvedere Rd, London, SE1 8XX; United Kingdom.
 
@@ -14,4 +14,4 @@ Queen Elizabeth Hall is a music venue in London listed on soundcheck. 1 upcoming
 
 Southbank Centre, Belvedere Rd, London, SE1 8XX; United Kingdom, London
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/queen-elizabeth-hall/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/queen-elizabeth-hall/)*

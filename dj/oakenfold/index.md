@@ -1,13 +1,14 @@
 # Paul Oakenfold
 
-Paul Oakenfold is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Music Box, San Diego on Fri, 6 Nov 2026.
+Paul Oakenfold is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Racket NY, New York City on Sat, 31 Oct 2026.
 
-Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Athens, Bali, Birmingham and Boston and 17 more. Often billed alongside Jason Bye, The Crystal Method and Infected Mushroom. Next up: Music Box, San Diego on Fri 6 Nov.
+Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Athens, Bali, Birmingham and Boston and 18 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Racket NY, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Racket NY | New York City |
 | Fri, 6 Nov 2026 | Music Box | San Diego |
 
 ## Recently played
@@ -23,6 +24,6 @@ Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Jason Bye, The Crystal Method, Infected Mushroom
+The Crystal Method, Jason Bye, Infected Mushroom
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*

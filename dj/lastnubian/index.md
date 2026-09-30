@@ -1,14 +1,15 @@
 # Last Nubian
 
-Last Nubian is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Grow, London on Fri, 2 Oct 2026.
+Last Nubian is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Grow, London on Fri, 2 Oct 2026.
 
-Last Nubian is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Bristol and London. Often billed alongside Flat White Chris, Kojay and Saige Sounds. Next up: Grow, London on Fri 2 Oct.
+Last Nubian is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Bristol and London. Often billed alongside Flat White Chris, Kojay and Saige Sounds. Next up: Grow, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Grow | London |
+| Sat, 10 Oct 2026 | The Fox and Firkin | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Last Nubian is a broken beat and house artist based in United Kingdom, tracked o
 
 Flat White Chris, Kojay, Saige Sounds
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastnubian/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lastnubian/)*

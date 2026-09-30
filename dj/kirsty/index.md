@@ -1,8 +1,8 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
+KIRSTY is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at E1, London on Fri, 2 Oct 2026.
 
-KIRSTY is a techno and house artist based in Ireland, tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Belfast and Belgrade and 22 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: E1, London on Fri 2 Oct.
+KIRSTY is a techno and house artist based in Ireland, tracked on soundcheck, with 72 sets logged across Amsterdam, Auckland, Belfast and Belgrade and 23 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: E1, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KIRSTY is a techno and house artist based in Ireland, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | E1 | London |
 | Sat, 3 Oct 2026 | The Club House at Gianpula Village | Malta |
+| Fri, 9 Oct 2026 | Film Studios | Gothenburg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -35,4 +36,4 @@ KIRSTY is a techno and house artist based in Ireland, tracked on soundcheck, wit
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

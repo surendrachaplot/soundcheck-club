@@ -1,6 +1,6 @@
 # Virginia
 
-Virginia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Virginia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Virginia is a house and techno artist based in Germany, tracked on soundcheck, with 251 sets logged across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Virginia is a house and techno artist based in Germany, tracked on soundcheck, w
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

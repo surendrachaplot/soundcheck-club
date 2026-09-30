@@ -1,6 +1,6 @@
 # Kalla
 
-Kalla is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
+Kalla is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Lark, Berlin on Fri, 9 Oct 2026.
 
 Kalla is a garage and bass artist tracked on soundcheck, with 6 sets logged across Berlin and Warsaw. Often billed alongside Lai Raw, Axis Operandi and DAEDE. Next up: Lark, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Kalla is a garage and bass artist tracked on soundcheck, with 6 sets logged acro
 
 Lai Raw, Axis Operandi, DAEDE
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalla-de/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalla-de/)*

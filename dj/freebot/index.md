@@ -1,14 +1,16 @@
 # Freebot
 
-Freebot is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
+Freebot is a Latin Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
 
-Freebot is a latin bass and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Budapest and London and 3 more. Often billed alongside Rosa Pistola, Bruja Prieta and CRRDR. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
+Freebot is a latin bass and electronica artist based in Mexico, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and London and 4 more. Often billed alongside Rosa Pistola, Dj Fucci and Bruja Prieta. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Razzmatazz | Barcelona |
+| Sat, 10 Oct 2026 | Sala Core | Malaga |
+| Sat, 31 Oct 2026 | Prvert Club | Monterrey |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Freebot is a latin bass and electronica artist based in Mexico, tracked on sound
 
 ## Shares bills with
 
-Rosa Pistola, Bruja Prieta, CRRDR
+Rosa Pistola, Dj Fucci, Bruja Prieta
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freebot/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freebot/)*

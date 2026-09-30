@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+The Shapeshifters is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 The Shapeshifters is a house and disco artist based in United Kingdom, tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ The Shapeshifters is a house and disco artist based in United Kingdom, tracked o
 
 Melvo Baptiste, Horse Meat Disco, Natasha Diggs
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

@@ -1,6 +1,6 @@
 # Lee Butler
 
-Lee Butler is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 28 Nov 2026.
+Lee Butler is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 28 Nov 2026.
 
 Lee Butler is a house and trance artist tracked on soundcheck, with 22 sets logged across Liverpool. Often billed alongside Rob Cain, Ebo and Mark XTC. Next up: Freeze HiFi, Liverpool on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lee Butler is a house and trance artist tracked on soundcheck, with 22 sets logg
 
 Rob Cain, Ebo, Mark XTC
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leebutler/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leebutler/)*

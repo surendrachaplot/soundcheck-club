@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 3 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Art Club pres. Rene Wise" on Sat, 3 Oct 2026.
+Art Club is a music venue in Houston with 3 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Art Club pres. Rene Wise" on Sat, 3 Oct 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 3 upcoming gigs, with line-ups including Dean Turnley, Jamback and Rene Wise. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -16,4 +16,4 @@ Art Club is a music venue in Houston listed on soundcheck. 3 upcoming gigs, with
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

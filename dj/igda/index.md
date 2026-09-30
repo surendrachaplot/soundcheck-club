@@ -1,17 +1,19 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
+IGDA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
 
-IGDA is a techno and trance artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 17 more. Often billed alongside NOTMYTYPE, A.N.I. and Nicolas Julian. Next up: MÄX, Zurich on Fri 2 Oct.
+IGDA is a techno and trance artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 19 more. Often billed alongside NOTMYTYPE, A.N.I. and Nicolas Julian. Next up: MÄX, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | MÄX | Zurich |
+| Sat, 10 Oct 2026 | Ciało | Wroclaw |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 5 Dec 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 11 Dec 2026 | TBA | Bremen |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ IGDA is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 NOTMYTYPE (2), A.N.I., Nicolas Julian
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*

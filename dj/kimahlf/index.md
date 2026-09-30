@@ -1,8 +1,8 @@
 # KIM AHLF
 
-KIM AHLF is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
+KIM AHLF is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
-KIM AHLF is a techno and trance artist based in Germany, tracked on soundcheck, with 43 sets logged across Athens, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Frank Rayo, A.N.I. and Mark Dekoda. Next up: MTW, Frankfurt on Fri 2 Oct.
+KIM AHLF is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Athens, Bavaria, Berlin and Cologne and 5 more. Often billed alongside Frank Rayo, A.N.I. and Mark Dekoda. Next up: MTW, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ KIM AHLF is a techno and trance artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | MTW | Frankfurt |
 | Sat, 3 Oct 2026 | WDM | Hannover |
+| Sat, 31 Oct 2026 | TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG  | Bavaria |
+| Sat, 7 Nov 2026 | Roof 175 | Frankfurt |
 | Fri, 11 Dec 2026 | Die Rakete | Nürnberg |
 
 ## Recently played
@@ -27,4 +29,4 @@ KIM AHLF is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Frank Rayo, A.N.I., Mark Dekoda
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*

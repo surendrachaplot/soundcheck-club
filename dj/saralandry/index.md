@@ -1,17 +1,22 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Sara Landry is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
 
-Sara Landry is a techno and house artist based in United States of America, tracked on soundcheck, with 197 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
+Sara Landry is a techno and house artist based in United States of America, tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Red Rocks Amphitheatre | Colorado |
+| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Roadrunner | Boston |
+| Fri, 4 Dec 2026 | Pandora Sevilla | South |
 | Fri, 11 Dec 2026 | Bootshaus | Cologne |
+| Wed, 30 Dec 2026 | Petco Park | San-diego |
+| Wed, 30 Dec 2026 | Petco Park | San-diego |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
@@ -29,4 +34,4 @@ Sara Landry is a techno and house artist based in United States of America, trac
 
 Nico Moreno, Trym, Azyr
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

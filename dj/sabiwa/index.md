@@ -1,14 +1,15 @@
 # Sabiwa
 
-Sabiwa is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
+Sabiwa is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
 
-Sabiwa is an experimental and ambient artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Copenhagen, London and Madrid. Often billed alongside Pisitakun, Wanton Witch and LnHD. Next up: Replika Teatro, Madrid on Sat 3 Oct.
+Sabiwa is an ambient and experimental artist based in Germany, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Copenhagen and London and 1 more. Often billed alongside Pisitakun, Wanton Witch and LnHD. Next up: Replika Teatro, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Replika Teatro | Madrid |
+| Fri, 9 Oct 2026 | Paral•lel 62 | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sabiwa is an experimental and ambient artist based in Germany, tracked on soundc
 
 Pisitakun, Wanton Witch, LnHD
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabiwa/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabiwa/)*

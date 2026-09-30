@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at The Limelight, Belfast on Fri, 2 Oct 2026.
+Nick Warren is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Limelight, Belfast on Fri, 2 Oct 2026.
 
 Nick Warren is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: The Limelight, Belfast on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Nick Warren is a progressive house and house artist based in United Kingdom, tra
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

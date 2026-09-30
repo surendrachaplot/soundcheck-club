@@ -1,6 +1,6 @@
 # Ben Silver
 
-Ben Silver is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
+Ben Silver is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
 
 Ben Silver is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Melbourne. Often billed alongside Boogs, Spacey Space and Casey Leaver. Next up: Revolver Upstairs, Melbourne on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Ben Silver is a house and techno artist based in United States of America, track
 
 Boogs, Spacey Space, Casey Leaver
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensilver/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensilver/)*

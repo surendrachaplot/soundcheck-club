@@ -1,13 +1,14 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+Somewhen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Strasse E, Dresden on Fri, 2 Oct 2026.
 
-Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
+Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Strasse E, Dresden on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Strasse E | Dresden |
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 17 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 23 Oct 2026 | Nordstern | Basel |
@@ -18,6 +19,7 @@ Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, 
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 13 Mar 2027 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

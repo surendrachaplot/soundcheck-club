@@ -1,6 +1,6 @@
 # Dane Garfield
 
-Dane Garfield is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
+Dane Garfield is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at TBA, Seattle on Sat, 3 Oct 2026.
 
 Dane Garfield is a house and deep house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Lucky Cheese. Next up: TBA, Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dane Garfield is a house and deep house artist based in United States of America
 
 Brian Lyons, Julie Herrera, Lucky Cheese
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danegarfield/)*

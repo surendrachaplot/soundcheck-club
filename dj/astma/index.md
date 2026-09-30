@@ -1,6 +1,6 @@
 # Astma
 
-Astma is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+Astma is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
 
 Astma is a techno and experimental artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, London, Seoul and Tokyo. Often billed alongside DJ MARIA., Dihi and Dr. Nishimura. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Astma is a techno and experimental artist based in Germany, tracked on soundchec
 
 DJ MARIA., Dihi, Dr. Nishimura
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*

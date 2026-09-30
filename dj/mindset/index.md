@@ -1,6 +1,6 @@
 # Mindset
 
-Mindset is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Mindset is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 Mindset is an electronica and house artist tracked on soundcheck, with 5 sets logged across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Azyr and Chris Lake. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -21,4 +21,4 @@ Mindset is an electronica and house artist tracked on soundcheck, with 5 sets lo
 
 HerShe, Azyr, Chris Lake
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*

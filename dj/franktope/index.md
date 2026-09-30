@@ -1,6 +1,6 @@
 # Frank Tope
 
-Frank Tope is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at The Timber Loft, London on Sun, 15 Nov 2026.
+Frank Tope is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at The Timber Loft, London on Sun, 15 Nov 2026.
 
 Frank Tope is a house and disco artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Tayo, Bustin' Loose and Norman Jay. Next up: The Timber Loft, London on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Frank Tope is a house and disco artist based in United Kingdom, tracked on sound
 
 Tayo, Bustin' Loose, Norman Jay
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franktope/)*

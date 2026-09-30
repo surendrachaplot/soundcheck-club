@@ -1,6 +1,6 @@
 # OXI QUEST at OXI
 
-OXI QUEST on Fri 23 Oct, Berlin. 3 acts on the bill: Iron Curtis, jiyun kim and Trent Voyage. Techno and House. Preview the line-up and save it on soundcheck.
+OXI QUEST on Fri 23 Oct, Berlin. 3 artists on the bill: DJ Masda, ISA (ES) and Naone. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ OXI QUEST on Fri 23 Oct, Berlin. 3 acts on the bill: Iron Curtis, jiyun kim and 
 
 ## Line-up
 
-- Iron Curtis
-- jiyun kim
-- Trent Voyage
+- DJ Masda
+- ISA (ES)
+- Naone
 
 *Source: [soundcheck](https://soundcheck.club/e/2528653-oxi-quest-at-oxi/)*

@@ -1,6 +1,6 @@
 # Gumm
 
-Gumm is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Gumm is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Gumm is a house and techno artist based in Australia, tracked on soundcheck, with 56 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside SNAXX, J-OK and Luke Alessi. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Gumm is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 SNAXX, J-OK, Luke Alessi
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gumm/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gumm/)*

@@ -1,14 +1,15 @@
 # Lyde
 
-Lyde is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+Lyde is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Gaffe, London on Fri, 2 Oct 2026.
 
-Lyde is a house and progressive house artist tracked on soundcheck, with 10 sets logged across Leeds and London. Often billed alongside Henry Bennett, JUST FINN and Kennedy (UK). Next up: Gaffe, London on Fri 2 Oct.
+Lyde is a house and progressive house artist tracked on soundcheck, with 11 sets logged across Leeds and London. Often billed alongside JUST FINN, Henry Bennett and Jabba & The Hutt. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Gaffe | London |
+| Sat, 24 Oct 2026 | NDR2 Red Room | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lyde is a house and progressive house artist tracked on soundcheck, with 10 sets
 
 ## Shares bills with
 
-Henry Bennett, JUST FINN, Kennedy (UK)
+JUST FINN, Henry Bennett, Jabba & The Hutt
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*

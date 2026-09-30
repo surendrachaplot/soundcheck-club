@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Kapsule, Liverpool on Sat, 3 Oct 2026.
+Truly Madly is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Kapsule, Liverpool on Sat, 3 Oct 2026.
 
 Truly Madly is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Kapsule, Liverpool on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Truly Madly is a house and tech house artist based in United Kingdom, tracked on
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

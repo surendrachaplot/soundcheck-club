@@ -1,14 +1,15 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Sub Club, Glasgow on Thu, 1 Oct 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Sub Club, Glasgow on Thu, 1 Oct 2026.
 
-Anil Aras is a house and tech house artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 15 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Sub Club, Glasgow on Thu 1 Oct.
+Anil Aras is a house and tech house artist based in Netherlands, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 16 more. Often billed alongside M-High, Dennis Quin and Prunk. Next up: Sub Club, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Sub Club | Glasgow |
+| Fri, 2 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
@@ -29,6 +30,6 @@ Anil Aras is a house and tech house artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-Dennis Quin, M-High, Prunk
+M-High, Dennis Quin, Prunk
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

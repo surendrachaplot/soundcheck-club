@@ -1,6 +1,6 @@
 # ZAREEN
 
-ZAREEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Office Bar, San Diego on Wed, 30 Sept 2026.
+ZAREEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Office Bar, San Diego on Wed, 30 Sept 2026.
 
 ZAREEN is a house and tech house artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Milan, Paris and San Diego. Often billed alongside DJ IDeaL, Terry Jasinto and AMBRA. Next up: Office Bar, San Diego on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ ZAREEN is a house and tech house artist based in Italy, tracked on soundcheck, w
 
 DJ IDeaL, Terry Jasinto, AMBRA
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*

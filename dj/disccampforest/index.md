@@ -1,6 +1,6 @@
 # DiscCampForest
 
-DiscCampForest is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Azumaya, Tokyo on Fri, 2 Oct 2026.
+DiscCampForest is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Azumaya, Tokyo on Fri, 2 Oct 2026.
 
 DiscCampForest is a house and disco artist based in Japan, tracked on soundcheck, with 29 sets logged across Tokyo. Often billed alongside Monkey Timers, JUN INAGAWA and Sunga. Next up: Azumaya, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DiscCampForest is a house and disco artist based in Japan, tracked on soundcheck
 
 Monkey Timers, JUN INAGAWA, Sunga
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disccampforest/)*

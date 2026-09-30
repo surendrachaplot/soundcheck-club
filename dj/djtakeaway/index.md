@@ -1,6 +1,6 @@
 # DJ Takeaway
 
-DJ Takeaway is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Botanique, Brussels on Fri, 2 Oct 2026.
+DJ Takeaway is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Botanique, Brussels on Fri, 2 Oct 2026.
 
 DJ Takeaway is an electro and club artist based in Belgium, tracked on soundcheck, with 19 sets logged across Berlin and Brussels. Often billed alongside TOGO, RUF and ojoo. Next up: Botanique, Brussels on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Takeaway is an electro and club artist based in Belgium, tracked on soundchec
 
 TOGO, RUF, ojoo
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtakeaway/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtakeaway/)*

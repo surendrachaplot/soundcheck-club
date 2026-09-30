@@ -1,6 +1,6 @@
 # Adra
 
-Adra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+Adra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
 Adra is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across California, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Max Gardner, Truncate and Zachary Noel. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Adra is a techno and house artist based in United States of America, tracked on 
 
 Max Gardner, Truncate, Zachary Noel
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*

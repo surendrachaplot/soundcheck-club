@@ -1,6 +1,6 @@
 # Diego Merino
 
-Diego Merino is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
+Diego Merino is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
 
 Diego Merino is an electronic artist based in Peru, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Alexis mayer, Giulia Mad and Marf. Next up: Under Bridge Madrid, Madrid on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Diego Merino is an electronic artist based in Peru, tracked on soundcheck, with 
 
 Alexis mayer, Giulia Mad, Marf
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomerino/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomerino/)*

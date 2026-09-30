@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 17 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "// Notwelcome" on Fri, 2 Oct 2026.
+Teritorija is a music venue in Riga with 17 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "// Notwelcome" on Fri, 2 Oct 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 17 upcoming gigs, with line-ups including Aniri Chan, DENOVA, Dmitry Puffin and Esoniq and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 17 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

@@ -1,8 +1,8 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Sebastien Leger is a House and Progressive House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Sebastien Leger is a house and progressive house artist based in France, tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, New York City on Fri 2 Oct.
+Sebastien Leger is a house and progressive house artist based in France, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sebastien Leger is a house and progressive house artist based in France, tracked
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 16 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
+| Sat, 24 Oct 2026 | Oceandiva Original | Netherlands |
 | Sun, 25 Oct 2026 | Ijver | Amsterdam |
 | Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | TBA - Downtown LA | Los Angeles |
@@ -33,4 +34,4 @@ Sebastien Leger is a house and progressive house artist based in France, tracked
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

@@ -1,8 +1,8 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+DJ Deep is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-DJ Deep is a house and techno artist based in France, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 27 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+DJ Deep is a house and techno artist based in France, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Deep is a house and techno artist based in France, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Rex Club | Paris |
+| Fri, 30 Oct 2026 | Bien Public | Bordeaux |
 | Sat, 7 Nov 2026 | fi | Cologne |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
@@ -28,4 +29,4 @@ DJ Deep is a house and techno artist based in France, tracked on soundcheck, wit
 
 Kerri Chandler, Chez Damier, DJ Reas
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

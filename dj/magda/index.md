@@ -1,8 +1,8 @@
 # Magda
 
-Magda is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Magda is a techno and house artist based in United States of America, tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Barcelona and Berlin and 49 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Magda is a techno and house artist based in United States of America, tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Magda is a techno and house artist based in United States of America, tracked on
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Fri, 2 Oct 2026 | Laak | The Hague |
+| Sat, 3 Oct 2026 | Hipódromo de San Sebastián | North |
 | Sat, 17 Oct 2026 | Kater | Berlin |
 | Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
@@ -32,4 +33,4 @@ Magda is a techno and house artist based in United States of America, tracked on
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

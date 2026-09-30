@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 14 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "COMBO CLUB [itako • user8806 & Linksilver]" on Thu, 1 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 17 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "COMBO CLUB [itako • user8806 & Linksilver]" on Thu, 1 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 14 upcoming gigs, with line-ups including 1client, Anthea, Arbo and Astral Travel and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 17 upcoming gigs, with line-ups including 1client, Alpha Sect, Anthea and Arbo and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 14 upcoming g
 | Sat, 3 Oct 2026 | MUSICA x HEAR [Acouphène éternel live • Too Cool 2 Schedule live] |  |
 | Sat, 3 Oct 2026 | KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] | Nastia, Pureblast, Sunpr |
 | Sun, 4 Oct 2026 | DINGUE 2 TOI • VIDE DRESSING & PRESTATION |  |
+| Thu, 8 Oct 2026 | COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)] | Alpha Sect |
 | Fri, 9 Oct 2026 | SPECIAL GROOVE [Koboyo • +TBA] | Koboyo |
 | Sat, 10 Oct 2026 | KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] | 1client, Anthea, Astral Travel, Joey 808, Oshana |
-| Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Talto)] |  |
-| Thu, 29 Oct 2026 | COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] |  |
+| Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] |  |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

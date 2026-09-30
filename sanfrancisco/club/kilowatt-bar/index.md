@@ -1,6 +1,6 @@
 # Kilowatt Bar
 
-Kilowatt Bar is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Tue, 29 Sept 2026; the next is "Feral Tendencies SF presents: WOCKIE" on Fri, 2 Oct 2026.
+Kilowatt Bar is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Wed, 30 Sept 2026; the next is "Feral Tendencies SF presents: WOCKIE" on Fri, 2 Oct 2026.
 
 Kilowatt Bar is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including DJBstone, Nino Msk and WOCKIE. Browse upcoming dates, start times and who's playing. 3160 16th Street, San Francisco, California, 94103.
 
@@ -15,4 +15,4 @@ Kilowatt Bar is a music venue in San Francisco/Oakland listed on soundcheck. 2 u
 
 3160 16th Street, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/kilowatt-bar/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/kilowatt-bar/)*

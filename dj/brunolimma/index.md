@@ -1,6 +1,6 @@
 # Bruno Limma
 
-Bruno Limma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Phoenix Landing, Boston on Wed, 30 Sept 2026.
+Bruno Limma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Phoenix Landing, Boston on Wed, 30 Sept 2026.
 
 Bruno Limma is a house and techno artist based in Brazil, tracked on soundcheck, with 53 sets logged across Berlin, Boston, Detroit and Los Angeles and 5 more. Often billed alongside Joe Tagessian, Daniel Bell and David Berrie. Next up: Phoenix Landing, Boston on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Bruno Limma is a house and techno artist based in Brazil, tracked on soundcheck,
 
 Joe Tagessian, Daniel Bell, David Berrie
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*

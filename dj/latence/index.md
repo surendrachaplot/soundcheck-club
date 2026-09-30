@@ -1,6 +1,6 @@
 # Latence
 
-Latence is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Jalousy, Brussels on Sat, 3 Oct 2026.
+Latence is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Jalousy, Brussels on Sat, 3 Oct 2026.
 
 Latence is a tech house and minimal artist based in Belgium, tracked on soundcheck, with 8 sets logged across Brussels. Often billed alongside Kappen, Yela and AG (NYC). Next up: Jalousy, Brussels on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Latence is a tech house and minimal artist based in Belgium, tracked on soundche
 
 Kappen, Yela, AG (NYC)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latence/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latence/)*

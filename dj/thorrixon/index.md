@@ -1,6 +1,6 @@
 # Thor Rixon
 
-Thor Rixon is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Golden Gate, Berlin on Thu, 1 Oct 2026.
+Thor Rixon is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Golden Gate, Berlin on Thu, 1 Oct 2026.
 
 Thor Rixon is a house and garage artist based in South Africa, tracked on soundcheck, with 19 sets logged across Berlin and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Borella. Next up: Golden Gate, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Thor Rixon is a house and garage artist based in South Africa, tracked on soundc
 
 ADAM MUNNINGS, Dornika, Borella
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*

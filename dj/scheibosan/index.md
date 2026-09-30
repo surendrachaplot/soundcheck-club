@@ -1,6 +1,6 @@
 # Scheibosan
 
-Scheibosan is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Wiener Werkshallen, Vienna on Sun, 4 Oct 2026.
+Scheibosan is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Wiener Werkshallen, Vienna on Sun, 4 Oct 2026.
 
 Scheibosan is an electronica and house artist based in Austria, tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside Anni Herzer, Carmen Pamina and Djane Stone. Next up: Wiener Werkshallen, Vienna on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ Scheibosan is an electronica and house artist based in Austria, tracked on sound
 
 Anni Herzer, Carmen Pamina, Djane Stone
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*

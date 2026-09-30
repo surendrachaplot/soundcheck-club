@@ -1,8 +1,8 @@
 # DJ Tortuga
 
-DJ Tortuga is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
+DJ Tortuga is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
 
-DJ Tortuga is a house and deep house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Charlins, DJ Mats and Babo. Next up: Sala Apolo, Barcelona on Sat 24 Oct.
+DJ Tortuga is a house and deep house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Charlins, DJ Mats and Alex Silva. Next up: Sala Apolo, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ DJ Tortuga is a house and deep house artist based in Spain, tracked on soundchec
 
 ## Shares bills with
 
-Charlins, DJ Mats, Babo
+Charlins, DJ Mats, Alex Silva
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtortuga/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtortuga/)*

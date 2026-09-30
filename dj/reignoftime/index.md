@@ -1,6 +1,6 @@
 # Reign Of Time
 
-Reign Of Time is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Reign Of Time is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Reign Of Time is a house and techno artist based in Greece, tracked on soundcheck, with 69 sets logged across Athens, Berlin, Greece and Lisbon and 2 more. Often billed alongside Stratos, MAN WITH THE SPEAKER and RNO. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Reign Of Time is a house and techno artist based in Greece, tracked on soundchec
 
 Stratos (2), MAN WITH THE SPEAKER, RNO (1)
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reignoftime/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reignoftime/)*

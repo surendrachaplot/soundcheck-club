@@ -1,8 +1,8 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+I Hate Models is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-I Hate Models is a techno and house artist based in France, tracked on soundcheck, with 281 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 76 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+I Hate Models is a techno and house artist based in France, tracked on soundcheck, with 283 sets logged across Aberdeen, Amsterdam, Antwerp and Argentina and 77 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ I Hate Models is a techno and house artist based in France, tracked on soundchec
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
+| Sat, 31 Oct 2026 | TBA - La Estacion, Cordoba | Argentina |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | TBA - New location | Toronto |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Sun, 22 Nov 2026 | TBA - Quinta Las Rosas, Mendoza | Argentina |
 | Sat, 28 Nov 2026 | Kompass Klub | Ghent |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
-| Fri, 4 Dec 2026 | Tap1 | Copenhagen |
-| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, tracked on soundchec
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

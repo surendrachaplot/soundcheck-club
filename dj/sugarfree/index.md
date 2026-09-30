@@ -1,8 +1,8 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Circus Osaka, Osaka on Thu, 1 Oct 2026.
+Sugar Free is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Circus Osaka, Osaka on Thu, 1 Oct 2026.
 
-Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Circus Osaka, Osaka on Thu 1 Oct.
+Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Circus Osaka, Osaka on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, w
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 | Sat, 7 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 21 Nov 2026 | Palais | London |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, w
 
 Fonte, Gene On Earth, tINI
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Mano Le Tough is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 Mano Le Tough is a house and techno artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Mano Le Tough is a house and techno artist based in Germany, tracked on soundche
 
 Âme, Jonathan Kaspar, Sossa
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

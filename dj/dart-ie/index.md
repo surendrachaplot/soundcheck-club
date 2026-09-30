@@ -1,13 +1,14 @@
 # DART
 
-DART is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 29 Sept 2026, next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+DART is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 30 Sept 2026, next at The Art School, Glasgow on Sat, 17 Oct 2026.
 
-DART is a techno and house artist based in Ireland, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+DART is a techno and house artist based in Ireland, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: The Art School, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The Art School | Glasgow |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
@@ -33,4 +34,4 @@ DART is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

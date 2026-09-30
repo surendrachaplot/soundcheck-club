@@ -1,6 +1,6 @@
 # SHAMMA
 
-SHAMMA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 29 Sept 2026, next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
+SHAMMA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 30 Sept 2026, next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
 
 SHAMMA is a house and tech house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Washington DC. Often billed alongside ANNYA, Fátima and Neko Berg. Next up: El Secreto De Rosita, Washington DC on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ SHAMMA is a house and tech house artist based in United States of America, track
 
 ANNYA, Fátima, Neko Berg
 
-*Updated Tue, 29 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamma/)*
+*Updated Wed, 30 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamma/)*
