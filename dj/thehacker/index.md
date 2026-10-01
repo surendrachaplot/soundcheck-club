@@ -1,8 +1,8 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
+The Hacker is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
 
-The Hacker is a techno and electro artist based in France, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: La Belle Électrique, South East on Sat 3 Oct.
+The Hacker is a techno and electro artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: La Belle Électrique, South East on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ The Hacker is a techno and electro artist based in France, with 118 gigs on soun
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sat, 31 Oct 2026 | Mondo | Madrid |
+| Fri, 20 Nov 2026 | Elastica | Vilnius |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

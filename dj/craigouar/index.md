@@ -1,13 +1,14 @@
 # Craig Ouar
 
-Craig Ouar is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
+Craig Ouar is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUMA, Rio-de-janeiro on Sat, 3 Oct 2026.
 
-Craig Ouar is a house and balearic artist based in France, with 19 gigs on soundcheck across Amsterdam, Paris, Rio De Janeiro and Sao Paulo and 1 more. Often billed alongside Giu Nunez, Carrot Green and Benjamim Sallum. Next up: TBA - Centro, Rio De Janeiro on Sat 10 Oct.
+Craig Ouar is a house and balearic artist based in France, with 20 gigs on soundcheck across Amsterdam, Paris, Rio De Janeiro and Sao Paulo and 1 more. Often billed alongside Giu Nunez, Carrot Green and Benjamim Sallum. Next up: TRAUMA, Rio De Janeiro on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TRAUMA | Rio-de-janeiro |
 | Sat, 10 Oct 2026 | TBA - Centro | Rio-de-janeiro |
 
 ## Recently played

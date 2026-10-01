@@ -1,14 +1,15 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel, Milan on Sat, 10 Oct 2026.
+Stella Fiore is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel, Milan on Sat, 10 Oct 2026.
 
-Stella Fiore is a house and techno artist based in Germany, with 45 gigs on soundcheck across Athens, Barcelona, Berlin and Boston and 17 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: Tunnel, Milan on Sat 10 Oct.
+Stella Fiore is a house and techno artist based in Germany, with 46 gigs on soundcheck across Athens, Barcelona, Berlin and Boston and 17 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: Tunnel, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Tunnel | Milan |
+| Sun, 11 Oct 2026 | Sorgiva Village | Milan |
 | Sat, 17 Oct 2026 | Kater | Berlin |
 
 ## Recently played

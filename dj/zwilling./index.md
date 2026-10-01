@@ -1,8 +1,8 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
 
-zwilling. is a techno and trance artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Schrotty, Cologne on Fri 9 Oct.
+zwilling. is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Schrotty, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ zwilling. is a techno and trance artist based in Germany, with 100 gigs on sound
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
+| Fri, 13 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 

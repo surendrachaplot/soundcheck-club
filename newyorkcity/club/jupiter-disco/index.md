@@ -9,7 +9,7 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 22 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY | Han G, Jake From State Pharm, RICK E |
-| Sat, 3 Oct 2026 | Office Hours: GIANNA, Arjun Shah, Inés | Arjun Shah, GIANNA, Inés |
+| Sat, 3 Oct 2026 | Office Hours: funkin donut, Arjun Shah, Inés | Arjun Shah, Inés, funkin donut |
 | Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses |
 | Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago (US), Pedestrian Access |
 | Thu, 8 Oct 2026 | PluggedIN: bbbBbBB, Day Cart, HumanbIAN | BbbBbBB (2), Day Cart, HumanbIAN |

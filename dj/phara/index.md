@@ -1,8 +1,8 @@
 # Phara
 
-Phara is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Fri, 2 Oct 2026.
+Phara is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Fri, 2 Oct 2026.
 
-Phara is a techno and house artist based in Belgium, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: Club Exil, Vienna on Fri 2 Oct.
+Phara is a techno and house artist based in Belgium, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: Club Exil, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Phara is a techno and house artist based in Belgium, with 179 gigs on soundcheck
 | Sat, 17 Oct 2026 | Fuse | Brussels |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | BRET | Amsterdam |
+| Fri, 6 Nov 2026 | FOLD | London |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 
 ## Recently played

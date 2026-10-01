@@ -8,7 +8,7 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Het Dorp x In Place Of War | Matt Black |
+| Wed, 21 Oct 2026 | Het Dorp x In Place Of War | Matt Black, Mixhell, Paranoid London, Soul Clap |
 | Thu, 22 Oct 2026 | ADE Naturalis festival with Manfredas, Jonny Rock, Paula Tape + more | Arista, Budino, Jonny Rock, Manfredas, Nunzio Borino, Paula Tape, ThanksMate |
 | Fri, 23 Oct 2026 | Festifest ADE (Sold Out) | BELLA (NL), Demi Riquisimo, Evi (1), Fabrizio Mammarella, Galleria Europa, Giulia Gutterer, SHMLSS, Sound Metaphors Djs |
 | Sun, 25 Oct 2026 | Bubble House x ADE |  |

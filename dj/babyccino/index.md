@@ -1,8 +1,8 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Fri, 9 Oct 2026.
+Babyccino is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Fri, 9 Oct 2026.
 
-Babyccino is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: Sub Club, Glasgow on Fri 9 Oct.
+Babyccino is a house and techno artist based in United Kingdom, with 64 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: Sub Club, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Babyccino is a house and techno artist based in United Kingdom, with 63 gigs on 
 | Fri, 9 Oct 2026 | Sub Club | Glasgow |
 | Sat, 10 Oct 2026 | The Marquee Moon | London |
 | Sat, 31 Oct 2026 | The Pitt Market | Edinburgh |
+| Sat, 31 Oct 2026 | The Locale | Glasgow |
 
 ## Recently played
 

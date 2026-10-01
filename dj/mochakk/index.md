@@ -1,18 +1,20 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+Mochakk is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
-Mochakk is a house and tech house artist based in Brazil, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: [UNVRS], Ibiza on Sat 10 Oct.
+Mochakk is a house and tech house artist based in Brazil, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010 | Sao-paulo |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | Big Night Live | Boston |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
+| Sat, 31 Oct 2026 | m.Bird at Armature Works | Florida |
 | Thu, 31 Dec 2026 | TBA - P12 Beach Club, Jurerê, Florianopolis | Brazil |
 
 ## Recently played

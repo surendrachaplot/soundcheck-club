@@ -1,13 +1,14 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
+Paula Tape is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
-Paula Tape is a house and techno artist based in Chile, with 166 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
+Paula Tape is a house and techno artist based in Chile, with 167 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 51 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Le Cargö, West on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Le Cargö | West |
 | Fri, 9 Oct 2026 | Apollo Club Milano | Milan |
 | Fri, 16 Oct 2026 | Night Tales | London |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |

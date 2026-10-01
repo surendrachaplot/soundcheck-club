@@ -1,6 +1,6 @@
 # Woolston Manor Golf Course Chigwell Essex IG7 6BX
 
-Woolston Manor Golf Course Chigwell Essex IG7 6BX is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "NEXUS DAY PARTY" on Sun, 18 Oct 2026.
+Woolston Manor Golf Course Chigwell Essex IG7 6BX is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "THIS LINK NOT WORKING" on Sun, 18 Oct 2026.
 
 Woolston Manor Golf Course Chigwell Essex IG7 6BX is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. ABRIDGE RD, CHIGWELL, ESSEX IG7 6BX.
 
@@ -8,7 +8,7 @@ Woolston Manor Golf Course Chigwell Essex IG7 6BX is a music venue in London lis
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | NEXUS DAY PARTY |  |
+| Sun, 18 Oct 2026 | THIS LINK NOT WORKING |  |
 
 ## Address
 

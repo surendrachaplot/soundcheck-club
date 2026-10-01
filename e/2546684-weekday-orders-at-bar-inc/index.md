@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Mon 19 Oct, Osaka. 1 artist: Natural Magic. House. See the line-up on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Mon 19 Oct, Osaka. 2 artists: COTA and Natural Magic. Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WEEKDAY ORDERS at BAR Inc on Mon 19 Oct, Osaka. 1 artist: Natural Magic. House. 
 
 ## Line-up
 
+- COTA
 - Natural Magic
 
 *Source: [soundcheck](https://soundcheck.club/e/2546684-weekday-orders-at-bar-inc/)*

@@ -1,14 +1,13 @@
 # Naoki Ikawa
 
-Naoki Ikawa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Azumaya, Tokyo on Thu, 1 Oct 2026.
+Naoki Ikawa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
 
-Naoki Ikawa is a house and techno artist based in Japan, with 41 gigs on soundcheck across Tokyo. Often billed alongside NAOKI, Leefia and JUN INAGAWA. Next up: Azumaya, Tokyo on Thu 1 Oct.
+Naoki Ikawa is a house and techno artist based in Japan, with 41 gigs on soundcheck across Tokyo. Often billed alongside NAOKI, Leefia and JUN INAGAWA. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Azumaya | Tokyo |
 | Sat, 17 Oct 2026 | TBA - Jogashima Park | Tokyo |
 | Thu, 29 Oct 2026 | R Lounge | Tokyo |
 

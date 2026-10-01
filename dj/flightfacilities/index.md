@@ -1,13 +1,14 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Thu, 31 Dec 2026.
+Flight Facilities is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
 
-Flight Facilities is a house and disco artist, with 63 gigs on soundcheck across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Sidney Myer Music Bowl, Melbourne on Thu 31 Dec.
+Flight Facilities is a house and disco artist based in Australia, with 64 gigs on soundcheck across Austin, Bali, Barcelona and Chicago and 20 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Kiama Skate Park, New South Wales on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Kiama Skate Park | New-south-wales |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
 
 ## Recently played

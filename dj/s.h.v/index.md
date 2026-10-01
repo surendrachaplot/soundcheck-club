@@ -1,14 +1,13 @@
 # S.H.V
 
-S.H.V is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Thu, 1 Oct 2026.
+S.H.V is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 9 Oct 2026.
 
-S.H.V is a techno and bass artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside MoEPiKA, Eichi Abe and YUVIE. Next up: Enter Shibuya, Tokyo on Thu 1 Oct.
+S.H.V is a techno and bass artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside MoEPiKA, Eichi Abe and YUVIE. Next up: Circus Tokyo, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Enter Shibuya | Tokyo |
 | Fri, 9 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 9 Oct 2026 | Enter Shibuya | Tokyo |
 | Sun, 11 Oct 2026 | Saloon | Tokyo |

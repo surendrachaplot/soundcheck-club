@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Century Locker, Manchester on Sat, 3 Oct 2026.
+Paranoid London is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Century Locker, Manchester on Sat, 3 Oct 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: New Century Locker, Manchester on Sat 3 Oct.
+Paranoid London is a techno and acid artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: New Century Locker, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 124 gi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | The British Engineerium | Brighton |
+| Wed, 21 Oct 2026 | Het Dorp | Amsterdam |
 | Fri, 23 Oct 2026 | TRAUM | Antwerp |
 | Thu, 29 Oct 2026 | El Rio Hostel | Colombia |
 | Fri, 6 Nov 2026 | Beaver Works | Leeds |
@@ -28,6 +29,6 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 124 gi
 
 ## Shares bills with
 
-Palms Trax, Elena Colombi, FJAAK
+Palms Trax, Soul Clap, Elena Colombi
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

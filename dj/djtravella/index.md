@@ -1,14 +1,15 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 2 Oct 2026.
+DJ Travella is a Singeli and Club artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 2 Oct 2026.
 
-DJ Travella is a singeli and club artist based in Tanzania, with 77 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 32 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: Le Poisson Volant, Paris on Fri 2 Oct.
+DJ Travella is a singeli and club artist based in Tanzania, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: Le Poisson Volant, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Le Poisson Volant | Paris |
+| Wed, 7 Oct 2026 | Le Cargö | West |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Wed, 14 Oct 2026 | Bryggeriet Scene | Norway |
 | Sat, 31 Oct 2026 | Jumbi | London |

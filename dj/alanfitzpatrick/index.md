@@ -1,8 +1,8 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
 
-Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 35 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
+Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 114 
 | Fri, 9 Oct 2026 | Oxford Art Factory | Sydney |
 | Sat, 10 Oct 2026 | The Night Cat | Melbourne |
 | Fri, 16 Oct 2026 | The Prince Consort | Brisbane |
+| Fri, 16 Oct 2026 | Arts Factory Garden Bar | Byron-bay |
+| Sat, 17 Oct 2026 | Villa Nightclub | Perth |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | Aevum x 50:Hertz House & Techno Club Rembrandt Square / Rembrandtplein 45, Amsterdam | Amsterdam |

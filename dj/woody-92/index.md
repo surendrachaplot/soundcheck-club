@@ -1,15 +1,15 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OIL Club, Shenzhen on Thu, 1 Oct 2026.
+Woody92 is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Acadana, Hong Kong on Fri, 2 Oct 2026.
 
-Woody92 is a techno and experimental artist based in Netherlands, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Loek Frey, Spekki Webu and Jeans (NL). Next up: OIL Club, Shenzhen on Thu 1 Oct.
+Woody92 is a techno and experimental artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Loek Frey, Spekki Webu and Jeans (NL). Next up: Acadana, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 2 Oct 2026 | Acadana | Hong Kong |
+| Sat, 3 Oct 2026 | Club Droowning | Guangzhou |
 | Sat, 10 Oct 2026 | vurt. | Seoul |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |

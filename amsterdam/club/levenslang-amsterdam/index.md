@@ -15,7 +15,7 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upco
 | Fri, 23 Oct 2026 | Intercell x Oscar Mulero Invites / ADE By Night | Adriana Lopez, Claudio PRC, Isabel Soto, Laura van Hal, Oscar Mulero, Phara |
 | Fri, 23 Oct 2026 | Overbruggen x Lab54 - ADE | Amy Os, Boss Priester, Dennis Quin, Kepler, Nafe Smallz, Robbie Doherty |
 | Sat, 24 Oct 2026 | Intercell x Skin On Skin Invites - ADE By Day | EYCEE, Ned Bennett, Oppidan, Skin On Skin, THELMA, camoufly |
-| Sat, 24 Oct 2026 | SLPFNK - LEVENSLANG ADE | Doudou MD, Dyed Soundorom, Sonja Moonear, Volkan Akin |
+| Sat, 24 Oct 2026 | SLPFNK - LEVENSLANG ADE | A.M. Project, Doudou MD, Dyed Soundorom, Georgia Girl, Hugo Martinez, Sonja Moonear, Volkan Akin |
 | Sun, 25 Oct 2026 | Intercell x fumi Invites - ADE By Day | Daria Kolosova, HUJUS, Lacchesi, fumi (DE), ines isla, ÜBERKIKZ |
 | Sat, 21 Nov 2026 | KRAFT Premium Pounding Techno 21st of November 2026 | Alex Di Stefano, HOF (DE), Rachelle Grooten, TheKoosy |
 

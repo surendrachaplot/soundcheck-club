@@ -1,14 +1,13 @@
 # Uni (3)
 
-Uni (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nyapi, Seoul on Thu, 1 Oct 2026.
+Uni (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Faust, Seoul on Sun, 4 Oct 2026.
 
-Uni is a house and techno artist based in South Korea, with 42 gigs on soundcheck across Bangkok, New York City and Seoul. Often billed alongside Bolm, YAREE and NUSNOOM. Next up: Nyapi, Seoul on Thu 1 Oct.
+Uni is a house and techno artist based in South Korea, with 42 gigs on soundcheck across Bangkok, New York City and Seoul. Often billed alongside Bolm, YAREE and NUSNOOM. Next up: Faust, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Nyapi | Seoul |
 | Sun, 4 Oct 2026 | Faust | Seoul |
 
 ## Recently played

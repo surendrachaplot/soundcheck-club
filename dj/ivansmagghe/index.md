@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
+Ivan Smagghe is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
 
-Ivan Smagghe is a techno and house artist based in France, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
+Ivan Smagghe is a techno and house artist based in France, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ivan Smagghe is a techno and house artist based in France, with 192 gigs on soun
 | Thu, 1 Oct 2026 | Hotel Butterfly | Rome |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
+| Sat, 10 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 16 Oct 2026 | Rex Club | Paris |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
@@ -19,7 +20,6 @@ Ivan Smagghe is a techno and house artist based in France, with 192 gigs on soun
 | Sat, 7 Nov 2026 | 宀 Club | Hong Kong |
 | Fri, 13 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | FOLD | London |
-| Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played
 

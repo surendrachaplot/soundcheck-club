@@ -1,13 +1,14 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Anastazja is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
-Anastazja is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 11 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: [UNVRS], Ibiza on Tue 6 Oct.
+Anastazja is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 12 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010 | Sao-paulo |
 | Tue, 6 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Knockdown Center | New York City |
 

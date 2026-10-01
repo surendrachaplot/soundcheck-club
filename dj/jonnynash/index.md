@@ -1,13 +1,14 @@
 # Jonny Nash
 
-Jonny Nash is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Jonny Nash is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
 
-Jonny Nash is an electronic artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 3 more. Often billed alongside Eline (BE), Galcher Lustwerk and Sybil. Next up: ZENNER, Berlin on Fri 16 Oct.
+Jonny Nash is an electronic artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Eline (BE), Galcher Lustwerk and Sybil. Next up: Goko Farm Auto Campground, Chubu on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Goko Farm Auto Campground | Chubu |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played

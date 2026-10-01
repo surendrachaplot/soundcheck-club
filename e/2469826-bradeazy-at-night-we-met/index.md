@@ -1,6 +1,6 @@
 # bradeazy at Night We Met
 
-bradeazy at Night We Met on Fri 16 Oct, Nashville. 1 artist: bradeazy. Bass and Tech House. See the line-up on soundcheck.
+bradeazy at Night We Met on Fri 16 Oct, Nashville. 2 artists: bradeazy and Will Sass. Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ bradeazy at Night We Met on Fri 16 Oct, Nashville. 1 artist: bradeazy. Bass and 
 ## Line-up
 
 - bradeazy
+- Will Sass
 
 *Source: [soundcheck](https://soundcheck.club/e/2469826-bradeazy-at-night-we-met/)*

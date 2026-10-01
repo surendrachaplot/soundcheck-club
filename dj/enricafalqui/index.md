@@ -1,8 +1,8 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Enrica Falqui is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Enrica Falqui is a techno and house artist based in Italy, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Enrica Falqui is a techno and house artist based in Italy, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Enrica Falqui is a techno and house artist based in Italy, with 121 gigs on soun
 | Sat, 10 Oct 2026 | The DBA | Manchester |
 | Sat, 17 Oct 2026 | BARDO | Milan |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
+| Sat, 24 Oct 2026 | TBA - Paris 18ème | Paris |
 | Sat, 14 Nov 2026 | Kater | Berlin |
 
 ## Recently played

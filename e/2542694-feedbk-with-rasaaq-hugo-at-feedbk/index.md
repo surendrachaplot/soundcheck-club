@@ -1,6 +1,6 @@
 # feedbk with Rasaaq, Hugo at feedbk
 
-feedbk with Rasaaq, Hugo on Thu 22 Oct, New York City. 2 artists: Hugo (US) and Rasaaq. See the line-up on soundcheck.
+feedbk with Rasaaq, Hugo on Thu 22 Oct, New York City. 2 artists: Hugo (US) and Rasaaq. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

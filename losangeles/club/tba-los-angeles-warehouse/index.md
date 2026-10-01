@@ -1,14 +1,15 @@
 # TBA - Los Angeles (Warehouse)
 
-TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "INCOGNITO presents Zenker Brothers (Extended Set)" on Sat, 3 Oct 2026.
+TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "INCOGNITO presents Zenker Brothers (Extended Set)" on Sat, 3 Oct 2026.
 
-TBA - Los Angeles (Warehouse) is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Bloody Mary, Bryan Gee, Diverge and DJ Noir and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles (Warehouse) is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Bloody Mary, Bryan Gee, Diverge and DJ Noir and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | INCOGNITO presents Zenker Brothers (Extended Set) | DJ Noir, Heart of Gold, OJ (US), Zenker Brothers |
+| Fri, 23 Oct 2026 | Boudica x SWXCH: Samantha Togni, masato and Vein | Samantha Togni, masato |
 | Fri, 30 Oct 2026 | INCOGNITO presents A HALLOWEEN DnB Rave with Bryan Gee, Reid Speed, Nightstalker | Bryan Gee, Ruminate |
 | Sat, 31 Oct 2026 | INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave | Bloody Mary, Julia Govor, Laure Croft, Xica Soul |
 | Fri, 11 Dec 2026 | INCOGNITO x Metalheadz: Goldie, Photek, DRS, Diverge | DRS, Diverge, Goldie, Photek |

@@ -1,13 +1,14 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
+JIALING is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
 
-JIALING is a club and techno artist based in United States of America, with 117 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Seimei. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
+JIALING is a club and techno artist based in United States of America, with 118 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 15 more. Often billed alongside Mui Mui, PHANTAZN and Seimei. Next up: TBA - Galway City, Galway on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Galway City | Galway |
 | Sat, 24 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 21 Nov 2026 | clubasia | Tokyo |
 

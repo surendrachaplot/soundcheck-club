@@ -14,7 +14,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 42 upcoming gigs, w
 | Sun, 4 Oct 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 5 Oct 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 | Tue, 6 Oct 2026 | [PHANTOM GROUP] KLUBNACHT w SUKA | SUKA |
-| Wed, 7 Oct 2026 | RAVELAND x 20kHz x TMT x SOUR : Hard Techno, Bounce & Neo Rave | ADRIELY, BVNNII, SASHE (2) |
+| Wed, 7 Oct 2026 | RAVELAND x 20kHz x TMT x SOUR : Hard Techno, Bounce & Neo Rave | ADRIELY, BVNNII, LEX LEDU, SASHE (2) |
 | Thu, 8 Oct 2026 | Amsterdam Techno Sessions | Marco Ramos |
 | Fri, 9 Oct 2026 | Techno Code | Alex Sharp |
 | Sat, 10 Oct 2026 | Amsterdam Techno Sessions | Marco Ramos |

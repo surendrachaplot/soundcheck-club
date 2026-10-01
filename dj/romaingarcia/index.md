@@ -1,14 +1,13 @@
 # Romain Garcia
 
-Romain Garcia is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Café Berlín, Madrid on Thu, 1 Oct 2026.
+Romain Garcia is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Romain Garcia is a progressive house and deep house artist based in France, with 63 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: Café Berlín, Madrid on Thu 1 Oct.
+Romain Garcia is a progressive house and deep house artist based in France, with 63 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Café Berlín | Madrid |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 17 Oct 2026 | Rex Club | Paris |
 

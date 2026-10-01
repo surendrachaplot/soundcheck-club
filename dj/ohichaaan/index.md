@@ -1,13 +1,14 @@
 # ohichaaan
 
-ohichaaan is a Bass and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
+ohichaaan is a Bass and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chika-Ikkai, Osaka on Fri, 2 Oct 2026.
 
-ohichaaan is a bass and ghetto tech artist based in Japan, with 13 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Acrocanthosaurus, kakepon and meweta. Next up: Triangle, Osaka on Sun 11 Oct.
+ohichaaan is a bass and ghetto tech artist based in Japan, with 14 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Acrocanthosaurus, D.J.Fulltono and kakepon. Next up: Chika-Ikkai, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Chika-Ikkai | Osaka |
 | Sun, 11 Oct 2026 | Triangle | Osaka |
 
 ## Recently played
@@ -23,6 +24,6 @@ ohichaaan is a bass and ghetto tech artist based in Japan, with 13 gigs on sound
 
 ## Shares bills with
 
-Acrocanthosaurus, kakepon, meweta
+Acrocanthosaurus, D.J.Fulltono, kakepon
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohichaaan/)*

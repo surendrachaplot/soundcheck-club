@@ -1,14 +1,13 @@
 # DJ AMAZING
 
-DJ AMAZING is a Hip-Hop and R&B artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Time Out Market Rooftop, Barcelona on Thu, 1 Oct 2026.
+DJ AMAZING is a Hip-Hop and R&B artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bassement, Madrid on Sat, 3 Oct 2026.
 
-DJ AMAZING is a hip-hop and r&b artist based in Spain, with 107 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Denoir, Hector Hope and JAEL. Next up: Time Out Market Rooftop, Barcelona on Thu 1 Oct.
+DJ AMAZING is a hip-hop and r&b artist based in Spain, with 107 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Denoir, Hector Hope and JAEL. Next up: The Bassement, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Time Out Market Rooftop | Barcelona |
 | Sat, 3 Oct 2026 | The Bassement | Madrid |
 | Fri, 9 Oct 2026 | La Terrrazza | Barcelona |
 

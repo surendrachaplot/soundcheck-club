@@ -1,14 +1,15 @@
 # Takayuki Kamiya
 
-Takayuki Kamiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mogra, Tokyo on Sun, 11 Oct 2026.
+Takayuki Kamiya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mogra, Tokyo on Sun, 11 Oct 2026.
 
-Takayuki Kamiya is a techno and house artist based in Japan, with 50 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Wat, Spinnage and Takami. Next up: Mogra, Tokyo on Sun 11 Oct.
+Takayuki Kamiya is a techno and house artist based in Japan, with 51 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Wat, Spinnage and Takami. Next up: Mogra, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Mogra | Tokyo |
+| Sat, 14 Nov 2026 | Nakano Heavysick Zero | Tokyo |
 
 ## Recently played
 

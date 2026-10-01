@@ -1,13 +1,14 @@
 # CHIKA
 
-CHIKA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
+CHIKA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Sun, 18 Oct 2026.
 
-CHIKA is a techno and industrial artist based in Japan, with 102 gigs on soundcheck across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: WOMB, Tokyo on Wed 21 Oct.
+CHIKA is a techno and industrial artist based in Japan, with 103 gigs on soundcheck across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: WOMB, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | WOMB | Tokyo |
 | Wed, 21 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played

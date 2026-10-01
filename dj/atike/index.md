@@ -2,7 +2,7 @@
 
 Atiké is a Baile Funk and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Sat, 28 Nov 2026.
 
-Atiké is a baile funk and reggaeton artist, with 67 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: The DBA, Manchester on Sat 28 Nov.
+Atiké is a baile funk and reggaeton artist based in United Kingdom, with 67 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: The DBA, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 

@@ -1,0 +1,11 @@
+# CASA: IN THE JUNGLE // TUESDAYS AT The Berkeley Suite // 6TH OCTOBER at The Berkeley Suite
+
+CASA: IN THE JUNGLE // TUESDAYS AT The Berkeley Suite // 6TH OCTOBER on Tue 6 Oct, Glasgow. House and Disco. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Tue, 6 Oct 2026 |
+| Venue | The Berkeley Suite |
+| City | Glasgow |
+
+*Source: [soundcheck](https://soundcheck.club/e/2549974-casa-in-the-jungle-tuesdays-at-the-berkeley-suite-6th-octobe/)*

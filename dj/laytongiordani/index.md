@@ -1,14 +1,13 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lion Super Club, Seoul on Thu, 1 Oct 2026.
+Layton Giordani is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Layton Giordani is a techno and house artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: Lion Super Club, Seoul on Thu 1 Oct.
+Layton Giordani is a techno and house artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Adam Beyer, John Summit and Green Velvet. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Lion Super Club | Seoul |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | Russell Industrial Center | Detroit |

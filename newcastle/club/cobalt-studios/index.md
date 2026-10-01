@@ -14,7 +14,7 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 24 upcoming g
 | Sat, 10 Oct 2026 | Bin Juice presents: Queer Rave with Marie Malarie and Josh Bell | Josh Bell, Marie Malarie |
 | Fri, 16 Oct 2026 | tINI - All Night Long | tINI |
 | Sat, 17 Oct 2026 | 'Some Like It Early' presents: Colleen 'Cosmo' Murphy | Colleen 'Cosmo' Murphy |
-| Sat, 17 Oct 2026 | L.A.D's presents: Millie McKee (live) + Marion Hawkes | Marion Hawkes, Millie McKee |
+| Sat, 17 Oct 2026 | L.A.D's presents: Marion Hawkes + Sami J | Marion Hawkes |
 | Fri, 23 Oct 2026 | SPOTTY DOG INVITES KENSA |  |
 | Sat, 24 Oct 2026 | Melina Serser + PIP | Melina Serser, PIP. |
 | Fri, 30 Oct 2026 | Que Sakamoto All Night Long | Que Sakamoto |

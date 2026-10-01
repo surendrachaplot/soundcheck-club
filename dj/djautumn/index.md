@@ -1,14 +1,15 @@
 # DJ Autumn
 
-DJ Autumn is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ikii, Berlin on Fri, 9 Oct 2026.
+DJ Autumn is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ikii, Berlin on Fri, 9 Oct 2026.
 
-DJ Autumn is a bass and club artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Banoffee Pies, MLE (UK) and La Dame. Next up: Ikii, Berlin on Fri 9 Oct.
+DJ Autumn is a bass and club artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Banoffee Pies, MLE (UK) and La Dame. Next up: Ikii, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Ikii | Berlin |
+| Sat, 10 Oct 2026 | OHM | Berlin |
 
 ## Recently played
 

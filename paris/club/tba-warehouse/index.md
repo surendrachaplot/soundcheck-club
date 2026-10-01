@@ -1,8 +1,8 @@
-# TBA - warehouse
+# TBA - Warehouse
 
-TBA - warehouse is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "STATICPROOF presents: Octo Octa" on Fri, 2 Oct 2026.
+TBA - Warehouse is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "STATICPROOF presents: Octo Octa" on Fri, 2 Oct 2026.
 
-TBA - warehouse is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, beta_phase, Blachord and Danny L Harle and 2 more. See dates, start times and who's playing.
+TBA - Warehouse is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, beta_phase, Blachord and Danny L Harle and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

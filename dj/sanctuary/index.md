@@ -2,7 +2,7 @@
 
 Sanctuary is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Sat, 24 Oct 2026.
 
-Sanctuary is a house and disco artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Brazil and Detroit and 10 more. Often billed alongside Mendel, Handmade and Hunee. Next up: OHM, Berlin on Sat 24 Oct.
+Sanctuary is a house and disco artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Brazil and Detroit and 10 more. Often billed alongside Mendel, Antal and Handmade. Next up: OHM, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Sanctuary is a house and disco artist based in Germany, with 57 gigs on soundche
 
 ## Shares bills with
 
-Mendel, Handmade, Hunee
+Mendel, Antal, Handmade
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuary/)*

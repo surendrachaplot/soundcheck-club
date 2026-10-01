@@ -12,8 +12,8 @@ LAVERN is a house and progressive house artist based in Netherlands, with 54 gig
 | Sat, 3 Oct 2026 | Superordinary | Brisbane |
 | Fri, 9 Oct 2026 | Villa Nightclub | Perth |
 | Sat, 10 Oct 2026 | Metro Social | New-south-wales |
-| Sat, 17 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
 | Fri, 23 Oct 2026 | The Steel Yard | London |
+| Sat, 24 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played

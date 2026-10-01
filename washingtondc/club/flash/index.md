@@ -10,7 +10,7 @@ Flash is a music venue in Washington DC listed on soundcheck. 24 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Baltra - Titonton Duvanté | Andy Grant, Baltra, KayLaSoul, Titonton Duvanté, deepnotiQ |
 | Sat, 3 Oct 2026 | Marco Strous | DJ Soul (US), Marco Strous, VINY, unbound |
-| Sun, 4 Oct 2026 | Sunday Love: Xinobi - Mettabbana - AHardR | Mettabbana, Xinobi |
+| Sun, 4 Oct 2026 | Sunday Love: Xinobi - Mettabbana - Gradient Descent | Gradient Descent, Mettabbana, Xinobi |
 | Fri, 9 Oct 2026 | FOCUS: Marcel Dettmann | Basement Tracks, Marcel Dettmann, Mazko A |
 | Sat, 10 Oct 2026 | FOCUS: Colin Benders [LiVE] | Colin Benders, Eric Yaz, Hoppa, Sal Negro |
 | Sun, 11 Oct 2026 | Sunday Love: Enamour - Neko Berg - Maricuche | Enamour, Neko Berg |

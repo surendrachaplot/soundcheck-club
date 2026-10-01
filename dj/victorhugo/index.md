@@ -1,14 +1,13 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dr. Resin Social Club, Barcelona on Thu, 1 Oct 2026.
+Victor Hugo is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidecar, Barcelona on Sun, 4 Oct 2026.
 
-Victor Hugo is a house and electronica artist based in Mexico, with 74 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City. Often billed alongside Eudald Selva, INOFF and Elwei. Next up: Dr. Resin Social Club, Barcelona on Thu 1 Oct.
+Victor Hugo is a house and electronica artist based in Mexico, with 74 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City. Often billed alongside Eudald Selva, INOFF and Elwei. Next up: Sidecar, Barcelona on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Dr. Resin Social Club | Barcelona |
 | Sun, 4 Oct 2026 | Sidecar | Barcelona |
 | Sun, 11 Oct 2026 | Sidecar | Barcelona |
 | Sun, 18 Oct 2026 | Sidecar | Barcelona |

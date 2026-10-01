@@ -15,7 +15,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 18 upcoming g
 | Sat, 3 Oct 2026 | KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] | Nastia, Pureblast, Sunpr |
 | Sun, 4 Oct 2026 | DINGUE 2 TOI • VIDE DRESSING & PRESTATION |  |
 | Thu, 8 Oct 2026 | COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)] | Alpha Sect |
-| Fri, 9 Oct 2026 | SPECIAL GROOVE [Koboyo • +TBA] | Koboyo |
+| Fri, 9 Oct 2026 | SPECIAL GROOVE [Koboyo • LPV • 7seconds] | Koboyo, LPV |
 | Sat, 10 Oct 2026 | KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] | 1client, Anthea, Astral Travel, Joey 808, Oshana |
 | Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] |  |
 

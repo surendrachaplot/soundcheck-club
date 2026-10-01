@@ -1,13 +1,14 @@
 # Ferrand
 
-Ferrand is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Ferrand is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Wed, 7 Oct 2026.
 
-Ferrand is a trance and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, SUITSIDE and Rundfunk. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+Ferrand is a trance and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, SUITSIDE and OSKAMAXX. Next up: Odonien, Cologne on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Odonien | Cologne |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Sat, 24 Oct 2026 | Schrotty | Cologne |
 
@@ -24,6 +25,6 @@ Ferrand is a trance and techno artist based in Germany, with 17 gigs on soundche
 
 ## Shares bills with
 
-BabaBass3000, SUITSIDE, Rundfunk
+BabaBass3000, SUITSIDE, OSKAMAXX
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrand/)*

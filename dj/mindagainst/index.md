@@ -1,8 +1,8 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mind Against is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mind Against is a techno and house artist based in Italy, with 158 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
+Mind Against is a techno and house artist based in Italy, with 159 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mind Against is a techno and house artist based in Italy, with 158 gigs on sound
 | Sat, 10 Oct 2026 | Coda | Toronto |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 5 Dec 2026 | Savaya Bali | Bali |
+| Fri, 8 Jan 2027 | Zamna Tulum | Tulum |
 
 ## Recently played
 

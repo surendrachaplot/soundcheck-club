@@ -9,7 +9,7 @@ The Chainsmokers is a house and bass artist based in United States of America, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | The Concourse Project | Austin |
-| Sat, 17 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
+| Sat, 24 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 
 ## Recently played

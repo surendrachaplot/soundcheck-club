@@ -1,14 +1,15 @@
 # 5ive
 
-5ive is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
+5ive is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
 
-5ive is a house and deep house artist based in Japan, with 22 gigs on soundcheck across Bristol, Denver, London and New York City and 4 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Noon + Cafe, Osaka on Sat 10 Oct.
+5ive is a house and deep house artist based in Japan, with 23 gigs on soundcheck across Bristol, Chugoku, Denver and London and 5 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Noon + Cafe, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Noon + Cafe | Osaka |
+| Sat, 17 Oct 2026 | Yebisu Ya Pro | Chugoku |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 
 ## Recently played

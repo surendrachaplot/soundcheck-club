@@ -1,14 +1,13 @@
 # Accident Machine
 
-Accident Machine is a Electronica and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Thu, 1 Oct 2026.
+Accident Machine is a Electronica and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fruitmarket, Edinburgh on Sun, 25 Oct 2026.
 
-Accident Machine is an electronica and acid artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Newcastle. Often billed alongside Marie Davidson, Sarah/Shaun and Optimo (Espacio). Next up: People's Leisure Club, Edinburgh on Thu 1 Oct.
+Accident Machine is an electronica and acid artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Newcastle. Often billed alongside Marie Davidson, Sarah/Shaun and Optimo (Espacio). Next up: Fruitmarket, Edinburgh on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | People's Leisure Club | Edinburgh |
 | Sun, 25 Oct 2026 | Fruitmarket | Edinburgh |
 | Sun, 1 Nov 2026 | McChuills Music Bar | Glasgow |
 

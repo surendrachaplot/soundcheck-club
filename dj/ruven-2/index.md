@@ -1,14 +1,13 @@
 # RUVEN (2)
 
-RUVEN (2) is a Progressive House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Café Berlín, Madrid on Thu, 1 Oct 2026.
+RUVEN (2) is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafe La Palma, Madrid on Sat, 7 Nov 2026.
 
-RUVEN is a progressive house and electronica artist based in Spain, with 16 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Gleezy, Ahlice and Jara. Next up: Café Berlín, Madrid on Thu 1 Oct.
+RUVEN is a progressive house and electronica artist based in Spain, with 16 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Gleezy, Ahlice and Jara. Next up: Cafe La Palma, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Café Berlín | Madrid |
 | Sat, 7 Nov 2026 | Cafe La Palma | Madrid |
 
 ## Recently played

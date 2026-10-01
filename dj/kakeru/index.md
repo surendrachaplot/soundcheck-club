@@ -1,14 +1,13 @@
 # KAKERU
 
-KAKERU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Bar, Tokyo on Thu, 1 Oct 2026.
+KAKERU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Daikanyama ORD., Tokyo on Sun, 25 Oct 2026.
 
-KAKERU is a house and techno artist, with 73 gigs on soundcheck across Osaka and Tokyo. Often billed alongside MIZUKI OGISU, TORAO and Celter. Next up: Red Bar, Tokyo on Thu 1 Oct.
+KAKERU is a house and techno artist, with 73 gigs on soundcheck across Osaka and Tokyo. Often billed alongside MIZUKI OGISU, TORAO and Celter. Next up: Daikanyama ORD., Tokyo on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Red Bar | Tokyo |
 | Sun, 25 Oct 2026 | Daikanyama ORD. | Tokyo |
 
 ## Recently played

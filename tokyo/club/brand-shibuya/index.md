@@ -1,14 +1,13 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MUSIC BAR -FREE ENTRANCE-" on Thu, 1 Oct 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PARTY GATE" on Fri, 2 Oct 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including ANiIIIIiiiKii, Kamaida, Krankent and NOHR and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including ANiIIIIiiiKii, Kamaida, Krankent and NOHR and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | MUSIC BAR -FREE ENTRANCE- |  |
 | Fri, 2 Oct 2026 | PARTY GATE |  |
 | Sat, 3 Oct 2026 | SHIBUYAYA FUTURE GROOVE VOL.5 |  |
 | Sun, 4 Oct 2026 | Sunday Party | NOHR, YOSHIMASA |
@@ -18,6 +17,7 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, 
 | Tue, 13 Oct 2026 | LOVE |  |
 | Thu, 15 Oct 2026 | Amenity - 1st anniversary edition | ANiIIIIiiiKii, Kamaida, Krankent |
 | Sat, 17 Oct 2026 | SECTORZERO |  |
+| Sun, 25 Oct 2026 | 渋パラ☆1 |  |
 
 ## Address
 

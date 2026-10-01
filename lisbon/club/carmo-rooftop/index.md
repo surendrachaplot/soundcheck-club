@@ -9,7 +9,7 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY | Kee_ko, Rui Alves |
-| Sun, 1 Nov 2026 | Alive ‣ Eric Furtado &MORE - SUNDAY 1 NOV × CARMO • FREE | Alive, Eric Furtado, Rui Alves |
+| Sun, 1 Nov 2026 | Alive ‣ Eric Furtado ‣ Rui Alves  - SUNDAY 1 NOV × CARMO • FREE  | Alive, Eric Furtado, Rui Alves |
 | Sun, 29 Nov 2026 | SIMONEANCI ‣ Rui Alves ‣ SLIM J - SUNDAY 29 NOV × CARMO • FREE | Rui Alves, SLIM J |
 
 ## Address

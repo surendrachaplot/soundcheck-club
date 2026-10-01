@@ -1,6 +1,6 @@
-# E'Klektik x Celosia at Mood Ring
+# E'Klektik x CELOSIA at Mood Ring
 
-E'Klektik x Celosia at Mood Ring on Thu 15 Oct, New York City. 3 artists: ANTON (ES), Harry Fletcher and Jared Maharaj. See the line-up on soundcheck.
+E'Klektik x CELOSIA at Mood Ring on Thu 15 Oct, New York City. 3 artists: ANTON (ES), Harry Fletcher and Jared Maharaj. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

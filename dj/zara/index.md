@@ -1,14 +1,15 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
+Zara is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
-Zara is a techno and experimental artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
+Zara is a techno and experimental artist based in Australia, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 24 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Chiesetta Della Misericordia + Argo16 | Venice |
+| Fri, 27 Nov 2026 | TBA | New-south-wales |
 
 ## Recently played
 

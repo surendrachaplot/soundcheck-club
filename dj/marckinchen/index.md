@@ -9,7 +9,7 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Ushuaïa Ibiza | Ibiza |
-| Sat, 17 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
+| Sat, 24 Oct 2026 | 600 Pennsylvania Ave NW | Washington DC |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Sat, 14 Nov 2026 | Savaya Bali | Bali |
 | Sat, 6 Feb 2027 | Depot | Cardiff |

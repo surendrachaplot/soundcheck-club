@@ -1,8 +1,8 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𝗙𝗥𝗘𝗘 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ" on Thu, 1 Oct 2026.
+The Bassement is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𝗙𝗥𝗘𝗘 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ" on Thu, 1 Oct 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 

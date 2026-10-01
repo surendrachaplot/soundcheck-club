@@ -1,14 +1,15 @@
 # L-CC
 
-L-CC is a House and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
+L-CC is a House and EBM artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
-L-CC is a house and ebm artist, with 7 gigs on soundcheck across Bali, Hong Kong, Seoul and Taipei. Often billed alongside F.G.D., Tsuuu and Umbra. Next up: Pawnshop, Taipei on Thu 8 Oct.
+L-CC is a house and ebm artist, with 8 gigs on soundcheck across Bali, Ho Chi Minh City, Hong Kong and Seoul and 1 more. Often billed alongside F.G.D., Tsuuu and Umbra. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Pawnshop | Taipei |
+| Sat, 24 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Sat, 31 Oct 2026 | Pawnshop | Taipei |
 
 ## Recently played

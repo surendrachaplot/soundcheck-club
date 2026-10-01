@@ -1,8 +1,8 @@
 # Lloydski
 
-Lloydski is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
+Lloydski is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
 
-Lloydski is a house and disco artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Berlin, Lisbon and London and 9 more. Often billed alongside Eli Escobar, Lauren Murada and Planet B. Next up: Bossa Nova Civic Club, New York City on Thu 1 Oct.
+Lloydski is a house and disco artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Berlin, Brazil and Lisbon and 10 more. Often billed alongside Eli Escobar, Lauren Murada and Planet B. Next up: Bossa Nova Civic Club, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lloydski is a house and disco artist based in United States of America, with 72 
 | Thu, 1 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 22 Oct 2026 | Paloma | Berlin |
 | Sat, 24 Oct 2026 | Doka | Amsterdam |
+| Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
 

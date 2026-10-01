@@ -1,8 +1,8 @@
 # Erick E
 
-Erick E is a House and Acid artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Heuvel Gallery, Netherlands on Fri, 2 Oct 2026.
+Erick E is a House and Acid artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Heuvel Gallery, Netherlands on Fri, 2 Oct 2026.
 
-Erick E is a house and acid artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: De Heuvel Gallery, Netherlands on Fri 2 Oct.
+Erick E is a house and acid artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: De Heuvel Gallery, Netherlands on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Erick E is a house and acid artist based in Netherlands, with 70 gigs on soundch
 | Sat, 14 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
-| Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
+| Sat, 19 Dec 2026 | Patronaat | Netherlands |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Georgia Girl
 
-Georgia Girl is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
+Georgia Girl is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
 
-Georgia Girl is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 8 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: S.A.S.H in the Street, New South Wales on Sun 4 Oct.
+Georgia Girl is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 8 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: S.A.S.H in the Street, New South Wales on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Georgia Girl is a house and tech house artist based in United Kingdom, with 50 g
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | S.A.S.H in the Street | New-south-wales |
 | Sun, 4 Oct 2026 | Home The Venue | Sydney |
+| Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Gaffe | London |
 
 ## Recently played

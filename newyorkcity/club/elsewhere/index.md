@@ -2,7 +2,7 @@
 
 Elsewhere is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BKG: Boydell, sasababy, Ladler" on Thu, 1 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 6 SENSE, AEREA, Ali RQ and Arjun Shah and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 

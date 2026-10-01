@@ -14,7 +14,7 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wit
 | Sat, 17 Oct 2026 | Hear Here • sillygirlcarmen, Disc Jockey George, & KRW | Disc Jockey George, KRW (1), sillygirlcarmen |
 | Fri, 23 Oct 2026 | Dilemmas B Day Bash | Brent Shay, DJ Seoul, Sinister Dosage |
 | Fri, 30 Oct 2026 | Pre- HALLOWEEN TURN UP | Bruce Bailey, LADYMONIX |
-| Sat, 7 Nov 2026 | TV • Further • Charivari Detroit • UMA |  |
+| Sat, 7 Nov 2026 | TV • Further • Charivari Detroit • UMA | DJ Bone, Waajeed, sillygirlcarmen |
 
 ## Address
 

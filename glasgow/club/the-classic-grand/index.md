@@ -1,14 +1,13 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Carbon Based Lifeforms" on Thu, 1 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "InfeXious x Disfunction: No Escape - Act of Rage, TLØ +more" on Fri, 2 Oct 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Argy(uk) and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Argy(uk) and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Carbon Based Lifeforms | Carbon Based Lifeforms |
 | Fri, 2 Oct 2026 | InfeXious x Disfunction: No Escape - Act of Rage, TLØ +more |  |
 | Fri, 2 Oct 2026 | Darkside vs InfeXious | Act of Rage, D-Fuse, Decibella, JMF, Malevolent, Rob Da Rhythm |
 | Sat, 3 Oct 2026 | INTRA: Andrew Cairns x Shogun | Andrew Cairns |
@@ -18,6 +17,7 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 | Sun, 25 Oct 2026 | MLLM - DJ Competition 2026 |  |
 | Sat, 31 Oct 2026 | Disfunction: Halloween Horrors | OGUZ, Russian Village Boys |
 | Fri, 6 Nov 2026 | PHG Presents: Dyen | DYEN |
+| Fri, 6 Nov 2026 | PHG presents: DYEN | DYEN |
 
 ## Address
 

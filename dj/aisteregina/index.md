@@ -1,14 +1,15 @@
 # Aiste Regina
 
-Aiste Regina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Aiste Regina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
 
-Aiste Regina is a house and techno artist, with 18 gigs on soundcheck across Berlin, London, Lyon and Mexico City and 4 more. Often billed alongside Manfredas, Roe Deers and Rolling Dynamite. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
+Aiste Regina is a house and techno artist, with 19 gigs on soundcheck across Berlin, London, Lyon and Mexico City and 4 more. Often billed alongside Manfredas, Roe Deers and Rolling Dynamite. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
+| Fri, 30 Oct 2026 | LED Unit | Riga |
 
 ## Recently played
 

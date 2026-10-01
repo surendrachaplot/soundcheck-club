@@ -1,14 +1,13 @@
 # Manguito
 
-Manguito is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
+Manguito is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
-Manguito is a house and techno artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside Ksenyeah, Van Der Laan and Alex Weremchuk. Next up: McCarren Park, New York City on Sun 4 Oct.
+Manguito is a house and techno artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside Ksenyeah, Alex Weremchuk and OBA+FLIP. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | McCarren Park | New York City |
 | Sat, 10 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sun, 11 Oct 2026 | Creekside - Under The K Bridge | New York City |
 
@@ -25,6 +24,6 @@ Manguito is a house and techno artist based in United States of America, with 20
 
 ## Shares bills with
 
-Ksenyeah, Van Der Laan, Alex Weremchuk
+Ksenyeah, Alex Weremchuk, OBA+FLIP
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manguito/)*

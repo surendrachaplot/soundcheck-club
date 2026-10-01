@@ -2,7 +2,7 @@
 
 Tears Of Eros is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elysium, Austin on Thu, 1 Oct 2026.
 
-Tears Of Eros is a techno and industrial artist, with 14 gigs on soundcheck across Austin. Often billed alongside JT Whitfield, AMANDA KOONTZ and Authentically Plastic. Next up: Elysium, Austin on Thu 1 Oct.
+Tears Of Eros is a techno and industrial artist based in United States of America, with 14 gigs on soundcheck across Austin. Often billed alongside JT Whitfield, AMANDA KOONTZ and Authentically Plastic. Next up: Elysium, Austin on Thu 1 Oct.
 
 ## Upcoming shows
 

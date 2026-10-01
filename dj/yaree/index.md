@@ -1,14 +1,13 @@
 # YAREE
 
-YAREE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nyapi, Seoul on Thu, 1 Oct 2026.
+YAREE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Faust, Seoul on Sun, 4 Oct 2026.
 
-YAREE is a house and tech house artist based in South Korea, with 29 gigs on soundcheck across Seoul and Taipei. Often billed alongside Uni, July and NUSNOOM. Next up: Nyapi, Seoul on Thu 1 Oct.
+YAREE is a house and tech house artist based in South Korea, with 29 gigs on soundcheck across Seoul and Taipei. Often billed alongside Uni, July and NUSNOOM. Next up: Faust, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Nyapi | Seoul |
 | Sun, 4 Oct 2026 | Faust | Seoul |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden" on Fri, 2 Oct 2026.
+The Villa is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden" on Fri, 2 Oct 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-ups including Daichi Wada, Erik M., Espen Iden and Eurohead and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-ups including Daichi Wada, Erik M., Espen Iden and Eurohead and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
@@ -16,6 +16,7 @@ The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with l
 | Sat, 17 Oct 2026 | Hypnokratiet with Legowelt (NL / Live), Dunk (Live)  | Legowelt |
 | Fri, 23 Oct 2026 | Marius Bø (Ute.Rec) - All night | Marius Bø |
 | Fri, 13 Nov 2026 | Mark Ernestus (DE / Basic Channel) - 3 Hours | Mark Ernestus |
+| Fri, 12 Feb 2027 | Kollektiv Turmstrasse (DE / Live) / The Villa | Kollektiv Turmstrasse |
 
 ## Address
 

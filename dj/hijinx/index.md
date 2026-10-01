@@ -1,14 +1,15 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+HIJINX is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-HIJINX is a dubstep and bass artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Bristol, Chicago and Leeds and 7 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+HIJINX is a dubstep and bass artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Bristol, Chicago and Leeds and 8 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Prospect Building | Bristol |
+| Thu, 5 Nov 2026 | Soundwell | Salt-lake-city |
 | Thu, 12 Nov 2026 | Chop Shop & 1st Ward | Chicago |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # MiTSUYAS
 
-MiTSUYAS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Osaka, Osaka on Thu, 1 Oct 2026.
+MiTSUYAS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Compufunk Records, Osaka on Sat, 24 Oct 2026.
 
-MiTSUYAS is a techno and house artist based in Japan, with 56 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Shingo, AKNL and Atsuki. Next up: Circus Osaka, Osaka on Thu 1 Oct.
+MiTSUYAS is a techno and house artist based in Japan, with 56 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Shingo, AKNL and Atsuki. Next up: Compufunk Records, Osaka on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 24 Oct 2026 | Compufunk Records | Osaka |
 
 ## Recently played

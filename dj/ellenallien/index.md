@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Elastica, Vilnius on Fri, 2 Oct 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Elastica, Vilnius on Fri, 2 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Elastica, Vilnius on Fri 2 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Elastica, Vilnius on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ellen Allien is a techno and house artist based in Germany, with 258 gigs on sou
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Elastica | Vilnius |
 | Sat, 3 Oct 2026 | REC Napoli | Naples |
+| Wed, 7 Oct 2026 | Le Cargö | West |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | SMUT Athens | Athens |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |

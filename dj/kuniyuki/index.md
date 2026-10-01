@@ -1,8 +1,8 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+Kuniyuki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
-Kuniyuki is a house and techno artist based in Japan, with 70 gigs on soundcheck across Amsterdam, Bali, Denver and Hong Kong and 16 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
+Kuniyuki is a house and techno artist based in Japan, with 71 gigs on soundcheck across Amsterdam, Bali, Denver and Hong Kong and 17 more. Often billed alongside Toshiya Kawasaki, KZA and Christian AB. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kuniyuki is a house and techno artist based in Japan, with 70 gigs on soundcheck
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Mon, 12 Oct 2026 | Toki No Hiroba Plaza | Osaka |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 14 Nov 2026 | The Castle | Kansai |
 
 ## Recently played
 

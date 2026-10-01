@@ -1,8 +1,8 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
+Serafina is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
 
-Serafina is a techno and trance artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Schrotty, Cologne on Fri 9 Oct.
+Serafina is a techno and trance artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 47 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Schrotty, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Serafina is a techno and trance artist based in Germany, with 169 gigs on soundc
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 31 Oct 2026 | Afrobar | Sicily |
 | Fri, 6 Nov 2026 | Tunnel Club | Pereira |
+| Fri, 13 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | TBA - Warehouse | Toronto |
 | Sat, 5 Dec 2026 | TBA - BROOKLYN NY | New York City |
-| Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
+Cristobal Pesce is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
 
-Cristobal Pesce is a techno and trance artist based in Chile, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Clara Cuvé, 999999999 and Indira Paganotto. Next up: TBA - Brooklyn, New York City on Fri 9 Oct.
+Cristobal Pesce is a techno and trance artist based in Chile, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Clara Cuvé, 999999999 and Indira Paganotto. Next up: TBA - Brooklyn, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cristobal Pesce is a techno and trance artist based in Chile, with 73 gigs on so
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 17 Oct 2026 | TBA | Vancouver |
+| Sat, 24 Oct 2026 | Selva Club | East |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | 74 Hall | Istanbul |
 | Sat, 7 Nov 2026 | Smolna | Warsaw |

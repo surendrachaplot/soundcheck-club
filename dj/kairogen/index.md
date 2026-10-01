@@ -1,8 +1,8 @@
 # Kairogen
 
-Kairogen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
+Kairogen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
 
-Kairogen is a techno and house artist based in United Kingdom, with 104 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: McChuills Music Bar, Glasgow on Fri 9 Oct.
+Kairogen is a techno and house artist based in United Kingdom, with 105 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: McChuills Music Bar, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kairogen is a techno and house artist based in United Kingdom, with 104 gigs on 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | McChuills Music Bar | Glasgow |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
+| Sat, 31 Oct 2026 | The Locale | Glasgow |
 
 ## Recently played
 

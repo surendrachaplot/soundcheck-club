@@ -1,14 +1,15 @@
 # Kino Carey
 
-Kino Carey is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Fri, 9 Oct 2026.
+Kino Carey is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Fri, 9 Oct 2026.
 
-Kino Carey is a tech house and afro house artist based in Canada, with 9 gigs on soundcheck across Tokyo. Often billed alongside You Liang, JEEN SEIGO and O.Goo. Next up: HVEN, Tokyo on Fri 9 Oct.
+Kino Carey is a tech house and techno artist based in Canada, with 10 gigs on soundcheck across Tokyo. Often billed alongside You Liang, JEEN SEIGO and K4BUKI. Next up: HVEN, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | HVEN | Tokyo |
+| Sun, 18 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kino Carey is a tech house and afro house artist based in Canada, with 9 gigs on
 
 ## Shares bills with
 
-You Liang, JEEN SEIGO, O.Goo
+You Liang, JEEN SEIGO, K4BUKI
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinocarey/)*

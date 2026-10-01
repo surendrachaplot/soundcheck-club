@@ -1,15 +1,17 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
+bradeazy is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Magnet House, Perth on Fri, 2 Oct 2026.
 
-bradeazy is a tech house and house artist based in United States of America, with 35 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 17 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
+bradeazy is a tech house and house artist based in United States of America, with 37 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 19 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Magnet House, Perth on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Magnet House | Perth |
 | Sat, 3 Oct 2026 | Chinese Laundry | Sydney |
 | Fri, 16 Oct 2026 | Night We Met | Nashville |
+| Sat, 17 Oct 2026 | TBA - CTRL Room | Dallas-fort-worth |
 | Fri, 30 Oct 2026 | Le Poisson Rouge | New York City |
 | Fri, 30 Oct 2026 | New Orleans, LA, Mardi Gras World | New-orleans |
 | Fri, 11 Dec 2026 | BERHTA | Washington DC |

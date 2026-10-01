@@ -1,8 +1,8 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN" on Thu, 1 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN" on Thu, 1 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
@@ -12,11 +12,12 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upco
 | Fri, 2 Oct 2026 | TIME2CLUB – YoungWoman CLUB VOL. 1 | Helmond Lang, YoungWoman, Zohar, prekeris |
 | Sat, 3 Oct 2026 | PAESAGGI RECORDS AUTUNNO MINITOUR #2 | Gropina, Stefhanja, Wutu |
 | Sun, 4 Oct 2026 | SOIL TRAX SUNDAYS | Charlton, Gabalyn, JELLY |
+| Wed, 7 Oct 2026 | CHESS NIGHT W/ E4 |  |
 | Thu, 8 Oct 2026 | HIDDEN BEHIND X TITNS VOL. 24 |  |
 | Fri, 9 Oct 2026 | TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] | Helmond Lang, Rick Baguette |
 | Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
-| Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
-| Sat, 21 Nov 2026 | ITALORATOR | Italo Brutalo, Marsman, Rimini Express |
+| Thu, 15 Oct 2026 | HIGHSCORE |  |
+| Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli |
 
 ## Address
 

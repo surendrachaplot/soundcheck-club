@@ -1,13 +1,14 @@
 # frederic (2)
 
-frederic (2) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+frederic (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Vista, Mexico City on Fri, 2 Oct 2026.
 
-frederic is a techno and deep house artist, with 6 gigs on soundcheck across Amsterdam and Ghent. Often billed alongside Hame, Hafa and Méni. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
+frederic is a house and techno artist, with 7 gigs on soundcheck across Amsterdam, Ghent and Mexico City. Often billed alongside Hame, Hafa and Méni. Next up: La Vista, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | La Vista | Mexico City |
 | Fri, 23 Oct 2026 | Borisov Amsterdam | Amsterdam |
 
 ## Recently played

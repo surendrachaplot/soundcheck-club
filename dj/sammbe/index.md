@@ -1,8 +1,8 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lula Club, Madrid on Fri, 2 Oct 2026.
+Samm (BE) is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lula Club, Madrid on Fri, 2 Oct 2026.
 
-Samm (BE) is a house and afro house artist based in Belgium, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Lula Club, Madrid on Fri 2 Oct.
+Samm (BE) is a house and afro house artist based in Belgium, with 61 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Lula Club, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Samm (BE) is a house and afro house artist based in Belgium, with 60 gigs on sou
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Lula Club | Madrid |
 | Sat, 3 Oct 2026 | BORIS CLUB | Barcelona |
+| Fri, 16 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played

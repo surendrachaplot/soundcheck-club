@@ -1,13 +1,15 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 3 Oct 2026.
+Autumns is a Industrial and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club K, Galway on Fri, 2 Oct 2026.
 
-Autumns is an industrial and techno artist based in Ireland, with 34 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 11 more. Often billed alongside Kahn, Batu and CCL. Next up: EXIT Glasgow, Glasgow on Sat 3 Oct.
+Autumns is an industrial and techno artist based in Ireland, with 36 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 12 more. Often billed alongside Kahn, Batu and CCL. Next up: TBA - Club K, Galway on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Club K | Galway |
+| Fri, 2 Oct 2026 | TBA - Galway City | Galway |
 | Sat, 3 Oct 2026 | EXIT Glasgow | Glasgow |
 | Sat, 17 Oct 2026 | Kapsule | Liverpool |
 | Sat, 21 Nov 2026 | The Workmans Club | Dublin |

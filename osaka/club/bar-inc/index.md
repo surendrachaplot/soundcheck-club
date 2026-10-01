@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 30 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WEEKDAY ORDERS" on Thu, 1 Oct 2026.
+BAR Inc is a music venue in Osaka with 29 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WEEKEND SELECTERS" on Fri, 2 Oct 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 30 upcoming gigs, with line-ups including AOKI takamasa, Benedek, cazbow and CHIDA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 29 upcoming gigs, with line-ups including AOKI takamasa, Benedek, cazbow and CHIDA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | WEEKDAY ORDERS | Labyrinthine |
 | Fri, 2 Oct 2026 | WEEKEND SELECTERS | Jyn (1), NTsKi, TAKENOKO, Taigen Kawabe, cazbow |
 | Sat, 3 Oct 2026 | WEEKEND SELECTERS | CHIDA, DJ KAZUMA, Geju |
 | Sun, 4 Oct 2026 | HOLIDAY ORDERS | Deejay Energy |
@@ -18,6 +17,7 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 30 upcoming gigs, with l
 | Sat, 10 Oct 2026 | WEEKEND SELECTERS | DJ Compufunk, LADYMONIX, Waajeed |
 | Sun, 11 Oct 2026 | HOLIDAY ORDERS | Masaki Tamura |
 | Mon, 12 Oct 2026 | HOLIDAY ORDERS |  |
+| Wed, 14 Oct 2026 | WEEKDAY ORDERS | Jeremy Cheung, Marco Yanes |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Arp Frique
 
-Arp Frique is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
+Arp Frique is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
-Arp Frique is a disco and funk / soul artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 5 more. Often billed alongside Antal, Ays (NL) and Bryte. Next up: Lofi, Amsterdam on Sat 24 Oct.
+Arp Frique is a disco and funk / soul artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Antal, Ays (NL) and Bryte. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
+| Fri, 23 Apr 2027 | Truman Brewery Multiple Venues | London |
 
 ## Recently played
 

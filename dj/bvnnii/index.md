@@ -2,7 +2,7 @@
 
 BVNNII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at John Doe, Amsterdam on Wed, 7 Oct 2026.
 
-BVNNII is a techno and trance artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin and Paris. Often billed alongside MIESØ, JØYCE and ADRIELY. Next up: John Doe, Amsterdam on Wed 7 Oct.
+BVNNII is a techno and trance artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin and Paris. Often billed alongside MIESØ, JØYCE and LEX LEDU. Next up: John Doe, Amsterdam on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ BVNNII is a techno and trance artist based in Netherlands, with 18 gigs on sound
 
 ## Shares bills with
 
-MIESØ, JØYCE, ADRIELY
+MIESØ, JØYCE, LEX LEDU
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bvnnii/)*

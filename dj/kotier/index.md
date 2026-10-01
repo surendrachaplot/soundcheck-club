@@ -1,8 +1,8 @@
 # Kotiēr
 
-Kotiēr is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
+Kotiēr is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
 
-Kotiēr is a progressive house and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 5 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: fabric, London on Sat 10 Oct.
+Kotiēr is a progressive house and house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 6 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: fabric, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kotiēr is a progressive house and house artist based in United States of Americ
 | Sat, 10 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 24 Oct 2026 | Chicago Social Club | Amsterdam |
+| Fri, 8 Jan 2027 | Zamna Tulum | Tulum |
 
 ## Recently played
 

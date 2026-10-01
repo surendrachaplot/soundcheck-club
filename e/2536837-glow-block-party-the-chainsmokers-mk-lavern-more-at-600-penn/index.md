@@ -1,10 +1,10 @@
 # GLOW Block Party: The Chainsmokers, MK, LAVERN + more at 600 Pennsylvania Ave NW
 
-GLOW Block Party: The Chainsmokers, MK, LAVERN + more at 600 Pennsylvania Ave NW on Sat 17 Oct, Washington DC. 4 artists: DOUG, LAVERN, Marc Kinchen and The Chainsmokers. House. See the line-up on soundcheck.
+GLOW Block Party: The Chainsmokers, MK, LAVERN + more at 600 Pennsylvania Ave NW on Sat 24 Oct, Washington DC. 4 artists: DOUG, LAVERN, Marc Kinchen and The Chainsmokers. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Sat, 24 Oct 2026 |
 | Venue | 600 Pennsylvania Ave NW |
 | City | Washington DC |
 

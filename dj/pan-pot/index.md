@@ -1,8 +1,8 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
+Pan-Pot is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
 
-Pan-Pot is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 59 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
+Pan-Pot is a techno and house artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 59 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Pan-Pot is a techno and house artist based in Germany, with 183 gigs on soundche
 | Sat, 14 Nov 2026 | Entrepotgebouw | Netherlands |
 | Fri, 20 Nov 2026 | Smolna | Warsaw |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
+| Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 

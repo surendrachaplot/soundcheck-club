@@ -1,13 +1,14 @@
 # Claudia Kane
 
-Claudia Kane is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+Claudia Kane is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klub K4, Ljubljana on Fri, 16 Oct 2026.
 
-Claudia Kane is an ebm and techno artist based in United Kingdom, with 24 gigs on soundcheck across Berlin and London. Often billed alongside Ricardo Castro, Arrosa and JON KRIEGER. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
+Claudia Kane is an ebm and techno artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Ljubljana and London. Often billed alongside Ricardo Castro, Arrosa and METALLIC LOVER. Next up: Klub K4, Ljubljana on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Klub K4 | Ljubljana |
 | Sat, 31 Oct 2026 | Festsaal Kreuzberg | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Claudia Kane is an ebm and techno artist based in United Kingdom, with 24 gigs o
 
 ## Shares bills with
 
-Ricardo Castro, Arrosa, JON KRIEGER
+Ricardo Castro, Arrosa, METALLIC LOVER
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*

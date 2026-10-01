@@ -9,7 +9,7 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Beaverworks presents KURUPT FM - Fri 2nd Oct |  |
-| Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Blackeye MC, Chad Dubz, Commodo, Decibella, Double O, Formella, Goth-Trad, Iration Steppas, Ital Power, Jack Sparrow, Kid Lib, LOTU (UK), Lotus Phaze, MYNA, Mantra, Nio-B, Pinch, Pixl, SGT Pokes, Silkie, Tim Reaper |
+| Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Blackeye MC, Chad Dubz, Commodo, Double O, Formella, Goth-Trad, Iration Steppas, Ital Power, Jack Sparrow, Kid Lib, LOTU (UK), Lotus Phaze, MYNA, Mantra, Nio-B, Pinch, Pixl, SGT Pokes, Silkie, Tim Reaper |
 | Sat, 10 Oct 2026 | Born on Road - Leeds | Kelvin 373 |
 | Fri, 16 Oct 2026 | Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More | Bakey, ESC (5), Fonzo (UK), Manga Saint Hilare, Milzy, Napes, Samurai Breaks, Shirley Temper |
 | Fri, 30 Oct 2026 | Cirque Du Soul: Leeds // Halloween | Badger (UK), IsGwan |

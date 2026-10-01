@@ -1,13 +1,14 @@
 # GAOLAO
 
-GAOLAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Temp., Bangkok on Sat, 17 Oct 2026.
+GAOLAO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 12 x 12, Bangkok on Sat, 10 Oct 2026.
 
-GAOLAO is a house and techno artist, with 38 gigs on soundcheck across Bangkok. Often billed alongside Gishiyama, Mizuyo and NK Chan. Next up: Bar Temp., Bangkok on Sat 17 Oct.
+GAOLAO is a house and techno artist, with 39 gigs on soundcheck across Bangkok. Often billed alongside Gishiyama, Mizuyo and NK Chan. Next up: 12 x 12, Bangkok on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | 12 x 12 | Bangkok |
 | Sat, 17 Oct 2026 | Bar Temp. | Bangkok |
 
 ## Recently played

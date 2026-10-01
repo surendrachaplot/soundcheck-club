@@ -2,7 +2,7 @@
 
 Vinz Sosa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 9 Oct 2026.
 
-Vinz Sosa is a house and techno artist, with 36 gigs on soundcheck across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Minimüzikhol, Istanbul on Fri 9 Oct.
+Vinz Sosa is a house and techno artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Minimüzikhol, Istanbul on Fri 9 Oct.
 
 ## Upcoming shows
 

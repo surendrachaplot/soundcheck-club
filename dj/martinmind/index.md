@@ -1,14 +1,15 @@
 # Martin Mind
 
-Martin Mind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Martin Mind is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Martin Mind is a techno and tech house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Istanbul and Munich and 3 more. Often billed alongside Black Box, Unseen. and Human Rias. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Martin Mind is a techno and tech house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Istanbul and 4 more. Often billed alongside Black Box, Unseen. and Human Rias. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Sat, 7 Nov 2026 | Alte Pakethalle | Bavaria |
 
 ## Recently played
 

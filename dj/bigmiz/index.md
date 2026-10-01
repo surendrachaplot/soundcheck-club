@@ -1,14 +1,16 @@
 # Big Miz
 
-Big Miz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Dundee on Fri, 9 Oct 2026.
+Big Miz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Harbourworks, Aberdeen on Sat, 3 Oct 2026.
 
-Big Miz is a house and techno artist based in United Kingdom, with 72 gigs on soundcheck across Aberdeen, Barcelona, Bristol and Dundee and 13 more. Often billed alongside Bessa, Hayley Zalassi and Ben Hemsley. Next up: TBA, Dundee on Fri 9 Oct.
+Big Miz is a house and techno artist based in United Kingdom, with 74 gigs on soundcheck across Aberdeen, Barcelona, Bristol and Dundee and 13 more. Often billed alongside Bessa, Hayley Zalassi and Babyccino. Next up: Harbourworks, Aberdeen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Harbourworks | Aberdeen |
 | Fri, 9 Oct 2026 | TBA | Dundee |
+| Sat, 31 Oct 2026 | The Locale | Glasgow |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Big Miz is a house and techno artist based in United Kingdom, with 72 gigs on so
 
 ## Shares bills with
 
-Bessa, Hayley Zalassi, Ben Hemsley
+Bessa, Hayley Zalassi, Babyccino
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*

@@ -1,13 +1,14 @@
 # Powder
 
-Powder is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ticcle, Hobart on Fri, 13 Nov 2026.
+Powder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
 
-Powder is a house and techno artist based in Japan, with 64 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 23 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Ticcle, Hobart on Fri 13 Nov.
+Powder is a house and techno artist based in Japan, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 24 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Yebisu Ya Pro | Chugoku |
 | Fri, 13 Nov 2026 | Ticcle | Hobart |
 
 ## Recently played

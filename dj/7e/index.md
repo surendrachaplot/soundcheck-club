@@ -1,14 +1,13 @@
 # 7e
 
-7e is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Thu, 1 Oct 2026.
+7e is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azumaya, Tokyo on Sun, 11 Oct 2026.
 
-7e is a techno and house artist based in Japan, with 174 gigs on soundcheck across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Bonobo, Tokyo on Thu 1 Oct.
+7e is a techno and house artist based in Japan, with 174 gigs on soundcheck across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Azumaya, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Bonobo | Tokyo |
 | Sun, 11 Oct 2026 | Azumaya | Tokyo |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dragon I, Hong Kong on Fri, 2 Oct 2026.
+Ouissam is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dragon I, Hong Kong on Fri, 2 Oct 2026.
 
-Ouissam is a house and techno artist based in France, with 65 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Dragon I, Hong Kong on Fri 2 Oct.
+Ouissam is a house and techno artist based in France, with 66 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Dragon I, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ouissam is a house and techno artist based in France, with 65 gigs on soundcheck
 | Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Fri, 16 Oct 2026 | RASA | Singapore |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
+| Sat, 14 Nov 2026 | Horn | Bangkok |
 
 ## Recently played
 

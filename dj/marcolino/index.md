@@ -2,7 +2,7 @@
 
 Marcolino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Thu, 1 Oct 2026.
 
-Marcolino is a techno and electro artist, with 87 gigs on soundcheck across Barcelona, Berlin, Bucharest and Madrid and 7 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
+Marcolino is a techno and electro artist based in Italy, with 87 gigs on soundcheck across Barcelona, Berlin, Bucharest and Madrid and 7 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: Hotel Butterfly, Rome on Thu 1 Oct.
 
 ## Upcoming shows
 

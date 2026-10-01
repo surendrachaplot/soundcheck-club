@@ -1,8 +1,8 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
+Ruby Savage is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
 
-Ruby Savage is a house and disco artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Shy One, Dee Diggs and Mendel. Next up: The Glove That Fits, London on Sat 3 Oct.
+Ruby Savage is a house and disco artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: The Glove That Fits, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ruby Savage is a house and disco artist based in Netherlands, with 100 gigs on s
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Glove That Fits | London |
 | Sat, 7 Nov 2026 | 24 Kitchen Street Green Room | Liverpool |
+| Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Ruby Savage is a house and disco artist based in Netherlands, with 100 gigs on s
 
 ## Shares bills with
 
-Shy One, Dee Diggs, Mendel
+Shy One, Mendel, Dee Diggs
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

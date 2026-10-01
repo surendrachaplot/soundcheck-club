@@ -1,8 +1,8 @@
 # Funkerman
 
-Funkerman is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mezz, Netherlands on Sat, 7 Nov 2026.
+Funkerman is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mezz, Netherlands on Sat, 7 Nov 2026.
 
-Funkerman is a house and techno artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside Erick E, ROOG and Alexander Koning. Next up: Mezz, Netherlands on Sat 7 Nov.
+Funkerman is a house and techno artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside Erick E, ROOG and Alexander Koning. Next up: Mezz, Netherlands on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Funkerman is a house and techno artist based in Netherlands, with 25 gigs on sou
 | Sat, 7 Nov 2026 | Mezz | Netherlands |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
+| Sat, 19 Dec 2026 | Patronaat | Netherlands |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 
 ## Recently played

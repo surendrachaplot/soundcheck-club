@@ -1,14 +1,15 @@
 # LOKA (US)
 
-LOKA (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 3 Oct 2026.
+LOKA (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 3 Oct 2026.
 
-LOKA (US) is a techno and club artist based in United States of America, with 87 gigs on soundcheck across Berlin, Boston, Chicago and London and 6 more. Often billed alongside MORENXXX, Sevyn Love and Shyboi. Next up: Paragon, New York City on Sat 3 Oct.
+LOKA (US) is a techno and club artist based in United States of America, with 88 gigs on soundcheck across Berlin, Boston, Chicago and London and 6 more. Often billed alongside MORENXXX, Sevyn Love and Via App. Next up: Paragon, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Paragon | New York City |
+| Sat, 10 Oct 2026 | XTC Bushwick | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LOKA (US) is a techno and club artist based in United States of America, with 87
 
 ## Shares bills with
 
-MORENXXX, Sevyn Love, Shyboi
+MORENXXX, Sevyn Love, Via App
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*

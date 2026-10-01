@@ -1,13 +1,14 @@
 # Fennesz
 
-Fennesz is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cisternerne, Copenhagen on Fri, 9 Oct 2026.
+Fennesz is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
 
-Fennesz is an experimental and electronica artist based in Austria, with 15 gigs on soundcheck across Barcelona, Berlin, Brighton and Brussels and 6 more. Often billed alongside Lillevan, Ah! Kosmos and Debit. Next up: Cisternerne, Copenhagen on Fri 9 Oct.
+Fennesz is an experimental and electronica artist based in Austria, with 16 gigs on soundcheck across Barcelona, Berlin, Brighton and Brussels and 7 more. Often billed alongside Lillevan, Ah! Kosmos and Debit. Next up: Goko Farm Auto Campground, Chubu on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Goko Farm Auto Campground | Chubu |
 | Fri, 9 Oct 2026 | Cisternerne | Copenhagen |
 | Thu, 22 Oct 2026 | Theatro Circo | Portugal |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |

@@ -1,14 +1,13 @@
 # Nari (2)
 
-Nari (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mitsuki, Tokyo on Thu, 1 Oct 2026.
+Nari (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
-Nari is a house and techno artist based in Japan, with 117 gigs on soundcheck across Amsterdam, Kyoto, New York City and Osaka and 2 more. Often billed alongside KOTSU, DNG and V_R_A_P. Next up: Mitsuki, Tokyo on Thu 1 Oct.
+Nari is a house and techno artist based in Japan, with 117 gigs on soundcheck across Amsterdam, Kyoto, New York City and Osaka and 2 more. Often billed alongside KOTSU, DNG and V_R_A_P. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Mitsuki | Tokyo |
 | Fri, 16 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 24 Oct 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 30 Oct 2026 | Z Maruyama | Tokyo |

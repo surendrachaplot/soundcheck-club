@@ -1,14 +1,13 @@
 # Nixtrove
 
-Nixtrove is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
+Nixtrove is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
 
-Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on soundcheck across Brussels, Los Angeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
+Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on soundcheck across Brussels, Los Angeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: SB – Space Between, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | RAUM RESONANZ KÖRPER (RRK) | Munich |
 | Fri, 2 Oct 2026 | SB – Space Between | Nürnberg |
 
 ## Recently played

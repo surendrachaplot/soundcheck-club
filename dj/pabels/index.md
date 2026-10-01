@@ -1,8 +1,8 @@
 # Pabels
 
-Pabels is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
+Pabels is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
 
-Pabels is a house and disco artist based in Argentina, with 71 gigs on soundcheck across Barcelona, Berlin, Budapest and Buenos Aires and 15 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Deseo BS AS, Buenos Aires on Fri 30 Oct.
+Pabels is a house and disco artist based in Argentina, with 72 gigs on soundcheck across Barcelona, Berlin, Brazil and Budapest and 16 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Deseo BS AS, Buenos Aires on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pabels is a house and disco artist based in Argentina, with 71 gigs on soundchec
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
+| Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
 

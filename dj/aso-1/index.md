@@ -1,14 +1,13 @@
 # aso (1)
 
-aso (1) is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nué Seoul, Seoul on Thu, 1 Oct 2026.
+aso (1) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Edge Seoul, Seoul on Fri, 2 Oct 2026.
 
-aso is a techno and ambient artist based in South Korea, with 21 gigs on soundcheck across Seoul. Often billed alongside Isoz, J.U.N.E and Minseok Kim. Next up: Nué Seoul, Seoul on Thu 1 Oct.
+aso is a techno and ambient artist based in South Korea, with 21 gigs on soundcheck across Seoul. Often billed alongside Isoz, J.U.N.E and Minseok Kim. Next up: The Edge Seoul, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Nué Seoul | Seoul |
 | Fri, 2 Oct 2026 | The Edge Seoul | Seoul |
 | Thu, 29 Oct 2026 | Nyapi | Seoul |
 

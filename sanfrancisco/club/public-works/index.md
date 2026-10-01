@@ -17,7 +17,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 23 
 | Sat, 17 Oct 2026 | PW 16-Year Anniversary Night Two: QUEEN OUT x  |  |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |
-| Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DIALS, Great Dane, Ivy Lab |
+| Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DJ Dials, Great Dane, Ivy Lab |
 
 ## Address
 

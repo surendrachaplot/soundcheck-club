@@ -2,7 +2,7 @@
 
 Nightmares on Wax is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Nightmares on Wax is a house and electronica artist, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Onassis Ready, Athens on Fri 9 Oct.
+Nightmares on Wax is a house and electronica artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 

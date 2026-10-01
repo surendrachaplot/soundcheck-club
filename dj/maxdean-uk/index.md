@@ -1,8 +1,8 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Max Dean is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Max Dean is a house and tech house artist based in United Kingdom, with 234 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Max Dean is a house and tech house artist based in United Kingdom, with 233 gigs
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sat, 2 Jan 2027 | The Concourse Project | Austin |
 

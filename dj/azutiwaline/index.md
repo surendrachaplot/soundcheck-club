@@ -1,8 +1,8 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+Azu Tiwaline is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
-Azu Tiwaline is a techno and bass artist based in France, with 104 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 37 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: Theatro Circo, Portugal on Thu 22 Oct.
+Azu Tiwaline is a techno and bass artist based in France, with 105 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 38 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Azu Tiwaline is a techno and bass artist based in France, with 104 gigs on sound
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
 | Fri, 13 Nov 2026 | VENT | Tokyo |
+| Sat, 14 Nov 2026 | The Castle | Kansai |
 
 ## Recently played
 

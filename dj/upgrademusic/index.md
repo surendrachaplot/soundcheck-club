@@ -2,7 +2,7 @@
 
 Upgrade Music is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
-Upgrade Music is a drum & bass and bass artist, with 12 gigs on soundcheck across Antwerp, Bristol, Copenhagen and Geneva and 3 more. Often billed alongside Sub Zero, Eksman and Anaïs. Next up: Sawmills, Bristol on Thu 31 Dec.
+Upgrade Music is a drum & bass and bass artist based in United Kingdom, with 12 gigs on soundcheck across Antwerp, Bristol, Copenhagen and Geneva and 3 more. Often billed alongside Sub Zero, Eksman and Anaïs. Next up: Sawmills, Bristol on Thu 31 Dec.
 
 ## Upcoming shows
 

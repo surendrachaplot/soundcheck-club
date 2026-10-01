@@ -13,7 +13,7 @@ Night We Met is a music venue in Nashville listed on soundcheck. 17 upcoming gig
 | Sat, 3 Oct 2026 | HILLS |  |
 | Fri, 9 Oct 2026 | Distant Matter |  |
 | Sat, 10 Oct 2026 | Dreya V |  |
-| Fri, 16 Oct 2026 | bradeazy | bradeazy |
+| Fri, 16 Oct 2026 | bradeazy | Will Sass, bradeazy |
 | Sat, 17 Oct 2026 | J. Worra | J. Worra, Jane Dupree |
 | Fri, 23 Oct 2026 | Linska | Linska |
 | Thu, 29 Oct 2026 | MPH – NASHVILLE, FOREVER | MPH (1) |

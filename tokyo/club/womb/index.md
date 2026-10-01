@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WTW -秋場所- (TECH HOUSE)" on Thu, 1 Oct 2026.
+WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WOMB PRESENTS OCCA B2B DJ MARIA. -ALL NIGHT LONG- (TECHNO)" on Fri, 2 Oct 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including AHREUM, Akie, Akua and ASIN and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -8,7 +8,6 @@ WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | WTW -秋場所- (TECH HOUSE) | B (379), Daitto, EIGHT, IRODORI, Onsawa&tkc |
 | Fri, 2 Oct 2026 | WOMB PRESENTS OCCA B2B DJ MARIA. -ALL NIGHT LONG- (TECHNO) | DJ MARIA., Hi-C, Midnight Traffic, Mustache X, OCCA, levolant |
 | Sat, 3 Oct 2026 | J × BEYOND (TECHNO/HOUSE) | DJ Shibata, Daniel Bell, Nehan, discopants |
 | Wed, 7 Oct 2026 | WTW (TECHNO) | JURI HOSHINO, Monochrome |
@@ -18,6 +17,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line
 | Sun, 11 Oct 2026 | SOLSTICE MUSIC PRESENTS: SPACE TRIBE TRIBUTE (TRANCE) |  |
 | Wed, 14 Oct 2026 | WTW | Connor Wall, DANA NADA, Shinsuke Goto |
 | Fri, 16 Oct 2026 | DEEP DIVE DRIVE | DJ SO, Delta Funktionen, Full Sentimental, John Plaza, LØST, Peter Van Hoesen, Remi Ohsugi, Yo Nishijima |
+| Fri, 16 Oct 2026 | DEEP DIVE DRIVE | DJ SO, Delta Funktionen, Full Sentimental, John Plaza, LØST, Nico (Le Cirque Sonore), Peter Van Hoesen, Yo Nishijima |
 
 ## Address
 

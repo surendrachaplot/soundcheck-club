@@ -1,8 +1,8 @@
 # Hang The DJs
 
-Hang The DJs is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
+Hang The DJs is a Hardcore and Gabber artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
 
-Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Lobsta B, Stinny Stone and alterum. Next up: Distillery N17, London on Sat 3 Oct.
+Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 4 more. Often billed alongside Lobsta B, Stinny Stone and alterum. Next up: Distillery N17, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hang The DJs is a hardcore and gabber artist based in United Kingdom, with 20 gi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Distillery N17 | London |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 13 Nov 2026 | Old School House | North |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
 
 ## Recently played

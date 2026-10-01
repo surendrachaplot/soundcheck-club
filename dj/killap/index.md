@@ -1,14 +1,15 @@
 # Killa P
 
-Killa P is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 2 Oct 2026.
+Killa P is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 2 Oct 2026.
 
-Killa P is a drum & bass and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 16 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: Club Guesthouse, Bucharest on Fri 2 Oct.
+Killa P is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 17 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: Club Guesthouse, Bucharest on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Club Guesthouse | Bucharest |
+| Sat, 3 Oct 2026 | 100cznia | Gdansk |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | Stereo | Glasgow |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |

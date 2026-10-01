@@ -1,14 +1,15 @@
 # Jumbi
 
-Jumbi is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jumbi Allstars presents: Honey" on Fri, 2 Oct 2026.
+Jumbi is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jumbi Allstars presents: Honey" on Fri, 2 Oct 2026.
 
-Jumbi is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Bianca Oblivion, CasuallyClued, DJ Nigga Fox and DJ Travella and 2 more. See dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
+Jumbi is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Bianca Oblivion, CasuallyClued, DJ Nigga Fox and DJ Travella and 2 more. See dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Jumbi Allstars presents: Honey |  |
+| Sat, 3 Oct 2026 | Jumbi presents: Pacific Coliseum | Pacific Coliseum |
 | Fri, 9 Oct 2026 | Jumbi Friday Dance: Club Aerobics | Bianca Oblivion |
 | Fri, 16 Oct 2026 | Jumbi Friday Dance: Sankoh Sounds x AFL | CasuallyClued, Marvin Jupiter |
 | Sat, 31 Oct 2026 | Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, Plenty Ppl + more | DJ Nigga Fox, DJ Travella, Yemz |

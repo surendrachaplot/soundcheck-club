@@ -1,13 +1,14 @@
 # Quka
 
-Quka is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Magno, Madrid on Thu, 22 Oct 2026.
+Quka is a Electronica and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 10 Oct 2026.
 
-Quka is a hardcore and trance artist based in Spain, with 24 gigs on soundcheck across Brussels and Madrid. Often billed alongside Atrâm, Diego Armando and FUKCNORMAL. Next up: Club Magno, Madrid on Thu 22 Oct.
+Quka is an electronica and hardcore artist based in Spain, with 25 gigs on soundcheck across Brussels and Madrid. Often billed alongside Atrâm, Diego Armando and FUKCNORMAL. Next up: Laboratorio Octogon, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Laboratorio Octogon | Madrid |
 | Thu, 22 Oct 2026 | Club Magno | Madrid |
 
 ## Recently played

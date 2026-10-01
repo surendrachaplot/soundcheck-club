@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 15 upcoming gigs, with line-ups including Adam Rose, Adrian Reyes, Anastasia Giovani and Bart Skils and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including Adam Rose, Adrian Reyes, Anastasia Giovani and Bart Skils and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

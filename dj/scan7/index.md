@@ -1,13 +1,14 @@
 # Scan 7
 
-Scan 7 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Scan 7 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
-Scan 7 is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Berlin, Detroit and Munich and 2 more. Often billed alongside Max Watts, Ash Lauryn and Javonntte. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
+Scan 7 is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Berlin, Detroit and Munich and 2 more. Often billed alongside Max Watts, Ash Lauryn and DJ I.V.. Next up: Periodicals, Detroit on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Periodicals | Detroit |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Scan 7 is a techno and house artist based in United States of America, with 16 g
 
 ## Shares bills with
 
-Max Watts, Ash Lauryn, Javonntte
+Max Watts, Ash Lauryn, DJ I.V.
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scan7/)*

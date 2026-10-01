@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jamback is a House and Tech House artist with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Jamback is a house and tech house artist based in Netherlands, with 199 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Jamback is a house and tech house artist based in Netherlands, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 

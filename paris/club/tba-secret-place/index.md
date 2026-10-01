@@ -1,8 +1,8 @@
-# TBA - Secret Place
+# TBA - SECRET PLACE
 
-TBA - Secret Place is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Platonic x 4am Records - Daytime Showcase" on Sun, 4 Oct 2026.
+TBA - SECRET PLACE is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Platonic x 4am Records - Daytime Showcase" on Sun, 4 Oct 2026.
 
-TBA - Secret Place is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Byche, DJ Bienveillance, oror and Shakolin and 2 more. See dates, start times and who's playing.
+TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Byche, DJ Bienveillance, oror and Shakolin and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

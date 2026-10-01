@@ -1,14 +1,13 @@
 # Buttechno
 
-Buttechno is a Experimental and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 1 Oct 2026.
+Buttechno is a Experimental and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
-Buttechno is an experimental and techno artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Haus der Visionäre, Berlin on Thu 1 Oct.
+Buttechno is an experimental and techno artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Haus der Visionäre | Berlin |
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 | Fri, 9 Oct 2026 | Garage Noord | Amsterdam |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |

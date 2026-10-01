@@ -9,7 +9,7 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Ohm Hourani - Blkvirgo - Massyl | Blkvirgo, Massyl, Ohm Hourani |
-| Fri, 9 Oct 2026 | Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective | Ciel, Hiroki, OK EG |
+| Fri, 9 Oct 2026 | Night IV by Exile: Ciel / Hiroki / Olekhar / wabi | Ciel, Hiroki, Olekhar |
 | Fri, 16 Oct 2026 | forever night 4....feat. Mutualism, stiff dance, bip b2b GRRLCRRSH, zola, dj miss, Critter  | Aji (2), B I P, Critter, GRRLCRRSH, Mutualism, Stiffdance, Zola (TRM), dj miss |
 | Sat, 17 Oct 2026 | [Redacted]: Gotham ft Naija Couture (NYC) | Blkvirgo, KERUB, Naija Couture, moodyjooly, widdows95 |
 

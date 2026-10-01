@@ -1,8 +1,8 @@
 # Randali
 
-Randali is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
+Randali is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fundbureau, Hamburg on Fri, 2 Oct 2026.
 
-Randali is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: Fundbureau, Hamburg on Fri 2 Oct.
+Randali is a techno and trance artist based in Germany, with 50 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: Fundbureau, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Randali is a techno and trance artist based in Germany, with 49 gigs on soundche
 | Sat, 10 Oct 2026 | Fundbureau | Hamburg |
 | Sat, 17 Oct 2026 | Turtur | Hamburg |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
+| Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 

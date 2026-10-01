@@ -1,16 +1,18 @@
 # Rich Medina
 
-Rich Medina is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Bain, New York City on Fri, 2 Oct 2026.
+Rich Medina is a House and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Bain, New York City on Fri, 2 Oct 2026.
 
-Rich Medina is a house and hip-hop artist based in United States of America, with 198 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Denver and 19 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: Le Bain, New York City on Fri 2 Oct.
+Rich Medina is a house and hip-hop artist based in United States of America, with 200 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Denver and 21 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: Le Bain, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Le Bain | New York City |
+| Thu, 8 Oct 2026 | Stan's | Queensland |
 | Sat, 10 Oct 2026 | Oxford Art Factory | Sydney |
 | Fri, 16 Oct 2026 | The Night Cat | Melbourne |
+| Sat, 17 Oct 2026 | Si Paradiso | Perth |
 
 ## Recently played
 

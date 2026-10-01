@@ -1,6 +1,6 @@
 # Origins: Locky at Komedia Bath
 
-Origins: Locky at Komedia Bath on Thu 1 Oct, West Wales. 1 artist: Locky. See the line-up on soundcheck.
+Origins: Locky at Komedia Bath on Thu 1 Oct, West Wales. 2 artists: Jomo and Locky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Origins: Locky at Komedia Bath on Thu 1 Oct, West Wales. 1 artist: Locky. See th
 
 ## Line-up
 
+- Jomo
 - Locky
 
 *Source: [soundcheck](https://soundcheck.club/e/2532109-origins-locky-at-komedia-bath/)*

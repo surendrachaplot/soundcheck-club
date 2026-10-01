@@ -9,7 +9,7 @@ Freight Brixton is a music venue in London listed on soundcheck. 10 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Big RnB Quiz | Nana B |
-| Sun, 4 Oct 2026 | ***JUST ADDED*** Jika FRIENDS: GRILLYARD pres. GL_CEEJAY Live in London (DAY PARTY) | Mixolis |
+| Sun, 4 Oct 2026 | Jika FRIENDS: GRILLYARD pres. GL_CEEJAY Live in London (DAY PARTY) | Mixolis |
 | Thu, 15 Oct 2026 | Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA | ELSA (UK) |
 | Sat, 17 Oct 2026 | Brixton Oktoberfest |  |
 | Fri, 23 Oct 2026 | Lost Tape x Broken Soul, Mixed by Che Wax: Kendrick Lamar & Gil Scott Heron | CHÉ WAX |
